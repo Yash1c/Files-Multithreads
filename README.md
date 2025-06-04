@@ -1,48 +1,118 @@
 # 📝 Text File Character Counter
 
-A Java program that counts character occurrences in `.txt` files from a directory using multithreading for optimal performance.
+**Course:** Performance in Cyber-Physical Systems
+**Author:** Guilherme
 
-## � Features
+A Java program that counts character occurrences in `.txt` files from a directory, using **multithreading** for optimized performance.
 
-- **Multithreaded processing** for efficient file reading
-- Character frequency counting (A-Z, case insensitive)
-- Execution time measurement
-- Optimized for both small (100 files) and large (35,000 files) datasets
-- Configurable thread count for optimal performance
+---
+
+## 🚀 Features
+
+* ✅ **Multithreaded processing** for efficient file reading
+* ✅ Character frequency counting (A-Z, case insensitive)
+* ✅ Execution time measurement
+* ✅ Optimized for both small (100 files) and large (35,000 files) datasets
+* ✅ Automatic thread count based on available processors
+
+---
 
 ## 🛠️ Implementation Details
 
-### Core Logic
+### 📂 Core Logic
 
-1. **File Discovery**: Scans directory for all `.txt` files
-2. **Thread Management**:
-   - Divides files evenly among threads
-   - Each thread processes its assigned files
-3. **Character Counting**:
-   - Case-insensitive counting (A-Z)
-   - Efficient character-to-index conversion
-4. **Result Aggregation**:
-   - Combines results from all threads
-   - Displays final character counts
+1. **File Discovery:**
+   Scans the specified directory for `.txt` files.
 
-### Thread Optimization
+2. **Thread Management:**
 
-The program automatically calculates the optimal number of threads based on available processors:
+   * Files are evenly divided into batches.
+   * Each thread processes its assigned batch.
+
+3. **Character Counting:**
+
+   * Converts text to uppercase.
+   * Counts occurrences of characters A-Z, ignoring others.
+
+4. **Result Aggregation:**
+
+   * Merges results from all threads.
+   * Displays final character counts and processing statistics.
+
+---
+
+## ⚙️ Thread Optimization
+
+The number of threads is automatically calculated based on the number of available processors:
+
 ```java
-private static final int NUM_THREADS = Runtime.getRuntime().availableProcessors();
+int numThreads = Runtime.getRuntime().availableProcessors();
 ```
 
-## 📊 Performance Considerations
+You can also manually set the thread count if desired.
 
-- Tested with both sample (100 files) and production (35,000 files) datasets
-- Thread count can be manually adjusted for specific hardware
-- Execution time is displayed for performance benchmarking
+---
 
-## 🏁 Usage
+## 📊 Visual Representation of Processing
 
-1. Place `.txt` files in the specified directory
-2. Run the program
-3. View character counts and execution time in console
+```mermaid
+graph TD
+    A[.txt Files in Directory] --> B{Split into Batches}
+    B --> C1[Thread 1]
+    B --> C2[Thread 2]
+    B --> C3[...]
+    B --> Cn[Thread N]
+    
+    C1 --> D1[Count Characters]
+    C2 --> D2[Count Characters]
+    C3 --> D3[Count Characters]
+    Cn --> Dn[Count Characters]
+
+    D1 --> E[Aggregate Results]
+    D2 --> E
+    D3 --> E
+    Dn --> E
+
+    E --> F[Display Final Counts and Execution Time]
+```
+
+This diagram illustrates how the files are divided among multiple threads, each counting characters in parallel, and finally aggregating the results.
+
+---
+
+## ⏱️ Performance Considerations
+
+* ✅ Tested with both sample (100 files) and production (35,000 files) datasets.
+* ✅ Thread count can be adjusted for specific hardware configurations.
+* ✅ Execution time is displayed for benchmarking purposes.
+
+---
+
+## 🏁 How to Use
+
+1. Place all `.txt` files in a specific directory (e.g., `All/`).
+2. Open a terminal and navigate to the project folder.
+3. Compile the program:
+
+```bash
+javac CharacterCounter.java
+```
+
+4. Run the program:
+
+```bash
+java CharacterCounter
+```
+
+5. View the output in the console:
+
+   * Total number of files processed.
+   * Successfully processed files.
+   * Files with errors (if any).
+   * Character frequency counts.
+   * Total execution time.
+
+---
 
 ## 📦 Code Structure
 
@@ -56,22 +126,59 @@ public class CharacterCounter {
 }
 ```
 
-## ⏱️ Sample Output
+---
+
+## ✅ My Sample Output
 
 ```
-Processing 35000 files with 8 threads...
-Character counts:
-A: 1,234,567
-B: 987,654
-...
-Z: 12,345
-Execution time: 4567 ms
+-------------------------------------------------------
+Current dir: /user/path/project
+-------------------------------------------------------
+Number of .txt files to process: 34055
+Using 12 threads
+
+Processing summary:
+Total files: 34055
+Successfully processed: 34055
+Files with errors: 0
+Time elapsed: 923 ms
+
+Contagem consolidada de letras:
+A: 7584025
+B: 710564
+C: 2248600
+D: 3228111
+E: 6765352
+F: 707274
+G: 808970
+H: 542937
+I: 4239239
+J: 238301
+K: 49950
+L: 1937723
+M: 2473287
+N: 3188020
+O: 6471878
+P: 1897361
+Q: 478992
+R: 4344514
+S: 4499835
+T: 2943839
+U: 2256073
+V: 808644
+W: 39818
+X: 176301
+Y: 45953
+Z: 215838
 ```
+
+---
 
 ## 🔧 Technical Notes
 
-- Case-insensitive counting (A-Z treated the same as a-z)
-- Non-alphabetic characters are ignored
-- Efficient file handling with buffered reading
+* Case-insensitive counting: A-Z treated the same as a-z.
+* Non-alphabetic characters are ignored.
+* Efficient file handling using `java.nio` and buffered reading.
+* Designed for modern multi-core processors for maximum performance.
 
-Optimized for performance on modern multi-core processors.
+---
