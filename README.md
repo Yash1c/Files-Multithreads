@@ -1,7 +1,7 @@
 # 📝 Text File Character Counter
 
-**Course:** Performance in Cyber-Physical Systems
-**Author:** Guilherme
+**Subject:** Performance in Cyber-Physical Systems
+**Author:** Guilherme Montoya (Yashic)
 
 A Java program that counts character occurrences in `.txt` files from a directory, using **multithreading** for optimized performance.
 
@@ -90,21 +90,35 @@ This diagram illustrates how the files are divided among multiple threads, each 
 
 ## 🏁 How to Use
 
-1. Place all `.txt` files in a specific directory (e.g., `All/`).
-2. Open a terminal and navigate to the project folder.
-3. Compile the program:
-
+1. Unzip the folders:
+```
+-------------------------------------------------------
+Current dir: /user/path/project/All
+-------------------------------------------------------
+```
 ```bash
-javac CharacterCounter.java
+unzip sample.zip
+```
+```
+-------------------------------------------------------
+Current dir: /user/path/project/All
+-------------------------------------------------------
+```
+```bash
+unzip all_files.zip
 ```
 
-4. Run the program:
-
+2. Compile the program:
 ```bash
-java CharacterCounter
+javac Main.java
 ```
 
-5. View the output in the console:
+3. Run the program:
+```bash
+java Main
+```
+
+4. View the output in the console:
 
    * Total number of files processed.
    * Successfully processed files.
