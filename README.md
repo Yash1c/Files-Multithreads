@@ -90,41 +90,52 @@ This diagram illustrates how the files are divided among multiple threads, each 
 
 ## 🏁 How to Use
 
-1. Unzip the folders:
-```
--------------------------------------------------------
-Current dir: /user/path/project/All
--------------------------------------------------------
-```
+1. Run the `auto_unzip` shell script:
+
 ```bash
-unzip sample.zip
-```
-```
--------------------------------------------------------
-Current dir: /user/path/project/All
--------------------------------------------------------
-```
-```bash
-unzip all_files.zip
+chmod +x auto_unzip.sh # To grant execution permission
+./auto_unzip.sh # Execute to unzip both folders
 ```
 
 2. Compile the program:
+
 ```bash
 javac Main.java
 ```
 
 3. Run the program:
+
 ```bash
 java Main
 ```
 
-4. View the output in the console:
+4. When the program starts, you will see the following menu:
 
-   * Total number of files processed.
-   * Successfully processed files.
-   * Files with errors (if any).
-   * Character frequency counts.
-   * Total execution time.
+```
+Which folder do you want to process?
+1. All
+2. Sample
+3. Exit
+```
+
+* **Option 1:** processes all `.txt` files inside the **"All"** folder.
+* **Option 2:** processes all `.txt` files inside the **"Sample"** folder.
+* **Option 3:** exits the program.
+
+5. Check the output in the console:
+
+* Total number of files processed
+* Successfully processed files
+* Files with errors (if any)
+* Consolidated character frequency (A-Z)
+* Total execution time in milliseconds
+
+6. If you want to clean all, just:
+
+```bash
+chmod +x clean_txt_files.sh # To grant execution permission
+./clean_txt_files.sh # To clean all .txt files
+``` 
 
 ---
 
@@ -148,42 +159,56 @@ public class CharacterCounter {
 -------------------------------------------------------
 Current dir: /user/path/project
 -------------------------------------------------------
+
+Which directory do you want to process?
+1. All
+2. Sample
+3. Exit
+Enter your choice: 1
+Number of .txt files to process: 100
+Using 12 threads
+
+Processing summary for 'All/amostra':
+Total files: 100
+Successfully processed: 100
+Files with errors: 0
+Time elapsed: 56 ms
+
+Consolidated letter count:
+A: 21246
+B: 2130
+C: 6504
+D: 9155
+E: 19566
+F: 1923
+...
+Y: 62
+Z: 626
+
+Which directory do you want to process?
+1. All
+2. Sample
+3. Exit
+Enter your choice: 2
 Number of .txt files to process: 34055
 Using 12 threads
 
-Processing summary:
+Processing summary for 'Sample':
 Total files: 34055
 Successfully processed: 34055
 Files with errors: 0
-Time elapsed: 923 ms
+Time elapsed: 1183 ms
 
-Contagem consolidada de letras:
+Consolidated letter count:
 A: 7584025
 B: 710564
 C: 2248600
 D: 3228111
 E: 6765352
-F: 707274
-G: 808970
-H: 542937
-I: 4239239
-J: 238301
-K: 49950
-L: 1937723
-M: 2473287
-N: 3188020
-O: 6471878
-P: 1897361
-Q: 478992
-R: 4344514
-S: 4499835
-T: 2943839
-U: 2256073
-V: 808644
-W: 39818
-X: 176301
+...
 Y: 45953
 Z: 215838
+
 ```
 
 ---
