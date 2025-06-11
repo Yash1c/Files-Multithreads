@@ -1,0 +1,26 @@
+Software livre pode custar mais, diz Microsoft 28/4/2005
+Autor: FABIANO MAISONNAVE
+Origem do texto: DE WASHINGTON
+Editoria: DINHEIRO Página: B12
+Edição: São Paulo Apr 28, 2005
+Observações: COM SUB-RETRANCA; ENTREVISTA
+Vinheta/Chapéu: INFORMÁTICA
+Assuntos Principais: INFORMÁTICA; GOVERNO LULA; DIREITO AUTORAL; SOFTWARE LIVRE; LICENÇA; GRATUIDADE; POLÊMICA; MICROSOFT /EMPRESA/; EUGENIO BEAUFRAND; GASTO; LUIZ FERNANDO FURLAN
+Vice-presidente para a AL afirma que programa é só parte de projeto e que o peso maior é de manutenção do sistema 
+Software livre pode custar mais, diz Microsoft 
+DE WASHINGTON 
+Em meio à divergência pública do governo em relação ao software livre, o vice-presidente da Microsoft da América Latina, o venezuelano Eugenio Beaufrand, afirmou que o programa é só uma pequena parte do custo de um projeto de informática. No final, afirma Beaufrand, o software livre tende a ser mais oneroso.
+Os softwares livres não exigem pagamento de licença para uso e podem ser copiados, modificados e distribuídos livremente. Os softwares proprietários, como os da Microsoft, exigem pagamento de licença para uso e não permitem cópia, modificação e distribuição.
+Nesta semana, o ministro Luiz Fernando Furlan (Desenvolvimento) criticou a opção do governo de privilegiar o software livre. Decreto em análise pela Casa Civil torna obrigatória a opção pelo software livre nas licitações de informática do governo federal.
+Leia, a seguir, entrevista concedida ontem à Folha por Beaufrand durante o Fórum de Líderes Governamentais das Américas, promovido pela Microsoft em Washington e que contou com comitiva de políticos brasileiros. 
+(FABIANO MAISONNAVE)
+*
+Folha - O Brasil tem discutido a conveniência do uso do software livre. Qual é a posição da Microsoft?
+Eugenio Beaufrand - Nossa perspectiva é a da neutralidade tecnológica. Pensamos que o consumidor _nesse caso, os diferentes órgãos de governo_ tem a possibilidade de colocar em disputa as diferentes ofertas de empresas, o que dará um melhor retorno aos investimentos do governo. Pensamos que passar uma lei ou decreto que obrigue a compra de software de um tipo ou de outro é algo que deixa de beneficiar o governo e levará a uma redução da competição e, portanto, promoverá custos mais altos e soluções inferiores do que se houvesse mais empresas competindo.
+Folha - Mas o custo do software livre não é menor por não incluir direitos autorais?
+Beaufrand - Não. O software é uma parte minúscula do custo de implementação de um sistema. Pergunte a qualquer gerente de sistemas no Brasil qual é o gasto com software. A verdade é que o grande custo não é o software e, em certa medida, nem sequer o hardware. É todo o pessoal que precisa para desenvolvimento, operação, manutenção de sistemas. Quando se incorpora tudo isso, o software é só uma pequena variável. Nossa proposta é que, ao investir no desenvolvimento de software, poderemos trazer ao cliente uma economia.
+Folha - Houve críticas sobre a vinda de parlamentares ao encontro da Microsoft em Washington. A empresa está tentando influenciar o Congresso sobre o assunto?
+Beaufrand - Você viu as reuniões, aqui não há agenda misteriosa. É uma discussão na qual convidamos todos a participar dos desafios que temos no trabalho com o governo, para fazer avanços.
+Na medida em que o Brasil quer desenvolver uma indústria nacional rica de escala internacional, se utilizar apenas o Linux [livre] e essas empresas de software, que perspectivas terá?
+Folha - O governo brasileiro afirma estar combatendo a pirataria. A Microsoft vê melhorias com relação ao software?
+Beaufrand - Mais do que falar de pirataria, é necessário entender que a indústria informática no Brasil é altamente pulverizada. E tem um grande componente de economia informal. A penetração dos computadores de marca é muito pequena no Brasil.

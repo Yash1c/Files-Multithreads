@@ -1,0 +1,27 @@
+Codificação de dados resguarda e-mails 4/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo May 4, 2005
+Legenda Foto: Hushmail, serviço gratuito que protege mensagens do usuário; SimpLite, para criptografar bate-papos realizados com o MSN
+Crédito Foto: Reprodução
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: DEFENDA SEUS SEGREDOS
+Assuntos Principais: TECNOLOGIA; INTERNET; SEGURANÇA; NAVEGAÇÃO; DADO; PRIVACIDADE; E-MAIL; CRIPTOGRAFIA
+Criptografia protege mensagens eletrônicas contra tentativas de espionagem; veja como usá-la
+Codificação de dados resguarda e-mails
+DA REPORTAGEM LOCAL
+O uso do e-mail como ferramenta de trabalho e negócios é um fato inquestionável. Apesar disso, a esmagadora maioria dos internautas não usa nenhum tipo de proteção nas mensagens. Sem criptografia _codificação de dados_, tudo o que você recebe e envia pode ser interceptado em vários pontos, ou seja, não goza de privacidade.
+Não é tão difícil instalar criptografia no computador. Há duas opções: manter o endereço de e-mail que você já usa (a mais difícil tecnicamente) ou simplesmente criar uma conta no serviço Hushmail (www.hushmail.com).
+Ele é uma espécie de Hotmail, só que com recursos para criptografar mensagens e assiná-las digitalmente. O Hushmail também protege todo o tráfego de dados entre seus servidores e o micro (os serviços de webmail geralmente só protegem a senha).
+Para que a codificação de dados seja ativada, os destinatários dos seus e-mails também devem possuir conta no Hushmail.
+O cadastro no serviço é simples. O único diferencial está na criação do certificado de criptografia, que é a sua identidade digital. Surge uma etapa na qual é preciso ficar mexendo o mouse dentro de uma janela, por alguns segundos, antes de prosseguir. Isso só é feito uma vez e é necessário porque o Hushmail precisa de dados aleatórios para criar um certificado realmente seguro.
+Atenção: para que o Hushmail funcione, o computador precisa ter o software Java instalado (java.sun.com).
+Outlook
+Se você usa o Outlook Express e quer usar criptografia numa conta já existente, a solução mais simples é adquirir um certificado digital. No Brasil, uma opção é a Certisign (www.certisign.com.br/produtos/email/email_seguro.jsp), que vende certificados para uso pessoal por R$ 46 anuais. É possível testar gratuitamente um certificado por 60 dias. Para fazer isso, é preciso completar um cadastro no site, que depois envia um e-mail com mais instruções.
+Também pode-se conseguir um certificado gratuito no site www.thawte.com/email/index.html. A desvantagem é que ele não traz o nome do usuário, apenas seu endereço de e-mail. Tirando essa inconveniência, o certificado funciona normalmente, ou seja, serve para codificar mensagens.
+Atenção: antes de enviar uma mensagem criptografada para outro usuário do Outlook Express, você deverá transmitir um e-mail assinado (por meio do botão Assinar). Do contrário, o destinatário não conseguirá ler o e-mail codificado.
+Xereta
+Atualmente, existem vários serviços que permitem monitorar a leitura de e-mails. Eles acrescentam uma imagem oculta a cada mensagem, que o destinatário não vê. Quando o e-mail é aberto, o PC do destinatário tenta baixar esse elemento. Isso gera um alerta no serviço de monitoramento, que avisa o remetente sobre a abertura da mensagem.
+O programa NoSpyMail (www.belshe.com/nospymail) promete barrar imagens ocultas, o que impediria o monitoramento, mas ele só funciona nas versões 2000, XP e 2003 do Outlook. Se você usa o Outlook Express, pode dispensar esse acessório e se defender fazendo uma configuração manual. Clique em Ferramentas, Opções e Segurança e certifique-se de que o item Bloquear imagens esteja marcado.
+(BG)

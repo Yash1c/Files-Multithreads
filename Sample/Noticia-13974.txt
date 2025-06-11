@@ -1,0 +1,23 @@
+Sites apostam em vídeo de alta definição 6/7/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Jul 6, 2005
+Legenda Foto: Galeria de vídeos QuickTime HD, criada para mostrar resolução de novo tocador da Apple
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; APPLE /EMPRESA/; SITE; ARQUIVO; ALTA RESOLUÇÃO; VÍDEO DIGITAL
+Sites apostam em vídeo de alta definição
+DA REPORTAGEM LOCAL
+O vídeo pela internet ganhou dois reforços de peso: os arquivos de alta resolução, que estão presentes em cada vez mais sites, e o lançamento do formato DivX 6, que possui recursos multimídia e promete maior qualidade.
+A Apple, por exemplo, criou uma galeria de alta definição (HD) para promover a chegada de seu programa QuickTime 7, já com versões para Windows e Mac OS X. Até a conclusão desta edição, havia nove vídeos, disponíveis em www.apple.com/quick time/hdgallery e gravados no novo formato H.264.
+Cinco dos vídeos são trailers, um deles do filme "Batman Begins", grande aposta da indústria cinematográfica para este ano. Os arquivos com resolução mais alta (1080p, com 1.920x1080 pontos) só estão disponíveis para usuários de Mac, e é preciso ter um computador potente. Para sistema Windows, a configuração recomendada é processador Xeon de 2,8 GHz e 1 Gbyte de memória RAM. Para Mac, chip G5 de 1,8 GHz e 256 Mbytes de RAM.
+A diferença nas recomendações entre as plataformas Windows e Mac parece um exagero da Apple. Seja como for, os vídeos realmente são pesados: em testes realizados num PC de 1,5 GHz com 256 Mbytes de RAM, nem as versões com menor resolução (480p, com 852x480 pontos) tocaram direito.
+Pioneira nos vídeos de alta definição, a Microsoft reforçou seu acervo (www.microsoft.com/windows/windowsmedia/content_provider/film/ContentShowcase.aspx), que agora traz 27 títulos. Para tocá-los, a configuração recomendada é Windows Media Player 10, processador de 3 GHz, 512 Mbytes de RAM e placa de vídeo com 128 Mbytes. Um diferencial é que, segundo a Microsoft, o formato Windows Media Video HD suporta áudio multicanal _para quem tem placa de som 5.1.
+No Brasil, a Rede Globo colocou nove vídeos HD para download (hd.globo.com). Eles tocam no Windows Media Player (o micro precisa ter chip de 1,8 GHz e 256 Mbytes de RAM) e incluem cenas da novela "América", da minissérie "Hoje é dia de Maria" e de "Os Normais".
+Como nos demais sites que oferecem arquivos de alta definição, os downloads são grandes: cada vídeo tem entre 41 Mbytes e 64 Mbytes. Por isso, é fundamental ter uma conexão de banda larga para fazer os downloads. Os vídeos podem ser baixados por todos os internautas _não apenas por assinantes do Globo.com.
+DivX
+O formato DivX (www.divx.com), muito usado em vídeos distribuídos pela internet, promete se aproximar dos DVDs. Sua nova versão permite que os arquivos tragam, além do vídeo, um menu para seleção de cenas e legendas e múltiplas trilhas de áudio (para dublagens).
+O Play Bundle, pacote para tocar os vídeos, é gratuito, mas também há o Create Bundle, que inclui uma versão grátis por 15 dias do codificador DivX (para converter gravações para o novo formato). Ele traz poucos recursos, mas um deles é interessante: permite que vários vídeos sejam agrupados num só arquivo DivX, completo com menu para seleção.
+Os criadores do DivX estão distribuindo alguns vídeos para demonstrar os recursos multimídia. Um deles é "Revelations", filme que parodia a série espacial "Star Wars" (www.divx.com/movies/revelations.php). Também há vídeos DivX de alta resolução no site www.divx.com/hd. 
+(BG)

@@ -1,0 +1,33 @@
+Internet Explorer ganha abas de navegação 15/6/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jun 15, 2005
+Legenda Foto: Tela do IE, que agora pode ter abas para exibir várias páginas; Imagem mostra Windows XP com aparência modificada por soft
+Crédito Foto: Reprodução
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: SOFTWARE
+Assuntos Principais: TECNOLOGIA; INTERNET EXPLORER /NAVEGADOR/; RECURSO; JANELA; BARRA DE FERRAMENTA
+Programa usa barra para abrir várias páginas em uma só janela, recurso que já é oferecido por concorrentes
+Internet Explorer ganha abas de navegação
+JULIANO BARRETO
+COLABORAÇÃO PARA A FOLHA
+Após perder milhões de usuários para os navegadores Firefox e Opera, o Internet Explorer copiou os rivais e agora também é capaz de abrir várias páginas em uma mesma janela.
+O recurso de navegação por abas é adicionado ao programa por meio da instalação da barra de ferramentas do portal MSN (grátis, em toolbar.msn.com).
+A barra, que por ora só tem versão em inglês, traz buscador de arquivos, sistema para bloquear janelas pop-up, preenche formulários on-line e integra ao IE o engenho de busca do MSN.
+Nos quesitos facilidade de uso e quantidade de opções, as abas de navegação da MSN Toolbar se equivalem aos recursos de navegadores concorrentes.
+Para instalar a barra, é preciso usar o Windows XP e o Internet Explorer 5.01 ou posterior.
+Uso das abas
+Existem várias maneiras de usar as abas no IE. Para abrir uma nova aba em branco, basta clicar na cruz azul que fica no canto superior esquerdo da barra ou usar a combinação de teclas Ctrl+T.
+Para abrir atalhos em abas, clique com o botão direito do mouse sobre o link e escolha entre as opções Open in new background tab (site abre atrás da janela atual) ou Open in new foreground tab (site abre na frente da janela).
+Ainda na área superior do navegador, também estão disponíveis outros dois botões: o QuickTabs (ícone de uma pasta com uma seta verde) e o My Tabs (ícone de uma pasta com uma casa).
+Depois de clicar no Quicktabs, todos os links acessados pelo internauta serão abertos em abas. Para desativar a opção basta clicar novamente sobre o ícone.
+O My Tabs é uma de lista de sites que podem ser abertos ao mesmo tempo com um só clique.
+Para adicionar endereços a essa lista, clique sobre a aba de um site com o botão direito do mouse e depois clique em Add to My Tabs.
+Para personalizar as opções de navegação, clique sobre o logotipo do MSN que fica na barra, depois escolha a opção MSN Search Toolbar Options e, na janela que abre, clique em Tabbed Browsing.
+Defeito interno
+Apesar da boa organização dos recursos oferecidos, a barra de navegação do MSN tem um problema estrutural: consome mais recursos do micro do que os outros navegadores que têm abas.
+Diferentemente dos rivais Mozilla e Opera, que têm as abas como uma função embutida, o IE usa um truque gráfico para abrir vários sites na mesma janela.
+O resultado disso é que o navegador da Microsoft é aberto novamente a cada aba acionada. Nos testes realizados pela reportagem, essa diferença foi mostrada de forma discreta pelo Gerenciador de Tarefas do Windows.
+Ao abrir três páginas ao mesmo tempo, o IE consumiu 28.720 Kbytes de memória enquanto o Firefox consumiu 27.352 Kbytes para realizar a mesma tarefa.
+Na prática, o IE foi muito mais instável: travou todas as vezes em que mais de cinco páginas foram abertas simultaneamente. Problema que o Mozilla Firefox não apresentou.

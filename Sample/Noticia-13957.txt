@@ -1,0 +1,29 @@
+SAIBA QUAIS SÃO ALGUNS DOS SERVIÇOS BRASILEIROS DE NOTÍCIAS 6/7/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jul 6, 2005
+Arte: QUADRO: SAIBA QUAIS SÃO ALGUNS DOS SERVIÇOS BRASILEIROS DE NOTÍCIAS
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; RSS /REALLY SIMPLE SYNDICATION/; INFORMAÇÃO; NOTÍCIA
+SAIBA QUAIS SÃO ALGUNS DOS SERVIÇOS BRASILEIROS DE NOTÍCIAS
+Folha Online
+- Páginas em RSS
+- Celular WAP com noticiário on-line, resultados de loterias e previsão do tempo. Notícias também chegam via mensagem SMS
+- Conteúdo pode ser atualizado para palmtops por meio do programa Hand Browser
+UOL
+- Páginas em RSS
+- Blogs e fotolog são automaticamente disponibilizados para leitores de RSS
+- Acesso a e-mails e blogs via celular, que também recebe informações de competições pelo Placar UOL
+Editora Abril
+- Páginas em RSS
+- Informações sobre lazer, como restaurantes e sessões de cinema, via WAP celular. O portátil também pode receber vídeos, imagens e torpedos com notícias
+- E-mails antecipam o conteúdo de revistas, como a "Veja"
+Portal Estadão
+- Páginas em RSS, que incluem podcasts
+- Mensagens SMS trazem notícias sobre loterias, esportes e cotações
+- Imagens dos assuntos do dia chegam via WAP no celular
+Terra
+- Páginas em RSS
+- Coberturas especiais no celular WAP sobre futebol e Fórmula 1
+- Torpedos SMS contêm horóscopo e plantão de notícias
+- Acesso a e-mails e a vídeos da TV Terra via celular

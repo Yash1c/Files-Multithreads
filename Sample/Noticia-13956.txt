@@ -1,0 +1,21 @@
+Analista mede popularidade de blogs 6/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jul 6, 2005
+Observações: SUB-RETRANCA; ENTREVISTA
+Assuntos Principais: INTERNET; RSS /REALLY SIMPLE SYNDICATION/; INFORMAÇÃO; NOTÍCIA; SITE; BLOG; FOTOBLOG
+Analista mede popularidade de blogs
+DA REPORTAGEM LOCAL
+Quando quase não havia páginas em RSS na rede, um grupo de blogueiros brasileiros decidiu criar um programa que traduzisse o formato HTML, usado na internet, para o RSS, e assim poder usar programas leitores para receber novidades.
+O analista de sistemas Cristiano Dias (www.crisdias.com) era um dos integrantes do grupo, que criou o projeto RSSficado (www.rssficado.com.br), cuja função era extrair links de páginas da rede e convertê-los para o RSS.
+Conforme mais e mais sites passaram a disponibilizar o RSS, o programa caiu em desuso. "Eu mesmo já não uso mais", conta Dias, que há três anos desenvolveu uma nova maneira de permanecer antenado com os novos conteúdos da web, o Toplinks (toplinks.idearo.com.br).
+* 
+Folha - O que é o Toplinks?
+Cristiano Dias - É um medidor de popularidade de links, cuja função é descobrir qual é o assunto do dia nos blogs. É a versão brasileira do Blogdex (blogdex.net), criado pelo Instituto de Tecnologia de Massachusetts (MIT).
+Folha - Qual a sua função?
+Dias - É uma outra maneira de ficar sabendo do que rola na rede, assim como os leitores de RSS.
+Folha - Por que a restrição aos blogs?
+Dias - Quando uma notícia interessa a um blogueiro, ele publica em seu site o link que leva a ela. Isso ajuda a medir o grau de repercussão dos assuntos: quanto mais blogs registrarem links sobre aquele tema, mais quente ele será. Já temos 4.785 blogs cadastrados.
+Folha - Você usa leitor de RSS? Dias - Sim, recebo tiras de quadrinhos, novidades sobre cultura nerd e podcasts. 
+(MB)

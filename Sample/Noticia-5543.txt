@@ -1,0 +1,16 @@
+PC realiza ajustes em instrumentos 3/8/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Aug 3, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: MÚSICA; PRODUÇÃO MUSICAL; TECNOLOGIA; ESTÚDIO; INSTRUMENTO MUSICAL; COMPUTADOR; PROGRAMA; SOFTWARE; INTERNET; SITE; DOWNLOAD; AFINAÇÃO; AFINADOR
+PC realiza ajustes em instrumentos
+COLABORAÇÃO PARA A FOLHA
+Os softs para afinação são uma das ferramentas para PC mais exploradas por quem gosta de tocar instrumentos como violão, guitarra e contrabaixo.
+Além da precisão digital, esse tipo de programa representa uma economia considerável _um afinador tradicional tem preços que variam entre R$ 20 e R$ 300 (www.casabevilacqua.com.br). Já os afinadores virtuais, em geral, são gratuitos.
+Usar esse tipo de programa exige pouco da máquina e só é preciso ter um plugue adaptador que ligue o cabo da guitarra ao conector do microfone da placa de som do micro. Essa peça pode ser encontrada em lojas de música e tem preço médio inferior a R$ 5.
+Depois de conectar o instrumento ao computador, basta comparar o som das notas emitidas. O ajuste ideal acontece quando o som do instrumento e o som do computador ficam iguais. Para facilitar essa tarefa, alguns programas exibem um gráfico que mostra a diferença de tonalidade de cada uma das notas tocadas.
+Em uma pesquisa no site Super Downloads (www.superdownloads.com.br), mais de 20 afinadores gratuitos foram encontrados. O mais popular, com cerca de 98 mil downloads, foi o Afinador de Violão e Guitarra 2 (www.estudiotropical.hpg.ig.com.br), que não precisa ser instalado para ser usado.
+No Audioware.com.br, os mais baixados são os gratuitos Digital Guitar Tuner (www.guitar.sk) e Tune!It (www.zeta.org.au/~dvolkmer/tuneit.html). 
+(JB)

@@ -1,0 +1,12 @@
+Conheça opções e funcionalidades de leitores de RSS 6/7/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jul 6, 2005
+Observações: SUB-RETRANCA
+Vinheta/Chapéu: SAIBA MAIS
+Assuntos Principais: INTERNET; RSS /REALLY SIMPLE SYNDICATION/; INFORMAÇÃO; NOTÍCIA
+Conheça opções e funcionalidades de leitores de RSS
+O Feed Reader (www.feedreader.com), gratuito, é um dos mais populares, pois é simples de usar. Já o Feed Demon (www.feeddemon.com) custa US$ 29,95 (tem versão gratuita para teste), mas oferece mais recursos. Ele recebe podcasts (arquivos de áudio que se assemelham a programas de rádio) e já inclui canais governamentais e diversos blogs.
+O Videora (www.videora.com; US$ 22,95) usa o RSS e o BitTorrent para realizar downloads de vídeos.
+O Standalone (standalone.com; US$ 14,95) é um leitor para micros de mão. Outra opção para portáteis é o Mobilerrs ( www.mobilerss.net).
+O RSS Calendar (www.rsscalendar.com) permite compartilhar agendas de compromissos e receber, via RSS, as alterações ocorridas. Ele possui uma lista de agregadores compatíveis com Windows, Macintosh e Linux e outros, que podem ser acessados pela web.

@@ -1,0 +1,18 @@
+Serviço faz pesquisas de notícias em vídeo 27/7/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 27, 2005
+Vinheta/Chapéu: MULTIMÍDIA
+Assuntos Principais: INTERNET; VÍDEO DIGITAL; JORNALISMO; NOTÍCIA; BLINKX /SITE/; SERVIÇO; RECURSO; GRATUIDADE; DOWNLOAD
+Site lança busca especial
+Serviço faz pesquisas de notícias em vídeo
+COLABORAÇÃO PARA A FOLHA
+Enquanto gigantes como Google (video.google.com) e Yahoo! (video.search.yahoo.com) tentam atrair usuários com buscadores para trechos de vídeos, o desconhecido Blinkx (www.blinkx.com) lançou um serviço que faz pesquisas no conteúdo de dezenas de canais de TV e de estações de rádio da internet (podcasts).
+Para testar o Blinkx, que é gratuito e é bastante fácil de usar, o usuário conta com duas opções.
+A primeira é fazer buscas comuns no site. Basta escolher o tipo de conteúdo a ser encontrado (sites, vídeos ou áudio), digitar uma palavra e clicar em Search.
+Na lista de resultados, basta clicar sobre a imagem em miniatura para que o link seja aberto.
+No caso dos vídeos é preciso ter o tocador certo para cada um dos canais. O tocador mais usado é o Windows Media Player, que já vem instalado no Windows, mas também existem canais on-line que transmitem vídeos por meio dos tocadores gratuitos Real Player (www.real.com) e QuickTime (www.apple.com/quicktime).
+A outra maneira de usar o portal é instalar o buscador pessoal Blinkx 3.0. Ele é grátis e é instalado por meio do Internet Explorer.
+Depois da instalação, o programa faz uma varredura para encontrar arquivos de mídia, documentos do Office e outros tipos de arquivos armazenados no PC. Além do soft que serve como buscador pessoal, uma barra aparece no topo do IE. Com essas ferramentas também é possível buscar resultados específicos, como blogs ou itens à venda.
+(JB)

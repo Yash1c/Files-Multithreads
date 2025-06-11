@@ -1,0 +1,22 @@
+Empresas usam serviço para redução de custos 18/9/2005
+Autor: PAULA LEITE
+Origem do texto: DA REDAÇÃO
+Editoria: DINHEIRO Página: B4
+Edição: São Paulo Sep 18, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TELECOMUNICAÇÕES; TELEFONIA; TECNOLOGIA; VOIP /VOICE OVER INTERNET PROTOCOL/; TRANSMISSÃO; PROVEDOR; GVT /EMPRESA/
+Empresas usam serviço para redução de custos
+PAULA LEITE
+DA REDAÇÃO
+Enquanto o consumidor brasileiro começa a descobrir o VoIP, o país já tem várias empresas que levam essa tecnologia a outras empresas. As companhias de todos os tamanhos geralmente procuram os sistemas VoIP por causa da redução de custos, tanto na comunicação entre filiais como na com clientes e fornecedores.
+As linhas da GVT, operadora de telefonia que oferece serviços VoIP, por exemplo, permitem que o cliente tenha um número de telefone "local" em uma cidade, mesmo que a empresa esteja fisicamente localizada em outro município ou até mesmo outro país. Por enquanto, só é possível ter as linhas locais em oito capitais.
+"Isso tem duas vantagens: a presença telefônica em uma cidade na qual a empresa não está fisicamente e a mobilidade, já que sua linha pode ser acessada de qualquer lugar", diz Paulo Humberto Gouvêa, vice-presidente corporativo da GVT.
+Já a multinacional canadense Nortel instala um serviço de comunicação interna para empresas, que pode ter de quatro a 15 mil ramais e pode ser integrado ao PABX já existente. O sistema pode conectar filiais em diferentes cidades, reduzindo os gastos com ligações interurbanas.
+"As empresas procuram a redução de custos, mas o VoIP não é só isso. Uma companhia também pode aumentar sua produtividade com o sistema. Um exemplo é um executivo que pode acessar seu ramal da empresa com o notebook conectado a uma rede Wi-Fi [internet de banda larga sem fio] para fazer ligações ou pegar suas mensagens", diz Inácio Freitas, gerente da Nortel.
+A brasileira BestCom opera o serviço iVoz, que também permite que as diversas filiais de uma empresa falem entre si gratuitamente. As ligações para outras empresas que têm o iVoz também são gratuitas.
+"Temos um cliente com três filiais e diversos clientes. Ele divulgou o iVoz para os clientes e vários adotaram o serviço, o que gerou redução de custos para todos", diz Rodrigo Smith, diretor de negócios do iVoz.
+As empresas que prestam serviços de VoIP no mercado corporativo dizem que o segmento ainda é pulverizado, com muitas empresas pequenas aproveitando o baixo investimento inicial da tecnologia para entrar no mercado.
+"Mas o mercado vai se consolidar e elas vão acabar sendo compradas ou saindo dele", diz Gouvêa, da GVT.
+Na Nortel, que também instala sistemas de telefonia convencional, o segmento VoIP já cresce mais rápido que as outras áreas, diz Freitas.
+Já Gouvêa vê, no futuro, a convergência dos serviços de dados (internet), voz e vídeo (televisão ou download de programas) usando a conexão de banda larga.
+"Além disso, com a chegada do Wi-Max [conexão de banda larga sem fio que cobre uma grande área], o acesso à banda larga não vai mais depender da rede das telefônicas e operadoras de TV a cabo", afirma Gouvêa.

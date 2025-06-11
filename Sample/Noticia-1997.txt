@@ -1,0 +1,18 @@
+Computador compara dados para achar atletas 14/8/2005
+Autor: GUILHERME ROSEGUINI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: ESPORTE Página: D6
+Edição: São Paulo Aug 14, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: ATLETISMO; TERESINA /PI/; CRIANÇA; PROJETO; AVALIAÇÃO; DESEMPENHO; CORRIDA; UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL; MINISTÉRIO DO ESPORTE
+Computador compara dados para achar atletas
+DA REPORTAGEM LOCAL
+O programa que revelou a relação entre o Piauí e o surgimento de talentos em provas de fundo nasceu bem longe dali.
+Em 1996, a Universidade Federal do Rio Grande do Sul lançou um programa para cadastrar dados de crianças e jovens do Estado que apresentavam algum diferencial em testes físicos. O Ministério do Esporte mostrou interesse pelo projeto e disse que queria aplicá-lo em todas as capitais do país.
+"Nosso primeiro desafio foi inventarmos um teste fácil e barato, que pudesse ser manuseado sem grandes dúvidas", explica Adroaldo Gaya, professor da UFRGS e coordenador técnico do Descoberta do Talento Esportivo.
+Ele e seu time elegeram então as provas pelas quais os jovens deveriam passar: velocidade (corrida de 20 m), força (arremesso de bolas medicinais), resistência (prova de nove minutos) e outras, como salto em distância e abdominais.
+Os resultados são agrupados com as medidas corporais básicas do aluno analisado (envergadura, estatura, massa corporal etc) e lançadas em um banco de dados.
+A próxima etapa é feita por um programa de computador. Os dados são equiparados com testes realizados em atletas que ganharam medalhas nos Jogos da Juventude. "Se o perfil dos resultados encontrados nas crianças ficar bastante próximo ao dos campeões, está detectada uma relação de predisposição para a prática desportiva", explica Gaya.
+O pesquisador frisa que o processo não é 100% fidedigno. "Não sabemos se quem faz os testes seguiu tudo com perfeição. Uma segunda avaliação, mais específica, pode esclarecer isso", diz.
+Os dados ficam todos em um banco de dados no site no ministério e podem ser vistos por qualquer pessoa que se cadastre.
+Gaya e o Ministério do Esporte, que desembolsou R$ 600 mil na triagem, querem refazer os testes nos talentos que mais empolgaram. O programa também pretende realizar novos exames em 2006. O objetivo é alcançar 500 mil crianças, com investimento inicial de R$ 1 milhão.(GR)

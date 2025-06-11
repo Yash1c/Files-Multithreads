@@ -1,0 +1,28 @@
+TVs assumem funções de computador 15/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 15, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: INTERNET DE PAREDE
+Assuntos Principais: TECNOLOGIA; TELEVISÃO; TV DIGITAL; APARELHO; COMPATIBILIDADE; HDTV /ALTA DEFINIÇÃO/; TELA; RESOLUÇÃO; RECURSO
+EUA apressam adoção de sistema digital, e fabricantes criam aparelhos que se ligam ao PC e à rede
+TVs assumem funções de computador
+BRUNO GARATTONI
+DA REPORTAGEM LOCAL
+A TV digital ganhou impulso quando os Estados Unidos, na semana passada, resolveram acelerar sua adoção. Todos os televisores de tela grande _de 25 a 36 polegadas_ terão de ser compatíveis com o padrão digital ATSC em 1º de março de 2006, quatro meses antes da data inicialmente prevista. Nos Estados Unidos, a TV digital já é uma realidade: as grandes redes abertas transmitem diversos programas em alta definição (HDTV) _com quase sete vezes a resolução de imagem da TV analógica_, e os serviços por assinatura oferecem canais exclusivos para a HDTV.
+Como os EUA têm 275 milhões de TVs, muita gente vai trocar de aparelho nos próximos dois anos. Por isso, as grandes empresas de eletrônica estão radicalizando as inovações em seus televisores (veja quadro ao lado).
+Além de telas finas e alta resolução de imagem, as TVs digitais de última geração são verdadeiros computadores: elas gravam vídeo digitalmente, podem ser ligadas a câmeras digitais e se comunicam sem fios com o PC e a internet.
+No Brasil, a transmissão de TV digital já existe, mas apenas em serviços pagos e com baixa resolução (leia texto abaixo). O governo continua deliberando sobre o padrão digital a ser adotado na TV aberta, e promete uma decisão apenas em fevereiro de 2006.
+Um documento oficial do Ministério das Comunicações (www.mc.gov.br) fala em desenvolver um padrão brasileiro, mas ressalta que "o aumento da abrangência e [da] flexibilidade", considerado "importante" na tecnologia brasileira, "pode elevar o preço final dos equipamentos". A afirmação do documento é clara: se o país adotar um padrão tecnológico próprio, o preço dos televisores pode subir.
+Próxima geração
+Empresas em vários países já testam a IPTV, que é uma tecnologia de transmissão via internet com recursos ultra-sofisticados.
+A televisão passa a ter uma conexão permanente, de banda larga, à internet, ou seja, dá para fazer download de programas (o episódio de uma série que você perdeu, por exemplo) e programar remotamente o aparelho. Basta mandar um e-mail para a IPTV para que ela agende a gravação de um determinado show. A FastWeb (www.fastweb.it), na Itália, tem um dos serviços IPTV mais interessantes.
+No computador
+O computador pessoal não ficou atrás. Os Media Center PCs, sucesso de vendas nos EUA, usam uma versão especial do Windows que transforma o computador em gravador digital, capaz de gravar vídeos em DVDs e até transferi-los para um tocador portátil (leia texto na pág. F4).
+Também já existem placas que transformam o computador em receptor de TV digital, por um preço bem razoável. Infelizmente, nenhum desses produtos pode ser comprado (ou funcionaria corretamente) no Brasil.
+Uma dica para quem quer captar a TV analógica brasileira no computador é a placa PixelView PlayTV MPEG2 (www.pixelview.com.br), que tem preço relativamente acessível: R$ 280. Com um computador de 1,5 GHz e 256 Mbytes ela já funciona bem, e o software fornecido (Power VCR II) tem várias funções úteis.
+Dá para pausar transmissões ao vivo e gravar programas, inclusive agendando gravações. Com mais R$ 300, você pode comprar um gravador de DVD, transformando seu computador em gravador digital de vídeo (DVR), aparelho que é febre de vendas nos Estados Unidos.
+Ligando um televisor comum ao adaptador Prismiq (veja quadro), qualquer computador pode acessar a internet. Esse aparelho também integra a TV ao micro, ou seja, ela recebe sem fios as músicas e os vídeos contidos no PC. Outro adaptador do gênero é o MSN TV 2, da Microsoft, que só está disponível nos EUA.
+Mobilidade
+A TV digital também já chegou ao celular _a Coréia do Sul tem um satélite que transmite sete canais com programação exclusiva para telefones portáteis (leia texto na pág. F4). Recentemente o consórcio ATSC, que supervisiona o padrão de TV digital norte-americano, mostrou um aprimoramento que torna seu sistema compatível com a transmissão para aparelhos móveis. Isso abre caminho para a popularização de telefones capazes de sintonizar televisão.

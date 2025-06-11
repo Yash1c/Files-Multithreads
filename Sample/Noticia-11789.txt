@@ -1,0 +1,19 @@
+COMO FUNCIONAM OS ATAQUES 13/7/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jul 13, 2005
+Arte: QUADRO: COMO FUNCIONAM OS ATAQUES
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; INTERNET; SOFTWARE; PROGRAMA ESPIÃO; ZUMBI; FUNCIONAMENTO; ATAQUE
+COMO FUNCIONAM OS ATAQUES
+1. Spammer
+O cibercriminoso envia milhares de emails que contêm programas para invasão e controle remoto de computadores. As mensagens também podem conter vírus que fazem os zumbis lançarem ataques contra sites
+2. Computador Infectado
+Quando a vítima abre a mensagem infectada, um programa se instala clandestinamente na máquina e permite que o cibercriminoso envie ordens para o seu sistema
+3. Multiplicação do Invasor
+Os endereços de e-mail presentes na lista de contatos dos computadores infectados recebem mensagens com propagandas e cópias dos programas de invasão
+4. Site do Spammer
+A página do autor do ataque recebe visitantes que eventualmente podem comprar seus produtos ou clicar em anúncios de terceiros que pagam comissões de vendas
+5. Resultado
+O cibercriminoso dificulta as investigações sobre sua localização e economiza dinheiro que seria gasto com a infra-estrutura necessária para enviar publicidade por e-mail
+próximo...próxima ocorrência...

@@ -1,0 +1,19 @@
+Soft para leitura dispensa o uso de navegador 18/5/2005
+Autor: JULIANA BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 18, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; COMUNICAÇÃO; INTERNAUTA; SITE; BLOG; DIÁRIO VIRTUAL; BLOGUEIRO; SOFTWAR; LEITURA
+Soft para leitura dispensa o uso de navegador
+COLABORAÇÃO PARA A FOLHA
+Vários blogs adotam o formato de leitura rápida RSS (Really Simple Syndication).
+Isso permite que os usuários dispensem o navegador e recebam os textos automaticamente por meio de um programa especial.
+Entre os softwares para essa finalidade estão o FeedDemon (US$ 29,95, com versão para teste em www.feed demon.com/download/index.asp) e o Awasu (grátis em www.awasu.com/download.php).
+Ambos têm uma aparência semelhante a de um programa leitor de e-mails.
+Para começar a usá-los, o primeiro passo é adicionar fontes de notícias.
+Veja se os blogs que você lê têm versões em RSS _isso é indicado por um ícone retangular na cor laranja.
+Se encontrá-lo, copie seu atalho (que geralmente termina com a extensão XML) usando o atalho no menu que se abre ao clicar com o botão direito do mouse.
+Depois vá até a tela principal do software leitor de RSS e clique no botão que traz uma descrição equivalente a "Add News Feed" (adicionar fonte de notícias).
+Assim, você receberá um alerta a cada novo texto publicado no site. Esse aviso já vem com a manchete, as primeiras linhas do texto e um link para facilitar o acesso ao blog.
+(JB)

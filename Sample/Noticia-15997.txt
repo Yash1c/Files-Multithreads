@@ -1,0 +1,16 @@
+Conheça opções para instalação de programas 29/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 29, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; COMPUTADOR; LINUX /SISTEMA OPERACIONAL/; SOFTWARE; PROGRAMA; INSTALAÇÃO; INSIGNE /EMPRESA/; INTERNET
+Conheça opções para instalação de programas
+DA REPORTAGEM LOCAL
+Para instalar programas no Linux, você pode baixá-los direto da empresa mantenedora do sistema, a Insigne, ou pegar softwares na internet.
+A primeira opção é tecnicamente mais simples. Abra uma janela do Terminal (ele fica no menu Iniciar/Ferramentas do Sistema) e tecle su para se tornar superusuário. Feito isso, digite apt-get update para que o PC baixe a lista de programas disponíveis _o micro precisa estar conectado à internet.
+Outra opção é o Synaptic, que tem interface gráfica. Para usá-lo, abra o ícone PC Conectado, que fica na área de trabalho (veja quadro). A exemplo do apt-get, o Synaptic pode ser configurado para usar outros repositórios de programas, além do mantido pela Insigne.
+Em alguns casos, é preciso instalar programas manualmente. No Terminal, navegue até a pasta com o software em questão. Use os comandos cd (para entrar numa pasta), ls (para listar seu conteúdo) e cd .. (para sair). O Linux diferencia maiúsculas e minúsculas.
+Vamos instalar o programa fictício ABC. O primeiro passo é acessar a pasta dele _no exemplo, teclando cd Desktop/programas. O arquivo do programa está no formato tar.gz, ou seja, comprimido. Digite tar -xzvf ABC para descompactá-lo. (No caso de arquivos zip, a solução mais fácil é descompactá-los usando o mouse _abra o arquivo comprimido e arraste a pasta exibida para a área de trabalho.)
+Uma pasta será criada. Tecle cd ABC para acessá-la. Dentro dela, você encontrará o arquivo install.sh, que é o instalador. Digite o comando su para acionar o modo superusuário (leia texto ao lado). Em seguida, tecle sh install.sh para iniciar a instalação. 
+(BG)

@@ -1,0 +1,24 @@
+Ministério da Ciência defende software livre 28/4/2005
+Autor: HUMBERTO MEDINA
+Origem do texto: DA SUCURSAL DE BRASÍLIA
+Editoria: DINHEIRO Página: B12
+Edição: Nacional Apr 28, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: INFORMÁTICA
+Assuntos Principais: INFORMÁTICA; GOVERNO LULA; DIREITO AUTORAL; SOFTWARE LIVRE; LICENÇA; GRATUIDADE; POLÊMICA; MICROSOFT /EMPRESA/; GASTO; LUIZ FERNANDO FURLAN; MINISTÉRIO DA CIÊNCIA E TECNOLOGIA; PESQUISA; DOCUMENTO
+Secretário divulga pesquisa sobre o tema e reforça posição do governo; secretário nega que haja divergências 
+Ministério da Ciência defende software livre 
+HUMBERTO MEDINA 
+DA SUCURSAL DE BRASÍLIA 
+Em meio à divergência pública do governo em relação ao software livre, o Ministério da Ciência e Tecnologia divulgou pesquisa sobre o tema e aproveitou para reforçar a posição de defesa do uso preferencial desse tipo de programa na administração federal.
+A pesquisa, intitulada "O Impacto do Software Livre e de Código Aberto na Indústria de Software do Brasil", conclui que o desenvolvimento desses programas ameaça especialmente os fabricantes de "pacotes".
+A pesquisa cita o caso do Windows, tratado como monopólio. "A emergência do Linux como plataforma alternativa ao Unix e, principalmente, ao Windows, nada mais é do que a quebra de monopólios que durante anos vêm impondo restrições de rentabilidade e de oportunidades a praticamente todas as atividades econômicas", diz o texto.
+O trabalho foi feito pela Softex (Associação para Promoção da Excelência do Software Brasileiro) e pela Unicamp (Universidade de Campinas).
+Na segunda-feira, em seminário em São Paulo, o ministro Luiz Fernando Furlan (Desenvolvimento) criticou a opção do governo de privilegiar o software livre.
+  Divergências 
+Ontem, durante a apresentação da pesquisa, uma das pessoas presentes distribuiu cópias do artigo "Furlan e Bill Gates X Zé Dirceu", do jornalista Elio Gaspari, publicado ontem na Folha e no jornal "O Globo". No artigo, a posição do ministro é criticada.
+Uma das fontes do desentendimento é o decreto, em análise pela Casa Civil, que torna obrigatória a opção pelo software livre nas licitações do governo federal. Outra fonte de desentendimento é o programa PC Conectado.
+Ontem, em entrevista após a divulgação da pesquisa, o secretário de Política de Informática do Ministério da Ciência e Tecnologia, Marcelo Lopes, defendeu o uso de software livre no governo federal. "Em um país como o nosso, qualquer economia que se faça na área de custeio é muito bom", disse.
+Ele negou, no entanto, que houvesse divergência pública dentro do governo.
+ 
+A íntegra da pesquisa "O Impacto do Software Livre e de Código Aberto na Indústria de Software do Brasil" está no endereço eletrônico www.softex.br

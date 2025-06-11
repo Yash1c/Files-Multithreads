@@ -1,0 +1,15 @@
+Veja diferenças entre tipos de disco gravável 17/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Aug 17, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; DVD; GRAVADOR; MÍDIA; DISCO; ESCOLHA; DUAL LAYER /DISCO GRAVÁVEL/
+Veja diferenças entre tipos de disco gravável
+DA REPORTAGEM LOCAL
+Qual mídia de DVD escolher? Gravável ou regravável? Padrão + ou padrão -? Depende da tarefa. Para transportar arquivos entre PCs, os tipos mais indicados são os discos DVD+RW e DVD-RW, reutilizáveis. Eles são bem mais frágeis, ou seja, vulneráveis a arranhões, desgaste e erros de leitura do que os discos de uso único (DVD-R e DVD+R), mas, como não se destinam ao armazenamento permanente de dados, isso não chega a ser um problema.
+Como os discos RW geralmente duram poucos meses, não vale a pena investir na compra de mídias caras: uma boa opção é o DVD+RW da marca Ridata, que tem velocidade de 4x e custa R$ 5 em São Paulo. Os bons gravadores já aceitam discos DVD+RW de 8x, mas essas mídias são difíceis de encontrar. Com um disco de 4x, o gravador leva aproximadamente 15 minutos para preencher toda a mídia.
+Se você quer gravar dados de forma permanente ou pretende presentear alguém com um DVD de vídeo, use mídias DVD-R de marcas conhecidas, como Sony e Maxell, e tenha cuidado com os discos falsificados _as inscrições na parte superior deles, como o logotipo do fabricante, são levemente borradas. Nessa tarefa, evite a mídia DVD+R, pois ela é inferior em compatibilidade, ou seja, roda em menos toca-DVDs.
+A estrela dos discos graváveis é o DVD+R DL, ou Dual Layer. Como tem duas camadas (veja quadro), ele comporta 8 Gbytes de dados, quase o dobro dos 4,7 Gbytes dos DVDs comuns. O problema é que a mídia DL custa muito caro, a partir de R$ 40, e é lenta (2,4x). Por isso, não é viável usar discos DL no dia-a-dia.
+Seja qual for o tipo de disco, não use etiquetas para marcá-lo. Não parece, mas a cola das etiquetas pode atacar quimicamente o substrato _parte do disco onde ficam gravados os dados_, causando problemas de leitura após alguns anos. Rotule seus discos com uma caneta hidrográfica (os modelos para retroprojetor, que custam R$ 5 em papelarias, são os melhores) ou por meio do recurso LightScribe _leia texto na pág. F7.
+(BG)

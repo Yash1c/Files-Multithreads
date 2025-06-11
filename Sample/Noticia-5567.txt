@@ -1,0 +1,25 @@
+Walkman tem disco de 20 Gbytes 3/8/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Aug 3, 2005
+Legenda Foto: O NW-HD3, que tem 1,6 cm de espessura e tela de 1,5 polegada
+Crédito Foto: Reprodução
+Vinheta/Chapéu: MÚSICA
+Assuntos Principais: MÚSICA DIGITAL; MP3; SONY HD WALKMAN NW-HD3 /TOCADOR/; ATRAC3PLUS /FORMATO/; TESTE; DESEMPENHO; CAPACIDADE; ARMAZENAMENTO
+Concorrente do iPod é ágil para receber arquivos, mas travou nos testes
+Walkman tem disco de 20 Gbytes
+DA REPORTAGEM LOCAL
+Com cara de câmera fotográfica, o HD Walkman NW-HD3, da Sony (www.sonystyle.com.br), pretende fazer frente ao seu mais importante concorrente, o iPod, da Apple, que domina o mundo dos toca-MP3 portáteis. Equipado com disco rígido de 20 Gbytes, ele armazena, segundo seu fabricante, 13 mil canções no formato de áudio Atrac3plus.
+Ainda mais compacto do que a versão mini do tocador da Apple, ele é um pouco maior do que um cartão de crédito, tem 1,6 cm de espessura e custa R$ 1.999.
+O aparelho vem acompanhado do programa Sonic Stage 2.3, que gerencia a biblioteca de músicas e a transferência de canções de CDs para o PC e dele para o HD Walkman _esta, bastante ágil.
+Nos testes feitos pela reportagem, a transferência de 11 arquivos, que totalizavam 15,4 Mbytes, levou menos de um minuto. A transferência inversa (do tocador para o micro) também é rápida.
+Só é possível transmitir canções para o computador em que foram geradas _isso significa que o aparelho não pode ser usado para transferir arquivos de um micro para outro.
+A qualidade do som é boa, embora o volume seja um pouco baixo _chega-se ao máximo sem esforço. Um recurso permite ouvir as canções no modo fone de ouvido ou no modo externo, para plugar o tocador em caixas de som _o que é útil para viagens.
+Falha
+As músicas são organizadas em cinco categorias. Quatro delas exibem o mesmo conjunto de canções, em diversas ordens: pelo nome do artista, do álbum, do gênero ou do grupo temático (Anos 70, por exemplo). Uma quinta categoria armazena os últimos arquivos transferidos do micro.
+Nos testes, ao tentar reproduzir uma canção armazenada nesse canal, o aparelho travou por duas vezes. Em uma delas, os botões ficaram mais de um minuto sem responder aos comandos.
+De acordo com a gerente de produtos da Sony, Patrícia França, o problema pode ter ocorrido porque a canção já havia sido transferida para as demais pastas. Seu nome, no entanto, permaneceu sendo exibido, o que pode causar problemas ao usuário.
+Botões
+O design do aparelho remete ao da linha iPod: poucos botões e um controle de navegação redondo, ao lado de um pequeno display (1,5 polegada). A funcionalidade das teclas, porém, pode ser incômoda. O botão da função Play é o mesmo para a função Stop e para ligar e desligar o tocador. Assim, pode acontecer de, ao tentar desligar o tocador, o usuário ter as canções iniciadas e interrompidas repetidamente, sem conseguir desativá-lo com rapidez. 
+(MB)

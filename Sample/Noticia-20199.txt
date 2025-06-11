@@ -1,0 +1,16 @@
+PCs multimídia têm Windows incrementado 15/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 15, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; TELEVISÃO; MULTIMÍDIA; WINDOWS XP MEDIA CENTER EDITION /SOFTWARE/; GRAVAÇÃO; REPRODUÇÃO; COMPUTADOR; RECURSO
+PCs multimídia têm Windows incrementado
+DA REPORTAGEM LOCAL
+O sistema operacional Windows XP Media Center Edition (MCE) é uma versão do Windows desenvolvida para a gravação e reprodução de TV no micro. A rigor, ele só está disponível em computadores novos, ou seja, não pode ser comprado avulso e instalado em qualquer PC. As máquinas com XP MCE ainda não estão à venda no Brasil.
+É uma pena, pois elas podem ser conectadas diretamente a qualquer televisor e oferecem recursos atraentes. O destaque está no controle remoto e na interface gráfica, que tem ícones e menus grandes _adequados para visualização à distância (na tela da TV).
+Além disso, os vídeos contidos no disco rígido podem ser gravados em DVDs. Alguns modelos, como o HP z500 (US$ 1.500), oferecem teclado sem fio como atrativo adicional.
+Também já estão à venda nos EUA notebooks do tipo Media Center. Um dos mais sofisticados é o Qosmio G15, da Toshiba, que custa a partir de US$ 2.299 e vem com capacidade de 100 Gbytes.
+A grande fraqueza dos Media Centers é que eles geralmente não gravam programas da TV de alta definição _HDTV_, já bastante popular nos Estados Unidos. Por isso, a maioria dos norte-americanos que gravam HDTV usa aparelhos fornecidos pelas empresas de TV por assinatura. Um dos mais sofisticados é o DirecTV HD DVR, que custa US$ 699 (www.directv.com/DTVAPP/imagine/TiVo_HD.dsp) e possui capacidade de 250 Gbytes _espaço suficiente para gravar 30 horas de HDTV.
+Outra opção é a placa de sintonia HDTV Wonder, da ATI (www.ati.com), que custa US$ 149 e supostamente funciona em qualquer computador minimamente moderno _chip de 1,3 GHz e 256 Mbytes de memória RAM. Veja micros montados com placas de alta definição em www.snapstream.com/community/digitallivingroomshowcase.asp.
+(BG)

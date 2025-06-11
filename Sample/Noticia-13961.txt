@@ -1,0 +1,14 @@
+Morpheus ignora ataques legais e libera versão 5.0 6/7/2005
+Autor: 
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 6, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: EUA; INTERNET; SITE; MÚSICA; DIREITO AUTORAL; MORPHEUS /SOFTWARE/
+Morpheus ignora ataques legais e libera versão 5.0
+DA REPORTAGEM LOCAL
+Indo na contramão dos ataques judiciais aos softwares de troca de arquivos (P2P), os criadores do programa Morpheus acabam de lançar a versão 5.0, que é gratuita e está em www.morpheus.com. O maior destaque do novo programa, cujo desenvolvimento levou quase dois anos, é a compatibilidade com o BitTorrent, atualmente a opção mais sofisticada para o compartilhamento de arquivos.
+Ao contrário de muitos programas P2P, o Morpheus aparentemente não inclui spyware _componentes parasitas que exibem propagandas na tela do micro e podem monitorar a navegação. Testes realizados com o Microsoft AntiSpyware (www.microsoft.com/athome/security/spyware/software/default.mspx) apontaram que o compartilhador não encerra elementos nocivos.
+Além de aceitar down- loads do BitTorrent, o Morpheus acessa o sistema Gnutella e tem a sua própria rede de compartilhamento. Ambas as opções são fáceis de usar, mas ficam atrás do BitTorrent em variedade e em velocidade de downloads.
+Os criadores do programa, que prometem lutar na Justiça dos EUA contra as acusações de auxílio à pirataria, dizem que seu software tem usos legítimos. 
+(BG)

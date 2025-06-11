@@ -1,0 +1,14 @@
+Memória RAM é principal upgrade 29/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jun 29, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; COMPUTADOR; GOVERNO LULA; COMPUTADOR PARA TODOS /PROGRAMA SOCIAL/; INCLUSÃO DIGITAL; LINUX /SISTEMA OPERACIONAL/; DESEMPENHO; MEMÓRIA RAM; EXPANSÃO; AMPLIAÇÃO; SCANNER; COMPATIBILIDADE
+Memória RAM é principal upgrade
+DA REPORTAGEM LOCAL
+O principal upgrade a ser feito no PC popular é a ampliação da memória RAM. Os 128 Mbytes que vêm instalados são insuficientes, ou seja, basta abrir duas ou três janelas para que a máquina se torne lenta. Aumentar a memória para 256 Mbytes ajuda muito a melhorar a performance do computador.
+Essa expansão não é cara. Na rua Santa Ifigênia, em São Paulo, compra-se um pente de 256 Mbytes por aproximadamente R$ 100. Os pentes de 128 Mbytes custam menos do que isso, mas estão se tornando difíceis de encontrar. Tanto o AMD Sempron 2200+ quanto o Intel Celeron D 315 aceitam pentes de memória RAM de 333 MHz _também identificados pela sigla PC2700.
+Se você pretende instalar um scanner, atente para o seguinte detalhe. O Insigne Linux vem com o gerenciador Xsane 0.92, cuja lista de compatibilidade está em www.sane-project.org/sane-backends.html. Ao escolher o periférico, prefira um que conste dessa lista.
+No caso da impressora, os modelos dos principais fabricantes devem, em tese, funcionar, mas nem sempre com todas as opções de configuração disponíveis para Windows. O site LinuxPrinting. org é uma boa referência, pois avalia a compatibilidade do Linux com impressoras de várias marcas e traz links que levam a drivers (programas adaptadores) não-oficiais para máquinas HP e Epson. 
+(BG)

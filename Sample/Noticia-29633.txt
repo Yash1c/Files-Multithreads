@@ -1,0 +1,29 @@
+Robôs se reproduzem como seres vivos 12/5/2005
+Autor: SALVADOR NOGUEIRA
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A20
+Edição: São Paulo May 12, 2005
+Legenda Foto: Seqüência de imagens mostra robô feito de quatro cubos em vários passos de sua auto-replicação
+Crédito Foto: Universidade Cornell
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: TECNOLOGIA
+Assuntos Principais: TECNOLOGIA; EUA; ROBO; AUTOREPLICAÇÃO; REPRODUÇÃO; DESCOBERTA
+Engenheiros nos EUA criam máquina que faz réplicas de si mesma; idéia pode ser útil na exploração espacial 
+Robôs se reproduzem como seres vivos 
+SALVADOR NOGUEIRA 
+DA REPORTAGEM LOCAL 
+O sonho de John von Neumann e o pesadelo de Eric Drexler ficaram mais próximos hoje. Um quarteto de cientistas da Universidade Cornell, nos Estados Unidos, acaba de anunciar a criação de um robô que é capaz de criar réplicas de si mesmo. É isso mesmo: ele se reproduz.
+A idéia de que máquinas pudessem se valer dessa propriedade, que hoje é exclusividade de seres vivos e programas de computador, não é nova. O húngaro-americano Von Neumann (1903-1957) foi o primeiro cientista a estudar de forma rigorosa a matemática envolvida em máquinas auto-replicantes.
+Mais tarde, outros especularam que as chamadas "sondas de Von Neumann" seriam a melhor maneira de explorar a galáxia _elas se replicariam usando matéria-prima de cada corpo celeste em que pousassem, multiplicando exponencialmente o potencial da missão e rapidamente visitando todos os sistemas da Via Láctea.
+Partindo delas, o nanotecnólogo americano Eric Drexler (1955-) imaginou o pior dos pesadelos _máquinas nanoscópicas (comparáveis ao tamanho de moléculas) que se multiplicam incessantemente até converter a superfície da Terra numa imensa gosma cinza ("grey goo", em inglês).
+Hod Lipson, líder do grupo que criou os robôs auto-replicantes, não compartilha esses medos. Quando questionado sobre se essas pesquisas deveriam ser desencorajadas, pelo perigo que poderiam proporcionar no futuro, ele diz que "neste caso, os benefícios potenciais claramente pesam mais que os riscos".
+Instruções 
+Os robozinhos que ele construiu são compostos por módulos em forma de cubo, com dez centímetros de lado e duas metades giratórias. Ímãs nas laterais dos cubos servem para fornecer a conexão. Cada cubo tem sua própria programação, que oferece as instruções para que um conjunto de cubos crie um outro conjunto, igual a ele mesmo. Claro, para que isso aconteça, os robôs precisam ser supridos de eletricidade e de novos cubos _sem essa matéria-prima, as máquinas não podem se multiplicar. E, para terminar a rotina de segurança, as máquinas estão programadas para só se multiplicar duas vezes. Sem dúvida, um mau dia para a "grey goo".
+O trabalho de Lipson e seus colegas, apresentado na edição de hoje do periódico científico britânico "Nature" (www.nature. com) é a auto-replicação mais sofisticada de robôs já realizada, mas não a primeira. Antes deles, em 1957, o físico Roger Penrose usou peças de madeira que se organizavam em certos padrões com mais freqüência que em outros. E em 2001 um grupo da Universidade Johns Hopkins fez robôs de lego capazes de montar lego. A grande contribuição do novo estudo não é tanto o fato de que suas máquinas podem se replicar, mas que também o de que podem crescer no processo.
+Evolução 
+O grupo de Lipson ganhou fama em 2000, ao elaborar um programa de computador que fazia "evoluir" projetos de robôs e depois os construía sozinho. Agora eles desenvolveram robôs que se multiplicam, com base numa programação. "O que queremos fazer agora é juntar as duas coisas e criar robôs que evoluam sozinhos e se reproduzam", conta Lipson.
+Embora o pesquisador não pense nessa tecnologia como uma legítima precursora das sondas de Von Neumann (a idéia não é se multiplicar indefinidamente com base em recursos locais), Lipson pensa que ela pode ser muito útil na exploração espacial.
+Futuras sondas não-tripuladas poderiam ser concebidas como módulos que a própria máquina pudesse reorganizar, de acordo com a tarefa a realizar ou com potenciais danos a serem feitos. "A auto-replicação é apenas o caso extremo do auto-reparo", ele diz.
+"A Nasa [agência espacial dos Estados Unidos] está considerando isso seriamente", prossegue. "Não só nós, mas outros grupos, do MIT e da Universidade do Sul da Califórnia estiveram em contato com a Nasa para propor idéias de como aplicar isso à exploração espacial."
+Para Lipson, nem todas as missões se beneficiarão da nova estratégia. Mas, segundo ele, as mudanças poderiam ser para já. "Acho que a tecnologia já está pronta, é só uma questão de política, mudar o paradigma de como se projeta robôs para exploração."
+A maior contribuição do seu trabalho não é no âmbito prático. É a noção de que a separação entre sistemas replicantes e não-replicantes é cheia de tons de cinza. "Não é uma coisa de preto e branco", diz. Com isso, se torna possível conceber uma escala de "replicabilidade", que servirá aos engenheiros como parâmetro pelo qual se guiar na hora de aperfeiçoar robôs replicantes.

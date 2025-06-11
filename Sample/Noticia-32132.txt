@@ -1,0 +1,21 @@
+Praga para telefone celular já atinge 20 países 4/5/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 4, 2005
+Legenda Foto: Imagem de celular infectado por uma variação do vírus Cabir
+Crédito Foto: Divulgação
+Observações: SUB-RETRANCA
+Assuntos Principais: TELEFONIA CELULAR; CABIR /VÍRUS/; TRANSMISSÃO
+Praga para telefone celular já atinge 20 países
+COLABORAÇÃO PARA A FOLHA
+Praga pioneira no ataque a telefones celulares, o Cabir, ainda está ativo e continua a se espalhar.
+De acordo com relatórios da empresa de segurança F-Secure (www.f-secure.com), o vírus já foi detectado em cerca de 20 países, incluindo EUA, China, Rússia, Holanda e Luxemburgo.
+Descoberto em junho do ano passado, o Cabir não causa danos aos aparelhos. Ele apenas tenta enviar cópias de si mesmo para outros telefones que tenham acesso a conexões sem fio do padrão Bluetooth _que é capaz de transferir dados para aparelhos num raio de até 15 metros.
+A única queixa feita por usuários que tiveram seus telefones infectados é a de que a carga da bateria acaba muito rápido.
+Isso acontece devido às seguidas tentativas de comunicação com outros aparelhos que o vírus força o telefone a fazer.
+Apenas modelos que operam com o sistema Symbian (www.symbianos.com), como o Nokia N-Gage e o Siemens SX1, podem ser infectados.
+Ameaça nociva
+De acordo com a empresa de segurança Trend Micro (www.trendmicro.com), um vírus para telefones celulares chamado de Skulss.I é capaz de trocar ícones e desabilitar funções de aparelhos.
+A praga tem como principal alvo o modelo 7610 da Nokia, mas também pode afetar aparelhos de outros fabricantes, como a LG e a Samsung.
+(JB)

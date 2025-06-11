@@ -1,0 +1,20 @@
+Grupo acha matemática do time de sucesso 29/4/2005
+Autor: REINALDO JOSÉ LOPES
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A14
+Edição: São Paulo Apr 29, 2005
+Legenda Foto: Rei Arthur (dir.) e Patsy no musical "Spamalot", da Broadway
+Crédito Foto: Joanne Marcus Bryan-Brown/Associated Press
+Vinheta/Chapéu: FÍSICA
+Assuntos Principais: FÍSICA; PESQUISA; MATEMÁTICA; ESTATÍSTICA; EQUIPE; SUCESSO
+Pesquisadores estudaram equipes científicas e peças da Broadway para definir mistura ideal entre novatos e experientes 
+Grupo acha matemática do time de sucesso 
+REINALDO JOSÉ LOPES 
+DA REPORTAGEM LOCAL 
+Se estivessem interessados em faturar dinheiro fácil, o físico português Luís Nunes Amaral e seus colegas da Universidade Northwestern, nos Estados Unidos, poderiam sair por aí vendendo palestras de motivação para universidades, centros da pesquisa _e grupos teatrais. É que o grupo conseguiu demonstrar matematicamente como montar uma equipe de sucesso: misturar gente novata e experiente é essencial, assim como pessoas nunca tenham trabalhado juntas.
+"A pessoa comum que vir a nossa pesquisa pode até se perguntar que diabo é isto", brinca Amaral, 36. "Mas acho que uma descoberta extremamente importante é que os fatores essenciais são os mesmos, não importa se você tem uma equipe de psicologia, economia, ecologia ou um grupo teatral da Broadway", afirma o pesquisador, que é do Departamento de Engenharia Química e Biológica da Universidade Northwestern. O trabalho está na edição de hoje da revista americana "Science" (www.sciencemag.org).
+No mínimo, não dá para dizer que os pesquisadores são do tipo "faça o que eu digo, não faça o que eu faço". O principal parceiro de Amaral no estudo é um sociólogo, Brian Uzzi. Os conceitos aplicados vêm da teoria das redes, uma das áreas que mais crescem nas ciências exatas ultimamente. O objetivo principal é criar modelos matemáticos que descrevam de forma realista como as pessoas interagem _seja como parceiros sexuais ou meros conhecidos no site de relacionamentos Orkut.
+O grupo usou como base os registros de peças produzidas na Broadway, a principal vitrine do teatro americano, entre 1877 e 1990; e as publicações em revistas científicas de psicologia social, economia, ecologia e astronomia entre 1955 e 2004. "Antes do século 20, não acho que encontraríamos um padrão de colaboração forte dentro da ciência. Historicamente, os cientistas trabalhavam sozinhos num certo problema", afirma Amaral. O primeiro resultado da análise mostrou que todas as áreas tendiam a um aumento no número de membros das equipes, e tendiam também a ter grande conectividade (ou seja, quase todo mundo no sistema está unido por colaborações aos demais).
+Depois, a equipe usou um conjunto de parâmetros _o número de membros de um grupo, a chance de um membro de uma equipe já ter experiência e a tendência das pessoas a trabalharem com alguém com quem já colaboraram antes_ para simular como essas redes se desenvolviam ao longo do tempo tempo. Então, compararam isso com os valores do mundo real e com o grau de sucesso das equipes nas áreas da ciência. O termômetro disso é o chamado fator de impacto _quanto mais importante a publicação onde alguém emplaca seus trabalhos, maior é o fator de impacto da revista científica.
+Amaral e seus colegas descobriram que, quanto maior o fator de impacto da publicação, maior a tendência para misturar pessoas experientes com recém-chegados, e menor a de trabalhar sempre com as mesmas pessoas. "Estou lembrando de uma frase que um amigo brasileiro me disse: muito cacique e pouco índio não é uma coisa boa", diz o físico.
+Segundo ele, há uma diferença grande entre seu trabalho e o feito por economistas ou empresários com o mesmo objetivo. "Eles usam dados como raça ou sexo para conseguir uma diversidade adequada. Mas olhe para o gabinete de George W. Bush: ele e Condoleezza Rice não poderiam ser menos parecidos, mas trabalham juntos há décadas. Cria-se uma estagnação completa", diz.

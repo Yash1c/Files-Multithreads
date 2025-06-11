@@ -1,0 +1,27 @@
+Vírus seqüestra arquivos e pede resgate 1/6/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 1, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: SEGURANÇA
+Assuntos Principais: INTERNET; SEGURANÇA; VÍRUS; SEQÜESTRO; ARQUIVO; FRAUDE; RESGATE; MICROSOFT /EMPRESA/; CORREÇÃO; WINDOWS /SISTEMA OPERACIONAL/; DOWNLOAD
+Praga codifica documentos do PC e exige até US$ 200 para restaurar acesso; saiba se proteger
+Vírus seqüestra arquivos e pede resgate
+COLABORAÇÃO PARA A FOLHA
+Os estelionatários da internet inventaram um novo meio de lucrar: o seqüestro de arquivos.
+Ao acessar uma página com código malicioso, o usuário copia involuntariamente um programa invasor para sua máquina.
+Esse soft faz uma busca por documentos pessoais e, ao encontrá-los, codifica os arquivos, tornando seu uso impossível.
+Uma mensagem é deixada com instruções. Se a vítima do golpe pagar, poderá baixar um programa especial e decodificar seus arquivos. Se ignorar o pedido, não conseguirá abrir os documentos.
+As primeiras ocorrências foram detectadas pela empresa de segurança Websense (www.websensesecuritylabs.com) e os pedidos de resgate exigidos chegaram aos US$ 200 (cerca de R$ 470).
+Segundo a empresa, o programa invasor se aproveita de uma falha antiga e já corrigida do Windowsse e se instala quando um site é visto com o Internet Explorer.
+Após a infeção, os primeiros arquivos afetados são os documentos de texto.
+O soft invasor busca arquivos na extensão DOC (usada pelo MS Word), envia-os para um servidor anônimo e substitui seu conteúdo por textos ilegíveis.
+Depois da codificação, é criado um arquivo com o nome de "Attention!!!" que dá instruções de como o usuário deve proceder para pagar o resgate e baixar um programa decodificador.
+Como evitar
+A primeira providência para evitar o seqüestro de arquivos é baixar a correção de segurança MS04-032 (www.microsoft.com/technet/security/Bulletin/MS04-023.mspx).
+Fazer apenas isso é uma medida ineficaz, uma vez que novos golpes podem explorar outras brechas de segurança do Windows ou do Internet Explorer.
+O ideal é instalar um programa antivírus, um filtro de arquivos (firewall) e trocar de navegador. Algumas opções populares para essa prevenção são o AVG Anti-Vírus (www.avgbrasil.com.br), o Omniquad Personal Firewall (www.omniquad.com) e o Firefox (www.getfirefox.com).
+Todos esses programas podem ser baixados gratuitamente.
+Outra medida importante é sempre desconfiar de e-mails com ofertas ou links para páginas desconhecidas.
+(JB)

@@ -1,0 +1,16 @@
+Autenticação digital melhora segurança 20/7/2005
+Autor: 
+Origem do texto: DA REDAÇÃO
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jul 20, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; INSTITUIÇÃO FINANCEIRA; BANCO; CLIENTE; ACESSO ON-LINE; OPERAÇÃO; SEGURANÇA; AUTENTICAÇÃO DIGITAL
+Autenticação digital melhora segurança
+DA REDAÇÃO
+O uso da certificação digital vem crescendo no país. Desde janeiro deste ano, a Secretaria da Receita Federal (SRF) já habilitou 30.584 certificados, entre e-CPFs e e-CNPJs. O número é maior do que o total registrado durante todo o ano passado.
+Trata-se de uma alternativa encontrada pela SRF para garantir maior segurança nas transações feitas pela internet. Sua função é identificar a origem e o destino das informações que trafegam pela rede, garantindo sua integridade.
+Os documentos eletrônicos são emitidos pelos bancos, por meio de um convênio firmado com a Federação Nacional dos Bancos (Febraban) e a SRF. Seu custo anual fica em torno de R$ 200 _o valor deve cair conforme a tecnologia for se popularizando. Para obtê-lo, é preciso solicitá-lo no site da SRF (www.receita.fazenda.gov.br).
+Os certificados digitais permitem ainda que o usuário acompanhe o andamento de sua declaração de Imposto de Renda pela rede e verifique sua situação fiscal.
+Cerca de 10 mil empresas brasileiras já entregam on-line sua declaração de Débitos e Créditos Tributários Federais (DCTF), seguindo a norma da SRF que obriga as companhias com receita bruta superior a R$ 30 milhões a entregarem o documento pela internet, com uso de assinatura digital.
+Cerca de 71% dos bancos já adotam a certificação digital e 24% afirmam que pretendem adotá-la.
+(MB)

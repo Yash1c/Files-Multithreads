@@ -1,0 +1,18 @@
+Acessório reforça bate-papo via comunicador 4/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo May 4, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; INTERNET; SEGURANÇA; NAVEGAÇÃO; DADO; PRIVACIDADE; COMUNICADOR PESSOAL; SIMPLITE /SOFTWARE/
+Acessório reforça bate-papo via comunicador
+DA REPORTAGEM LOCAL
+Como os comunicadores pessoais são ágeis, ou seja, enviam e transmitem conversas quase instantaneamente, podem parecer menos vulneráveis à espionagem. Isso não é verdade: sem um sistema de proteção, eles também podem ser grampeados. Por isso, é interessante codificar os diálogos via comunicador.
+O popular MSN Messenger (messenger.msn.com.br) pode ser complementado pelo programa SimpLite, que é gratuito e está em www.secway.fr. A configuração do acessório é relativamente simples. Feche completamente o MSN antes de instalar o acessório. Durante a instalação, você deverá criar uma senha e mexer aleatoriamente o mouse numa determinada região da tela (veja o porquê no texto ao lado). Depois, é só usar o MSN normalmente. Para que o sistema funcione, todos os participantes das conversas devem ter o SimpLite.
+Os criadores do programa também oferecem versões compatíveis com os comunicadores Yahoo!, ICQ e AIM.
+O SimpLite proporciona razoável proteção, mas não é infalível. Se o seu computador faz parte da rede de uma empresa, é concebível que os administradores de rede tenham outras maneiras de monitorá-lo, inclusive capturando imagens, em tempo real, da sua tela. Nesse caso, aliás, não há software de proteção que adiante.
+A ZoneLabs, criadora do firewall ZoneAlarm, também oferece um programa do tipo, o IMSecure (www.zonelabs.com/store/content/catalog/products/sku_list_ims.jsp). Ele é gratuito e promete compatibilidade com todos os comunicadores. Veja fotos do programa e instruções de configuração em português no endereço www.winajuda.com/tutorial18.php.
+Outro programa interessante para defender a privacidade nos bate-papos via MSN é o Polygamy (www.supertudo.net/msn/index.php), que permite manter várias cópias do comunicador funcionando ao mesmo tempo _algo útil em situações nas quais você deseja falar com pessoas diferentes usando identidades virtuais diferentes.
+Para funcionar, ele aplica uma modificação no arquivo do MSN (msnmsgr.exe). Depois de instalar o Polygamy, você poderá abrir mais de uma janela do MSN _as identidades e suas respectivas conversações ficam separadas. O resultado, em testes realizados com a versão 6.2 do comunicador, foi perfeito. De toda forma, trata-se de uma modificação não-autorizada pela Microsoft.
+Com ou sem acessórios, o MSN pode gravar transcrições das conversas que você realizou. Para impedir que isso ocorra, clique em Ferramentas, Opções e Mensagens e assegure-se de que o item Manter um histórico esteja desmarcado. Para eliminar registros que já tenham sido feitos, acesse a pasta de armazenamento do MSN _ela estará indicada no campo Histórico de Mensagens_ e apague todos os arquivos nela contidos.
+(BG)

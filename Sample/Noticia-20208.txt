@@ -1,0 +1,28 @@
+Software poliglota adapta páginas da rede 15/6/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Jun 15, 2005
+Legenda Foto: Tradução de página da Folha Online feita pelo Power Translator 9
+Crédito Foto: Reprodução
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: TRADUÇÃO
+Assuntos Principais: INTERNET; SITE; IDIOMA; POWER TRANSLATOR 9 /SOFTWARE/; TRADUTOR; DESEMPENHO
+Power Translator 9 reconhece palavras com duplo sentido; conversões para o português apresentaram falhas
+Software poliglota adapta páginas da rede
+MARIANA BARROS
+DA REPORTAGEM LOCAL
+Não existem fronteiras para surfar na internet _a não ser que você não entenda patavina do idioma do site selecionado.
+Um dos aplicativos mais interessantes do Language Engineering Company (LEC) Power Translator 9, da XpressSoftware, visa resolver isso. Chamado LEC Mirror, consiste em uma "janela intérprete", que traduz sites (compatível apenas com Internet Explorer) mantendo a aparência e os links das páginas.
+Na página do jornal russo "Pravda" (www.pravda.ru) foi possível compreender os assuntos de cada canal. As notícias, porém, não foram traduzidas integralmente. A conversão alternou reticências e estruturas ininteligíveis, como "Congresso de festa 'Rodina' que passa hoje dentro ... 'Izmailovo' complexo, começou em situação solene. Da manhã de ego ao lado de de ... delega e os convidados de foro de festa conheceram mocidade dentro vermelho-vermelho", que parece referir-se a uma manifestação.
+O resultado foi melhor na tradução do jornal francês "Le Monde" (www.lemonde.fr): "O jornalista de 'Liberação' foi livrado depois de cinco meses de cativeiro. Ido de Iraque e depois de uma escala em Chipre, ela/isto chegou o domingo pela noite no aeroporto". Apesar dos erros, foi possível entender que se tratava da liberação de uma jornalista mantida como refém em Bagdá.
+Segundo o analista da XpressSoftware, Rodrigo Estanislau, os erros ocorrem porque os idiomas são convertidos para o inglês antes da língua desejada.
+Dos seis idiomas disponíveis _português, inglês, espanhol, italiano, francês e russo, traduzidos bilateralmente por cinco dispositivos diferentes (leia abaixo)_ os melhores resultados foram obtidos na tradução do inglês para o português. Esta e a transição inversa foram avaliadas pela tradutora Cláudia Costa, que traduz séries (como "Ally McBeal") e filmes (como "Menina de Ouro") para TV e DVD.
+Segundo ela, a identificação de palavras de duplo sentido foi um destaque positivo. "Tomada", que pode designar tomada elétrica ou o verbo tomar, foi corretamente traduzida por "socket", na frase "A tomada queimou". Outras vantagens foram a flexão verbal e a preservação de nomes próprios na língua original. Apesar de alguns erros, o sentido das frases foi preservado.
+Para Costa, o reconhecimento de gírias foi outro aspecto positivo. "Em meu trabalho, é muito comum aparecerem expressões que não estão no dicionário", disse. Já a conversão do português para o inglês resultou em algumas frases incompreensíveis e expressões inexistentes, como "in function" para substituir "em função".
+Outros recursos
+Além do tradutor de páginas, o software dispõe de outros quatro aplicativos. O File Trans traduz arquivos de texto com extensão .txt e sites gravados no PC. Ao clicar no documento escolhido, surge uma versão integral na língua selecionada.
+O Dictionary informa o sentido e a classe gramatical da palavra escolhida e, se for verbo, como deve ser flexionado. "Get", por exemplo, segue o padrão do verbo "forget". O aplicativo inclui glossários médico, jurídico, de negócios e de computação _este traduziu "spam" para inundação, sem considerar que o termo designa e-mails indesejados.
+O dispositivo Transit gerencia o uso dos demais, enviando as informações para o canal desejado, e o Logo Trans traduz simultaneamente, enquanto o usuário digita. Uma outra janela faz a conversão inversa, para que o usuário certifique-se de que o sentido original está sendo mantido. A frase "Is there anything wrong?" foi traduzida para "Há qualquer coisa erradamente?" e convertida de volta para o inglês: "Is there any mistakenly thing?".
+A versão testada pela reportagem foi a Global, que custa R$ 1.178,60 e ocupa 193 Mbytes. Ela dá direito a três meses de acesso gratuito, via internet, a outros 272 pares de idiomas (a assinatura mensal varia de US$ 5 a US$ 40).
+O software está disponível nas versões Personal (R$ 383,05) e Professional (R$ 589,30). Ambas só traduzem do português para o inglês e vice-versa e a segunda inclui os glossários técnicos. Mais informações podem ser obtidas no site www.xpresssoft.com.br e pelo telefone 0/xx/11/5572-0247.

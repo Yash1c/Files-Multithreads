@@ -1,0 +1,14 @@
+Grave cópias de segurança em CD ou em DVD 14/9/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Sep 14, 2005
+Seção: CANAL ABERTO
+Grave cópias de segurança em CD ou em DVD
+"Como obter uma cópia de segurança dos e-mails armazenados no Outlook Express em CD? Tentei usar o 123 Outlook Express Backup, mas não obtive êxito. Ao final da operação, surgia uma mensagem dizendo que não havia espaço suficiente no CD para a realização, embora a quantidade de Mbytes das mensagens nas pastas selecionadas fosse bem menor que a capacidade disponível no CD."
+(Cesar Luiz da Silva Pereira)
+Resposta - A recomendação, nesse caso, é fazer a cópia de segurança em alguma pasta do próprio disco rígido.
+Feito isso, será possível recorrer a duas possibilidades para gravar esses dados em disco: usar os recursos do próprio sistema operacional ou utilizar um programa específico de cópia de arquivos, que permita copiar e gravar os dados em disco, tanto em CD quanto em DVD.
+Na primeira hipótese, o sistema operacional Windows XP permite que você copie arquivos em um disco de maneira fácil, simplesmente clicando sobre eles com o botão direito e selecionando a opção Enviar para.
+Nesse caso, deve ser selecionada a unidade do gravador de CD ou de DVD. O assistente do Windows emitirá um aviso sobre a existência de arquivos para serem copiados para aquela unidade e pedirá a sua confirmação.
+A segunda hipótese é usar algum programa específico para gravação, como o Roxio Easy CD/DVD Creator.
+Os softwares desse tipo costumam acompanhar os drives que possuem recursos de gravação em DVD ou em CD.

@@ -1,0 +1,9 @@
+RealPlayer contém falhas de segurança 29/6/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 29, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: PROGRAMA
+Assuntos Principais: INTERNET; SEGURANÇA; REALNETWORKS /EMPRESA/; SOFTWARE; TOCADOR; MP3; FRAUDE
+RealPlayer contém falhas de segurança
+A fabricante RealNetworks lançou correções para combater o controle malicioso do PC por meio de reprodução de arquivos em MP3. Saiba mais em service.real.com/help/faq/security/050623_player/EN.

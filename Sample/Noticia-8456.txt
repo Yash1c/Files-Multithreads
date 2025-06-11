@@ -1,0 +1,20 @@
+Mais enigmas amazônicos 24/7/2005
+Autor: MARCELO LEITE
+Origem do texto: COLUNISTA DA FOLHA
+Editoria: MAIS! Página: 9
+Edição: São Paulo Jul 24, 2005
+Seção: CIÊNCIA EM DIA
+Mais enigmas amazônicos
+Pode ser excesso de prudência. Mas também pode ser algo mais próximo da frustração, diante da proficiência técnica de uma ONG
+MARCELO LEITE
+COLUNISTA DA FOLHA
+O que era para ser uma boa, uma excelente novidade amazônica pode se transformar numa polêmica amarga. A possibilidade real de que o desmatamento na Amazônia tenha caído em junho até 95%, na comparação com junho de 2004, seria notícia em qualquer canto do mundo. Não tanto no Brasil, a pátria dos gatos escaldados.
+O assunto é a informação que começou a circular no dia 15, há pouco mais de uma semana, graças ao sítio O Eco (www.oeco.com.br): imagens de satélite veiculadas pelo novo programa de vigilância Deter (Sistema de Detecção de Desmatamento em Tempo Real) indicavam que só 531 km2 de floresta tinham sucumbido no mês passado. Junho havia sido o campeão de 2004: 10.017 km2.
+Fantástico, não? Não, na opinião de Gilberto Câmara Neto, do Instituto Nacional de Pesquisas Espaciais (Inpe). Na 57ª reunião anual da SBPC (Associação Brasileira para o Progresso da Ciência), em Fortaleza, ele criticou a imprensa por divulgar os dados do Imazon (Instituto do Homem e do Meio Ambiente da Amazônia). "É cedo [para comemorar]", disse. Afirmou também que chegara a tentar convencer o sítio O Eco a não divulgar a informação.
+Pode ser excesso de prudência, sempre bem-vindo num cientista. Mas também pode ser algo mais próximo da frustração, diante da proficiência técnica de uma ONG de pesquisa de Belém do Pará.
+O argumento do especialista do Inpe é que o sistema Deter foi projetado só para orientar a fiscalização do desmatamento. Para isso, usa imagens geradas pelo sensor de satélite Modis, que faz muito mais imagens da região do que o tradicional Landsat, mas com menor acuidade (resolução). Esse sensor não consegue "enxergar" desmatamentos menores que 250 m x 250 m, enquanto o Landsat capta até 30 m x 30 m. Em compensação, o Modis permite gerar relatórios em períodos curtos, ao passo que os dados do Landsat exigem um ano de análise para compor a estimativa anual oficial de desmatamento para toda a Amazônia.
+Além disso, há o problema das nuvens. Se coincidir de haver muita nebulosidade sobre grandes áreas desflorestadas no período, pode ocorrer subestimação considerável. "O problema é o que eu não vi", alega Câmara Neto. "A ausência de evidência [de desmatamento] não é evidência de ausência." A margem de erro do Deter é estimada em 25%.
+Ocorre que o Imazon está ganhando autonomia e experiência na sua capacidade de processar e analisar imagens como as do Modis/Deter. Um de seus pesquisadores, Carlos Souza Jr., desenvolveu metodologia computacional para extrair mais informação de cada pixel (quadradinho) das imagens digitais do satélite. Com isso, consegue reduzir para 10% a margem de erro, abrindo a perspectiva de obter cifras razoavelmente confiáveis, com periodicidade mensal, sobre desmatamento, enquanto o Inpe só as obtêm ao longo de um ano.
+Não se trata de fomentar uma rivalidade entre Inpe e Imazon, instituições que cooperam assiduamente. Mas é fato que o segundo crescerá ainda mais em estatura se o dado anual de desmatamento em 2004/2005 ficar de fato na faixa dos 14 mil km2 que está extrapolando hoje.
+cienciaemdia@uol.com.br
+cienciaemdia.zip.net

@@ -1,0 +1,21 @@
+Defenda seus segredos 4/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F1
+Edição: São Paulo May 4, 2005
+Crédito Foto: Fernando Donasci/Folha Imagem
+Leia Mais: X
+Observações: COM SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; INTERNET; SEGURANÇA; NAVEGAÇÃO; DADO; SOFTWARE
+Defenda seus segredos
+Saiba usar programas de codificação para dificultar a violação de dados pessoais
+BRUNO GARATTONI
+DA REPORTAGEM LOCAL
+A internet não é uma rede segura, ou seja, seus principais serviços oferecem baixo grau de privacidade. Esconder e-mails, bate-papos e o histórico de navegação pode parecer coisa de paranóicos, mas não é bem assim. Afinal, você gostaria de ter seu telefone grampeado, mesmo que só o use para banalidades? Além disso, no mundo empresarial a proteção de informações é fundamental.
+Tomando algumas medidas, é possível resguardar, com bom nível de segurança, quase tudo o que está gravado no PC, bem como proteger os dados que entram e saem da máquina via rede.
+A primeira medida é tornar a sua navegação particular. Isso pode ser feito com o programa Java Anonymous Proxy, ou JAP, que é gratuito (anon.inf.tu-dresden.de/index_en.html). Ao instalar o acessório, certifique-se de que o seu navegador esteja fechado. O JAP configura automaticamente o Internet Explorer. Se você usa o Firefox, clique em Ferramentas, Opções e Geral e aperte o botão Proxy. Na janela exibida, assinale o item Usar servidores proxy e digite, no campo HTTP, a palavra localhost. Para completar, digite o número 4001 no campo Porta e marque a opção Usar o mesmo proxy para todos os protocolos.
+Para navegar, é preciso que o JAP esteja aberto e conectado _basta ativar o item Activate anonymous web access. Todo o tráfego de informações via navegador é protegido, mas, como os dados são codificados várias vezes e passam por vários servidores, a navegação fica mais lenta. Por isso, nem sempre é possível usar o JAP constantemente.
+Para navegar sem ele, é preciso desfazer uma configuração. No Firefox, aperte o botão Proxy e escolha Conectar-se diretamente. No Internet Explorer, clique em Ferramentas e Opções da Internet e abra a guia Conexões. Selecione a sua, aperte Configurações e desmarque, na janela exibida, o item Usar um servidor proxy.
+Proteger a navegação não é suficiente. Também é preciso reforçar vários outros softwares. Isso quase sempre pode ser feito de graça, mas também existe um pacote que promete codificar navegação, e-mails e chats, com a vantagem de bloquear spam _mensagens comerciais não solicitadas_ e faixas publicitárias contidas em sites. É o Total Net Shield (www.anonymizer.com/totalnet shield), que custa US$ 29,95 por trimestre ou US$ 99,95 anuais.
+Faça o que fizer, não permita que estranhos tenham acesso ao seu micro, fisicamente ou por meio da internet. Do contrário, eles podem instalar um keylogger ou um trojan _respectivamente, um periférico que grava o que é digitado e um programa parasita que monitora o uso do micro e pode roubar informações críticas.
+LEIA MAIS na pág. F2

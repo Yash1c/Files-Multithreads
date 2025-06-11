@@ -1,0 +1,16 @@
+Disco rígido tem outras funções 17/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Aug 17, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; DVD; GRAVADOR; DISCO RÍGIDO; UTILIDADE
+Disco rígido tem outras funções
+DA REPORTAGEM LOCAL
+Com R$ 300, mais ou menos o que custa um gravador de DVDs, dá para comprar um disco rígido de 80 Gbytes, que é muito mais rápido e conveniente que o DVD. Além disso, considerando o gasto na aquisição de mídias graváveis, inicialmente o custo por Gbyte do disco rígido é menor. E você também tem a opção de comprar, caso não queira abrir o PC, um modelo externo.
+Na prática, um componente não substitui o outro. Como fica conectado e aberto para escrita o tempo todo, o disco rígido é bem mais frágil que o DVD. Mesmo se você souber evitar a entrada de vírus, que poderiam facilmente apagar os arquivos, o disco rígido é um dispositivo com partes móveis, que um dia vai quebrar. Havendo qualquer problema, todos os dados irão por água abaixo se você não tiver um backup.
+Já com o DVD-R, que uma vez gravado é imune a vírus, basta escolher uma mídia boa (leia texto ao lado) e manuseá-la com cuidado, evitando riscar e sujar o disco, para garantir a preservação dos arquivos por vários anos.
+A desvantagem dos DVDs no quesito capacidade vai diminuir. Grandes empresas de informática já preparam o lançamento, nos Estados Unidos, dos padrões HD-DVD (www.hddvd.org) e Blu-ray (www.blu-ray.com), que prometem capacidade até sete vezes superior à dos discos atuais.
+A competição entre os formatos poderá tumultuar a transição para a próxima geração, mas o Blu-ray parece estar mais bem posicionado na disputa: além de ter a maior capacidade, 54 Gbytes, ele será adotado no PlayStation 3, console de videogame da Sony previsto para chegar ao mercado em 2006. Como o PS3 deverá ser produzido em enorme escala _mais de 91,5 milhões de unidades de seu antecessor, o PS2, já foram fabricadas_, trata-se de impulso considerável para o Blu-ray.
+Seja qual for o padrão vencedor, ele ainda está distante. Inicialmente, os gravadores e discos de próxima geração serão caros, e seus mecanismos antipirataria poderão impor limitações.
+(BG)

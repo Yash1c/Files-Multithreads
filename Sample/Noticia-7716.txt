@@ -1,0 +1,9 @@
+Conexão à rede poderá chegar a 100 Mbps 27/7/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 27, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: FUTURISMO
+Assuntos Principais: TECNOLOGIA; TELECOMUNICAÇÃO; TELEFONIA; TRANSMISSÃO; TELESTE /EMPRESA/; VELOCIDADE; BANDA; PREVISÃO; TV A CABO
+Conexão à rede poderá chegar a 100 Mbps
+Segundo previsão da empresa finlandesa Teleste (www.teleste.com), que fabrica equipamentos para redes e infra-estrutura de TV a cabo, 30 Mbps será a velocidade mínima oferecida por essas operadoras. Desempenho semelhante é prometido pelas empresas de telefonia com as próximas gerações da tecnologia DSL, mas elas exigem conexões de fibra óptica, o que torna sua instalação bem mais cara. A tecnologia da Teleste, por sua vez, tem a vantagem de usar o cabeamento existente, pois transforma a própria rede da operadora de TV em uma rede Ethernet. Ela já vem sendo testada na Holanda pela operadora de TV Essent, mas com velocidades mais baixas. Para os assinantes europeus, a empresa estima que o custo do serviço varie entre € 50 e € 200 por mês.

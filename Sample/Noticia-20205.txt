@@ -1,0 +1,23 @@
+Pacote deixa XP com a cara do novo Windows 15/6/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jun 15, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; WINDOWS XP /SISTEMA OPERACIONAL/; VERSÃO; APARÊNCIA
+Pacote deixa XP com a cara do novo Windows
+COLABORAÇÃO PARA A FOLHA
+Quem não quer esperar até 2006 para usar a próxima versão do Windows pode, de graça, deixar o sistema XP com a aparência que seu sucessor deve ter.
+Para tanto, é preciso baixar o Longhorn Transformation Pack em sites como o Betanews.com ou o SuperDownloads.com.br e tomar alguns cuidados durante a instalação do programa.
+O LTP 10.0 reúne arquivos de configuração que alteram detalhes, como a tela de inicialização do sistema, o menu Iniciar e a borda das janelas.
+Inspirado nas imagens não-autorizadas, que mostraram como seria o próximo Windows, o soft também adiciona uma barra lateral na área de trabalho e traz um relógio com ponteiros.
+Cuidados
+Antes de instalar o LTP 10.0 é recomendável criar um ponto de restauração do sistema. Faça isso clicando nos menus Iniciar, Programas, Acessórios, Ferramentas de sistema e, por fim, em Restauração do sistema.
+Também é prudente ter consigo um CD de instalação do Windows XP. Fazer uma cópia de segurança da pasta Windows é outra medida para evitar problemas no futuro.
+Instalação
+O assistente de instalação do LTP mostra opções para a alteração da aparência do sistema. Basta marcar quais delas você deseja.
+É possível fazer alterações que mudem apenas o menu Iniciar ou que alterem todas as janelas.
+Aero, M3 e WinHEC são os nomes de algumas das capas para janelas e menus. É possível mudar essa opção depois da instalação.
+Depois das etapas de configuração, o PC deverá ser reiniciado automaticamente duas vezes. Durante esse processo, uma janela perguntará se você quer substituir as "versões desconhecidas" por arquivos originais. Aperte o botão Cancelar e respeite as instruções que pedem para esperar um minuto antes de prosseguir.
+Depois da segunda inicialização, o XP já exibirá a nova aparência. Em caso de problemas, desinstale o LTP por meio do menu Iniciar, Painel de Controle, Adicionar/Remover Programas.
+(JB)

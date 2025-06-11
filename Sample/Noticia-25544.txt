@@ -1,0 +1,15 @@
+O caso do PC Conectado 26/5/2005
+Autor: LUÍS NASSIF
+Editoria: DINHEIRO Página: B4
+Edição: São Paulo May 26, 2005
+Seção: LUÍS NASSIF
+O caso do PC ConectadoHÁ CERTA confusão nas críticas feitas ao programa PC Conectado, pelo fato de exigir apenas softwares livres no computador. Alega-se que, como o Windows é o sistema operacional hegemônico nos computadores pessoais, os "incluídos" do software livre seriam os "excluídos" do sistema predominante.
+Não é bem assim. Há dois tipos de público: o profissional e o usuário individual. Qualquer política de desenvolvimento de software no país precisa contemplar não apenas o livre mas os sistemas e programas mais utilizados no mundo, como Windows, Oracle, SAP etc.
+Quantos aos usuários individuais _especialmente os que irão adquirir o primeiro computador_, precisarão, no básico, de um editor de texto e de uma planilha, um navegador para a internet e um programa de e-mails. Adicionalmente, programas de apresentação e bancos de dados, softwares que rodem programas de áudio e vídeo.
+Só que, no reino do software livre, todas essas ferramentas "office" viraram commodities, com similares à altura dos originais. Existe o OpenOffice, que emula todos os comandos do Microsoft Office. O acesso ao OpenOffice habilita o usuário não apenas a dominar o OpenOffice como os aplicativos do Microsoft Office. E de graça.
+Mas é importante que o PC Conectado não se transforme apenas em um distribuidor de aplicativos. Tem que servir de base para uma política de modelagem do negócio de software livre.
+Esse pessoal trabalha de duas maneiras: ou sistemas próprios, em cima de plataformas livres e abertas, ou na integração de aplicativos de software livre. Ainda há muita dificuldade em definir o modelo de negócio _que lhes permitirá se profissionalizar, ganhar dinheiro e crescer.
+O primeiro passo é definir um padrão de Linux único a ser utilizado. Embora seja um sistema aberto, nos últimos anos surgiu um modelo torto de negócio, de distribuidoras de Linux operando com a cabeça de software proprietário, compilando programas apenas para seu próprio ambiente. Há que colocar ordem nessa zorra.
+O segundo ponto consiste em definir o negócio do pequeno desenvolvedor. Um modelo de negócio é o de prover serviços de atualização dos aplicativos e de assistência técnica remota. O sucesso do programa, aliás, dependerá da capacidade permanente de atualização dos sistemas e aplicativos.
+Outro ponto relevante é estimular sistemas de rede que permitam economizar hardware e integrar comunidades, especialmente a escola pública. O Ministério da Educação pode ter, aí, a chance de implantar definitivamente as bibliotecas virtuais e outras possibilidades abertas pela inclusão digital.
+@ E-mail - Luisnassif@uol.com.br

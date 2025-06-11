@@ -1,0 +1,18 @@
+Novo Painter é mais rápido e preciso 22/6/2005
+Autor: GISELE PUNGAN
+Origem do texto: DA EDITORIA DE ARTE
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jun 22, 2005
+Crédito Foto: Editoria de Arte/Folha Imagem
+Observações: SUB-RETRANCA
+Assuntos Principais: ARTES GRÁFICAS; PAINTER /SOFTWARE/; COREL /EMPRESA/; VERSÃO; RECURSO
+Novo Painter é mais rápido e preciso
+GISELE PUNGAN
+DA EDITORIA DE ARTE
+O software de pintura digital Painter, da Corel, vai para sua versão 9, continuando as melhorias iniciadas na última atualização. O programa reproduz de maneira super-realista materiais, suportes e efeitos de diversas técnicas artísticas. E a performance melhorou: no Painter 9, a pintura flui bem e sem interrupções nas pinceladas.
+Outra melhoria da nova versão está na paleta de cores. Nela, a fidelidade ao ambiente físico do trabalho do artista é levada ao extremo: o usuário tem disponível um espaço para misturar as cores semelhante à paleta de mão dos pintores. Há novos pincéis a óleo, considerados por usuários profissionais uma das principais melhorias do sistema, pois proporcionam um acabamento final idêntico ao de um quadro real.
+O programa facilita o acesso às ferramentas salvando cada pincel usado na nova Tracker Pallete, mesmo depois que o documento é fechado. Mas o recurso desfazer ainda não é suficiente: falta uma opção semelhante à paleta History (histórico), do Photoshop, que permite voltar com precisão para cada passo dado.
+A versão 9 traz a opção de o usuário configurar as teclas de atalho _o que é muito útil, já que o programa nunca seguiu as configurações consagradas de atalhos. Por exemplo: até agora, a tecla Z acessava a ferramenta Tesoura e não a Zoom, como é comum na maioria dos softwares.
+O novo Painter abre arquivos com a extensão padrão do Photoshop (PSD), mantendo as características de layers e dos canais de cor. Assim, é possível tratar a pintura em camadas sem choques entre os sistemas.
+Para instalar a versão 9, a fabricante recomenda pelo menos um Pentium II de 500 MHz ou equivalente, ou um Macintosh G3 de 500 MHz, com memória RAM mínima de 256 Mbytes e 390 Mbytes de espaço no disco rígido. O programa está disponível para Mac (a partir da versão 10.2.8 do Mac OS X) e Windows (2000/XP).
+O preço no Brasil (www.corel.com.br) é de R$ 1.400, e a atualização, para quem já possui uma das versões anteriores do programa, custa R$ 786, bem acima do que costuma ser o preço das atualizações desse tipo de software.

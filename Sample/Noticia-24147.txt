@@ -1,0 +1,22 @@
+Cale ruídos gerados pelo sistema 1/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 1, 2005
+Legenda Foto: Tela de ajuste do modem, que permite silenciar som desnecessário; Configuração do Menu Iniciar, que libera lista completa de softs
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: COMPUTADOR; WINDOWS XP /SISTEMA OPERACIONAL/; DICA; CONFIGURAÇÃO; AUTOMATIZAÇÃO; SOFTWARE; PROGRAMA; RUÍDO; ELIMINAÇÃO; ATUALIZAÇÃO
+Tela de ajuste do modem, que permite silenciar som desnecessário
+Cale ruídos gerados pelo sistema
+DA REPORTAGEM LOCAL
+Quando está discando uma conexão à internet, o modem produz uma série de ruídos inúteis e potencialmente desagradáveis. Para se livrar deles, clique em Iniciar, Configurações e Conexões de rede. Na janela exibida, clique com o botão direito do mouse na sua conexão e escolha Propriedades. Aperte o botão Configurar e desmarque o item Alto-falante do modem. Pronto.
+Os sons emitidos pelo sistema operacional também podem constituir um tormento auditivo, principalmente se você usa muito o computador. Para que o Windows funcione em silêncio, clique em Iniciar, Configurações e Painel de Controle e acione o item Sons. Para completar, basta escolher a opção Sem som no campo Esquema de som.
+Mesmo se for revertido para o Modo Clássico (leia texto nesta página), o Menu Iniciar adota uma postura discutível: não mostra todos os softwares disponíveis, ou seja, esconde os menos usados. Se você quiser o menu completo, clique com o botão direito na barra de tarefas, escolha Propriedades, aperte Personalizar e desmarque o item Usar menus personalizados (ele é o último item da lista Opções avançadas).
+O sistema de atualização automática do Windows é importante, pois ajuda a manter o PC protegido contra vírus e ataques via rede. Mas ele pode atrapalhar a sua navegação na rede e deixar o micro lento em momentos impróprios. Vale a pena fazer um ajuste para que o sistema baixe as atualizações, mas só as instale quando autorizado pelo usuário. Clique com o botão direito em Meu computador, escolha Propriedades e Atualizações Automáticas e marque a terceira opção (Avisar). Caso prefira que a instalação continue sendo automática, você pode especificar um horário para que ela ocorra.
+Monitor cego
+A atualização Service Pack 2 adiciona ao Windows XP a Central de Segurança, cuja função é verificar se o computador tem um antivírus e um firewall. Mas há situações em que a Central de Segurança não consegue detectar os programas (sobretudo no caso de versões mais antigas) e fica exibindo alertas desnecessários e enfadonhos.
+Se o PC tem antivírus e firewall, mas o Windows continua reclamando, faça o seguinte. Abra a Central, que fica no Painel de controle, e aperte o botão Recomendações, sob a caixa Proteção contra vírus. Na janela exibida, assinale o item Possuo um programa antivírus que eu mesmo irei monitorar. Repita esse procedimento com o firewall.
+A execução automática de CDs pode gerar insatisfação, pois suas configurações não podem ser mudadas depois da primeira seleção. Isso significa que, se você disse ao Windows para tocar automaticamente as músicas contidas em CDs com arquivos MP3, por exemplo, não pode selecionar outra ação. Mas essa imutabilidade é apenas aparente.
+Para mexer na função, acesse o menu Propriedades do drive de CD (ele fica dentro do Meu computador), abra a guia Execução Automática e diga ao Windows o que ele deve fazer com CDs de vários tipos. Também existe a opção de ignorar a reprodução automática _simplesmente clique em Nenhuma ação. 
+(BG)

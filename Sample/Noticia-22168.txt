@@ -1,0 +1,26 @@
+Yahoo! lança soft para envio de fotos 8/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Jun 8, 2005
+Legenda Foto: PhotoMail, recurso do Yahoo! que facilita o envio de fotos por e-mail
+Crédito Foto: Reprodução
+Vinheta/Chapéu: INTERNET
+Assuntos Principais: INTERNET; SITE; YAHOO! /EMPRESA/; GOOGLE /EMPRESA/; ASK JEEVES /EMPRESA/; PHOTOMAIL /SOFTWARE/; LANÇAMENTO; ENVIO; FOTOGRAFIA; FOTO; ENVIO; SERVIÇO; BUSCA
+PhotoMail agiliza transmissão de imagens contidas em sites e álbuns virtuais
+Yahoo! lança soft para envio de fotos
+BRUNO GARATTONI
+DA REPORTAGEM LOCAL
+Yahoo!, Google e Ask Jeeves apresentaram novos serviços gratuitos para melhorar buscas e incrementar o correio eletrônico de seus usuários. O destaque é o PhotoMail, do Yahoo!, que facilita o envio de fotos em e-mails. Depois de acessar br.photomail. mail.yahoo.com (usando o Internet Explorer) e digitar a sua senha de e-mail do serviço Yahoo! Mail, o usuário deve instalar o software fornecido, que tem 1,1 Mbyte.
+Feito isso, surge uma nova opção durante a redação de uma mensagem. Ela permite que, em vez de mandar as fotos anexadas (attached) à mensagem, você transmita apenas miniaturas das imagens.
+Isso reduz o tamanho do e-mail resultante e viabiliza a principal qualidade do PhotoMail _segundo o Yahoo!, ele admite a inclusão de até 300 fotos em cada mensagem. O destinatário pode ver uma apresentação de slides com as imagens ou encomendar cópias impressas (apenas nos Estados Unidos).
+A interface do PhotoMail é agradável, mas só mostra miniaturas de imagens gravadas no formato JPG, ou seja, dá acesso a fotos em BMP, mas não exibe suas prévias.
+O programa também dá acesso a álbuns virtuais e ao buscador de imagens do Yahoo!, ou seja, permite enviar fotos da internet direto para o e-mail _basta arrastá-las usando o mouse.
+Para ver as fotos, os destinatários, que não precisam ter conta no Yahoo! Mail, clicam nas miniaturas e são levados até um álbum do Yahoo! Photos, que dá acesso por 90 dias às versões originais (com alta resolução) das fotos. Um defeito foi constatado durante testes realizados com o serviço de correio Gmail (gmail.google.com). Se o destinatário da mensagem tenta encaminhá-la para outra pessoa, os atalhos para fotos somem do e-mail.
+Outra novidade é o mecanismo de busca Yahoo! Mindset (mindset.research.yahoo.com). Ele tem um controle que permite especificar se a pesquisa é por produtos ou por informações. No primeiro caso, aparecem lojas virtuais e produtos relacionados às palavras-chave digitadas; no segundo, sites com informações sobre elas.
+Na prática, o Mindset, que ainda está em desenvolvimento, nem sempre funciona perfeitamente. Se você digita a palavra Schumacher, por exemplo, e seleciona a busca por produtos, o primeiro resultado exibido não tem nada a ver com o heptacampeão da Fórmula 1 _é um site que vende ginseng. Com o buscador no modo de "informações", o primeiro site é uma página religiosa também sem relação com o piloto.
+Como diferem dos sites exibidos pelo buscador principal do Yahoo! (www.yahoo.com), esses resultados podem ser considerados anômalos. O próprio Yahoo! admite que o Mindset pode "precisar de ajustes".
+Mapa de sites
+No buscador Ask Jeeves (www.ask.com), a novidade são os Related Topics, links preconfigurados para buscas relacionadas àquela que você digitou.
+Teclando "soccer" (futebol), por exemplo, surgem links para buscas como "história do futebol" e "saiba jogar futebol".
+O Google inaugurou o Sitemaps (https://www.google.com/webmasters/sitemaps/stats), com o qual donos de sites podem indicar a inclusão e a modificação de páginas no sistema_coisa que supostamente agiliza sua indexação pelo buscador.

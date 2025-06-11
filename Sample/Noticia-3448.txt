@@ -1,0 +1,16 @@
+Facilite a digitação de endereços 10/8/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Aug 10, 2005
+Seção: CANAL ABERTO
+Assuntos Principais: INFORMÁTICA; WORD /SOFTWARE/
+Facilite a digitação de endereços
+"Trabalho com o Word e com freqüência tenho que digitar endereços completos em documentos, com rua, cidade, CEP e Estado. Existe alguma forma de agilizar esse processo? É possível criar um atalho para que eu não tenha que digitar sempre o nome completo da cidade, por exemplo?"
+(Romildo Marques)
+*
+Resposta - Você pode usar o recurso de Autocorreção para criar uma abreviação de, por exemplo, três letras, que, ao serem digitadas, são substituídas pelo nome completo da cidade. Esse recurso encontra-se no menu Ferramentas, em Opções de autocorreção.
+Contudo, se você trabalha como o Word 2003 e costuma estar conectado à internet, pode usar diversos serviços da Microsoft ou de parceiros. Os Correios, por exemplo, oferecem um serviço que permite que, ao digitar o CEP, o resto do endereço seja inserido automaticamente na posição do cursor (basta completar o número da rua ou da avenida). Para usá-lo, clique em Ferramentas e em Pesquisar, na barra de menus. No painel direito, clique em Opções de pesquisa e em Adicionar Serviços. Na caixa de diálogo Adicionar Serviços, digite consultacep. correios.com.br/office2003/ registration.asmx, no campo Endereço. Clique em Adicionar e, em seguida, clique duas vezes no botão Continuar. Por fim, escolha Instalar. A caixa de diálogo Adicionar Serviços comunicará que o serviço foi adicionado com êxito. Digite o CEP, pressione a tecla Alt e clique sobre ele para que a pesquisa seja feita e o endereço, inserido. Somente a versão 2003 do Word e de outros aplicativos do Office possui esse recurso.
+CORRESPONDÊNCIA
+E-mail: canalaberto@uol.com.br
+(necessário nome completo)
+próximo...próxima ocorrência...

@@ -1,0 +1,24 @@
+Velocidade de acesso ao mundo on-line se multiplica 25/5/2005
+Autor: JB
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: CADERNO ESPECIAL Página: Especial-2
+Edição: São Paulo May 25, 2005
+Observações: 10 ANOS DE INTERNET COMERCIAL NO BRASIL
+Vinheta/Chapéu: TECNOLOGIA
+Assuntos Principais: INTERNET COMERCIAL; BRASIL; TECNOLOGIA; VELOCIDADE; CONEXÃO; HISTÓRICO
+Velocidade de acesso ao mundo on-line se multiplica 
+COLABORAÇÃO PARA A FOLHA 
+A velocidade das conexões com a internet vem se multiplicando ao longo do tempo, enquanto os preços dos equipamentos e dos serviços caem constantemente.
+Isso, no entanto, não quer dizer que os dez anos que separam o modem de 14,4 Kbps do acesso à banda larga tenham sido fáceis.
+"Existia na época uma rede voltada para trafegar voz, e não para tráfego de pacotes. Foi necessária a implantação de servidores de acesso discado em pontos estratégicos", explica o gerente do Centro de Operações Nacionais da Embratel, Luciano Carino.
+Carino foi um dos responsáveis pela implantação do primeiro ponto para a conexão de máquinas à internet no Brasil. Foi por meio desse backbone que os provedores passaram a oferecer acesso aos usuários.
+As dificuldades para disseminar o acesso à rede mundial não ficaram apenas na parte técnica.
+"Quando a Telefônica assumiu, cerca de 7 milhões de pessoas esperavam por um telefone", relembra Odmar Almeida Filho, vice-presidente de negócios residenciais da Telefônica.
+Naquela época, o preço dos equipamentos era pouco acessível. Em 1993, um modem de 14,4 Kbps custava até US$ 1.000. Em 1996, os modelos de 28,8 Kbps já custavam R$ 250.
+Naquele ano também chegaram ao Brasil os modems de 56 Kbps. Eles tinham problemas de compatibilidade que só foram resolvidos em 1998 com o lançamento do padrão V.90.
+Isso contribuiu para baixar os preços ainda mais no final de 1998 (um modem de 56 Kbps custava cerca de R$ 99).
+Banda larga 
+Os provedores rápidos chegaram em 1999, quando canais de TV a cabo e operadoras de telefonia ganharam o direito de prover acesso. As pioneiras foram a Net e a TVA, que lançaram serviços com velocidades de até 256 Kbps.
+Em 2000, a Telefônica lançou o Speedy, que usava conexão via cabo e era capaz de fazer transferências de até 150 Kbps_ atualmente já existem serviços com velocidade mais de dez vezes superior.
+O que há dez anos tinha de ser feito em ambientes fechados e exigia máquinas de mesa, hoje é feito de qualquer lugar com dispositivos que cabem na palma da mão.
+(JB)

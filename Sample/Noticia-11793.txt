@@ -1,0 +1,24 @@
+Leitura de mensagens requer cuidado especial 13/7/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 13, 2005
+Legenda Foto: Site de webmail, que evita que vírus sejam copiados para o PC
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; INTERNET; VÍRUS; E-MAIL /CORREIO ELETRÔNICO/; PRECAUÇÃO; CUIDADO; SEGURANÇA; DICA
+Leitura de mensagens requer cuidado especial
+COLABORAÇÃO PARA A FOLHA
+O e-mail é uma das principais armas dos invasores de micros. Arquivos com vírus podem infectar máquinas mesmo sem ser abertos e mensagens podem trazer várias armadilhas para instalar programas espiões com atalhos para sites com códigos maliciosos. É preciso ficar atento e desconfiar sempre.
+Uma medida preventiva interessante para manter as ameaças longe do seu computador é ler as mensagens primeiro no webmail (site que mostra sua conta de e-mail) e, depois de remover e-mails suspeitos, baixá-las com um programa leitor, como o Outlook. Existem pequenos programas que facilitam essa tarefa.
+O gratuito ePrompter (www.eprompter.com), por exemplo, mostra um aviso quando novas mensagens chegam e permite que o usuário leia a correspondência sem precisar copiar as mensagens para a máquina.
+Outro programa capaz de realizar tal tarefa é o Email Remover (grátis; www.email-remover.com). Ele mostra as informações de cabeçalho do e-mail e possibilita ver informações sobre a procedência das mensagens e sobre os arquivos anexos.
+Durante a primeira leitura, não hesite em apagar qualquer correspondência que venha de sites pornográficos ou de lojas virtuais que oferecem descontos absurdos. Recadastramentos de serviços bancários ou do governo não são feitos por e-mail.
+O mesmo se aplica aos provedores de acesso, que não pedem que seus usuários enviem dados por meio de mensagens.
+Antes de clicar em qualquer link presente em uma mensagem, confira se ele aponta realmente para o endereço mostrado.
+Basta colocar a seta do mouse em cima do link e conferir o endereço que aparece na parte de baixo da janela do navegador.
+Anexos
+Mesmo quando um arquivo anexo é enviado por um remetente conhecido, use o programa antivírus para fazer uma verificação. Não são apenas os arquivos executáveis (na extensão EXE) que podem conter vírus.
+As extensões compatíveis com o Microsoft Office, como DOC, XLS e PPS, podem armazenar códigos maliciosos que deixam o PC vulnerável a ataques.
+A inspeção com o antivírus também é obrigatória para os arquivos obtidos em programas que acessam redes de troca, como eDonkey e BitTorrent. Mesmo arquivos de áudio e de vídeo podem conter ameaças à segurança.
+(JB)

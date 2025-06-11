@@ -1,0 +1,16 @@
+Windows tem efeitos 3D e de transparência 21/9/2005
+Autor: 
+Origem do texto: DA REDAÇÃO
+Editoria: INFORMÁTICA Página: F7
+Edição: São Paulo Sep 21, 2005
+Legenda Foto: Tela do Windows Vista, que é o sucessor do XP e chega em 2006
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: COMPUTADOR; PC /PERSONAL COMPUTER/; MICROSOFT /EMPRESA/; WINDOWS VISTA /SISTEMA OPERACIONAL/; LANÇAMENTO; MUDANÇA; RECURSO; DESEMPENHO; PROFESSIONAL DEVELOPERS CONFERENCE /EVENTO/; CONFIGURAÇÃO
+Windows tem efeitos 3D e de transparência
+DA REDAÇÃO
+Outro programa a incorporar novidades foi o Windows Vista (www.microsoft.com/windowsvista/default.mspx), que é o sucessor do Windows XP e deverá chegar ao mercado no ano que vem. A Microsoft ativou a interface gráfica com efeitos 3D (veja fotos em www.wincustomize.com/Articles.aspx?AID=86645&u=0), cujo acionamento requeria uma configuração manual complicada, e resolveu padronizar as extensões do sistema operacional, que agora se chamam Gadgets (microsoftgadgets.com).
+As extensões se destinam a personalizar a Sidebar, uma barra vertical que congrega informações de consulta rápida, como relógio, previsão do tempo, notícias curtas etc.
+Já o sistema de arquivos WinFS, tecnologicamente a maior inovação do Vista, não será lançado junto com o programa (a empresa de Bill Gates voltou a prometer que ele será distribuído via rede assim que estiver pronto). Mesmo sem o WinFS, que viabilizaria recursos altamente úteis e sofisticados _permitiria ver, por exemplo, todo o histórico de bate-papos, e-mails, compromissos e arquivos referentes a uma determinada pessoa com apenas um clique_, o Vista terá um sistema de busca melhorado, similar ao atualmente oferecido pela MSN Toolbar (toolbar.msn.com).
+Melhorias na segurança são um ponto crítico para o Windows, que atualmente é frágil. O Vista pedirá que o usuário digite sua senha antes de instalar programas ou mexer em configurações. Essa medida prosaica, que nos sistemas Linux e Mac OS X é padrão, realmente ajuda a evitar ataques.
+Segundo o site Windows IT Pro (www.windowsitpro.com/Article/ArticleID/47665/47665.html), que cita fontes da Microsoft, o Windows Vista terá nada menos que sete versões: Starter Edition, Home Basic, Home Premium e Ultimate Edition, todas para uso doméstico, e as corporativas Small Business Edition, Professional e Enterprise. Tirando a versão Starter, que será destinada a PCs básicos e terá limitações de operação, todas as demais serão compatíveis com chips de 64 bits.

@@ -1,0 +1,11 @@
+Empresa adapta padrão para conexão à rede 10/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Aug 10, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TELECOMUNICAÇÕES; INTERNET; CONEXÃO; UWB /ULTRAWIDEBAND/; TECNOLOGIA; EQUIPAMENTO PERIFÉRICO
+Empresa adapta padrão para conexão à rede
+DA REPORTAGEM LOCAL
+A tecnologia Ultrawideband, ou UWB, se destina principalmente a conectar periféricos _impressora, scanner etc_ dispensando fios, mas pelo menos uma empresa pretende empregá-la como meio de acesso à internet. É a Pulse˜LINK (www.pulselink.net), que afirma ter desenvolvido protótipos com velocidade de até 1 Gbps. Essa taxa é conseguida apenas quando o transmissor e o receptor estão muito próximos, a até três metros; a 20 metros, a velocidade cai para 80 Mbps, e a 80 metros, fica reduzida a 2 Mbps. Segundo a companhia, a tecnologia não gera interferência em outros sistemas sem fio. 
+(BG)

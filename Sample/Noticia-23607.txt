@@ -1,0 +1,18 @@
+Canon tem visor LCD e entrada para cartões 14/9/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Sep 14, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; CANON PIXMA MP130 /IMPRESSORA/; MULTIFUNCIONALIDADE; RECURSO; TESTE; DESEMPENHO; RESOLUÇÃO; PREÇO
+Canon tem visor LCD e entrada para cartões
+DA REPORTAGEM LOCAL
+Gosto não se discute, mas a superioridade em design da Canon Pixma MP130 é tão estética quanto funcional: acima da tampa de plástico semibrilhante fica um visor alfanumérico, de cristal líquido, com duas linhas de texto. Entre as máquinas avaliadas, apenas a Canon possui visor LCD _as outras têm apenas um simplório indicador de um dígito.
+A MP130 também é a única do teste com entrada para cartões de memória _aceita os padrões CompactFlash e Secure Digital_ e com o recurso folha de prova. Introduzida pela HP, essa função imprime uma página com miniaturas das suas fotos para que você assinale, a lápis, as imagens que efetivamente deseja imprimir.
+Em teclas e opções de impressão, aliás, a Canon é a melhor. É uma pena, por isso mesmo, que não tenha o recurso Scale to fit _é preciso escolher manualmente, por tentativa e erro, o percentual de redução dos documentos.
+Existem dois problemas mecânicos na MP130. Primeiro, ela é a impressora mais barulhenta entre as testadas _a Canon sabe disso, tanto é que incluiu um "modo silencioso", que deixa a máquina mais lenta, em seu driver. O mecanismo de transporte do papel faz oito riscos longitudinais no papel, ou seja, arranha as fotos. O efeito é sutil, mas esse problema, com toda a tecnologia da máquina, não deveria existir.
+O alinhamento dos cartuchos é manual, o que não é bom: até mesmo a modesta Lexmark X2250 (leia texto ao lado) já oferece alinhamento semi-automático. A Canon melhorou seu sistema de acoplamento dos cartuchos, pois o cabeçote de impressão agora é destacável.
+Isso dá mais segurança no uso de cartuchos recarregados, tradicionalmente um perigo para as máquinas Epson e Canon. O cartucho preto da MP130 imprimiu apenas 403 páginas, ou seja, é o menos durável _e o mais barato.
+A MP130 imprime bem fotos, mas é ligeiramente inferior a Epson e HP. Numa das imagens de teste, apresentou o mesmo problema de driver que a Lexmark, embora em intensidade muito menor. As margens brancas que rodeiam as fotos impressas na Canon são menores, o que dá uma aparência mais profissional.
+A Canon gera boas cópias coloridas, e leva cerca de 60 segundos para fazer cada uma. Ela é adequada para PowerPoint: no modo Normal, levou 53 segundos para imprimir a página de teste, com qualidade perfeita. Com texto, também foi impecável e rápida, chegando a 10 ppm. 
+(BG)

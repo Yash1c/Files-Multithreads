@@ -1,0 +1,26 @@
+Nicolelis quer ciborgue humano em 3 anos 17/6/2005
+Autor: REINALDO JOSÉ LOPES
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A21
+Edição: São Paulo Jun 17, 2005
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: MEDICINA
+Assuntos Principais: MEDICINA; NEUROLOGIA; NEUROCIÊNCIA; ROBÓTICA; CIBORGUE; MIGUEL NICOLELIS; PESQUISA CIENTÍFICA; EUA; UNIVERSIDADE DUKE; HOSPITAL SÍRIO-LIBANÊS; INVESTIMENTO; ACORDO; PARCERIA
+Neurocientista brasileiro na Universidade Duke (EUA) fecha parceria com Hospital Sírio-Libanês para fazer testes
+Nicolelis quer ciborgue humano em 3 anos
+REINALDO JOSÉ LOPES
+DA REPORTAGEM LOCAL
+O primeiro ser humano a movimentar um braço robótico apenas com a força da própria mente poderá ser brasileiro _e se transformar em ciborgue num hospital de São Paulo, dentro de três anos. Esse é o objetivo de uma parceria firmada ontem entre o neurocientista brasileiro Miguel Nicolelis, 44, da Universidade Duke (EUA), e o Hospital Sírio-Libanês.
+O hospital se comprometeu a investir US$ 1 milhão nos próximos três anos. "Nada impede que esse valor seja ampliado no decorrer do trabalho", disse o gastroenterologista Mauricio Ceschin, superintendente corporativo do Sírio-Libanês. O acordo, assinado por Nicolelis em nome da ONG Associação Alberto Santos Dumont de Apoio à Pesquisa, beneficiará também o instituto de neurociências que o pesquisador paulistano pretende fundar em Macaíba (RN), perto de Natal.
+O investimento será, em grande parte, destinado ao enfoque social do instituto, que pretende oferecer educação integral e atendimento de saúde à população carente da região. Para o projeto, Nicolelis primeiro tentou acertar uma parceria com o Hospital Israelita Albert Einstein, mas o cientista acabou optando pelo Sírio-Libanês, que segundo ele estava em maior sintonia com suas preocupações sociais.
+No acerto, os neurologistas do Sírio-Libanês receberão treinamento para lidar com a tecnologia de eletrodos e modelagem matemática que permitirá, segundo Nicolelis, a transferência de informações do cérebro do paciente para um membro robótico. A técnica poderia ajudar pacientes com membros amputados, pessoas com lesões na coluna que as tenham deixado paraplégicas ou tetraplégicas ou os que perderam a movimentação por doenças degenerativas do sistema nervoso.
+"Vamos tentar fazer história", resumiu Ceschin, que classificou o pesquisador da Duke de "maior cientista brasileiro vivo".
+Com a macaca
+A julgar pelos avanços obtidos até agora com macacos, a possibilidade de que isso aconteça é bem real. Desde o começo dos anos 2000, a equipe da Duke, que também inclui outros brasileiros, tem dado salto após salto na criação da chamada interface cérebro-máquina. O conceito em si é simples: capturar os impulsos elétricos que o cérebro usa para mandar mensagens aos membros e transmiti-los para um braço ou perna robóticos (veja quadro à esq.). "Mesmo em quadriplégicos, as áreas do cérebro que fazem isso continuam ativas quando, por exemplo, a pessoa sonha que está se mexendo", diz Nicolelis.
+O que o grupo conseguiu até agora foi fazer com que macacos resos e macacos-da-noite movimentassem braços robóticos articulados usando só os próprios neurônios, conectados a uma rede de eletrodos. Hoje, os pesquisadores já "lêem" as informações de cerca de 500 neurônios ao mesmo tempo. É muito mais do que se conseguia anos atrás, mas ainda insuficiente, segundo Nicolelis, para que movimentos complexos e delicados (como agarrar um copo sem esmagá-lo) possam ser comandados via máquina. Para isso, ele calcula que a "leitura" da atividade de milhares de neurônios seja indispensável.
+Mesmo assim, Nicolelis disse não considerar o prazo de três anos otimista demais. "Na verdade, estamos sendo realistas e até modestos. Podemos ter um protótipo pronto para testes em humanos em um ano e meio", disse.
+Teste no país
+O mais provável é que o procedimento cirúrgico seja feito no Sírio-Libanês, "em um jovem brasileiro", mas não necessariamente. "O importante é fazer a coisa no tempo certo, sem correr. Se precisarmos de quatro ou cinco anos em vez de três, tudo bem."
+A cautela é justificada, já que ainda há uma bela lista de desafios pela frente. É preciso um processador computacional potente, capaz de fazer toneladas de operações em paralelo, para traduzir as mensagens dos neurônios em ordens eletrônicas para o membro ciborgue. Além disso, esse processador precisa ser leve o bastante para não onerar o paciente com peso extra. Isso, claro, se o sujeito realmente carregar o membro.
+"Ele pode estar acoplado ao paciente, ao lado dele ou mesmo a centenas de quilômetros de distância", afirma o pesquisador. Outra pergunta ainda sem resposta se refere à segurança e durabilidade do procedimento. Os pesquisadores ainda não sabem qual seria a vida útil dos eletrodos, e quais os efeitos de seu uso em longo prazo para o córtex cerebral (os macacos que o receberam, pelo menos, ainda estão saudáveis).
+A equipe também trabalha em outro desafio: fazer com que a informação do membro volte para o cérebro _em outras palavras, torná-lo sensível. "Num trabalho que devemos publicar em breve, conseguimos usar sensores de pressão para simular a sensação de tato", conta o cientista.

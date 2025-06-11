@@ -1,0 +1,23 @@
+Novo pacote Office tem visual sofisticado 21/9/2005
+Autor: 
+Origem do texto: DA REDAÇÃO
+Editoria: INFORMÁTICA Página: F7
+Edição: São Paulo Sep 21, 2005
+Legenda Foto: Painel do novo PowerPoint; fileira de opções substitui menus; Barra do Word, em que ferramentas se ajustam ao espaço disponível
+Crédito Foto: Divulgação
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: SOFTWARE
+Assuntos Principais: COMPUTADOR; PC /PERSONAL COMPUTER/; MICROSOFT OFFICE 12 /SOFTWARE/; PROGRAMA; MICROSOFT /EMPRESA/; PACOTE; LANÇAMENTO; RECURSO; DESEMPENHO; VISUAL; PROFESSIONAL DEVELOPERS CONFERENCE /EVENTO/; WINDOWS /SISTEMA OPERACIONAL/; EXPRESSION /SOFTWARE/
+Word, Excel e PowerPoint aposentam menus verticais; Microsoft mostra programa de edição e exibe curta com Bill Gates
+Novo pacote Office tem visual sofisticado
+DA REDAÇÃO
+As estrelas do Professional Developers Conference, evento da Microsoft que foi realizado na semana passada, em Los Angeles, foram os programas do pacote Office. A empresa revelou, pela primeira vez, como será a interface gráfica do Office 12, que deve chegar ao mercado em 2006.
+Ao contrário do que aconteceu na transição do Office XP para o pacote 2003, em que as mudanças foram contidas, desta vez o visual do Office realmente mudou: ele acaba com os tradicionais menus, que são substituídos por pequenos blocos de ferramentas, exibidos apenas quando necessários.
+Na prática, é como se você alternasse entre várias barras de comando, selecionando a mais relevante (na demonstração do Word, por exemplo, as opções exibidas são sete: Write, Insert, Page Layout, References, Mailings, Review e Developer).
+Essas opções provavelmente poderão ser personalizadas, mas, segundo a Microsoft (www.microsoft.com/presspass/features/2005/sep05/09-13OfficeUI.mspx), o Office 12 não trará a interface "clássica" das versões atuais, ou seja, a adaptação ao novo visual será compulsória.
+Diferentemente do Windows Vista (leia texto abaixo), que é o sucessor do Windows XP e já está sendo distribuído em versão beta, o novo Office ainda não pode ser testado: segundo o site BetaNews (pdc.betanews.com), a empresa prometeu liberar a primeira prévia do pacote de escritório nos "próximos meses".
+A Microsoft aproveitou o evento para mostrar seu pacote gráfico Expression, que engloba editores de imagens, sites e programas. Por enquanto, o único dos três softs que já pode ser testado é o Acrylic (download de 82 Mbytes em www.microsoft.com/products/expression/en/graphic_designer/ctp/default.aspx). O programa ainda está meio cru, ou seja, não consegue competir em recursos com produtos similares da Adobe e da Corel. Ele também não tem a interface gráfica remodelada.
+Por falar em interface, a Microsoft liberou para download o Max (leia texto abaixo), que, segundo ela, é o primeiro programa a usar todos os recursos visuais possibilitados pelo Windows Vista. A empresa também anunciou uma parceria com a Canon, que vai desenvolver um sistema para reduzir as típicas diferenças de cor entre imagens impressas e exibidas na tela do micro.
+O Vista trará a Metro Printing Engine, que basicamente é um sistema para gerar arquivos "read-only" (somente para leitura) similar ao PDF, da Adobe. Ele não será compatível com o PDF.
+Humor
+Os eventos da Microsoft geralmente incluem a exibição de vídeos em que Bill Gates e Steve Ballmer, fundadores da companhia, parodiam filmes famosos, como "Matrix". No PDC 2005, o curta-metragem exibido foi "Bill Gates Goes to School" (Gates vai à escola). Para ver o vídeo, acesse www.ifilm.com/ifilmdetail/2679657.

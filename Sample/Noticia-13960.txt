@@ -1,0 +1,22 @@
+Cresce risco para quem troca arquivos 6/7/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 6, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: EUA; INTERNET; SITE; MÚSICA; DIREITO AUTORAL
+Cresce risco para quem troca arquivos
+COLABORAÇÃO PARA A FOLHA
+Quem troca arquivos de música e vídeo por meio da internet está cada vez mais ameaçado de encarar processos e até prisão.
+Na última semana, uma decisão da Suprema Corte dos Estados Unidos deu sinal verde para que a indústria do entretenimento processe as empresas que facilitam a troca de arquivos, como a Grokster (www.grokster.com) e a Lime Wire (www.limewire.com).
+Até então, as responsáveis pelos programas alegavam que não tinham como controlar o conteúdo que circulava em suas redes.
+Os primeiros sinais dessa vitória nos tribunais foi uma bateria de intimações em que a Riaa (associação que representa as gravadoras norte-americanas) acusou 784 usuários dos EUA de ter distribuído e baixado músicas usando redes de troca.
+Por meio de um comunicado oficial, o diretor da associação, Mitch Bainwol, declarou que "agora não há dúvida. Quem faz download de músicas sem permissão está quebrando a lei".
+Na esteira da ofensiva da Riaa (www.riaa.com), o Departamento de Defesa dos EUA anunciou os resultados da operação "Site Down", que rastreou e prendeu pessoas acusadas de distribuir cópias ilegais de programas, filmes e músicas pela internet.
+A operação contou com a participação de autoridades de 12 países e teve como alvo os grupos de criação de warez (programas que usam registro falso).
+Segundo o órgão norte-americano, agentes do FBI se infiltraram nas redes de troca e identificaram as principais fontes de conteúdo ilegal da internet.
+Passado suspeito
+Na semana conturbada para os defensores das redes de troca, o criador do programa BitTorrent, Bram Cohen, também se envolveu em problemas.
+Em um texto de seu antigo site pessoal, Cohen se descrevia como um ativista tecnológico comprometido com a pirataria e favorável ao uso de drogas.
+Para rebater as acusações de que o BitTorrent foi criado com o intuito de realizar trocas ilegais, o programador disse que escreveu o texto em 1999 _ cerca de três anos antes do lançamento da primeira versão do software.
+(JB)

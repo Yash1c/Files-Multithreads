@@ -1,0 +1,15 @@
+Dicas tentam recuperar um CD danificado 8/6/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Jun 8, 2005
+Seção: CANAL ABERTO
+Dicas tentam recuperar um CD danificado
+"Gostaria de saber se existe algum programa que consiga recuperar os dados de um CD que apresenta problemas de leitura."
+(Sara Magalhães)
+Resposta - Primeiro, tente limpar o CD. Use um pano bem macio e limpo e faça movimentos da parte central para a extremidade do disco. Se o disco estiver com a superfície engordurada, vá até a cozinha e, com o detergente, faça uma lavagem usando um pano macio. Não use a esponja de aço!
+Enxágüe o CD com água corrente e seque bem. Isso já resolveu muitos problemas de CDs de música que "saltavam".
+A segunda principal causa de problemas de leitura são arranhões na superfície do disco.
+Arranhões muito pequenos acabam sendo corrigidos pelo próprio leitor de CDs, mas riscos maiores muitas vezes causam erros que tornam o disco ilegível. É possível tentar usar alguns programas que se propõem a recuperar o CD.
+Na maioria dos casos, eles usam um método próprio de leitura, ignorando o sistema operacional. Alguns fabricantes recomendam que seus softwares sejam usados na mesma máquina que gravou o CD (no caso de discos do tipo CD-R). Embora nenhum programa garanta 100% de recuperação, é melhor tentar usar todos os recursos disponíveis, principalmente quando os dados perdidos são muito importantes. Experimente o InfinaDyne (www.infina dyne.com) e o CD Data Rescue (www.naltech.com).
+CORRESPONDÊNCIA
+E-mail - canalaberto@uol.com.br (necessário nome completo)

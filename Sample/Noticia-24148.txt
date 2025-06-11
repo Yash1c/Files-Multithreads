@@ -1,0 +1,13 @@
+Saiba dar ao XP aparência do 'velho' Windows 1/6/2005
+Autor: BRUNO GARATTONI
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 1, 2005
+Observações: SUB-RETRANCA
+Vinheta/Chapéu: MAQUIAGEM
+Assuntos Principais: COMPUTADOR; WINDOWS XP /SISTEMA OPERACIONAL/; DICA; CONFIGURAÇÃO; AUTOMATIZAÇÃO; SOFTWARE; PROGRAMA; APARÊNCIA; INTERFACE
+Saiba dar ao XP aparência do 'velho' Windows
+O Windows XP traz uma série de modificações na interface clássica do sistema, que era usada até as versões 2000 e Me, mas quem não gosta das alterações não precisa conviver com elas. Desfazer algumas das mudanças é trivial _para voltar ao Painel de controle antigo, por exemplo, basta clicar na opção Alternar para o modo de exibição clássico_, mas há ajustes aos quais o acesso é menos óbvio.
+Para se livrar do Menu Iniciar dinâmico, que altera freqüentemente a posição dos atalhos para softwares, clique com o botão direito do mouse na barra de tarefas (ao lado do botão Iniciar) e selecione Propriedades. Na janela exibida, basta escolher Menu Iniciar clássico.
+De quebra, quando ele é ativado, os ícones Meu computador e Meus documentos voltam a aparecer.
+A cada 60 dias, o Windows XP abre um assistente que se oferece para limpar a área de trabalho, escondendo "ícones desnecessários". Se você não quer que isso ocorra, clique com o botão direito na área de trabalho, escolha Propriedades e abra a guia Área de trabalho. Aperte Personalizar e desmarque o item Executar o assistente. 
+(BG)

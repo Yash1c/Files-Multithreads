@@ -1,0 +1,22 @@
+EUA fazem previsão de terremotos 24/5/2005
+Autor: SALVADOR NOGUEIRA
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A16
+Edição: São Paulo May 24, 2005
+Arte: MAPA: TREMORES EM TEMPO REAL
+Vinheta/Chapéu: SISMOLOGIA
+Assuntos Principais: SISMOLOGIA; CALIFÓRNIA /EUA/; TERREMOTO; PREVISÃO; PESQUISA CIENTÍFICA; ESTUDO; USGS /SERVIÇO GEOLÓGICO DOS EUA/; MATTHEW GERSTENBERGER
+Técnica desenvolvida na Califórnia aponta os riscos em tempo real 
+EUA fazem previsão de terremotos 
+SALVADOR NOGUEIRA 
+DA REPORTAGEM LOCAL 
+"Melhor não sair de casa hoje, meu netinho", diz a vovó, "o homem do tempo diz que pode haver terremotos à tarde." Se parece uma cena improvável, vale dizer que já é ao menos possível desde a última quinta-feira, na Califórnia.
+Foi quando o Serviço Geológico dos Estados Unidos inaugurou um sistema de previsão de terremotos em tempo real para todo o Estado. Embora hoje a técnica só beneficie os californianos, os cientistas dizem que o mesmo método poderia, em princípio, ser empregado em qualquer outro lugar que tenha muitos terremotos.
+A previsão diária de tremores de terra pode ser visualizada por qualquer um, via internet, no site http://pasadena.wr.usgs.gov/step/. Ela conta com uma escala de cores que indica a probabilidade de um terremoto com força suficiente para pelo menos estilhaçar janelas, variando de uma improvável 1 em 1 milhão (0,0001%) a uma periclitante 1 em 10 (10%).
+O desenvolvimento do sistema, liderado por Matthew Gerstenberger, do USGS (Serviço Geológico dos EUA), foi reportado num artigo publicado na última edição da revista científica britânica "Nature" (www.nature.com). Mas não se deve pensar que os cientistas precisaram fazer grandes descobertas inéditas sobre terremotos para concebê-lo. Na verdade, pouco entendimento de como os terremotos ocorrem foi necessário. Em vez disso, o mais importante foi entender como, estatisticamente, o fenômeno progride.
+"Esse foi um avanço mais no sentido de ter reunido várias técnicas conhecidas do que uma grande mudança em como entendemos terremotos", disse à Folha Duncan Agnew, da Universidade da Califórnia em Santa Barbara, que escreveu um comentário sobre o estudo do USGS na mesma edição da "Nature".
+Os cientistas sabem que, logo depois de um grande tremor de terra, sempre há outros abalos menores, subseqüentes (os chamados "aftershocks"). A idéia foi tentar usar essa informação com vários modelos estatísticos de previsão de recorrência, combinados. Embora não tenha sido a primeira, essa foi a mais bem-sucedida tentativa de prever terremotos dessa maneira.
+"O agrupamento de eventos sísmicos é fato conhecido há algumas décadas e tem servido de base para várias propostas teóricas de previsão", explica Jorge de Sá Martins, sismólogo da Universidade Federal Fluminense (RJ). Ele diz acreditar que o sistema aplicado na Califórnia pode dar certo.
+Os cientistas na verdade já o testaram, "prevendo" terremotos que já aconteceram a partir de grandes tremores, nos anos 1990. A taxa de sucesso, ao menos de forma retroativa, foi alta.
+"Acho que há potencial de sucesso no método, apesar do aspecto meio 'culinário'", diz Martins. "Isso não retira de modo algum o mérito de conseguir um mapa de risco bastante aceitável nos casos estudados."
+Mais que tranqüilizar habitantes da Califórnia, o método pode ter aplicação em outros lugares do mundo. "O método poderia, em princípio, ser usado em qualquer lugar _desde que a região de estudo estivesse dotada de uma extensa e eficaz rede de sensores, o que não é, infelizmente, o caso, na maioria dos locais onde terremotos são freqüentes", diz Martins. "As exceções são mesmo a Califórnia e parte do Japão."

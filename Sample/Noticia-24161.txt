@@ -1,0 +1,12 @@
+Como salvar imagens em formato JPG 1/6/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 1, 2005
+Seção: CANAL ABERTO
+Como salvar imagens em formato JPG
+"Uso o Internet Explorer como navegador e venho tendo dificuldades para salvar imagens da rede no formato JPG. Ao clicar com o botão direito do mouse sobre uma imagem e escolher a opção Salvar figura como, sou informada de que a imagem pode ser salva apenas no formato BMP. Como eu faço para gravá-la em JPG?"
+(Vanessa Fuentes)
+Resposta - O navegador Internet Explorer possui um pequeno defeito que gera esse problema quando a pasta de arquivos temporários fica lotada. Nessa situação, os arquivos JPG acabam sendo convertidos para BMP.
+A solução? Clique no menu Ferramentas e escolha Opções da Internet. Na caixa de diálogo exibida, clique no botão Excluir arquivos do painel Arquivos de internet temporários.
+Isso deve resolver o problema. Mas há ainda uma segunda causa para esse comportamento, que faz com que os arquivos sejam salvos em BMP em vez de gravados em JPG. Para verificar se é o seu caso, clique na caixa de diálogo Opções de Internet e entre na guia Avançado.
+Nela, acesse o painel de configurações e veja se a opção Não salvar páginas criptografadas no disco está selecionada. Se estiver, basta desmarcá-la para sanar o problema. Para fazer isso, clique em Ferramentas, escolha Opções da Internet e clique, a seguir, na guia Avançado. Role a barra deslizante até que apareça o tópico Segurança. Então, desmarque o item mencionado. Com isso o problema deverá desaparecer de vez e você poderá salvar as imagens da rede no formato JPG sem qualquer dificuldade.

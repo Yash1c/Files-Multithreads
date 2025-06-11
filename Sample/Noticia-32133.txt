@@ -1,0 +1,22 @@
+Yahoo! lança serviço de histórico de buscas 4/5/2005
+Autor: 
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 4, 2005
+Legenda Foto: Yahoo! My Web Search, que fornece histórico de buscas via rede
+Crédito Foto: Reprodução
+Vinheta/Chapéu: BATALHA
+Assuntos Principais: INTERNET; YAHOO! /SITE/; SERVIÇO; HISTÓRICO; BUSCA; GOOGLE /SITE/; CONCORRÊNCIA
+Google têm ferramenta similar
+Yahoo! lança serviço de histórico de buscas
+DA REPORTAGEM LOCAL
+O Yahoo! reagiu rapidamente ao lançamento, pelo Google, do serviço My Search History (www.google.com/searchhistory/login) e colocou no ar uma versão beta (de testes) de um serviço similar, o My Web Search (myweb.search.yahoo.com).
+Por enquanto, o endereço leva à página tradicional de buscas do Yahoo!, onde há um link para o novo serviço, que possibilita aos usuários a criação de um arquivo pessoal de resultados de buscas.
+Além de permitir que o usuário salve as páginas visitadas, o My Web Search também permite o compartilhamento dos resultados por meio de comunicadores instantâneos, e-mails ou pelo Yahoo! 360 (360.yahoo.com), que é um tipo de rede de relacionamento (é preciso ser convidado para participar) que integra todos os serviços do portal.
+Por ora, a integração com o Yahoo! 360 ainda não está totalmente operante. Mas a empresa informa que isso deve acontecer nas próximas semanas.
+Como por enquanto o serviço só está disponível em inglês, o internauta pode encontrar algumas dificuldades em usá-lo.
+Para acessá-lo, primeiro é preciso clicar em Try My Web beta. Quando a página for exibida, insira o login e a senha de usuário do portal (caso não os possua, é preciso fazer o cadastro).
+Na primeira vez que for utilizado, o serviço vai perguntar se o usuário quer importar as páginas que estão na lista de favoritos.
+O internauta também será indagado a autorizar a instalação da barra de ferramentas de buscas do Yahoo!.
+Quando uma página é acessada a partir da ferramenta de busca, ela é automaticamente indicada na pasta History, do My Web. Ao entrar nessa pasta, o usuário vai ver os endereços que acessou e pode salvá-los clicando na opção Save, logo abaixo do endereço.
+Outra novidade apresentada na semana passada pelo Yahoo! é o novo layout da página americana de notícias (news.yahoo.com).

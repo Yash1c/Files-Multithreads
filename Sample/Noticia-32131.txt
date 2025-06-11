@@ -1,0 +1,12 @@
+Zafi lidera ranking dos vírus de abril 4/5/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 4, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: SEGURANÇA; ZAFI /VÍRUS/; RANKING
+Zafi lidera ranking dos vírus de abril
+COLABORAÇÃO PARA A FOLHA
+A empresa de segurança Sophos (www.sophos.com) divulgou sua lista com os vírus mais ativos do mês de abril. O número um do ranking foi o Zafi. Com duas variantes, ele foi responsável por cerca de 50% das máquinas infectadas.
+O Netsky também causou muitos problemas aos usuários de internet. Entre as dez ameaças mais perigosas, seis são versões editadas da praga. Os vermes MyTob e MyDoom completaram a lista.
+(JB)

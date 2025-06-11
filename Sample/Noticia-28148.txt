@@ -1,0 +1,19 @@
+Microsoft anuncia seu programa antivírus 18/5/2005
+Autor: 
+Origem do texto: DA REDAÇÃO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 18, 2005
+Legenda Foto: Tela do Windows OneCare, programa de proteção da Microsoft
+Crédito Foto: Reprodução
+Vinheta/Chapéu: SEGURANÇA
+Assuntos Principais: INFORMÁTICA; TECNOLOGIA; MICROSOFT /EMPRESA/; WINDOWS ONECARE /SERVIÇO/; LANÇAMENTO; ANTIVÍRUS
+Windows OneCare também trará soft antiespiões e desfragmentação automática do disco 
+Microsoft anuncia seu programa antivírus
+DA REDAÇÃO
+A Microsoft anunciou, na semana passada, que vai entrar no mercado de antivírus. A empresa promete lançar um serviço chamado Windows OneCare (www.microsoft.com/windows/onecare/default. mspx), que vai reunir recursos para detectar vírus e spyware _programas parasitas que espionam o micro_ e algumas funções para melhorar o desempenho e a segurança, como desfragmentação do disco rígido e backup de arquivos do usuário.
+A rigor, essas funções já estão disponíveis no Windows XP, mas o novo programa promete automatizá-las.
+O Windows OneCare será testado pelos 60 mil funcionários da Microsoft e depois será aberto para os internautas. O preço não foi divulgado, mas é provável que seja cobrada uma assinatura anual pelo uso do serviço.
+A empresa está há três anos desenvolvendo o OneCare, diz Ryan Hamlin, gerente da divisão de tecnologia da Microsoft. "Nós percebemos que há muita gente desprotegida", afirma. Segundo a companhia, até 70% dos usuários de PC não mantêm suas máquinas com um antivírus devidamente atualizado.
+Em 2003, a Microsoft comprou a empresa romena GeCAD, que produz antivírus.
+A tecnologia da GeCAD será combinada com recursos já oferecidos pelo programa gratuito Microsoft AntiSpyware (www.microsoft.com/athome/security/spyware/software/default.mspx).
+Respondendo ao anúncio da Microsoft, a Symantec, dona dos programas Norton, disse que está "preparada para competir" graças "aos relacionamentos que [já] possui com dezenas de milhões de usuários".

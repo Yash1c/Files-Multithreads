@@ -1,0 +1,25 @@
+Internet Security tem anti-spyware 25/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo May 25, 2005
+Legenda Foto: Norton Internet Security 2005, que tem antivírus e filtro de e-mail
+Crédito Foto: Reprodução
+Vinheta/Chapéu: SEGURANÇA
+Assuntos Principais: INTERNET; SEGURANÇA; NORTON INTERNET SECURITY 2005 /SOFTWARE/; ANTIVÍRUS; VÍRUS; TESTE; DESEMPENHO; RECURSO
+Versão 2005 tem antivírus, firewall, anti-spam e controle de conteúdo 
+Internet Security tem anti-spyware 
+BRUNO GARATTONI 
+DA REPORTAGEM LOCAL 
+A reportagem testou uma versão de desenvolvimento do pacote de programas Norton Internet Security 2005, cujo lançamento no Brasil está marcado para julho (www.symantec.com.br).
+O NIS, cuja versão atual é, segundo a revista "Info Exame", o software mais vendido no Brasil, traz antivírus, firewall, filtro contra spam (e-mails indesejados) e recursos para controlar cookies e bloquear conteúdo pornográfico.
+O Windows XP já inclui um firewall, mas, se o usuário preferir o do NIS 2005, o programa desativa automaticamente a proteção oferecida pelo sistema operacional, algo fundamental para evitar conflitos e problemas de navegação.
+Por outro lado, o NIS 2005 não reconheceu automaticamente todos os demais softwares instalados no PC de testes, ou seja, foi preciso liberar manualmente o acesso dos navegadores Opera e Firefox. Isso requer apenas um clique, mas não é bom _pode confundir novatos_ nem justo (o Internet Explorer foi reconhecido automaticamente).
+Apagador de anúncios
+O NIS 2005 tem uma função que promete remover as faixas publicitárias dos sites, o que em tese agilizaria a navegação. Ela se mostrou imperfeita durante os testes, pois deixou passar algumas propagandas no formato Flash _justamente as que mais retardam a navegação de uma conexão de 56 Kbps.
+Um destaque do recurso contra spam, que é compatível naturalmente com o programa de correio Outlook Express, o mais popular da categoria, está na proteção ao Yahoo! Mail, que elimina o lixo eletrônico antes mesmo que o usuário acesse sua conta desse serviço. O programa de e-mail Thunderbird não é aceito.
+O sistema de controle da privacidade é polêmico. Ele pede que você digite suas informações mais sensíveis, como senhas bancárias e números de cartão de crédito.
+Isso é necessário para que, ao filtrar a saída de dados do PC, o NIS 2005 consiga detectar e barrar o vazamento de dados.
+Ocorre que é perigoso manter senhas críticas guardadas no micro, mesmo que elas estejam protegidas pelo pacote da Symantec. Seria melhor que o programa tivesse um sistema inteligente, que detectasse eventuais vazamentos sem exigir a digitação de dados.
+O controle de conteúdo permite criar várias contas com senha, ou seja, você pode impedir que seus filhos vejam pornografia e violência e mesmo assim continuar navegando normalmente.
+O recurso também permite definir a quais softwares cada usuário do PC terá acesso, o que é bem interessante. Na versão testada, o controle estava inoperante, pois deixou passar diversos sites eróticos. Além disso, o NIS 2005 não exibiu integração ao mecanismo de contas do Windows, ou seja, foi preciso criá-las separadamente no programa e no Painel de controle do sistema operacional.

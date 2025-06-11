@@ -1,0 +1,20 @@
+Guia de ruas virtual orienta trajeto do usuário 11/5/2005
+Autor: FERNANDO BADÔ
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo May 11, 2005
+Legenda Foto: StreetPilot c320, da Garmin, com função de mapa eletrônico
+Crédito Foto: Divulgação
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; INDÚSTRIA AUTOMOBILÍSTICA; AUTOMÓVEL INTELIGENTE; RECURSO; GUIA DE RUAS VIRTUAL; GPS /SISTEMA DE POSICIONAMENTO GLOBAL/
+Guia de ruas virtual orienta trajeto do usuário
+DA REPORTAGEM LOCAL
+Esqueça o guia de ruas de papel. Atualmente, a melhor e mais cômoda maneira para encontrar um endereço é o GPS (sigla, em inglês, para sistema de posicionamento global), um sistema de localização desenvolvido e controlado pelo Departamento de Defesa dos EUA, mas que pode ser usado por qualquer pessoa.
+Um aparelho de GPS utiliza os satélites na órbita da Terra para determinar a própria localização. A partir dos sinais enviados e recebidos, o equipamento consegue identificar suas coordenadas geográficas (veja o quadro ao lado).
+Com softwares adequados à plataforma, o receptor de GPS faz, eletronicamente, as vezes de guia de ruas. Para isso, o usuário deve ter um dispositivo portátil, como um micro de mão ou um celular, que seja compatível com o GPS.
+O site Apontador (www.apontador.com.br), que ficou popular como guia de ruas on-line, oferece um software para portáteis que indica caminhos por meio de instruções de voz.
+Disponível em versões para Pocket PC e para Palm, o serviço é indicado para empresas, já que a primeira anuidade e a licença do software custam R$ 987. A partir da segunda anuidade, o valor é de R$ 240, com direito a baixar atualizações e novos mapas.
+"Oferecemos pacotes com o hardware e o software, mas há aqueles que preferem só o programa, para usar em PDAs com conexão bluetooth ao GPS", diz Rafael Vinicius de Siqueira, diretor de tecnologia da Webraska do Brasil, empresa responsável pelo software do Apontador.
+Os sistemas mais avançados existentes no exterior são capazes de mostrar uma previsão para o horário de chegada ao destino, como o StreetPilot c320, da Garmin (www.garmin.com), e o Navigation System, da Alpine (www.alpine.com).
+De acordo com o Instituto de Pesquisa de Tecnologia Industrial (www.itri.org.tw), em 2008, o mercado mundial de GPS deve gerar US$ 21,5 bilhões.
+(FB)

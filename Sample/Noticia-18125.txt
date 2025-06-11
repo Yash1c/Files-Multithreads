@@ -1,0 +1,12 @@
+Navegadores recebem consertos 22/6/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 22, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: SEGURANÇA
+Assuntos Principais: INTERNET; NAVEGADOR; SEGURANÇA; FALHA; CORREÇÃO
+Navegadores recebem consertos
+A segurança dos computadores e da internet teve uma semana bastante movimentada. Primeiro, a Microsoft passou a distribuir, por meio de seu site Windows Update (windowsupdate.microsoft.com), correções para dez falhas de segurança, três das quais são consideradas "críticas" pela empresa.
+Um dos problemas, que afeta o Internet Explorer (www.microsoft.com/technet/security/bulletin/ms05-025.mspx), é particularmente preocupante, pois permite que pessoas mal-intencionadas assumam controle total do PC.
+O navegador Opera está sujeito a uma brecha que viola a privacidade do PC, pois possibilita que hackers leiam arquivos gravados no disco rígido. A solução é atualizá-lo para a versão 8.01 (www.opera.com).
+O provedor America Online foi acusado de ser o maior pólo de computadores infectados nos Estados Unidos. Segundo a empresa Prolexic (www.prolexic.com/zr), 5,32% dos PCs transformados em "zumbis", ou seja, infectados por vírus e usados em ataques contra outros micros, pertencem a usuários da AOL. A empresa negou a acusação e questionou os números da Prolexic.

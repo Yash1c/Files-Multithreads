@@ -1,0 +1,26 @@
+Tarifa barata se combina a aparelho caro 21/9/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Sep 21, 2005
+Legenda Foto: Salgado, o telefone IP DPH-1405, da D-link, custa US$ 360 ; A webcam Eye Cam Gotec, da Clone, vem com microfone embutido e em versões de R$ 99 e de R$ 129 ; O IP Phone, da Clone, que chega em outubro (R$ 199), torna as conversas originadas no PC mais parecidas com as comuns; Voltado aos usuários do Skype, o telefone IP da taiwanesa Ipevo também se liga ao micro
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: MUITO ALÉM DO SKYPE
+Assuntos Principais: TELECOMUNICAÇÃO; TELEFONIA; INTERNET; VOIP /TECNOLOGIA/; TELEFONE; COMPUTADOR; PC /PERSONAL COMPUTER/; SERVIÇO; PREÇO; TARIFA; EQUIPAMENTO
+Com preço por minuto inferior ao da telefonia, VoIP é encarecida por equipamentos e assinatura
+Tarifa barata se combina a aparelho caro
+DA REPORTAGEM LOCAL
+Janet Zaude conheceu seu marido quando trabalhava numa empresa multinacional, aqui no Brasil. Depois do casamento, mudou-se para a Bélgica, país natal de seu marido, mas seus familiares permaneceram no Brasil. "A princípio, eu ligava para eles do meu telefone fixo e o custo era bastante alto, chegava a R$ 715 por mês", conta.
+Contratar um plano de VoIP foi a solução encontrada para diminuir suas despesas. O serviço utilizado por Zaude é fornecido pela CMSW e permite ligações originadas no PC. "Tenho uma linha direta com São Paulo pelo meu computador e posso fazer e receber ligações de amigos com os quais só tinha contato por e-mail", diz.
+Por usar apenas uma parte da rede telefônica, as tarifas da comunicação por VoIP são mais baratas. Veja a comparação: um minuto de ligação de São Paulo para Nova York para usuários residenciais custa R$ 0,69 pela Embratel (primeiro minuto do plano básico), R$ 0,65 pela Telefônica e R$ 0,09 pela CMSW.
+A aquisição de um serviço de VoIP também foi a solução encontrada por Eloisa Wolter, que contratou a operadora GVT. Moradora de São Paulo e com familiares em Curitiba, teve suas despesas reduzidas para mais da metade: de R$ 300 mensais, para falar apenas com números fixos, para R$ 120 por mês, incluindo ligações para celulares.
+Equipamento
+Apesar de oferecer tarifas mais baratas que as da telefonia comum, há outros custos que devem ser considerados antes de contratar um serviço de VoIP.
+Um deles é o dos equipamentos necessários para essa comunicação. Se você optou por falar de PC para PC, precisará de um fone com microfone embutido _acessório que pode ser encontrado por preços por volta de R$ 30.
+Outra opção é o handset, que imita um telefone portátil e se pluga ao micro por porta USB. Seu preço, no entanto, é mais alto: pode chegar a R$ 200.
+A despesa com equipamentos será maior se o usuário optar por, em vez do computador, utilizar um telefone IP. O adaptador para telefones convencionais, que os habilita a trafegar VoIP, custa, em média, R$ 400. A aquisição de um telefone IP também não é muito econômica: os modelos vão de R$ 300 a R$ 3.000, aproximadamente.
+Fique de olho também nas cobranças que vão além do custo das ligações realizadas. Algumas operadoras cobram mensalidades pelo uso do adaptador _ R$ 29,90, no caso do Yahoo! Telecom_ ou estabelecem limites mínimos para a aquisição de créditos _R$ 99, no caso da TVA Voz.
+Vale ainda prestar atenção se no preço do minuto anunciado estão incluídos impostos, que costumam encarecer a tarifa _a carga tributária do setor de telefonia é a uma das mais elevadas do país e fica em torno de 28% sobre o preço final.
+Além disso, se seu plano não permitir receber ligações via VoIP, será necessário manter a sua linha telefônica fixa funcionando. Tal manutenção, porém, deve ser feita mesmo pelos usuários que dispõem de pacotes completos de comunicação. É bom lembrar que, na falta de energia elétrica, o adaptador e o telefone IP deixam de funcionar.
+Nos EUA, foram registrados problemas também quanto ao uso do telefone de emergência 911, que se mostrou, em alguns casos, incompatível com a comunicação de VoIP. 
+(MB)

@@ -1,0 +1,24 @@
+Grupo quer código de barras da vida 18/5/2005
+Autor: REINALDO JOSÉ LOPES
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A20
+Edição: São Paulo May 18, 2005
+Arte: QUADRO: RG DA VIDA
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: GENÉTICA
+Assuntos Principais: GENÉTICA; MAPEAMENTO; BIODIVERSIDADE; DNA; CÓDIGO; PROJETO; CNPQ / CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTÍFICO E TECNOLÓGICO/; BIOPIRATARIA; TRÁFICO DE ANIMAIS
+Pesquisadores brasileiros propõem rede para mapear biodiversidade com ajuda de "RG" de DNA 
+Grupo quer código de barras da vida 
+REINALDO JOSÉ LOPES 
+DA REPORTAGEM LOCAL 
+Geneticistas brasileiros começam a unir forças e entrar na corrida para mapear a biodiversidade nacional. A arma para isso é a técnica promissora e um tanto controversa do código de barras de DNA _uma etiqueta genética que permitiria identificar de forma rápida e barata espécies já conhecidas e dar pistas sobre possíveis espécies novas.
+O alvo inicial da iniciativa, capitaneada por Sandro Bonatto, da PUC-RS (Pontifícia Universidade Católica do Rio Grande do Sul), e Fabrício Santos, da UFMG (Universidade Federal de Minas Gerais), são as cerca de 600 espécies de mamífero que o Brasil abriga. Mas todos os vertebrados estão na mira. Eles acabam de submeter o plano de uma rede nacional de códigos de barra de DNA ao CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico), órgão federal de fomento à pesquisa, que deve dar seu veredicto no final do mês que vem.
+Bonatto, que conversou com a Folha logo depois de enviar a proposta, diz que a intenção não é dispensar as análises taxonômicas tradicionais, que servem para identificar espécies _um processo delicado, que envolve medições da anatomia de cada exemplar. "É uma ferramenta a mais."
+Segundo o geneticista, uma das vantagens da nova técnica é diminuir a dependência em relação aos exemplares de referência de cada espécie, muitos dos quais estão em museus estrangeiros, de difícil acesso para quem trabalha no Brasil. Outro ponto positivo da rede seria incluir a pesquisa nacional num esforço mundial para mapear todas as formas de vida da Terra (leia texto à direita).
+O "número de série" que os geneticistas propõem vem das mitocôndrias, as usinas de energia das células. Trata-se do gene citocromo-c-oxidase-I (COI, em forma abreviada), um pedaço de DNA com apenas 648 "letras" químicas, o que é muito pouco em termos genômicos. Ele está presente em todos os animais e sofre mutações em ritmo que permitiria a distinção entre duas espécies próximas (veja quadro à direita).
+"Assim como hoje existem os exemplares de referência no museu, seria possível atrelar o nome da espécie a essa seqüência de DNA", afirma Bonatto. O plano inicial dos pesquisadores é associar o trabalho a coletas de novos espécimes em 15 ecossistemas _em princípio, seriam 10 mil indivíduos, entre animais e plantas, em cada um deles. Segundo Bonatto, isso geraria um crescimento dramático nos bancos de tecidos que existem hoje no Brasil.
+"Além disso, 150 mil amostras permitiriam que a gente fizesse comparações entre as espécies e visse o que elas contam sobre a história evolutiva dos próprios biomas", afirma Bonatto.
+  Problema de amostragem 
+No caso das plantas, o pesquisador explica que ainda é preciso definir qual o melhor candidato a código de barras. É que nelas o DNA das mitocôndrias sofre mutações de maneira bem mais lerda, o que inviabiliza seu uso. "Provavelmente, alguma região do DNA do cloroplasto [que faz a fotossíntese nas plantas] será mais adequada."
+Para Mario de Vivo, do Museu de Zoologia da USP, a iniciativa é bem-vinda, mas não deve ser uma solução mágica. "Acho ótimo que eles proponham isso, mas um dos problemas é a amostragem, e nós já temos uma amostragem gigantesca", afirma. "Quanto mais a gente estuda os mamíferos sul-americanos, mais descobre que a coisa é mais complexa do que a gente imaginava: duas espécies viram quatro, outras duas viram uma. O problema é que essa definição de espécie também depende das hipóteses científicas que a gente faz, e isso o DNA sozinho não resolve", avalia Vivo.
+Segundo ele, o código de barras também facilitaria o combate o tráfico de animais e a biopirataria, identificando de forma relativamente rápida carne ou ovos de um animal silvestre, por exemplo.

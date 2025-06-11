@@ -1,0 +1,22 @@
+Sistema está sujeito a falhas de segurança 21/9/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Sep 21, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TELECOMUNICAÇÃO; TELEFONIA; INTERNET; SEGURANÇA; VOIP /TECNOLOGIA/; TELEFONE; COMPUTADOR; PC /PERSONAL COMPUTER/; SERVIÇO; FALHA; QUALIDADE
+Sistema está sujeito a falhas de segurança
+DA REPORTAGEM LOCAL
+A segurança e a privacidade oferecidas pela VoIP não são integrais. É possível, por exemplo, até grampear uma ligação de VoIP, apesar de ser algo mais complicado do que grampear uma ligação telefônica comum. Para fazê-lo, são necessários aparelhos especiais, capazes de fazer a tradução inversa, dos dados para voz.
+Além disso, muitos dos serviços não oferecem criptografia, processo que converte dados _ou no caso, voz_ em códigos, dificultando a sua interpretação.
+Phil Zimmermann, autor do programa de criptografia de e-mails PGP (Pretty Good Privacy), desenvolveu um protótipo de proteção para conversas de voz, chamado Zfone (www.philzimmermann.com/EN/zfone).
+Para usá-lo, é preciso que tanto o usuário que origina a chamada como o que a recebe disponham do programa, baseado em uma tecnologia específica. Zimmermann espera que, em breve, os fabricantes de aparelhos de VoIP passem a incorporar a invenção em seus produtos, o que melhoraria a privacidade.
+Outros problemas aos quais o usuário poderá estar sujeito são as modalidades de spam e de vírus capazes de atacar por meio do sistema de voz.
+Apesar desse novo tipo de praga ainda ser incipiente, algumas operadoras já oferecem soluções como bloqueio de chamadas de números desconhecidos ou não-solicitados_uma espécie de anti-spam para telefones IP.
+Qualidade
+Outro problema técnico a ser enfrentado pelo usuário é a qualidade _nem sempre satisfatória_ das ligações de voz por IP.
+Estudos revelam, no entanto, que ela se aproxima da obtida pelas ligações via celular. Segundo pesquisa da revista "The Economist", que estabeleceu notas de zero a 5 para as ligações, sendo zero inaudível e 5 a qualidade de uma linha fixa, a ligação via VoIP obteve média 3,5, enquanto a de celular teve nota 4.
+O estudo também mensurou a porcentagem máxima a ser ocupada pelo tráfego de voz: 16% do total trafegado pelo meio. Já que a taxa de média consumida pela VoIP é de 20 Kbps, a velocidade de conexão à internet precisa ser igual ou superior a 128 Kbps _ou seja, o uso de banda larga é imprescindível. O máximo obtido por uma conexão de acesso discado é 56 Kbps.
+Conexões sem fio do tipo Wi-Fi também podem ser usadas. Esse, aliás, parece ser o futuro da VoIP, que, segundo especialistas, passaria a competir com os telefones celulares. O próprio Skype já permite ligações sem o uso de fio.
+Mas, para fazer alguma sombra aos celulares, a cobertura Wi-Fi ainda ter de ser muito ampliada. Estima-se que existam apenas 300 hotspots no Brasil _locais, como hotéis e aeroportos, que oferecem conexão sem fio. Por outro lado, há versões de softfones (telefones virtuais) compatíveis com os sistemas operacionais utilizados em aparelhos portáteis, como computadores de mão. (MB)
+próximo...próxima ocorrência...

@@ -1,0 +1,16 @@
+Veículo com defeito solicita reparo sozinho 11/5/2005
+Autor: FERNANDO BADÔ
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo May 11, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; INDÚSTRIA AUTOMOBILÍSTICA; AUTOMÓVEL INTELIGENTE; RECURSO; CONSERTO; SENSOR; DIAGNÓSTICO AUTOMÁTICO
+Veículo com defeito solicita reparo sozinho
+DA REPORTAGEM LOCAL
+Um carro ainda não tem a capacidade de se consertar sozinho, mas há pesquisas que caminham nessa direção.
+Visões mais otimistas vislumbram a possibilidade de, por meio da conexão sem fio, ser possível realizar pequenos reparos à distância. Mas isso somente quando fios e cabos forem totalmente substituídos por sensores.
+Diagnósticos automáticos de problemas, no entanto, já são possíveis. A Delphi tem um dispositivo que, ao detectar um defeito, se conecta, sozinho, com o computador da empresa por meio do celular do motorista. Se for preciso fazer o reparo imediato, o computador de bordo exibe o endereço da oficina Delphi mais próxima.
+Dessa forma, será possível solicitar na hora peças que não estiverem no estoque da loja, diminuindo o inconveniente tempo de espera.
+Como o computador já identificou o problema, será quase impossível ser ludibriado por mecânicos mal-intencionados.
+Vislumbrando um futuro não tão distante, se o carro possuir uma boa conexão sem fio à internet, o motorista poderá realizar uma consulta on-line com um especialista e, sob a supervisão dele, realizar pequenos reparos emergenciais e nunca mais ter de esperar o reboque na estrada.
+(FB)

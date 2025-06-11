@@ -1,0 +1,15 @@
+Soft encontra compressores 6/7/2005
+Autor: 
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Jul 6, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; APPLE /EMPRESA/; SITE; ARQUIVO; ALTA RESOLUÇÃO; VÍDEO DIGITAL; PADRÃO DIVX
+Soft encontra compressores
+COLABORAÇÃO PARA A FOLHA
+Apesar da ligeira predominância do padrão DivX, os arquivos de vídeo digital encontrados em redes de troca usam vários tipos de compactação (codecs).
+Essa variedade muitas vezes frustra o usuário que acabou de fazer um download demorado e não consegue assistir aos vídeos de forma adequada.
+Quem passa com freqüência por esse tipo de problema deve experimentar o VideoInspector (grátis, em www.kcsoftwares.com/index.php?download). Com o soft, é possível identificar qual codec é necessário para exibir os vídeos corretamente e também fazer um inventário dos compactadores já instalados.
+Ao detectar a falta de um determinado tipo de codec, o Video Inspector se oferece para baixá-lo automaticamente.
+Seu uso é bastante simples. Basta abrir um arquivo de vídeo com o programa, por meio do botão Browse, e esperar que o diagnóstico seja feito.
+Há um tutorial animado ensinando a usar o programa no endereço www.kcsoftwares.com/doc/vtb/vtb_info.htm

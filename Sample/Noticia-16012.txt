@@ -1,0 +1,9 @@
+Navegadores se mostram vulneráveis a golpe 29/6/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 29, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: PHISHING
+Assuntos Principais: INTERNET; SEGURANÇA; SECUNIA /EMPRESA/; SOFTWARE; NAVEGADOR; VULNERABILIDADE; FRAUDE
+Navegadores se mostram vulneráveis a golpe
+A empresa de segurança Secunia (secunia.com/multiple_browsers_dialog_origin_vulnerability_test) afirmou que, com exceção do Opera 8.01, todos podem levar o internauta a visitar página falsa.

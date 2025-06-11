@@ -1,0 +1,30 @@
+Novos serviços de VoIP chegam ao Brasil 10/8/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Aug 10, 2005
+Legenda Foto: O FR-V, da Fujistu, telefone IP portátil que faz videoconferência
+Crédito Foto: Reprodução
+Vinheta/Chapéu: TELEFONIA
+Assuntos Principais: TELECOMUNICAÇÕES; TECNOLOGIA; SKYPE ZONES; CONEXÃO WI-FI; SKYPE; VOIP
+Skype Zones, que faz ligações para fixo e celular via Wi-Fi, é destaque; Yahoo! lança pacotes a partir de R$ 49,90
+Novos serviços de VoIP chegam ao Brasil
+MARIANA BARROS
+DA REPORTAGEM LOCAL
+O Skype, um dos mais populares serviços de VoIP do mundo, acaba de lançar no país o Skype Zones (www.skype.com/products/skypezones), que permite ligar para telefones fixos e celulares por conexão Wi-Fi.
+Para usá-lo, é preciso fazer o download do programa (que ainda é oferecido em versão em teste) e pagar uma assinatura mensal de US$ 7,95. O acesso, segundo a empresa, é ilimitado.
+O Skype Zones só pode ser usado nos hotspots _locais que oferecem conexão Wi-Fi, como cafés, aeroportos e hotéis_ da Boingo (www.boingo.com).
+São 18 mil pontos de acesso no mundo todo, dos quais cerca de 600 estão no Brasil. A lista dos locais que dispõem do serviço pode ser consultada no site da Vex (www.vexbr.com.br), parceira da Boingo no país. A utilização dos hotspots é cobrada à parte.
+Yahoo!
+Em www.yahoo.com.br/telecom, os usuários de banda larga poderão contratar os serviços de VoIP oferecidos pelo portal. São três os pacotes de assinatura disponíveis: de R$ 49,90, que dá direito a 250 minutos de ligações, de R$ 99,90, para 520 minutos, e de R$ 199,90, para 1.100 minutos. Todos eles incluem ligações locais, interurbanas e internacionais feitas em quaisquer dias e horários.
+Ao contratar o serviço, é fornecido um conversor de voz que permite o uso simultâneo de até duas linhas de VoIP.
+Equipamento semelhante é o Handy Tone 496, da Grandstream (www.wdcnet.com.br), adaptador portátil para telefones que fazer ligação via IP que comporta duas ligações concomitantes. O preço sugerido é de R$ 590,79.
+VoIP portátil
+Quem gosta de conversar pela internet, mas acha incômodo o uso de headsets _aparelho que une microfone e fone de ouvido_, pode adquirir telefones especiais, fixos e portáteis, para ligações de VoIP.
+No site da Trellis (www.trellis.com.br), há modelos que oferecem opção viva-voz, supressão de ruído externo e que podem ser conectados à placa de som do micro ou a uma porta USB.
+A japonesa Fujitsu (www.fujitsu.com) apresentou dois novos telefones IP. O WiPCom1000, que deve começar a ser vendido em setembro, conecta-se via Wi-Fi com velocidade de 128 Kbps. Já o FR-V, que também conta com conexão sem fio, é voltado para videoconferência. Sua tela tem cerca de 15 centímetros e ele possui suporte para MPEG-4.
+A convergência entre VoIP e Wi-Fi será um dos temas abordados no Fórum Nacional de Soluções e Aplicações VoIP (www.eventos.adm.br/voip), que acontecerá entre os dias 17 e 19 de agosto, em São Paulo.
+Segurança
+Um software de criptografia de voz, que garantiria a privacidade dos usuários de VoIP, deve ser lançado no ano que vem.
+Phil Zimmerman (www.philzimmermann.com), criador do programa de criptografia de e-mail PGP (sigla, em inglês, para Pretty Good Privacy), anunciou que está desenvolvendo um programa de proteção aos dados transmitidos por telefonia IP.
+Ele tornaria as conversas menos vulneráveis a espionagem e evitaria "seqüestros" de ligações _direcionamento indesejado a números diferentes dos de destino.

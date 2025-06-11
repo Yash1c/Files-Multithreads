@@ -1,0 +1,22 @@
+Uso em rede caseira é opção 10/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Aug 10, 2005
+Legenda Foto: Adaptador PLC da marca WiPlug
+Crédito Foto: Divulgação
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; CONEXÃO; REDE ELÉTRICA; TECNOLOGIA; PLC /POWER LINE CONNECTION/
+Uso em rede caseira é opção
+DA REPORTAGEM LOCAL
+A tecnologia PLC tem duas modalidades: a Broadband over Power Lines _BPC_, que depende da companhia de energia elétrica, e a in-home, que você pode instalar e usar por conta própria para interligar vários computadores dentro de casa ou no escritório. O adaptador ou modem é o mesmo; a diferença é que, na modalidade in-home, ele só distribui o tráfego de dados dentro do imóvel.
+Nos Estados Unidos, os adaptadores PLC já estão no mercado há vários anos e têm preços relativamente acessíveis _no site www.shopping.com/xPP-Net work_Adapters_power_ data, por exemplo, há uma lista com opções a partir de US$ 29. Para que o sistema funcione, naturalmente, é preciso que cada micro conectado à rede caseira tenha seu próprio adaptador PLC.
+No Brasil, esse aparelho é bem mais caro. O par de adaptadores da marca WiPlug (www.wiplug.com.br), que foi usado no projeto da Eletropaulo (leia texto na pág. F2), custa R$ 450.
+Embora já tenha alcançado alguma popularidade, o uso da tecnologia PLC na modalidade in-home sofre, atualmente, forte concorrência dos adaptadores de rede Wi-Fi, bem mais rápidos.
+Enquanto os adaptadores PLC mais comuns prometem velocidade de 14 Mbps, a tecnologia Wi-Fi já atinge 54 Mbps, e alguns fabricantes usam sistemas para turbiná-la e chegar a 100 Mbps.
+Na prática, o Wi-Fi não é assim tão rápido _a velocidade média real geralmente é 40% a 60% inferior ao máximo teórico_, mas sua superioridade frente à PLC in-home é evidente.
+Os equipamentos Wi-Fi também são mais versáteis, pois geralmente já incluem um roteador _aparelho que coordena a ligação dos micros à rede doméstica. Além disso, cada vez mais notebooks já saem de fábrica com antena Wi-Fi, ou seja, também podem ser usados para acessar a rede em locais públicos (leia texto na pág. F4).
+Próxima geração
+Apesar disso, o uso in-home da tecnologia PLC pode ganhar um reforço de peso. Na edição deste ano da feira de informática CeBIT, que acontece na Alemanha e é a maior do mundo, a Panasonic mostrou um protótipo de gravador digital de vídeo que usa a rede elétrica da residência para transferir arquivos.
+O aparelho usa a tecnologia PLC porque os arquivos de vídeo de alta definição são muito grandes, ou seja, o Wi-Fi tradicional não daria conta de enviar vídeos ao mesmo tempo para vários televisores da casa. O protótipo, que usa uma tecnologia desenvolvida pela Panasonic, a HD-PLC (pana sonic.co.jp/corp/news/official.data/data.dir/en050105-4/ en050105-4.html), promete chegar a 170 Mbps. 
+(BG)

@@ -1,0 +1,33 @@
+Gravador de DVDs é rápido e acessível 6/7/2005
+Autor: CAETANO TRAINA JUNIOR; RENATO BUENO
+Origem do texto: ESPECIAL PARA A FOLHA
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Jul 6, 2005
+Arte: QUADRO: CONFIRA RESULTADOS DE AVALIAÇÃO
+Observações: PÉ BIOGRÁFICO
+Vinheta/Chapéu: TESTE USP ARMAZENAMENTO
+Assuntos Principais: INFORMÁTICA; AVALIAÇÃO; TESTE; PERIFÉRICO; DVD; GRAVADOR; SAMSUNG TS-H552U /EQUIPAMENTO/
+Samsung custa R$ 320, aceita mídias de vários tipos e vem com programa Nero; escassez de discos no Brasil atrapalha uso
+Gravador de DVDs é rápido e acessível
+CAETANO TRAINA JUNIOR
+RENATO BUENO
+ESPECIAL PARA A FOLHA
+Os gravadores de DVDs vêm se popularizando, principalmente neste último ano. Isso pode ser visto pelos preços dos gravadores avaliados pelo Teste USP nos últimos dois anos, mesmo se tratando de modelos e de marcas diferentes. Em maio de 2003, o preço sugerido para o modelo avaliado era de R$ 1.950; em abril de 2004, o preço foi de R$ 1.190, e no teste atual, o produto custa R$ 320,00.
+O gravador Samsung TS-H552U é capaz de ler e gravar CDs e DVDs com a maioria dos formatos existentes. A velocidade de gravação para DVDs regraváveis é de 4x para ambos os formatos (+ e -), e para DVDs somente graváveis é de 16x, também para ambos os formatos. Além disso, o gravador suporta a gravação em 5x de DVDs com dupla camada no formato DVD+R DL.
+DVDs com dupla camada são capazes de armazenar 8,5 Gbytes, quase o dobro dos DVDs tradicionais. É importante lembrar que os DVDs com dupla camada podem armazenar 8,5 Gbytes em um único lado do disco.
+Apesar das possibilidades de gravação oferecidas pelo gravador, dificilmente o usuário brasileiro poderá explorar todo seu potencial, pelo menos no momento atual.
+No Brasil, as mídias (discos virgens) com dupla camada ainda são difíceis de encontrar, e quando são encontradas, normalmente são de velocidades de gravação inferiores à oferecida pelo gravador. Outro fator que deve ser considerado é o preço das mídias DVD+R DL _cada disco custa acima de R$ 35.
+Quanto às velocidades de gravação das mídias de uso único, normalmente têm velocidade máxima de 8x, sendo que o gravador possibilita a gravação em 16x.
+Uma deficiência encontrada é que o Samsung TS-H552U não é compatível com mídias DVD-RAM, que são regraváveis e comportam até 9,4 Gbytes. Nenhuma mídia acompanha o produto.
+Software
+O drive Samsung TS-H552U é acompanhado por um pacote básico de software Nero, com ferramentas para gravação de CDs e DVDs de vídeo, áudio e dados, edição e recodificação de vídeo, cópias de segurança e visualização de conteúdo multimídia.
+Os programas são para Windows, mas os criadores do Nero recentemente desenvolveram uma versão para Linux (www.nero.com/en/NeroLINUX. html), e o modelo da Samsung será um dos primeiros a vir acompanhado dessa nova versão.
+No manual do gravador é recomendada a atualização do firmware, o software interno que controla o drive. Nos testes, a atualização foi rápida e fácil.
+Testes
+Para a realização de testes de velocidade de gravação foram utilizadas mídias de DVD de todos os formatos suportados, de diversas marcas e diferentes velocidades máximas de gravação.
+As mídias com maior velocidade encontradas foram as de 8x para DVDs +-R e 2,4x para DVD+R DL. O gravador reconheceu todas as mídias que foram testadas, com suas respectivas velocidades máximas anunciadas.
+Como pode ser visto na tabela, em todos os testes de gravação realizados, a velocidade de gravação real foi bem próxima à velocidade máxima da mídia utilizada, a não ser com algumas mídias DVD-R. Com esse formato, as velocidades médias de gravação para mídias de 8x variaram de 5x a 7,5x, dependendo da mídia.
+Todos os discos gravados foram lidos em duas leitoras diferentes. No drive usado para gravação, todos os discos rodaram sem problemas. Em outro leitor de DVDs, apenas um dos discos do formato DVD-R apresentou problemas.
+Conclusão
+O gravador de DVDs Samsung TS-H552U é uma boa opção de compra por suas características e seu preço acessível. O programa que acompanha o produto satisfaz a maioria das necessidades de um usuário doméstico.
+CAETANO TRAINA JUNIOR é professor titular do ICMC-USP e pesquisador na área de banco de dados. RENATO BUENO é mestre em ciências de computação e doutorando em ciências de computação pelo ICMC-USP.

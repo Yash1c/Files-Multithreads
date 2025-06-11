@@ -1,0 +1,25 @@
+Clonagem de celular aumenta 57% no ano 21/9/2005
+Autor: PATRÍCIA ZIMMERMANN
+Origem do texto: DA FOLHA ONLINE, EM BRASÍLIA
+Editoria: DINHEIRO Página: B12
+Edição: São Paulo Sep 21, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: LINHAS CRUZADAS
+Assuntos Principais: TELECOMUNICAÇÃO; TELEFONIA MÓVEL; TELEFONE CELULAR; EMPRESA; OPERADORA; CLONAGEM; ANATEL /AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES/; PESQUISA; BALANÇO
+Investimentos em tecnologia feitos pelas empresas telefônicas não evitam crescimento das reclamações
+Clonagem de celular aumenta 57% no ano
+PATRÍCIA ZIMMERMANN
+DA FOLHA ONLINE, EM BRASÍLIA
+As operadoras de telefonia móvel fizeram investimentos significativos em tecnologia, mas não conseguiram evitar o crescimento da clonagem de celulares, segundo balanço da Anatel (Agência Nacional de Telecomunicações).
+A agência contabilizou, entre janeiro e agosto, um número 57% maior de reclamações apenas sobre clonagem de celulares em relação a todo o ano passado. O balanço foi apresentado ontem pelo presidente da Anatel, Elifas do Amaral Gurgel, aos senadores da Comissão de Infra-Estrutura do Senado. Desde dezembro de 2004, o número de celulares no país teve crescimento de 20%.
+A Anatel mostrou aos senadores que neste ano sua central de atendimento recebeu 7.380 reclamações sobre clonagem. Em 2004 como um todo, foram 4.694.
+O número preocupa a Anatel principalmente pela dimensão que ganhou nos dois últimos anos. Em 2003, as reclamações registradas sobre o assunto somavam 603.
+Técnicos da agência estimam, no entanto, que o número mensal de fraudes envolvendo celulares no Brasil já atinja cerca de 100 mil, incluindo o uso de documentos falsos, desvios e roubos de equipamentos, uso indevido de informações por funcionários das empresas, fraudes técnicas e também a clonagem. Esse número, no entanto, não é captado oficialmente pela Anatel.
+Com base apenas nas reclamações dos usuários, a Vivo lidera o número de celulares clonados, com 4.067 reclamações apenas em 2005, da quais 2.057 somente em São Paulo. A Claro aparece em segundo lugar (considerando todas as regiões em que atua), com 1.293 registros, a Telemig Celular, em terceiro, com 1.088.
+A clonagem ocorre quando um aparelho é reprogramado para transmitir o código de um assinante em outro telefone. Dessa forma, as ligações feitas pelo fraudador são debitadas na conta do celular clonado.
+Esse tipo de fraude é mais comum quando o usuário está em "roaming" (fora da área original do telefone), e os celulares passam a operar no sistema analógico, que tem uma proteção menor contra fraudes do que as tecnologias digitais.
+As empresas que optaram pela tecnologia GSM, por exemplo, não têm registrado problemas com clonagem via captação de sinal radioelétrico. Mas há registros de cópia do chip (cartão de identificação do usuário e da linha telefônica) utilizado por esse tipo de aparelho, segundo a Anatel.
+Para tentar reduzir essas fraudes, as operadoras, que atuam num mercado de 78,9 milhões de usuários, decidiram organizar um cadastro nacional de celulares considerados "impedidos".
+Esse cadastro tem informações integradas on-line sobre todos os aparelhos que não poderiam ser habilitados por uma outra companhia por envolvimento em algum tipo de fraude, independentemente da tecnologia utilizada pelas empresas envolvidas.
+A Anatel também estuda a possibilidade de redistribuição das faixas de freqüências para que as empresas possam prestar o serviço de forma 100% digital em todo o território nacional, inclusive em "roaming".
+Hoje, isso não é possível, por exemplo, com a tecnologia CDMA, utilizada somente pela Vivo, pois a empresa não tem cobertura nacional. Com essa redistribuição, a agência poderia desativar completamente o sistema analógico. A Anatel mantém em seu site (www.anatel.gov.br) informações aos usuários de celular sobre como prevenir a clonagem e que providências devem ser tomadas em caso de fraude.

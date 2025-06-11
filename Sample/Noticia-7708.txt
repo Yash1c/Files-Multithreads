@@ -1,0 +1,19 @@
+Compartilhe suas descobertas 27/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jul 27, 2005
+Legenda Foto: Ponte em San Francisco, nos EUA, construída digitalmente por um internauta e disponibilizada na rede BBS do Google Earth
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; GEOGRAFIA; MAPA; MAPEAMENTO DIGITAL; SITE; BUSCADOR; FERRAMENTA; SERVIÇO; IMAGEM; SATÉLITE; GOOGLE EARTH /SITE/; COMPARTILHAMENTO; INFORMAÇÃO
+Compartilhe suas descobertas
+DA REPORTAGEM LOCAL
+Os usuários do Google Earth contam com uma rede BBS de troca de mensagens para compartilhar imagens, comentários e curiosidades sobre suas explorações terrestres feitas com o programa.
+Em bbs.keyhole.com, é possível deixar mensagens e compartilhar marcações feitas nas imagens de satélite.
+São comuns os recados com temas como "Eu estive lá", desafios de conhecimentos gerais e perguntas específicas sobre alguns locais, que muitas vezes são respondidas pelos próprios habitantes da região, em uma espécie de intercâmbio virtual. Detalhes curiosos, como a imagem de um homem atirando um galho para seu cachorro ou uma ponte em 3D construída por um dos internautas, tornam a visita instigante.
+Essas imagens são anexadas às mensagens publicadas no fórum. Para visualizá-las, abra a mensagem e clique em Open this placemark. O usuário será conduzido ao Google Earth, onde o arquivo será aberto.
+Se você quiser postar uma mensagem contendo um quadro do programa, entre no Google Earth e escolha uma imagem ou a marcação de um lugar. Salve-a no computador para, em seguida, anexá-la à mensagem.
+Para salvar uma imagem, clique em File e em Save image. Para salvar uma marcação, clique nela com o botão direito do mouse e escolha Save as.
+Com o arquivo salvo (ele pode ter as extensões kml ou kmz), entre na rede BBS com o seu nome de usuário e anexe-o a uma mensagem. Para isso, clique em Main Index, na barra superior. Na página que se abre, escolha Earth e, em seguida, Earth Browsing. Uma segunda barra exibirá a opção Post. Selecione-a. Depois de escrever a mensagem, clique em Continue. Para anexar um arquivo do Google Earth, clique em Procurar ou Search, selecione o arquivo desejado e depois clique em Ok, submit. 
+(MB)

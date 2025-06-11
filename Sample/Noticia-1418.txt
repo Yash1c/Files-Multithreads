@@ -1,0 +1,29 @@
+Pele robótica pode sentir calor e pressão 16/8/2005
+Autor: RICARDO BONALUME NETO
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A16
+Edição: São Paulo Aug 16, 2005
+Legenda Foto: Rede de semicondutores orgânicos detecta mudança de temperatura com precisão e é flexível
+Crédito Foto: Divulgação/PNAS
+Vinheta/Chapéu: TECNOLOGIA
+Assuntos Principais: TECNOLOGIA; ROBÓTICA; ROBÔ; PELE; PESQUISA CIENTÍFICA; SENTIDO; TAKAO SOMEYA
+Japão avança na tentativa de criar órgão sensível para máquinas; sistema poderia incluir 'sentidos' ampliados
+Pele robótica pode sentir calor e pressão
+RICARDO BONALUME NETO
+DA REPORTAGEM LOCAL
+A ficção científica americana _na forma de livros ou de filmes_ é fascinada por robôs, mas na prática são japoneses os que mais usam esses auxiliares automatizados do ser humano _seja na indústria, seja em residências. Uma nova pesquisa japonesa, no entanto, promete juntar as duas coisas no futuro. A Universidade de Tóquio desenvolveu uma pele artificial para robôs que imita uma parcela significativa das qualidades e capacidades da pele humana normal.
+A curto e médio prazo, abrem-se várias possibilidades de aplicações práticas. A longo, longuíssimo prazo, poderá surgir uma pele biônica, que poderia tanto ser aplicada a robôs com formas humanas quanto ser utilizada em pessoas de verdade.
+E com um detalhe holywoodiano: a pele-robô futura poderá ir além da sua concorrente biológica, sendo capaz de detectar melhor várias coisas, ou mesmo realizando truques que nenhuma pessoa é capaz de fazer hoje _perceber radiações diferentes da luz visível, nuanças muito sutis de tato e de temperatura ou mesmo som. Seria uma espécie de superpoder biônico.
+Além do tato
+A equipe de Takao Someya já havia, no ano passado, anunciado o desenvolvimento de uma pele artificial capaz de sentir diferenças de pressão _ou seja, uma forma de tato. Mas seria preciso ir além, pois o tato dá outras informações ao organismo, como a temperatura dos objetos tocados.
+Além disso, a pele é extremamente maleável, adaptando-se muito bem aos movimentos do corpo. O ideal para uma pele artificial seria ser "conformal", segundo o jargão da engenharia _isto é, ela deveria ser capaz de se adequar de modo maleável à forma requisitada.
+Os pesquisadores da Universidade de Tóquio não querem fazer ficção científica. A pesquisa busca aplicações práticas da tecnologia. O Japão é o líder mundial quase inconteste em robótica. No ano passado, existiam 352,2 mil robôs industriais no Japão, contra 121,3 mil nos EUA e 266,1 mil nos países da União Européia, o chega a um total de quase 1 milhão em todo os países do mundo.
+Da ficção à pesquisa
+A palavra robô, com o sentido empregado pelas pessoas hoje, surgiu em uma peça de 1920 do dramaturgo checo Karel Capek (1890-1938). O termo foi muito popularizado na ficção graças ao livro "Eu, Robô" (1950), do escritor americano nascido na Rússia Isaac Asimov (1920-1992).
+A mais nova versão cinematográfica do filme tem o ator Will Smith no papel principal. Smith tem um braço-robô com uma cobertura de pele artificial que pode ser reposta com um spray. A tecnologia de Someya e colegas ainda está bem longe disso. Mas está caminhando a passos largos.
+Eles usaram um fino filme plástico como base para uma série de circuitos eletrônicos baseados em estruturas de material orgânico. E desta vez foram além do que havia sido reportado no ano passado _além de pressão, os semicondutores orgânicos puderam detectar temperatura com precisão.
+Flexibilidade
+A pele vem na forma de uma rede flexível, capaz de "conformabilidade", adaptando-se, por exemplo, à superfície de um ovo. Ainda está bem longe da capacidade da pele humana. Um dos protótipos iniciais continha uma rede de 16 sensores de pressão por centímetros quadrado. Já a ponta dos dedos de um ser humano possui cerca de 1.500 sensores de pressão (menos em outros pontos do corpo, contudo).
+Mas um robô industrial não precisaria de tanta precisão para suas atividades rotineiras. A pele-robô pode ter usos muito variados. Nem precisaria estar em um robô. Pode ser uma espécie de tapete sensível, por exemplo.
+O trabalho de Someya e seus colegas está publicado na última edição da revista da Academia de Ciências dos EUA, a "PNAS" (www.pnas.org). Segundo eles, a pele humana ainda é bem mais complexa do que as imitações desenvolvidas até agora.
+Mas, escreveram eles no artigo hoje divulgado, "vai ser possível no futuro próximo fazer uma pele eletrônica que tenha funções que a pele humana não tem ao integrar vários sensores, não apenas para pressão e temperatura, mas também para luz, umidade, esforço e ultrassônicos".

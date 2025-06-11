@@ -1,0 +1,14 @@
+ACABE COM CHATEAÇÕES DO WINDOWS 1/6/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 1, 2005
+Arte: QUADRO: ACABE COM CHATEAÇÕES DO WINDOWS
+Observações: SUB-RETRANCA
+Assuntos Principais: COMPUTADOR; WINDOWS XP /SISTEMA OPERACIONAL/; DICA; CONFIGURAÇÃO; AUTOMATIZAÇÃO; MENSAGEM; SOFTWARE; PROGRAMA
+ACABE COM CHATEAÇÕES DO WINDOWS 
+. DESLIGUE PROGRAMAS INTROMETIDOS 
+Clique em Iniciar e Executar e digite a palavra msconfig para abrir o Utilitário de configuração do sistema. Nele, acesse a guia Inicializar e observe os itens exibidos. Cada um deles corresponde a um software que é aberto automaticamente sempre que o Windows é carregado. Via de regra, o único programa cujo carregamento automático é imprescindível é o antivírus (no exemplo, ele é o AVG, primeiro item da lista). Desmarque todos os demais, aperte OK e reinicie o micro. Quando o PC for religado, aparecerá uma mensagem de alerta . Simplesmente assinale o item Não mostrar e aperte OK para se livrar dela. Caso surja mais uma janela, aperte Cancelar 
+. CONTROLE ASSOCIAÇÕES DE ARQUIVO 
+Abra o ícone Meu computador e clique em Ferramentas e Opções de Pasta. Abra a guia Tipos de arquivo. Selecione o tipo de arquivo em questão _MP3, por exemplo_ e clique em Alterar. Na janela exibida, selecione o programa que deverá abrir aquele tipo de arquivo. Se ele não constar da lista, aperte Procurar e navegue até a pasta do software desejado 
+. ALTERE EXIBIÇÃO DE PASTAS 
+No Meu computador, aperte o botão Modos de exibição e selecione o modo de visualização _com ícones grandes ou pequenos, com ou sem miniaturas de fotos etc. Quando estiver satisfeito com o resultado, clique em Ferramentas, Opções de Pasta e Modo de exibição. Para completar, aperte o botão Aplicar. Dessa forma, todas as pastas serão convertidas para o modo de exibição que você selecionou

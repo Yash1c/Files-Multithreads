@@ -1,0 +1,18 @@
+Recurso faz automação de tarefas 11/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo May 11, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; MAC OS X /SISTEMA OPERACIONAL/; APPLE /EMPRESA/; RECURSO; AUTOMATOR /PROGRAMADOR DE AÇÕES/
+Recurso faz automação de tarefas
+DA REPORTAGEM LOCAL
+O programador de ações Automator é bem fácil de usar. Ele mostra uma lista com as principais ações dos programas instalados no Mac OS X 10.4. Para programar e gravar uma seqüência de operações, basta arrastar o bloco correspondente a cada etapa para a parte direita da tela.
+As seqüências do Automator, que se chamam workflows, podem ser exportadas para outros computadores que tenham o OS X 10.4. A página www.apple.com/downloads/macosx oferece um workflow interessante, o e-mailphoto, que promete redimensionar e inserir num e-mail, com apenas um clique, uma imagem que esteja armazenada no programa iPhoto.
+Uma falha do Automator é que não existe uma maneira simples de programar a execução automática de workflows.
+Além disso, o programa é um avanço, mas nem todos os aplicativos precisam dele. Photoshop e Word, por exemplo, já trazem sistemas de automação embutidos.
+Dashboard
+O Dashboard não agrada a todos os usuários. É um software que, quando acionado, escurece <IMG border=0 SRC="/folio.pgi/stdobject/hitleft.gif?">a tela do sistema e destaca alguns programetes, chamados widgets.
+Os 14 widgets fornecidos com o OS X 10.4 são simplórios (calculadora, tradutor que só opera com o micro on-line etc.), mas dois deles são úteis: o stickies, para deixar recados na área de trabalho, e o dictionary, que está apenas em inglês, mas funciona também com o Mac desconectado da rede.
+No site de downloads do OS X 10.4 há alguns widgets interessantes, como o Britannica, que dá acesso à versão on-line da enciclopédia homônima (é preciso ser assinante para consultar os artigos mais detalhados), e o Slothcam, que coloca um monitor de webcam na área de trabalho.
+(BG)

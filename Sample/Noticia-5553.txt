@@ -1,0 +1,21 @@
+Programadores avaliam futuro sistema operacional da Microsoft 3/8/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REDAÇÃO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Aug 3, 2005
+Legenda Foto: Menu permite digitar o nome do aplicativo que se deseja abrir; Pastas poderão ser exibidas conforme as palavras que contêm
+Crédito Foto: Reprodução
+Vinheta/Chapéu: WINDOWS
+Assuntos Principais: COMPUTADOR; PC /PERSONAL COMPUTER/; WINDOWS VISTA /SISTEMA OPERACIONAL/; VERSÃO BETA; TESTE; DESEMPENHO; PROGRAMADOR; RECURSO; SEGURANÇA; LANÇAMENTO
+Entregues versões beta do Vista e do IE 7 para XP
+Programadores avaliam futuro sistema operacional da Microsoft
+DA REDAÇÃO
+Exemplares da versão beta 1 da próxima geração do sistema operacional Windows, chamada Windows Vista (msdn.microsoft.com/windowsvista), foram entregues pela Microsoft a cerca de 10 mil programadores, que têm como missão testar as novas especificidades do produto.
+A versão já dispõe de novos recursos de busca e de organização. Mas outras características, como aprimoramento da capacidade de gerenciamento para notebooks e de dispositivos para foto e vídeo, só devem ser apresentadas nas próximas versões.
+Aplicações voltadas para negócios também estão presentes, como uma conexão com projetores ligados à rede, para realizar apresentações. Um organizador de tarefas ajuda no desempenho de atividades, sugerindo, por exemplo, deletar arquivos MP3 para liberar espaço no disco rígido.
+Segurança
+Outra novidade é a melhoria da proteção antiphishing, que inclui avisos quando o internauta tenta entrar em sites potencialmente perigosos. Há também uma ferramenta para checar e remover programas maliciosos e vírus durante o upgrade do sistema. O Vista inclui ainda uma nova versão do Windows Firewall.
+Caso exista a possibilidade de haver problemas ou falência do disco rígido, o sistema avisará o usuário com 24 horas de antecedência, para que seja feito um backup emergencial.
+Além do Vista, os programadores receberam a versão beta do Internet Explorer 7, que tem suporte para RSS (sistema para recebimento de notícias publicadas na internet) e navegação por meio de abas.
+A divulgação ocorreu na semana passada, dias depois de ter sido revelado o nome do novo sistema, até então chamado apenas Longhorn. O lançamento para o público deve ocorrer em 2006. 
+(MB)

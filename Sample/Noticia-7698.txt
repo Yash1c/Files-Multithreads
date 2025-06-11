@@ -1,0 +1,22 @@
+Imagens aéreas contribuem para estudos globais 27/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jul 27, 2005
+Observações: SUB-RETRANCA; ENTREVISTA
+Vinheta/Chapéu: SATÉLITE
+Assuntos Principais: INTERNET; GEOGRAFIA; MAPA; MAPEAMENTO DIGITAL; SITE; SERVIÇO; IMAGEM; SATÉLITE; PESQUISA CIENTÍFICA; DEPARTAMENTO DE PESQUISAS GEOLÓGICAS DOS EUA; RONALD BECK
+Imagens aéreas contribuem para estudos globais
+DA REPORTAGEM LOCAL
+O Departamento de Pesquisas Geológicas dos EUA (www.usgs.gov) tem um dos maiores bancos de dados sobre mapas e imagens geradas por satélites.
+Em entrevista à Folha, o porta-voz Ronald Beck deu algumas explicações a respeito dos métodos e objetivos desse tipo de registro.
+*
+Folha - Como são feitas as imagens?
+Ronald Beck - Existem diversos satélites monitorando a Terra. Muitos deles medem os reflexos solares sobre a superfície terrestre e, baseados nisso, criam imagens. Outro método usado pelos cientistas é a fotografia tradicional, tirada de um avião em baixa altitude.
+Folha - Qual é o alcance dessas imagens?
+Beck - Isso depende do sensor ou da câmera, mas, de modo geral, as fotos aéreas podem captar imagens de objetos de um metro de altura e os satélites, de objetos de 15 metros _embora alguns consigam registrar objetos de até 2,5 metros.
+Folha - Qual sua aplicação?
+Beck - Contribuir para estudos sobre as mudanças na massa terrestre do planeta. Geologia, planejamento urbano, agricultura e meio ambiente são algumas das áreas que recorrem a esses estudos com freqüência. Pode-se pesquisar o desmatamento da Amazônia, o impacto do desastre de Chernobyl, o derretimento das calotas polares, secas na África e inundações na Europa.
+Folha - Esses dados estão disponíveis na internet?
+Beck - Sim, podem ser encontrados em eros.usgs.gov e em landsat.usgs.gov. Outro site interessante é o do Inpe, aí no Brasil. 
+(MB)

@@ -1,0 +1,15 @@
+Atualizações evitam janelas indesejadas 20/7/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 20, 2005
+Seção: CANAL ABERTO
+Atualizações evitam janelas indesejadas
+"Quando inicio o Internet Explorer, duas novas janelas indesejadas são abertas. Tenho antipop-up instalado, firewall e antivírus, mas não consigo evitá-las. O que posso fazer?"
+(Mário Sérgio Cescon)
+Resposta - Apesar de o leitor estar com os programas necessários para se proteger de ataques, é importante seguir algumas dicas para que os softwares sejam efetivos em seu combate.
+Como não foram mencionados os nomes do programas utilizados, os conselhos dados a seguir serão genéricos. Todos os softwares de combate a ataques, como firewall, antivírus e antipropagandas, devem estar absolutamente atualizados com as últimas versões.
+Isso pode ser feito de forma automática pela maioria dos programas, que possuem uma opção em suas configurações para checar novas atualizações. Outro ponto importante é que muitos freewares (gratuitos) executam tais tarefas, mas possuem menos recursos do que os pagos.
+Dessa forma, apesar de ter um programa desses instalado em sua máquina, você pode estar com uma solução que não é efetiva. Como a cada semana aparecem novos invasores, você pode ser pego naquele intervalo de tempo que a empresa de antivírus leva para disponibilizar uma nova versão de atualização.
+No caso de programas que combatem anúncios, é conveniente possuir dois deles instalados e usá-los alternadamente, pois muitas vezes um software detecta um tipo de ataque e o outro, não. O SpyBot Search & Destroy (www.safer-networking.org/pt) é um programa bastante eficiente para encontrar e remover esses invasores.
+CORRESPONDÊNCIA
+E-mail - canalaberto@uol.com.br (necessário nome completo)

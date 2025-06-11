@@ -1,0 +1,27 @@
+PC barato está atrasado e tem indefinições 4/8/2005
+Autor: ADRIANA MATTOS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: DINHEIRO Página: B11
+Edição: São Paulo Aug 4, 2005
+Observações: COM SUB-RETRANCAS *
+Vinheta/Chapéu: INFORMÁTICA
+Assuntos Principais: GOVERNO LULA; PC CONECTADO /PROGRAMA SOCIAL/; COMPUTADOR PARA TODOS /PROGRAMA SOCIAL/; COMPUTADOR; VENDA; FINANCIAMENTO; ESPECIFICAÇÃO TÉCNICA; BNDES; INTERNET; PROVEDOR; TELEFONIA; EMPRESA; OPERADORA; NEGOCIAÇÃO; MONOPÓLIO; POLÊMICA; CRÍTICA
+Após oito meses, especificações técnicas chegam ao BNDES, mas acesso a provedor de internet não foi definido
+PC barato está atrasado e tem indefinições
+ADRIANA MATTOS
+DA REPORTAGEM LOCAL
+Com oito meses de atraso, o programa do governo para colocar na casa da população mais pobre 1 milhão de computadores ameaça deixar o papel. Um ofício de 20 páginas assinado pela Presidência da República, com especificações técnicas da máquina a ser financiada pelo BNDES, chegou há cinco dias ao banco.
+Agora, as lojas precisam credenciar os equipamentos que querem vender dentro do perfil _para ter o financiamento do banco_ e colocar o projeto no mercado. Ele caminha, porém, ainda manco.
+Até o momento, não foi definido como ficará o acesso à internet, serviço que deveria vir no pacote _e essencial no projeto. Existe a possibilidade de que o consumidor tenha de escolher, ao ligar a máquina, que provedor quer ter _em lista a ser oferecida a ele em uma espécie de "discador automático". A questão está aberta.
+"O que não está acertado ainda é o serviço de comunicação de dados. A questão é como prover 15 horas de acesso à internet por R$ 7,50, como definimos", diz Sérgio Rosa, diretor do Serpro (Serviço Federal de Processamento de Dados). O ofício da Presidência da República, nas mãos do BNDES, não trata dessa questão.
+É fácil compreender a demora, diz a Abes (Associação Brasileira das Empresas de Software). "[Os técnicos] Acreditaram que a definição dos valores seria algo fácil de resolver, mas perceberam depois que era um ponto que não avançava", afirma Jorge Sukarie, presidente da entidade.
+O imbróglio começou porque foi necessário não só amarrar acordos com empresas de telefonia, para tornar possível o acesso à internet, como ainda tratar da questão com os provedores.
+Há cerca de dois meses, o Ministério das Comunicações informou que havia fechado com as concessionárias Telemar, Telefônica e Brasil Telecom um acordo de preço (R$ 7,50 por 15 horas) para a conexão dos novos usuários. Mas faltavam os provedores.
+A Abranet (Associação Brasileira dos Provedores de Acesso, Serviço e Informações de Internet) diz que havia uma negociação entre governo e telefônicas que permitiria que as empresas credenciassem seus próprios provedores para o serviço. Cada operadora tem um provedor: a Telemar tem o Velox; a Telefônica, o Speedy.
+"Isso fere a Lei Geral de Telecomunicações e constitui formação de monopólio", diz Antônio Tavares, presidente da Abranet, com 300 provedores como associados.
+"A coisa já começou torta lá atrás, porque nem fomos chamados para a negociação no princípio", diz Tavares. "As operadoras [telefônicas] não podem decidir sozinhas quem faz o acesso porque, aí, estamos voltando ao monopólio ou favorecendo grandes empresas", diz ele.
+A Abranet pediu audiência com o ministério para discutir o caso. Ela defende a instalação de um discador automático, de modo que o consumidor escolha seu provedor ao ligar o aparelho. A proposta teria sido bem recebida pelo governo, diz a Abranet.
+Crise política e o projeto
+Batizado de "Computador para Todos", o programa de Lula apoiará a venda de máquinas por até R$ 1.400 por meio de linhas de crédito especiais. O consumidor chega à loja, compra o produto financiado e a loja pode captar os recursos para o financiamento direto no BNDES.
+Haverá isenção do pagamento de PIS/Cofins. A redução equivale a 9,25% do preço total. A idéia é vendê-lo de forma que as prestações não passem de R$ 70 para o consumidor. O prazo máximo para pagamento será de 24 meses.
+Em meio a esse cenário, aconteceram mudanças na linha de frente do governo. A alteração foi necessária por conta da crise política do "mensalão". O novo ministro das Comunicações, Hélio Costa, já disse que quer coordenar todos os projetos de inclusão digital do governo, centralizados na Casa Civil. Em julho, Costa afirmou que iria reivindicar a coordenação dos projetos ao presidente Lula.

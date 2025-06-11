@@ -1,0 +1,16 @@
+DICAS DE SEGURANÇA 13/7/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 13, 2005
+Arte: QUADRO: DICAS DE SEGURANÇA
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; INTERNET; SOFTWARE; PROGRAMA ESPIÃO; ZUMBI; HACKER; COMBATE; PROTEÇÃO; DICA; SEGURANÇA
+DICAS DE SEGURANÇA
+. Ajuda ao antivírus
+Não use o programa antivírus apenas para fazer varreduras completas no sistema. Cada arquivo baixado da internet, das redes de troca ou da caixa de e-mails deve ser verificado antes de ser aberto
+. Firewall é essencial
+Usar um firewall, programa para filtrar os dados que circulam entre a internet e sua máquina, é vital. No Windows XP com a atualização SP2 esse recurso já está embutido no sistema
+. Limites do navegador
+Desabilite o acesso a sites que usam acessórios dos tipos ActiveX e JavaScript. Eles podem instalar programas nocivos sem que você autorize (spyware)
+. Peneira no e-mail
+Use o webmail (site do e-mail) para selecionar as mensagens que serão baixadas para a caixa postal do programa leitor. Apague todas as correspondências que trazem arquivos EXE anexados

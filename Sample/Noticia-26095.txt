@@ -1,0 +1,10 @@
+Netscape lança navegador híbrido 25/5/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo May 25, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: SOFTWARE
+Assuntos Principais: INTERNET; NETSCAPE 8.0 /SOFTWARE/; PROGRAMA; NAVEGADOR; LANÇAMENTO; SITE
+Netscape lança navegador híbrido
+A Netscape lançou na semana passada a versão 8.0 de seu navegador (http://ftp.netscape.com/pub/netscape8/english/8.0/windows/win32/nsb-setup.exe). O grande diferencial do programa é que ele pode usar dois mecanismos de renderização de páginas: o do Firefox e o do Internet Explorer. Isso é útil, pois ainda existem sites que só funcionam com o IE ou apresentam problemas com o Firefox. O núcleo do Firefox é usado como padrão.
+O Netscape muda automaticamente para o Internet Explorer quando o usuário acessa os endereços contidos numa pequena lista, que é automaticamente atualizada via internet. Também é possível configurar manualmente. Um ícone na diagonal inferior esquerda da tela mostra o mecanismo usado.

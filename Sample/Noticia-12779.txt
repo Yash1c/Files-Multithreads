@@ -1,0 +1,29 @@
+Nem médico compreende letra de colega 9/7/2005
+Autor: LUÍSA BRITO
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: COTIDIANO Página: C1
+Edição: Nacional Jul 9, 2005
+Arte: QUADRO: A GRAFIA DOS PRONTUÁRIOS MÉDICOS
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: SAÚDE
+Assuntos Principais: SAÚDE; MEDICINA; ATENDIMENTO; PRONTUÁRIO; GRAFIA; LETRA; ILEGIBILIDADE; UNFESP; PESQUISA; MESTRADO; DIAGNÓSTICO; COMPREENSÃO; TRATAMENTO
+Pesquisa de mestrando da Unifesp mostra que caligrafia ruim impede compreensão de prontuários e pode prejudicar tratamento
+Nem médico compreende letra de colega
+LUÍSA BRITO
+DA REPORTAGEM LOCAL
+Nem mesmo os médicos conseguem, muitas vezes, entender o diagnóstico escrito pelos colegas durante o atendimento a pacientes. É isso que mostra uma pesquisa realizada na Universidade Federal de São Paulo (Unifesp).
+O estudo comparou prontuários médicos manuscritos e comprovou que a ilegibilidade da letra impede que médicos da mesma especialidade cheguem a um diagnóstico igual sobre o quadro clínico do paciente.
+A pesquisa foi tese de mestrado do fisioterapeuta Maurício Merino Nunes, do Departamento de Informática em Saúde. Ele avaliou o grau de entendimento de prontuários feitos por médicos ortopedistas do grupo de joelho do Cete (Centro de Traumatologia do Esporte) da Unifesp.
+Ele reuniu 15 prontuários manuscritos e os submeteu à análise de dois médicos ortopedistas que não conheciam os pacientes examinados. Eles desconheciam o objetivo do estudo para que isso não influenciasse o resultado.
+Para um dos profissionais, pelo menos 60% dos documentos estavam ilegíveis e para o outro, 40%. Um deles disse que só conseguiria elaborar um diagnóstico a partir das informações compreendidas em 3 dos 15 casos analisados. O outro, em 5 dos 15 prontuários.
+O ortopedista Cristiano Laurino, que checou o resultado da avaliação feita pelos dois médicos, percebeu, que, em alguns casos, eles chegaram a conclusões diferentes sobre o mesmo prontuário.
+O prontuário deve ser compreendido por outros profissionais para que seja possível dar continuidade ao tratamento de um paciente. "Se o médico não tem a informação adequada, existe a possibilidade de não fazer o tratamento correto", afirmou Nunes, autor da tese. A legibilidade dos prontuários médicos é exigida no código de ética da profissão.
+Para o ortopedista Rogério Teixeira, do Comitê de Trauma Esportivo da SBOT (Sociedade Brasileira de Traumatologia e Ortopedia) e um dos médicos que participou da análise dos prontuários, o resultado da pesquisa é preocupante. "Não adianta o médico fazer um bom atendimento se não documenta bem", afirmou.
+Teixeira disse que os prontuários lidos por ele tinham trechos inteiros indecifráveis. Ele disse que já teve que adivinhar o nome de um remédio por telefone, porque ele havia sido passado por um outro plantonista e o atendente da farmácia não conseguia ler.
+A pesquisa também analisou 15 prontuários eletrônicos de preenchimento livre _73% foram interpretados de maneira correta por um dos médicos e 53% pelo outro. Isso aconteceu porque houve casos em que a ficha não foi preenchida por completo. Foram avaliados outros 15 prontuários eletrônicos, nos quais o programa exigia o preenchimento completo dos campos. Não houve diferença significativa na avaliação dos dois tipos eletrônicos, pois, em alguns, a forma que o médico informava os dados não era elucidativa.
+O mestrando defende o uso de fichas eletrônicas de preenchimento obrigatório que exijam do médico clareza nas informações.
+Punição
+A ilegibilidade da letra do médico pode acarretar uma advertência ao profissional. A necessidade de o prontuário ser compreensível faz parte do Código de Ética Médica e de uma resolução do Conselho Federal de Medicina.
+De acordo com o presidente do CRM-SP (Conselho Regional de Medicina de São Paulo), Isac Jorge Filho, o prontuário é fruto de muitos problemas verificados no conselho. Segundo ele, quando um médico é acusado de erro, o primeiro procedimento do conselho é avaliar a ficha do paciente.
+Se o documento estiver ilegível ou com campos em branco, o profissional pode não ter como provar que agiu de forma correta.
+"Prejudica tanto o médico como o paciente um prontuário mal feito", disse o presidente do Sindicato dos Médicos de São Paulo, Cid Carvalhaes. Para ele, os problemas ocorrem, em parte, por dificuldade das condições de trabalho dos profissionais, mas também, diz ele, não se pode afastar a possibilidade de "comodismo".

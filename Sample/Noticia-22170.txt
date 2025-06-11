@@ -1,0 +1,11 @@
+Novo Firefox apaga rastros de navegação 8/6/2005
+Autor: 
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Jun 8, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: SOFTWARE
+Assuntos Principais: TECNOLOGIA; INFORMÁTICA; INTERNET; FIREFOX /NAVEGADOR/; LANÇAMENTO; NOVIDADE
+Novo Firefox apaga rastros de navegação
+Já está na internet uma versão de desenvolvimento do navegador Firefox 1.1, cujo lançamento oficial deverá ocorrer no mês de julho. O programa, cujo nome provisório é Deer Park, pode ser baixado em www.mozilla.org/projects/firefox e traz como principal novidade o recurso Sanitize, que elimina os rastros de navegação (lista de páginas visitadas, cookies e senhas digitadas) com apenas um clique _função que já faz parte do programa concorrente Opera. Outro detalhe no qual o novo Firefox parece imitar o Opera é a função Fast Back, que promete agilizar avanços e retrocessos na relação de páginas acessadas pelo usuário. A janela de configurações do programa recebeu modificações estéticas e sua operação ficou mais fácil. Além do Deer Park para Windows, há versões compatíveis com Linux e Mac OS X.
+(DA REPORTAGEM LOCAL)

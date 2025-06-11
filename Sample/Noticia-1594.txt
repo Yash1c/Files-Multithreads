@@ -1,0 +1,23 @@
+Serviço permite conversa por banda larga 21/9/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Sep 21, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: MUITO ALÉM DO SKYPE
+Assuntos Principais: TELECOMUNICAÇÃO; TELEFONIA; TELEFONE; INTERNET; VOIP /TECNOLOGIA/; PESQUISA; ESTATÍSTICA; ESTIMATIVA; USUÁRIO; TARIFA; PREÇO; SKYPE /SOFTWARE/; PROGRAMA; RECURSO; VANTAGEM
+As opções integram PC e telefones adaptados e visam contemplar também usuários residenciais
+Serviço permite conversa por banda larga
+MARIANA BARROS
+DA REPORTAGEM LOCAL
+Se você é usuário do Skype (www.skype.com), o mais popular programa de comunicação de voz pela internet, saiba que a oferta dos serviços desse tipo engloba muitas outras opções. Antes restrita aos usuários corporativos, a VoIP, abreviação de voz sobre IP, vem chegando às residências, com serviços capazes de adaptar telefones comuns e oferecer convergências com o celular e com o e-mail.
+Nesse tipo de comunicação, em vez do cabo de telefonia, utiliza-se também o cabo de conexão de banda larga de internet para conversar com outras pessoas.
+Sua maior vantagem é reduzir o custo das chamadas, embora a comunicação a custo zero fique restrita às conversas entre PCs e entre telefones IP. Nesses tipos de serviço não são cobrados pulsos, interurbanos nem ligações internacionais, pois a distância entre o local de origem e de destino das ligações não encarece a comunicação, assim como ocorre com o e-mail ou bate-papo instantâneo.
+Esse também é o caso do Skype e de alguns programas comunicadores que oferecem conversas via voz e até via vídeo. Nas demais modalidades de VoIP (veja quadro ao lado), os custos provêm das necessidades de adquirir equipamentos adequados e de combinar as redes de banda larga e as de telefonia convencional para efetuar o tráfego de voz.
+Dessa maneira, é possível fazer ligações para telefones fixos comuns e para celulares, com a vantagem de pagar tarifas mais baratas, uma vez que apenas parte do tráfego utiliza a rede telefônica. Tais serviços são chamados de telefonia IP. É importante considerar que, além das tarifas, existem custos de assinatura, de planos de crédito e da infra-estrutura necessária para utilizar tais serviços.
+Usuários
+O número de usuários de VoIP cresce ano após ano, embora ainda seja pouco se comparado ao número de usuários da telefonia comum, principalmente no Brasil, onde há cerca de 37 milhões de linhas fixas e apenas 2,3 milhões de assinantes de banda larga _clientes em potencial do serviço. Segundo a Anatel, não há números oficiais sobre a quantidade de usuários de VoIP no Brasil. A dificuldade de mensurá-lo reside no fato de o serviço não dispor de regulamentação específica.
+O que se sabe é que é crescente a oferta de serviços para usuários, tanto corporativos quanto residenciais _estes, atendidos por ao menos 23 dos cerca de 30 provedores de VoIP que operam no país, segundo site Teleco (www.teleco.com.br). Os recursos e os preços variam conforme o plano e a estrutura escolhida, mas, de modo geral, as tarifas são tentadoras: chegam a ser três vezes inferiores às cobradas pela telefonia convencional, no caso de ligações internacionais.
+A maioria desses provedores dispõe de parcerias com empresas estrangeiras, principalmente norte-americanas. Naquele país, há mais de 1.100 provedores de telefonia via internet e cerca de 2,8 milhões de usuários residenciais, número que pode chegar a 17,5 milhões em 2008 _ainda assim inferior ao atual número de linhas telefônicas, 178 milhões.
+Os norte-americanos respondem por 53% do total de usuários de VoIP em todo o mundo, seguidos pelos europeus, com 23%, pelos asiáticos, com 15%, e pelos latino-americanos, com 15%.
+Especula-se que, em breve, o setor comece a incomodar as operadoras de telefonia comum e até as de celular _afinal, por Wi-Fi, é possível conectar-se à internet sem o uso de fios.

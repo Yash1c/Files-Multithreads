@@ -1,0 +1,18 @@
+Lexmark é fraca, mas custa 30% a menos 14/9/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Sep 14, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; LEXMARK X2250 /IMPRESSORA/; MULTIFUNCIONALIDADE; RECURSO; TESTE; DESEMPENHO; RESOLUÇÃO; PREÇO
+Lexmark é fraca, mas custa 30% a menos
+DA REPORTAGEM LOCAL
+De todas as impressoras testadas, a Lexmark X2250 é de longe a mais barata: com o reembolso prometido pela fabricante (veja quadro), seu preço fica 30% abaixo do valor das rivais. Além disso, a X2250 também é econômica com a tinta. Nos testes realizados pela reportagem, o cartucho preto durou 798 páginas.
+Já a qualidade de imagem não é tão boa. Mesmo no modo de máxima resolução, que deixa a máquina muito lenta _ela passa a demorar intermináveis 30 minutos para imprimir uma foto tamanho A4_, o resultado traz muito ruído (microrrisquinhos que dão à imagem um aspecto borrado). As cores também são mais fracas.
+Ambos os problemas podem ser notados nas imagens que estão disponíveis para consulta na Folha Online.
+Essas distorções são culpa dos cabeçotes de impressão, mas o driver da X2250 também tem um problema: impediu, durante os testes, que a máquina imprimisse corretamente uma paisagem que trazia variação gradual de cor. Em vez de reproduzir gradualmente as tonalidades do céu, a máquina truncou os dados, amontoando as cores em blocos irregulares.
+A Lexmark não serve para imprimir fotos com qualidade. Mas e com documentos de escritório, qual sua performance? Meramente aceitável: além de demorar três minutos e 36 segundos para imprimir, no modo Normal, uma página de PowerPoint, a máquina gerou texto levemente borrado. Para imprimir com resolução perfeita, é preciso acionar o modo Alta, que reduziu a velocidade medida a apenas 2 ppm (no modo Normal, ela chega a 7 ppm, e no modo Rascunho é de 10 ppm).
+A X2250 é espartana, ou seja, tem poucos botões (apenas cinco) e seu acabamento é perceptivelmente inferior ao das demais máquinas. Outra característica que pode ser um problema é o tamanho: de todas as impressoras testadas, a Lexmark é a que mais ocupa espaço na mesa.
+A máquina funciona aceitavelmente como copiadora, mas falta a ela o recurso Scale to fit, essencial na cópia de revistas, jornais e outros documentos cujo tamanho supera o do papel A4. Nos testes, a máquina levou de 85 a 110 segundos, conforme o original, para fazer uma cópia colorida.
+A X2250 é uma opção interessante para quem quer economizar e não se importa com qualidade e velocidade. Seu cartucho preto não é dos mais baratos, mas, como traz integrado o cabeçote de impressão, permite que o usuário faça recargas sem grandes preocupações em estragar a multifuncional. 
+(BG)

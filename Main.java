@@ -1,3 +1,6 @@
+// Author: Guilherme Montoya P. Trevisan e Renato Canedo
+
+
 import java.io.File; // For file handling
 import java.io.IOException; // For handling IO exceptions
 import java.nio.charset.StandardCharsets; // For UTF-8 encoding

@@ -1,0 +1,11 @@
+ENTENDA O SISTEMA DUAL LAYER 17/8/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Aug 17, 2005
+Arte: QUADRO: ENTENDA O SISTEMA DUAL LAYER; ILUSTRAÇÃO
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; DVD; GRAVADOR; MÍDIA; DISCO; ESCOLHA; DUAL LAYER /DISCO GRAVÁVEL/
+ENTENDA O SISTEMA DUAL LAYER
+1. O gravador literalmente queima pequenas áreas do disco, formando uma trilha de pontos (ela corresponde às seqüências de números 0 e 1 que formam os dados digitais). Até aí, nada de novo
+2. Quando a capacidade do disco está acabando, depois de aproximadamente 4,5 Gbytes já ocupados, o raio laser é refocalizado e passa a queimar uma camada (layer) mais profunda do DVD
+3. A leitura do disco segue processo inverso: o laser troca automaticamente de camada para buscar os dados

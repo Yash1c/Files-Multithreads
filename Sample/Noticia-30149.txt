@@ -1,0 +1,20 @@
+Google cria acelerador de navegação na rede 11/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 11, 2005
+Legenda Foto: Site do Google Web Accelerator, que se destina a agilizar navegação
+Crédito Foto: Reprodução
+Vinheta/Chapéu: INTERNET
+Assuntos Principais: INTERNET; GOOGLE /BUSCADOR/; GOOGLE WEB ACCELERATOR /SOFTWARE/; NAVEGAÇÃO; VELOCIDADE
+Software requer banda larga
+Google cria acelerador de navegação na rede
+DA REPORTAGEM LOCAL
+O buscador Google lançou na semana passada um software que promete atender a uma das principais reinvincações de qualquer internauta: navegação mais rápida. É o Google Web Accelerator (1,4 Mbyte; webaccelerator.google.com), que é gratuito e compatível com as versões 2000 e XP do Windows.
+Segundo seus criadores, ele funciona interceptando o tráfego de dados entre o PC e a internet. Quando o usuário tenta acessar uma página que esteja presente no cache do Google _estoque com cópias de bilhões de páginas da rede_, o conteúdo dela é enviado diretamente pelas máquinas do buscador, o que teoricamente pode agilizar a transmissão. O tráfego de dados supostamente é comprimido.
+O problema é que, de acordo com o próprio Google, por enquanto o software só acelera a navegação de quem estiver nos EUA ou na Europa. Além disso, o programa é recomendado apenas para conexões de banda larga.
+Nem tente instalá-lo num micro com dial-up _nos testes em que isso foi feito, houve freqüentes mensagens de erro e interrupções na navegação. O software não promete acelerar downloads, só a abertura de páginas.
+O lado negro do Google Web Accelerator diz respeito à privacidade. Quando você usa o programa, todos os seus dados são capturados pelas máquinas do buscador. A empresa admite isso, mas diz que apaga periodicamente os cookies e não grava informações de páginas criptografadas (https), como os sites bancários. Há mais explicações em webaccelerator.google.com/privacy.html.
+Yahoo!
+O portal Yahoo! também divulgou uma novidade na semana passada, com o lançamento oficial do serviço de busca por vídeos (www.yahoo.com.br). Os resultados exibidos incluem uma miniatura de cada vídeo, e um filtro antipornografia é ativado automaticamente.
+(BG)

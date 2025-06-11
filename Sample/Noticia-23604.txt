@@ -1,0 +1,36 @@
+Confira teste de máquinas três-em-um 14/9/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Sep 14, 2005
+Legenda Foto: Em sentido horário, os modelos Canon Pixma MP130 (no alto, à esquerda), Epson Stylus CX3500, Lexmark X2250 e HP PSC 1315
+Crédito Foto: Fernando Donasci/Folha Imagem
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: MULTIFUNCIONAIS
+Assuntos Principais: TECNOLOGIA; IMPRESSORA; MULTIFUNCIONALIDADE; RECURSO; TESTE; DESEMPENHO; RESOLUÇÃO; COMPARAÇÃO; EMPRESA; MARCA
+Comparação traz quatro aparelhos do tipo, com scanner, impressora e copiadora; avaliação gerou 2.500 páginas
+Confira teste de máquinas três-em-um
+BRUNO GARATTONI
+DA REPORTAGEM LOCAL
+As multifuncionais, impressoras que reúnem as funções de scanner e copiadora, se tornaram uma compra bastante atraente: os principais fabricantes já oferecem modelos com preço inferior a R$ 500, e as vendas desses aparelhos na América Latina, segundo o Instituto Gartner, vão crescer 23,4% neste ano.
+As multifuncionais populares podem até ser usadas em pequenos escritórios, pois há modelos que suportam uso mais intenso. Mas qual delas comprar?
+A reportagem testou quatro modelos: HP, Epson, Canon e Lexmark. O critério de escolha foi o preço, que deveria ser o mais próximo possível de R$ 500.
+As máquinas foram submetidas a dois grupos de testes: qualidade/velocidade e custo de impressão. Afinal, não é agradável comprar uma impressora barata e depois se assustar com o preço da tinta.
+Nos testes de qualidade, cada máquina imprimiu quatro fotos no tamanho A4, fez duas cópias (uma colorida e outra em preto-e-branco) e imprimiu páginas de Word e de PowerPoint com seus controles ajustados para vários níveis de qualidade.
+A página de Word trazia seis variações tipográficas, e o slide de PowerPoint tinha barras transversais e longitudinais _isso permite detectar eventuais assimetrias na resolução horizontal e vertical das máquinas.
+Na impressão de fotos, utilizou-se papel de 150 gramas da marca Pimaco _um pacote com dez folhas custa R$ 15,30 (www.nagem.com.br).
+As fabricantes de impressoras vendem seus próprios papéis, que, segundo elas, são melhores. Na prática, a diferença, quando existe, é pequena.
+Galeria on-line
+Os resultados foram cronometrados e avaliados visualmente. Devido à baixa resolução do papel jornal, os "prints" de cada máquina não estão reproduzidos nesta edição. Mas você pode ver uma galeria com alguns deles, que ilustram bem as diferenças mencionadas nos testes, na Folha Online (www.folha.com.br/052531).
+As reproduções foram digitalizadas, a 300 dpi, por um scanner Benq S2W 4300W.
+Por falar em resolução, não dê muita atenção aos números divulgados pelas fabricantes. Uma máquina de 2.400 dpi (ou ppp, pontos por polegada) pode imprimir fotos melhores que outra de 4.800 dpi, e a resolução acima de 300 dpi de qualquer scanner é geralmente desnecessária e pouco viável de usar _gera arquivos imensos, que deixam o PC e a multifuncional muito lentos.
+Todas as máquinas testadas funcionam como copiadoras mesmo que o PC esteja desligado.
+No teste de custo de impressão, as máquinas imprimiram uma cópia eletrônica do livro "Google Hacks" (safari.oreilly.com/?XmlId=0596008570), que apresenta uma combinação típica de imagens, texto e espaços em branco. Ajustadas para o modo de qualidade Normal (ou equivalente), as máquinas imprimiram seqüencialmente as páginas do livro até que o cartucho preto começasse a falhar.
+Esse é o momento, aliás, da troca de cartucho. Forçar os cartuchos a irem até o fim da tinta pode estragá-los, e hoje em dia existem vários serviços de recarregamento que cobram, em São Paulo, cerca de R$ 30.
+As fabricantes detestam os cartuchos reciclados ou recarregados, e anulam a garantia se eles forem usados. Mas a tecnologia avança: já chegou ao Brasil o primeiro recarregador caseiro totalmente automático, que não faz sujeira nenhuma _confira o teste dele na página F8.
+Quem exige mais qualidade e velocidade e está disposto a gastar mais na aquisição de uma multifuncional topo de linha deve considerar os modelos a laser, que são rápidos, resistentes e apresentam ótima qualidade, sobretudo com documentos de escritório (leia texto na pág. F7).
+Manutenção
+As máquinas HP e Lexmark apresentam uma vantagem: usam o sistema de cabeçotes independentes. Cada cartucho tem seu próprio cabeçote de impressão. Então, ao trocar de cartucho, você está trocando também o cabeçote.
+Isso acaba saindo mais caro, mas propicia resultados melhores e menos problemas de manutenção. Com a Epson e a Canon, é preciso ter mais cuidado, pois o cabeçote de impressão é apenas um para toda a vida útil da impressora.
+Ao todo, foram impressas cerca de 2.500 páginas nos testes. Não deixa de ser, também, um teste de resistência mecânica para as máquinas _todas passaram, exceto por um cartucho da Lexmark, que espirrou tinta, mas continuou funcionando.
+Veja detalhes de algumas das impressões geradas nos testes em www.folha.com.br/052531

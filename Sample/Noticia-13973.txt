@@ -1,0 +1,17 @@
+Google incrementa serviço lançando tocador de vídeo 6/7/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Jul 6, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: MULTIMÍDIA
+Assuntos Principais: INTERNET; GOOGLE VIDEO VIEWER /SOFTWARE/; VÍDEO
+Programa opera ocultamente, ou seja, as gravações tocam direto na página do buscador; hacker burla limitação
+Google incrementa serviço lançando tocador de vídeo
+BRUNO GARATTONI
+DA REPORTAGEM LOCAL
+O buscador Google deu um passo importante no desenvolvimento de seu sistema de vídeos ao lançar um software próprio, o Google Video Viewer (video.google.com/video_down load.html). O tocador, que aceita os navegadores Internet Explorer e Firefox _ambos apenas nas versões para sistema Windows_, não tem interface gráfica própria, ou seja, nada mais é que um adaptador: os vídeos tocam dentro de uma janela embutida no próprio site do Google.
+Apesar disso, a ferramenta de busca por vídeos ainda está incompleta, ou seja, a maior parte das pesquisas conduz apenas a transcrições, não vídeos, de programas de TV. O Google espera melhorar seu acervo abrindo uma área para envio de arquivos, em upload.video.google.com. Qualquer internauta pode mandar suas gravações e não há limite para o tamanho dos arquivos, mas os criadores já disseram que não aceitarão vídeos piratas.
+Em tese, o Video Viewer só toca arquivos fornecidos pelo próprio Google, mas o programador norueguês Jon Johansen lançou uma adaptação não-autorizada que elimina essa restrição. Johansen ficou famoso por ter conseguido burlar os sistemas anticópias presentes nos DVDs e na loja de músicas on-line da Apple.
+Buscador especializado
+A ferramenta de busca Blinx (www.blinx.tv) se destaca, pois promete dar acesso à programação de mais de 25 canais de TV, entre eles HBO, ESPN e BBC News. De acordo com seus inventores, o site também encontra podcasts, espécie de transmissão de rádio via download (leia texto na pág. F4).

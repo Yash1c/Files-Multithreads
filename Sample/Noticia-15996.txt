@@ -1,0 +1,17 @@
+ENTENDA INTERFACE GRÁFICA DO LINUX 29/6/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 29, 2005
+Arte: QUADRO: ENTENDA INTERFACE GRÁFICA DO LINUX
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; COMPUTADOR; LINUX /SISTEMA OPERACIONAL/; RECURSO; INTERFACE GRÁFICA
+ENTENDA INTERFACE GRÁFICA DO LINUX
+. ÍCONE MEU SISTEMA
+Equivalente ao Meus documentos do Windows. Quando clicado, abre o gerenciador de arquivos (na pasta /home, que você deve usar para guardar os seus arquivos)
+. ÍCONE PC CONECTADO
+Abre uma janela com atalhos para 18 dos principais softwares inclusos na máquina
+. ÍCONE COMECE AQUI<BR>Dá acesso a um painel com opções de configuração do sistema operacional
+. BARRA DE TAREFAS
+É mais alta e traz quatro ambientes virtuais. Cada um dos números de 1 a 4 dá acesso a uma área de trabalho separada, o que evita o congestionamento de janelas
+. BOTÃO INICIAR
+Igual ao do Windows, dá acesso aos softwares, que ficam divididos por categoria

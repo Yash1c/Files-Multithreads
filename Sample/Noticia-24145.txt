@@ -1,0 +1,17 @@
+Saiba ativar manutenção automática 1/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 1, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: COMPUTADOR; WINDOWS XP /SISTEMA OPERACIONAL/; DICA; CONFIGURAÇÃO; AUTOMATIZAÇÃO; SOFTWARE; PROGRAMA; MANUTENÇÃO; DESEMPENHO; VELOCIDADE; DESFRAGMENTAÇÃO
+Saiba ativar manutenção automática
+DA REPORTAGEM LOCAL
+Após alguns meses de uso, o PC fica perceptivelmente mais lento. Um dos motivos pelos quais isso acontece é a fragmentação do disco rígido, que no sistema Windows é uma decorrência natural e inevitável da operação da máquina. O Windows traz embutido um desfragmentador de disco, mas ele é manual, ou seja, não pode ser programado para fazer manutenção preventiva.
+Fazendo um pequeno ajuste, você poderá agendar o desfragmentador. Clique em Iniciar, Configurações e Painel de controle e abra o item Tarefas agendadas. Clique em Adicionar.
+No assistente exibido, aperte Procurar e navegue até o arquivo defrag.exe, que fica na pasta Windowssystem32. Defina a periodicidade da desfragmentação (de preferência mensal) e digite a sua senha de usuário.
+Na última tela do assistente, marque o item Abrir as propriedades avançadas e aperte Concluir. Observe o texto exibido no campo Executar, que deverá ser C:\WINDOWS\system32\defrag.exe. Você deverá digitar a letra correspondente ao seu disco depois da palavra defrag.exe.
+Como padrão, o disco usa a letra c. Dessa forma, o comando completo seria "C:\WINDOWS\system32\defrag.exe C:" (sem as aspas). Durante a desfragmentação, a máquina fica lenta. Por isso, programe a manutenção para que ela ocorra num horário em que o computador está ligado, porém ocioso.
+Otimização gráfica
+Outra opção para melhorar a performance do Windows XP é desligar os enfeites da interface gráfica. Para fazer isso, clique com o botão direito do mouse no ícone Meu computador e selecione Propriedades. Abra o item Avançado e aperte o primeiro botão Configurações (ele fica no campo Desempenho). Na janela exibida, simplesmente escolha a opção Ajustar para obter um melhor desempenho e aperte OK. 
+(BG)

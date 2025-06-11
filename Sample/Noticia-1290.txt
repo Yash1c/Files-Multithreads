@@ -1,0 +1,27 @@
+Amazon oferece imagens de endereços 17/8/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Aug 17, 2005
+Legenda Foto: Fotos de estabelecimentos estão no site da A9, onde pode-se buscar por serviços em 20 cidades americanas
+Crédito Foto: Reprodução
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: MAPAS
+Assuntos Principais: INTERNET; GEOGRAFIA; MAPA; AMAZON /SITE/; A9 /SITE/; IMAGEM; LOCALIZAÇÃO; SERVIÇO; PÁGINAS AMARELAS /CATÁLOGO/
+Fotos mostram serviços das Páginas Amarelas; no Google Sightseeing, internautas trocam informações turísticas
+Amazon oferece imagens de endereços
+DA REPORTAGEM LOCAL
+Depois do sucesso dos programas de mapeamento por satélite, como o Google Maps (maps.google.com), a Amazon (www.amazon.com) decidiu criar seu próprio banco de dados geoespaciais.
+Criado pela A9 (www.a9.com), empresa controlada pela superloja on-line, o programa transforma as informações publicadas nas Páginas Amarelas americanas em imagens, para que o usuário localize e visualize os serviços disponíveis em sua cidade.
+Para isso, caminhões da A9, dotados de mecanismos de registro fotográfico, que incluem câmeras digitais, localizadores GPS e programas de codificação geográfica, já percorreram cerca de 20 cidades norte-americanas, compondo um banco com cerca de 30 milhões de imagens.
+O serviço segue o modelo já disponível no site francês Pages Jaunes (www.pagesjaunes.fr), que traz imagens das fachadas dos endereços que figuram na lista.
+Para usar os mapas da A9, marque, na página de abertura, a opção Yellow Pages e digite o nome ou tipo de estabelecimento (bank, por exemplo) e seu endereço ou nome da cidade e do Estado onde deseja localizá-lo. Uma foto da fachada do local será exibida e, se o internauta desejar, pode mover-se virtualmente para a esquerda ou para a direita, como se estivesse caminhando pelo quarteirão.
+O curioso é que as fotos foram tiradas em dias de movimento comum. Por isso, registram cenas cotidianas, como pedestres atravessando a rua, táxis estacionados, sacos de lixo na calçada e mães empurrando carrinhos de bebê. Outra janela dá orientações para chegar ao local.
+Turismo
+As funcionalidades dos serviços de mapeamento vão até onde a imaginação mandar. Na semana passada, foi lançado o site Google Sightseeing (www.googlesightseeing.com), que traz imagens de satélite de pontos turísticos, comentários e rotas de passeios propostos pelos internautas. Os locais são divididos em categorias como prédios, monumentos, estádios e paisagens naturais.
+Os novos comentários são publicados na página inicial ou, caso o internauta disponha de um programa leitor de RSS (real simple syndication), podem ser enviados por RSS. Os autores do site, identificados como Alex, James e Olly, oferecem uma página para que os usuários enviem seus comentários juntamente com o endereço da imagem de satélite, que deve ser extraída do Google Maps ou do Google Earth (earth.google.com) _nesse caso, é preciso fazer o download do programa.
+Outro serviço baseado no mesmo site é o de localização de imóveis do Planeta Imóvel. No canal Minha vizinhança (www.planetaimovel.com/minhavizinhanca), antes de escolher um imóvel, é possível ler e enviar avaliações sobre bairros e ver imagens da região escolhida.
+Barulho
+Até mapear o nível de ruído urbano já é possível. Na Inglaterra, 20 localidades, como Liverpool, Brighton e Manchester, integram um plano nacional para criar estratégias de redução de barulho, a ser concluído em 2007.
+Os mapas são gerados por programas que calculam o grau de ruído em pontos específicos e como ele se espalha pelas redondezas. O projeto visa zelar pela saúde dos cidadãos, já que viver em ambientes muito barulhentos pode contribuir para o desenvolvimento de quadros de estresse, paranóia e distúrbios do sono.
+(MARIANA BARROS)

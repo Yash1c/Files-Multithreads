@@ -1,0 +1,17 @@
+Microsoft defende sistema em livro e na internet 1/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 1, 2005
+Observações: SUB-RETRANCA
+Vinheta/Chapéu: OUTRO LADO
+Assuntos Principais: COMPUTADOR; WINDOWS XP /SISTEMA OPERACIONAL/; MICROSOSFT /EMPRESA/; DICA; CONFIGURAÇÃO; AUTOMATIZAÇÃO; SOFTWARE; PROGRAMA; MICROSOFT WINDOWS XP: DO AMAZING THINGS /LIVRO/
+Microsoft defende sistema em livro e na internet
+DA REPORTAGEM LOCAL
+Uma resposta da empresa de Bill Gates a eventuais chateações experimentadas pelos usuários de Windows é o livro "Microsoft Windows XP: Do Amazing Things" (www.microsoft.com/MSPress/books/6848.asp), um manual de 416 páginas dedicado a mostrar como o sistema pode ser usado de maneira produtiva e agradável.
+Os sites www.microsoft.com/windowsxp/using/default.mspx e groups.msn.com/eXPerienceWindows reúnem links para alguns dos tópicos abordados pelo livro.
+As chateações trazidas pelo sistema deram origem, nos Estados Unidos, à série de livros "Windows Annoyances", que pode ser encontrada em livrarias on-line como a Amazon (www.amazon.com) e a Barnes & Noble (www.bn.com). Já existe até uma edição revista para abranger o Service Pack 2, último pacote de atualizações da Microsoft para o Windows XP. A página oficial da série, www.annoyances.org, traz um ótimo acervo com dicas de configuração e também abriga fóruns de discussão.
+A própria Microsoft admite que, em alguns casos, ao menos, o Windows pode trazer complicações.
+Prova disso está na página https://s.microsoft.com/windowsxp/using/helpandsupport/getstarted/ballew_forums.mspx, na qual há uma lista de sites e fóruns especializados em debater o sistema operacional.
+O fórum não-oficial Windows Fanatics (help.lockergnome.com/index.php?showforum=70), que, segundo a Microsoft, discute as "irritações" do sistema, é um dos mais relevantes. 
+(BG)

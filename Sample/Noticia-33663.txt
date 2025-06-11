@@ -1,0 +1,24 @@
+Trio da Califórnia faz fusão a frio de verdade 28/4/2005
+Autor: SALVADOR NOGUEIRA
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A18
+Edição: São Paulo Apr 28, 2005
+Legenda Foto: Seth Putterman, Brian Naranjo e Jim Gimzewski, com o reator
+Crédito Foto: Divulgação Ucla
+Vinheta/Chapéu: FÍSICA
+Assuntos Principais: FÍSICA; CALIFÓRNIA /LOS ANGELES/; FUSÃO; FRIO; PESQUISA
+Pesquisa gera nêutrons baratos
+Trio da Califórnia faz fusão a frio de verdade 
+DA REPORTAGEM LOCAL 
+Um trio de pesquisadores da Universidade da Califórnia em Los Angeles acaba de realizar em seu laboratório um velho e desvairado sonho da física: fusão a frio. Mas só em certo sentido.
+"Sim, termicamente falando, ela é ainda mais fria que a 'fusão a frio'!", exclama Brian Naranjo, primeiro autor da pesquisa. "Em nosso artigo, começamos nosso ciclo térmico em -30C. Nos primeiros experimentos usamos nitrogênio líquido para começar o ciclo térmico a -196C."
+Eles usaram uma técnica relativamente simples para chocar núcleos atômicos de deutério _um tipo de hidrogênio pesado, com um nêutron e um próton_ e grudá-los, produzindo hélio (dois prótons e dois nêutrons). Essa colagem nuclear é chamada de fusão e é o que alimenta a produção de energia nas estrelas e a detonação das mais poderosas armas atômicas nos arsenais terráqueos.
+Muitos cientistas apostam nessas reações como a melhor forma de produzir energia de maneira ambientalmente correta para um futuro eletricamente brilhante e sem aquecimento global para a humanidade. Mas ninguém até hoje conseguiu fazer em laboratório essas reações sem gastar mais energia do que produz.
+Um dos sonhos foi a chamada fusão a frio, supostamente realizada por cientistas da Universidade de Utah em 1989 _um modo de provocar colagem de átomos sem evocar temperaturas astronomicamente altas. Resultados posteriores mostraram que essa "fusão a frio" era apenas um mito, na melhor das hipóteses, ou uma fraude, na pior delas.
+O estigma da expressão ficou tão pesado que todos os cientistas sempre fazem questão de desvencilhar qualquer experimento novo do termo. "Esse aparelho enfaticamente não é fusão a frio", diz Michael Saltmarsh, um pesquisador "quase aposentado" do Laboratório Nacional de Oak Ridge, nos Estados Unidos, que comentou o estudo de Naranjo e seus colegas para a edição da revista científica britânica "Nature" (www. nature.com) que circula hoje. "Minha opinião sobre a fusão a frio é que ela foi um grande desapontamento quando descobrimos _bem rápido_ que ela não podia ser reproduzida. Foi um fiasco científico, e os resultados obtidos não são consistentes com o que sabemos de física nuclear."
+Consistência 
+Quanto ao estudo de Naranjo, a boa notícia é que sua técnica não só é consistente com a teoria como de fato funciona. A má é que, embora "fria", ela segue consumindo mais energia do que gera.
+Isso, evidentemente, não quer dizer que não sirva para nada. Ao produzir fusão de deutério em seu pequeno reator, os cientistas geraram um feixe de nêutrons, partículas que sobram da reação, relativamente denso. Uma fonte de nêutrons é útil para diversos usos laboratoriais. Hoje, só se consegue algo desse tipo com um aparelho bem volumoso e caro.
+"A maioria dos geradores comerciais de nêutrons usa esse mesmo princípio", explica Saltmarsh. "A idéia interessante que eles tiveram foi no modo em que produzem o feixe de íons [os núcleos de deutério dissociados de seus elétrons], usando um cristal em combinação com o campo de ionização ao redor da ponta de tungstênio." Não entendeu? Ele resume a história: "Isso é de fato um pequeno acelerador, que exige apenas a adição de calor para que se produza um feixe de íons".
+Naranjo acha que seus resultados, que o grupo pretende desenvolver até atingir o estágio comercial (já até requisitaram uma patente preliminar nos EUA), servem de lição para todo o campo de estudo de fusão nuclear. "Algumas vezes as idéias mais simples são as mais poderosas", diz. "Para produzir um sinal significativo de nêutrons, tudo que você tem de fazer é tirar o seu aparelho do freezer da cozinha e deixá-lo aquecer com o ambiente."
+(SN)

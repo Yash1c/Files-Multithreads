@@ -1,0 +1,13 @@
+Ferramentas traduzem textos e sites 13/7/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 13, 2005
+Seção: CANAL ABERTO
+Ferramentas traduzem textos e sites
+"Existem tradutores de páginas da internet que traduzem um site especificado ou a página que estou visitando?"
+(Marco Muzilli)
+Resposta - Existem diversos serviços on-line que realizam essa tarefa, além de alguns programas que, uma vez instalados em sua máquina, traduzem as páginas que você visitar. Para isso, basta pressionar uma tecla ou dar um clique no mouse. Outros sites permitem traduzir uma página da rede de forma automática, ou seja, sem intervenção humana. De forma geral, o resultado é satisfatório e vai permitir a leitura da página sem maiores dificuldades.
+Nos sites mencionados a seguir você terá três possibilidades distintas: traduzir o texto enquanto você digita, colar o texto pronto em um espaço determinado ou digitar o endereço de uma página da web num campo específico. Esse último permite que, após pressionar o botão de tradução, uma nova página exiba a versão traduzida do site especificado.
+O site Altavista (babelfish. altavista.com) oferece tradução de textos e de páginas da rede, além de um serviço gratuito que facilita a tradução do seu site para outros idiomas. Para isso, na página citada, clique no link Add Babel Fish Translation to your site, selecione o idioma português e clique no botão I want this one. A página retornará um código HTML que deve ser inserido na sua página. O site Applied Language (www.appliedlanguage.com/free_translation.shtml) oferece tradução de textos e de páginas. O Google também oferece tais serviços em www.google.com/language_ tools.
+CORRESPONDÊNCIA
+E-mail - canalaberto@uol.com.br (necessário nome completo)

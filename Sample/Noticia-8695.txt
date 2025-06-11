@@ -1,0 +1,25 @@
+Governo defende telefonia via internet 18/9/2005
+Autor: HUMBERTO MEDINA
+Origem do texto: DA SUCURSAL DE BRASÍLIA
+Editoria: DINHEIRO Página: B5
+Edição: São Paulo Sep 18, 2005
+Legenda Foto: Centro de operações da Telefônica, em SP; governo defende VoIP para elevar competitividade
+Crédito Foto: Jefferson Coppola - 30.nov.04/Folha Imagem
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: NOVA ECONOMIA
+Assuntos Principais: TELECOMUNICAÇÕES; TELEFONIA; TECNOLOGIA; VOIP /VOICE OVER INTERNET PROTOCOL/; TRANSMISSÃO; PROVEDOR; ANATEL /AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES/
+Para ministro das Comunicações, teles devem procurar clientes nas classes C, D e E a fim de compensar perdas
+Governo defende telefonia via internet
+HUMBERTO MEDINA
+DA SUCURSAL DE BRASÍLIA
+O governo federal é a favor do uso da internet para ligações telefônicas _sistema conhecido com VoIP (voz sobre protocolo de internet, na sigla em inglês). De acordo com o ministro Hélio Costa (Comunicações), as teles devem procurar mais clientes nas classes de consumo C, D e E, porque a classe média, com acesso à internet, deve usar cada vez mais o VoIP, movimento que ele acha inevitável.
+A Anatel (Agência Nacional de Telecomunicações) entende que não deve interferir nesse serviço, por enquanto. Na avaliação da agência, no futuro, com a disseminação da banda larga no acesso à internet, o VoIP pode aumentar a competição no setor de telefonia fixa.
+"É inevitável [o uso do VoIP]. É o passo mais importante da telefonia nesses últimos dois anos", disse Costa à Folha. "Já é um fenômeno. Todas as pessoas que têm computador, que lidam com computador, sabem da existência dos diversos programas que fazem voz sobre IP [Protocolo de Internet] e os utilizam", disse.
+"Isso reforça a teoria de que as empresas de telefonia fixa precisam começar a encontrar novos clientes, possivelmente nas classes C, D e E, porque as classes A e B dispõem do computador. E, se dispõem do computador, evidentemente estão migrando para voz sobre IP", afirmou. Para ter maior penetração nessas classes mais baixas de renda, segundo o ministro, as teles teriam que reduzir o valor da assinatura básica ou até mesmo acabar com a cobrança.
+Ainda segundo Costa, o governo deve seguir o que é feito no resto do mundo com a internet e não interferir. "O governo tem que seguir o padrão internacional, da mesma forma que faz com a internet, que não é um serviço de comunicações", disse. "Eu sempre alerto as empresas [de telefonia] de que elas têm que começar a conviver com essa situação e encontrar novos produtos. A telefonia fixa tem que começar a desenvolver novos serviços", disse.
+A Anatel optou por esclarecer, por escrito, seu posicionamento em relação ao VoIP. A agência ressaltou que "não existe um marco regulatório para VoIP no Brasil, assim como na maior parte dos países". Ainda de acordo com a agência, "o cenário regulatório vigente ainda é carente de normas específicas para disciplinar de maneira eficiente os serviços de voz sobre IP no Brasil".
+Três cenários
+Segundo a Anatel, há três cenários possíveis para a utilização de serviços VoIP. O que ela chama de "classe 1" ou "VoIP puro" é a ligação entre um computador e outro para transmissão de voz por meio de internet. Esse serviço é considerado pela agência reguladora como sendo de "valor adicionado à internet" e, portanto, não é regulado.
+As outras duas classes envolvem o uso da rede pública. São casos como o uso de um computador para completar uma ligação para um telefone fixo, por exemplo. Nesse caso, é necessária autorização da agência.
+Questionada sobre se a disseminação do VoIP teria levado as teles a fazer algum tipo de reclamação na agência, a Anatel informou que não. De acordo com a agência, "no futuro, a voz sobre IP com o uso de banda larga poderá constituir um mecanismo para aumentar a competição na telefonia fixa local". Nessa circunstância, a agência vai avaliar "como essa tecnologia afeta ou não o equilíbrio financeiro das concessionárias" de telefonia fixa.
+A agência ressaltou que, "no Brasil, de um lado, a rede pública de telecomunicações sempre foi altamente regulada, e, de outro a internet sempre foi deixada livre do processo de regulamentação". Na análise da Anatel, o VoIP "faz esses dois mundos interagirem e é preciso cautela na análise e tratamento da matéria".

@@ -1,0 +1,14 @@
+OS LOCALIZADORES POR GPS 11/5/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo May 11, 2005
+Arte: QUADRO: OS LOCALIZADORES POR GPS
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; INDÚSTRIA AUTOMOBILÍSTICA; AUTOMÓVEL INTELIGENTE; RECURSO; GUIA DE RUAS VIRTUAL; GPS /SISTEMA DE POSICIONAMENTO GLOBAL/
+OS LOCALIZADORES POR GPS
+. Para determinar sua posição, um receptor de GPS precisa se comunicar com três dos satélites em órbita da Terra
+. Ao receber o sinal de cada satélite, o aparelho determina a distância que os separa, mas não em qual direção
+. Sem a direção, o localizador pode estar em qualquer lugar no perímetro de uma esfera imaginária que tem o satélite como ponto central
+. Criando esferas imaginárias com os três satélites, obtêm-se dois pontos de intersecção: um na Terra e outro no espaço
+. Descartado o ponto no espaço, o GPS determina as coordenadas exatas (latitude, longitude e altitude) de onde está localizado o receptor
+Fonte: electronics.howstuffworks.com

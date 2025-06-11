@@ -1,0 +1,17 @@
+Modelo simples tem recursos adequados 17/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F7
+Edição: São Paulo Aug 17, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: HORA DO DVD
+Assuntos Principais: TECNOLOGIA; DVD; GRAVADOR; MODELO; RECURSO; PREÇO
+Saiba escolher um drive e confira testes do LG GSA-4163B, que custa R$ 279, e do LaCie d2, mais sofisticado
+Modelo simples tem recursos adequados
+DA REPORTAGEM LOCAL
+Qual gravador de DVDs comprar? O mais barato? Na prática, sim: mesmo os modelos mais simples já oferecem quase todos os recursos desejáveis.
+Em São Paulo, o gravador mais comum nas lojas de informática é o LG GSA-4163B. Ele aceita todos os principais tipos de disco e já é compatível com as mídias Dual Layer, de alta capacidade. Seu único defeito, por assim dizer, é não possuir o recurso LightScribe, que permite decorar os discos.
+O pacote de softwares inclui o Nero (www.nero.com), mas ele causou, no computador usado para os testes realizados com o gravador da LG, conflito entre os componentes Nero Express e Nero SmartStart.
+Se você usa Macintosh ou tem pavor de abrir o gabinete do seu micro (veja na pág. F6 guia que ensina a fazer isso), a saída é comprar um gravador externo. Nesse caso, é fundamental que o computador tenha entrada USB 2.0 _o conector USB antigo, 1.1, é lento demais.
+Outra opção é adquirir um gabinete externo e adaptar nele um gravador interno (veja quadro), o que é mais econômico. Quem pode gastar mais e quer ter a última novidade deve ficar de olho nos gravadores LightScribe (leia texto abaixo).
+(BG)

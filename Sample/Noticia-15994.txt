@@ -1,0 +1,14 @@
+ 29/6/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F1
+Edição: São Paulo Jun 29, 2005
+Legenda Foto: Tux, mascote do Linux, sistema que pode ser usado gratuitamente e está presente no PC popular
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; COMPUTADOR; GOVERNO LULA; COMPUTADOR PARA TODOS /PROGRAMA SOCIAL/; INCLUSÃO DIGITAL; LINUX /SISTEMA OPERACIONAL/
+. SISTEMA OPERACIONAL
+CONHEÇA A INTERFACE GRÁFICA DO LINUX, veja onde estão os principais comandos e opções de configuração e saiba se orientar na área de trabalho
+. INTERNET
+VIGIE TEMPO DE NAVEGAÇÃO; grave páginas da rede para consultá-las mesmo sem estar conectado; configure programa de e-mail e conheça recurso que organiza mensagens automaticamente
+. ESCRITÓRIO
+AJUSTE PROGRAMAS DE EDIÇÃO DE TEXTOS, PLANILHAS E APRESENTAÇÕES para garantir compatibilidade dos documentos com os formatos do Microsoft Office
+. EXPANSÃO
+CONFIRA QUAIS UPGRADES PODEM SER FEITOS e saiba usar o prompt de comando para instalar programas disponíveis na internet

@@ -1,0 +1,15 @@
+Saiba converter arquivos PDF para JPG 6/7/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 6, 2005
+Seção: CANAL ABERTO
+Saiba converter arquivos PDF para JPG
+"Gostaria de saber como converter imagens criadas no formato PDF para o JPG. Como fazer a alteração sem inutilizá-las?"
+(A.F.Ribeiro)
+Resposta - A resposta assume como premissa que o leitor tenha um arquivo PDF que contenha uma ou mais imagens que precisam ser extraídas e convertidas em arquivos JPG individuais.
+Existem duas possibilidades para criar um documento PDF: uma com produtos da Adobe e outra com outros programas. O PhotoShop CS e o PhotoShop Elements, uma versão simplificada do Photoshop (todos da Adobe), têm uma opção chamada PDF SlideShow. Ela cria um arquivo PDF com as imagens e as transforma em uma apresentação de Slides que pode ser vista com o Adobe Reader (www.brasil.adobe.com/products/acrobat) .
+Nessa situação, o Adobe Reader oferece a opção de extrair as imagens. Usando a Versão 6.0 do programa para executar um arquivo desse tipo, aparecerá um botão chamado Tarefas de Imagem. Nele, é possível escolher a opção Exportar Figuras, selecionar uma ou todas as imagens e salvá-las na pasta de sua preferência.
+Se as fotos eram originalmente do tipo JPG, voltarão ao seu estado original. Mas com um PDF criado por outros programas, o Adobe Reader não oferece tal possibilidade. Assim, será preciso usar um programa que execute tal tarefa. No site da Snowbound Software (207.97.202.187/main/79/278) você encontrará o SnowBatch. Em www.verypdf.com há ferramentas como o Document Print, que faz essa conversão. Outra opção está em www.eprintdriver.com.
+CORRESPONDÊNCIA
+E-mail: canalaberto@uol.com.br
+(necessário nome completo)

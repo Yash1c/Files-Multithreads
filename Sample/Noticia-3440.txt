@@ -1,0 +1,20 @@
+Conexão experimental funciona no RJ 10/8/2005
+Autor: MARIO HUGO
+Origem do texto: DA SUCURSAL DO RIO
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Aug 10, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; CONEXÃO; REDE ELÉTRICA; TECNOLOGIA; PLC /POWER LINE CONNECTION/
+Conexão experimental funciona no RJ
+MARIO HUGO
+DA SUCURSAL DO RIO
+A Escola Técnica Estadual Adolpho Bloch, no Rio, é um dos primeiros edifícios do país ligados à internet por meio da rede elétrica via sistema PLC (Power Line Connection). Instalado em 2003 pela companhia de energia Light, o PLC _em português, conexão via rede elétrica_ tem sido, segundo seus usuários, um exemplo de eficiência.
+De acordo com o coordenador do curso de produção audiovisual da escola, Oliver Boézio, o usuário obtém conexão imediata ao ligar o computador. A conexão funciona sem sofrer interferência dos outros equipamentos ligados à tomada.
+"Na minha sala, o ar-condicionado fica ligado junto com o computador e a conexão nunca caiu", afirma Boézio.
+A velocidade média da conexão via PLC nos computadores da Adolpho Bloch é de 256 Kbps.
+De acordo com Boézio, atualmente 11 micros da escola estão ligados ao sistema elétrico, mas a maioria dos 1.200 alunos da instituição não tem acesso porque a rede compreende poucos setores _a administração, a agência experimental de propaganda e o curso de produção audiovisual.
+Uma das vantagens do sistema PLC é a dispensa do uso de fiações para ligar vários computadores em rede. "Aqui, na escola, ligamos em rede os computadores que estão no primeiro e no sexto andares sem precisar de cabos. A própria rede elétrica transmite as informações", diz Boézio.
+Custo
+A PLC ainda não é explorada comercialmente. A escola não gasta um centavo com a manutenção do sistema, que vem funcionando de maneira experimental. Tudo é custeado pela Light, que forneceu os modems e os conversores.
+Na escola, a PLC é complementada por um cabo de fibra óptica.
+A tecnologia também já funciona, em caráter provisório, nos condomínios Lagoa Azul, Barramares e Novo Leblon, todos na Barra da Tijuca (zona oeste), Carminig (Ipanema, zona sul), no hotel Othon (Copacabana, zona sul), no shopping center Novo Leblon (Barra da Tijuca) e em edifícios comerciais do centro e do Flamengo (zona sul).

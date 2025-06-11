@@ -1,0 +1,18 @@
+Banda larga domina mercado brasileiro 10/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Aug 10, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: NOS CAMINHOS DA LUZ
+Assuntos Principais: INTERNET; CONEXÃO; TECNOLOGIA; BANDA LARGA; ADSL /ASYMMETRIC DIGITAL SUBSCRIBER LINE/
+Segundo o Ibope, número de residências com conexão rápida supera usuários do arcaico dial-up
+Banda larga domina mercado brasileiro
+DA REPORTAGEM LOCAL
+A internet de alta velocidade já superou, até no Brasil, as arcaicas conexões discadas: segundo pesquisa feita em maio pelo Ibope/NetRatings, há 6,32 milhões de usuários residenciais de banda larga, contra 5,2 milhões com acesso dial-up. Essa popularização tem dois motivos: as qualidades técnicas do serviço em si (além de ser mais rápida, a banda larga raramente cai) e uma maciça campanha promocional.
+A tecnologia líder de mercado, segundo o Ibope, é a ADSL (Asymmetric Digital Subscriber Line), com 2,97 milhões de assinantes, seguida pela cable modem, com 804 mil.
+Cada sistema usa uma via de dados _veja quadro ao lado_, mas todos estão disponíveis em várias velocidades. Se você pretende baixar arquivos da rede, o ideal é que a conexão tenha pelo menos 256 Kbps (o acesso discado atinge aproximadamente 56 Kbps).
+Na maioria dos casos, vale a pena comprar o modem em vez de alugá-lo. Fique de olho nas promoções: Speedy e Vírtua, por exemplo, têm pacotes que dispensam taxa de adesão e incluem modem grátis _desde que o usuário se comprometa a assinar o serviço por um determinado prazo.
+Além disso, lembre-se de que a mensalidade dos serviços de banda larga geralmente não inclui provedor (R$ 20 a R$ 30 adicionais), e os valores iniciais costumam ser temporários. No Speedy, por exemplo, o plano de 350 Kbps sobe de R$ 40 para R$ 80 após o terceiro mês.
+Todos os principais serviços têm cotas de tráfego, ou seja, limitam a quantidade de dados que você pode baixar mensalmente. Mas essa restrição, que segundo as empresas é necessária para evitar congestionamentos, tem sido ignorada na prática. 
+(BG)

@@ -1,0 +1,27 @@
+LIGAÇÃO DIRETA 17/6/2005
+Autor: 
+Editoria: CIÊNCIA Página: A21
+Edição: São Paulo Jun 17, 2005
+Arte: QUADRO: LIGAÇÃO DIRETA
+Observações: SUB-RETRANCA; CRONOLOGIA
+Assuntos Principais: MEDICINA; NEUROLOGIA; NEUROCIÊNCIA; ROBÓTICA; CIBORGUE; MIGUEL NICOLELIS; PESQUISA CIENTÍFICA; EUA; UNIVERSIDADE DUKE; HOSPITAL SÍRIO-LIBANÊS; INVESTIMENTO; ACORDO; PARCERIA
+LIGAÇÃO DIRETA
+Veja como cientistas liderados pelo brasileiro Miguel Nicolelis esperam conectar braço mecânico diretamente à mente do paciente
+1. Os cientistas instalam cirurgicamente eletrodos no cérebro do paciente, que transmitem sinais por ondas de rádio
+2. As ondas de rádio atingem um processador miniaturizado, que irá interpretar os dados para "decodificar" os comandos cerebrais
+3. O processador comandará o braço robótico, que funcionaria como uma prótese inteligente para indivíduos que perderam os membros ou os movimentos por lesões nervosas
+> Os experimentos, conduzidos desde 1999, já tiveram sucesso em roedores e macacos
+> Os cientistas esperam fazer o primeiro teste com um humano em 3 anos
+CRONOLOGIA
+. 1999
+Nicolelis e John Chapin, da Universidade MCP-Hahnemann, na Filadélfia, aplicam em ratos o princípio de transmissão de mensagens do cérebro para um braço mecânico. O movimento é simples: apertar uma alavanca para conseguir água
+. 2000
+O feito é repetido em macacos-da-noite Aotus trivirgatus, espécie originária da Amazônia. Os bichos são treinados a mexer um joystick num jogo de computador e, depois, comandam o cursor (por meio de um braço robótico) com 100 neurônios
+. 2002
+Uma dupla de macacos resos (Macaca mulatta), espécie cuja estrutura cerebral é muito mais próxima da dos seres humanos, também é submetida ao procedimento e consegue controlar os braços mecânicos
+. 2003
+Novo estudo do pesquisador sugere que os primatas conseguem movimentar o membro cibernético por incorporarem uma representação dele no próprio cérebro. Para todos os efeitos, é como se ele fosse uma terceira mão
+. 2004
+Primeiro teste do conceito em humanos é bem-sucedido: pacientes que passavam por uma cirurgia tiveram os sinais de seus neurônios registrados enquanto jogavam um videogame. O grupo descobriu que podia prever com precisão os movimentos das pessoas
+. 2008
+Data estimada para a implantação da primeira prótese robótica em uma pessoa com deficiência motora, provavelmente no Brasil

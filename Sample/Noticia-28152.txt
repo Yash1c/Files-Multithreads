@@ -1,0 +1,17 @@
+Faça cópias de segurança de seus e-mails 18/5/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 18, 2005
+Seção: CANAL ABERTO
+Faça cópias de segurança de seus e-mails
+"Gostaria de saber como fazer arquivos de backup dos dados armazenados no meu micro. O programa de backup do Windows me parece complicado e com poucas opções. Existem programas para backup específicos de arquivos de e-mail?"
+(Nilton de Souza Magalhães)
+Resposta - Em sites como o www.tucows.com, sob o tópico Files Utilities, você encontrará a categoria Backup, com dezenas de opções. A maioria é shareware (com limitações para o uso gratuito).
+Uma opção interessante é o SyncBack (www.2brightsparks. com/syncback), que é gratuito e funciona adequadamente.
+Se você usa e-mails com freqüência, é bom fazer um backup da estrutura de pastas, perfis e outras configurações. Por isso, selecionamos alguns programas que fazem essa tarefa para os principais programas de e-mail do mercado.
+O Mozbackup, para copiar mensagens e arquivos do Mozilla e do Netscape, pode ser obtido no site backup.jasnapaka.com.
+Para fazer cópias de pastas do Outlook, use o ABF Outlook Backup 2.35, obtido em www. abf-soft.com/outlook-backup. shtml. Para pastas e mensagens do Outlook Express, use o 123 Outlook ExpressBackup 1.1, disponível em www.allnetsoft.com.
+Executando backups com freqüência e tomando medidas preventivas, como a criação de pontos de recuperação por meio do utilitário Restauração do Sistema, discutido na edição passada (www1.folha.uol.com.br/fsp/informat/ fr1105200514.htm), seus dados ficarão mais seguros.
+CORRESPONDÊNCIA
+E-mail
+canalaberto@uol.com.br (necessário nome completo)

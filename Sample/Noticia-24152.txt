@@ -1,0 +1,16 @@
+Evite a abertura de comunicador 1/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jun 1, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: COMPUTADOR; INTERNET; SEGURANÇA; WINDOWS XP /SISTEMA OPERACIONAL/; DICA; CONFIGURAÇÃO; AUTOMATIZAÇÃO; COMUNICADOR PESSOAL; MENSAGEM; MSN MESSENGER /SOFTWARE/; PROGRAMA; ABERTURA
+Evite a abertura de comunicador
+DA REPORTAGEM LOCAL
+O comunicador pessoal MSN Messenger é um dos programas cujo comportamento-padrão é mais irritante. Ele abre sozinho sempre que o PC é ligado ou se conecta à internet, queira ou não o usuário. No MSN 7, clique em Ferramentas e Opções, entre na categoria Geral e desmarque os itens Executar o Messenger automaticamente e Permitir a entrada automática. Isso acabará com o voluntarismo do comunicador.
+Outro problema é que, quando você abre o soft, ele mostra uma tela com notícias do portal MSN e também indica se há mensagens novas na sua conta de correio do Hotmail. Se você não usa o Hotmail nem quer ler o portal da Microsoft, faça o seguinte.
+Vá para a tela de configurações do MSN (Ferramentas/Opções), selecione Geral e desmarque o item Exibir MSN Hoje quando o Messenger entrar. Em seguida, entre na categoria Alertas e Sons e desative a opção Exibir alertas ao receber e-mail.
+Nessa mesma tela, você pode silenciar os efeitos sonoros que são emitidos pelo comunicador quando chegam mensagens ou quando contatos ficam on-line (desmarque o item Tocar som).
+O MSN Messenger é um software opcional, mas seu similar Windows Messenger não é _vem embutido no Windows XP, que, a rigor, não permite a desinstalação do programa. Mas é possível se livrar do Windows Messenger. Localize o arquivo sysoc.inf, que normalmente fica na pasta Windowsinf. Abra esse arquivo com um editor de texto.
+Na linha iniciada pelo termo msmsgs, apague a palavra hide. Feche o arquivo salvando as mudanças e reinicie o PC. Clique em Iniciar, Configurações e Painel de controle, abra o item Adicionar ou remover programas e aperte Componentes do Windows. O Windows Messenger será exibido na lista de candidatos à desinstalação. A remoção do programa é totalmente reversível. 
+(BG)

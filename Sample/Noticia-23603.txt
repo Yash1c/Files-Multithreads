@@ -1,0 +1,24 @@
+Software auxilia iniciante a criar filmes 14/9/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Sep 14, 2005
+Observações: COM SUB-RETRANCA; PÉ BIOGRÁFICO
+Vinheta/Chapéu: TESTE USP/VÍDEO
+Assuntos Principais: VÍDEO DIGITAL; EDIÇÃO; ADOBE PREMIERE ELEMENTS /SOFTWARE/; TESTE; DESEMPENHO; RECURSO; FERRAMENTA; FORMATO; COMPATIBILIDADE; CONFIGURAÇÃO
+Com ferramentas automáticas e diversos efeitos, o Adobe Premiere Elements permite editar, exportar e criar legendas de clipes
+Software auxilia iniciante a criar filmes
+EDUARDO MARQUES
+RICARDO MENOTTI
+ESPECIAL PARA A FOLHA
+O programa Premiere Elements, da Adobe, é uma ferramenta para edição de vídeos caseiros que permite receber arquivos de uma filmadora digital, editá-los e exportá-los em diversos formatos. Captura, edição, efeitos, legendas e geração são apresentados na interface principal do programa, que não tem versão em português, assim como seu manual do usuário.
+Os testes foram feitos em um computador com processador Intel Pentium 4 de 1,5 GHz e 256 Mbytes de memória RAM. O programa obteve um desempenho razoável, considerando que as alterações são exibidas em tempo real, sem necessidade de processamento prévio. Mas é recomendável aumentar a capacidade de memória do PC para obter um melhor desempenho.
+Configuração e uso
+A instalação do programa é simples, pois não há personalizações. São usados dois CDs, que juntos ocupam 860 Mbytes. Há suporte para câmeras de padrões DV (FireWire), IEEE1394 e i.LINK. Para usar webcam USB, é preciso capturar o vídeo em outro aplicativo e importá-lo no programa.
+A maioria das tarefas é realizada de forma automática, basta seguir as instruções da janela principal. A primeira tarefa é capturar o vídeo, que segue diretamente para a linha do tempo. Por padrão, são exibidas duas linhas de tempo para vídeo e duas para áudio, mas é possível ter até 99 linhas para cada um _úteis para combinar sons e vídeos, criando efeitos de sobreposição e transição.
+Para a edição de vídeo, há três ferramentas: Selection, para mover e ajustar os vídeos na linha do tempo, Razor, para dividi-los, e Time Stretch, para controlar sua duração e velocidade.
+O software oferece uma grande quantidade de efeitos (basta selecionar e arrastar o efeito desejado). Também é possível adicionar títulos e legendas e juntá-los à linha do tempo para configurar quando e por quanto tempo eles aparecerão. Por fim, deve-se escolher o formato de exportação.
+Para a criação de DVDs, é possível criar um disco com início automático ou baseado em menus, com opções para selecionar cenas. Há vários modelos de menus, mas não é possível criar versões totalmente personalizadas, com ícones animados e sons.
+A ferramenta suporta mídias de DVD de camada simples dos tipos +R, +RW, -R e -RW. Usuários que possuem gravadores de dupla camada devem usar discos de camada simples para a gravação direta do software.
+Conclusão
+O Adobe Premiere Elements é uma boa ferramenta para usuários com pouca ou nenhuma experiência na edição de vídeos. Usuários mais avançados podem se sentir limitados quanto à modificação dos modelos da ferramenta, que quase não permitem alterações. O produto, que custa US$ 189 (cerca de R$ 440), tem uma boa relação custo-benefício, considerando os recursos que oferece e se comparado à versão profissional Adobe Premiere Pro US$ 1.450 (cerca de R$ 3.370).
+Eduardo Marques é doutor em engenharia de sistemas e docente do ICMC-USP. Ricardo Menotti é doutorando em ciência da computação no ICMC-USP

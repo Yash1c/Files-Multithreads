@@ -1,0 +1,14 @@
+Receba aviso quando e-mail enviado for lido 17/8/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Aug 17, 2005
+Seção: CANAL ABERTO
+Receba aviso quando e-mail enviado for lido
+"Envio e-mails importantes e preciso saber se a mensagem foi lida pelo destinatário. Existe alguma forma de saber, com segurança, quando o e-mail é lido?"
+(Claudia Passarini)
+Resposta - No Outlook, um dos programas que compõem o pacote do Microsoft Office, você pode ajustar suas configurações para obter uma notificação da mensagem lida. Para configurar esse recurso faça o seguinte. Clique no menu Ferramentas e em Opções.
+Em seguida, selecione a guia Preferências e clique no botão Opções de correio, que aparece no canto direito superior da caixa de diálogo. Na nova tela, marque o item Solicitar confirmação de leitura para todas as mensagens enviadas. Dessa maneira, assim que os e-mails forem lidos, será gerada uma notificação automática de sua leitura, que será enviada à sua caixa de entrada.
+Contudo, para que o mecanismo funcione, é preciso que o programa de correio eletrônico do remetente também suporte esse recurso. Lembre-se ainda que, se o destinatário não aceitar mandar a notificação, você não ficará sabendo sobre a leitura do e-mail. E tampouco receberá resposta se o destinatário ler a mensagem por meio de um navegador, usando o recurso de webmail oferecido pelos provedores.
+Existem serviços oferecidos por terceiros que complementam essa tarefa. Em sites como www.readnotify.com, www.dotrack.it e www.didtheyreadit.com, você poderá se cadastrar e testar o serviço por algum tempo ou em um determinado número de e-mails. Depois disso, é preciso assinar o serviço para continuar a utilizá-lo.
+CORRESPONDÊNCIA
+E-mail: canalaberto@uol.com.br (necessário nome completo)

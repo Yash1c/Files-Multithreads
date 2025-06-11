@@ -1,0 +1,18 @@
+SAIBA USAR O PC POPULAR 29/6/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jun 29, 2005
+Arte: QUADRO: SAIBA USAR O PC POPULAR
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; COMPUTADOR; GOVERNO LULA; COMPUTADOR PARA TODOS /PROGRAMA SOCIAL/; INCLUSÃO DIGITAL; LINUX /SISTEMA OPERACIONAL/; INTERNET; E-MAIL; ACESSO; PLANO; FIREFOX /SOFTWARE/; EVOLUTION /SOFTWARE/; RECURSO
+SAIBA USAR O PC POPULAR
+CONECTE-SE À REDE
+1. Clique duas vezes no ícone Discador Internet, que fica na área de trabalho. Digite a senha de superusuário (root) e o discador será aberto. Clique em Configurar e Nova e selecione Diálogo de configuração. Na tela exibida, aperte Adicionar e digite o número do seu provedor
+2. Aperte OK. O programa voltará para a janela principal. Digite seu nome de usuário e senha e aperte Conectar
+MONITORE O TEMPO DE NAVEGAÇÃO
+1. Abra o Discador Internet, clique em Configurar e abra a guia Outros. Na janela exibida, assinale a opção Acoplar ao Painel quando conectado. Dessa forma, o sistema exibirá um ícone que dá acesso ao contador de tempo de conexão
+CONFIGURE O E-MAIL
+1. Clique no ícone do Evolution (a figura representa um envelope) e aguarde alguns segundos. Um assistente será exibido. Digite nome de usuário e endereço de email, deixando em branco os demais campos
+2. Na etapa seguinte, selecione a opção POP no campo Tipo do servidor e digite o endereço do servidor de e-mail no campo Máquina. Caso deseje, marque o item Lembrar esta senha. Clique duas vezes no botão Próximo
+3. Digite o endereço do servidor de envio de e-mails e assinale a opção Servidor requer autenticação. Certifique-se de que o seu nome de usuário está correto. Aperte o botão Próximo para pular as etapas seguintes
+4. O Evolution será aberto. Para baixar as suas mensagens, basta clicar em Enviar/receber. Para escrever um e-mail, aperte Novo

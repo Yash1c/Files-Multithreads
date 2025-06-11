@@ -1,0 +1,16 @@
+Softs acrescentam novidades ao PC 11/5/2005
+Autor: 
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo May 11, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; MAC OS X /SISTEMA OPERACIONAL/; APPLE /EMPRESA/; RECURSO; SPOTLIGHT /SOFTWARE/
+Softs acrescentam novidades ao PC
+DA REPORTAGEM LOCAL
+O Spotlight, melhor recurso do novo OS X, está disponível para Windows 2000 e XP desde 2004, com o lançamento do programa gratuito Google Desktop Search (desktop.google.com). Você instala o software e ele indexa automaticamente documentos e e-mails contidos no micro. Ao abrir o GDS, aparece uma página igual a do site do Google. Aí é só digitar as palavras-chave desejadas.
+O GDS traz uma vantagem, pois monitora também a sua navegação. Isso significa que cópias das páginas acessadas são automaticamente gravadas no disco rígido, e seu conteúdo é analisado pelo programa. Isso permite que você volte a consultar páginas mesmo sem estar conectado.
+Outra exclusividade do GDS é a combinação das pesquisas feitas no disco rígido com conteúdo da internet. Quando você procura alguma coisa no site do Google, o software realiza também uma busca no disco rígido e mostra arquivos relacionados ao assunto.
+O programa também cataloga as transcrições de bate-papos via comunicador pessoal, mas não é compatível com o popular MSN Messenger. Por outro lado, já tem plug-ins (desktop.google.com/plugins_chats.html) compatíveis com os comunicadores Miranda e Trillian Pro, que prometem acessar a rede do MSN.
+A automação de funções proporcionada pelo novo OS X também pode ser acrescentada ao Windows. O melhor programa para fazer isso é o AutoMate 6 (www.networkautomation.com), mas esse software, que pode ser testado de graça por 30 dias, custa US$ 795. Uma alternativa mais acessível é o WinTask Lite (US$ 99; www.wintask.com).
+Há opções de filtro contra spam para quem usa o Outlook Express, mas a melhor saída é trocá-lo pelo Mozilla Thunderbird (www.mozilla.org/products/thunderbird).
+(BG)

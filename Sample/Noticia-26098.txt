@@ -1,0 +1,31 @@
+Chegam mais opções de telefonia via rede 25/5/2005
+Autor: FERNANDO BADÔ
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo May 25, 2005
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: PALAVRAS BARATAS
+Assuntos Principais: INTERNET; TELEFONIA; FONE UOL /SOFTWARE/; UOL /SITE/; PROGRAMA; CONCORRÊNCIA; YAHOO! /SITE/; INTERVOZ /SOFTWARE/; LANÇAMENTO; DESEMPENHO; PREÇO; RECURSO
+UOL lança seu serviço de voz pela internet, só para assinantes, e Yahoo! aprimora sua oferta
+Chegam mais opções de telefonia via rede 
+FERNANDO BADÔ 
+DA REPORTAGEM LOCAL 
+UOL e Yahoo! acirraram a disputa pela preferência dos internautas por serviços de tráfego de voz via internet.
+O UOL estréia no ramo de voz sobre IP com o Fone UOL (1 Mbyte; fone.uol.com.br).
+O programa, que só pode ser usado por assinantes, permite ligações do micro para telefones comuns. Assim como em outros serviços de VoIP, as tarifas são um pouco mais baixas do que as praticadas pelas operadoras de telefonia fixa.
+A lista completa das tarifas do Fone UOL estão em fone.uol.com.br/tarifas.html.
+O serviço é uma boa opção para ligações interurbanas. Para ligações locais, no entanto, só vale a pena se a conversa durar menos de um minuto. Isso porque cada minuto de ligação para São Paulo com o Fone UOL custa R$ 0,18. Pela Telefônica, o preço total dos quatro primeiros minutos é de R$ 0,27, independentemente da duração da ligação.
+Confira os valores de diversas operadoras no site Comparatel (www.comparatel.com.br).
+A principal vantagem é a facilidade de utilização. O programa tem um teclado numérico virtual. Para fazer uma ligação, basta digitar o código de área da cidade seguido pelo telefone desejado _não é necessário digitar o código da operadora. Para ligações internacionais, é preciso digitar o código do país antes do código da cidade e do número do telefone.
+O sistema é pré-pago. O usuário pode comprar créditos de R$ 20 ou de R$ 40, pagos com cartão de crédito ou com boleto bancário, que é emitido na hora.
+Caixa postal 
+Comunicação por voz não é uma novidade para o Yahoo!. O recurso já é oferecido por seu comunicador instantâneo, mas foi aprimorado. A principal novidade da nova versão do software (br.beta.messenger.yahoo.com), no ar ainda em fase de testes, é a caixa-postal de voz.
+Para utilizar o serviço, é preciso possuir uma conta de e-mail no Yahoo! (o login e a senha valem para todos os serviços do portal), que é gratuita, e baixar o programa (496 Kbytes).
+Quando um contato estiver off-line, é possível deixar uma mensagem. Assim que ele utilizar o comunicador, poderá acessar um histórico com as mensagens deixadas para ele.
+O serviço do Yahoo! não permite ligações do micro para um telefone, mas possibilita que dois usuários em qualquer parte do mundo conversem gratuitamente (exceto pelo custo da conexão com a internet).
+Número do micro
+Uma particularidade do serviço Intervoz (www.intervoz.com.br) é que ele oferece um número telefônico de oito dígitos para que o usuário possa ser localizado.
+Se quiser, o usuário pode adquirir um IP Phone _um aparelho de telefone que se conecta à internet por banda larga_ em vez de utilizar o software no micro. Na sexta-feira passada, no entanto, os IP Phones estavam esgotados.
+Se quiser, o usuário pode comprar, via site, um USB phone, que permite a ele utilizar o programa de forma similar à de um telefone convencional.
+O software (1,68 Mbytes) é gratuito, mas é preciso ser usuário registrado do serviço e comprar créditos para fazer ligações.
+A interface gráfica é agradável, mas a configuração é um pouco complexa (é preciso seguir um guia para fazer os ajustes ou ligar para uma central de ajuda).

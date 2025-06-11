@@ -1,0 +1,16 @@
+Armazenador portátil exibe filmes na TV 17/8/2005
+Autor: ROBINSON N. DOS SANTOS
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F8
+Edição: São Paulo Aug 17, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; LACIE /EMPRESA/; DISCO RÍGIDO PORTÁTIL; RECURSO; DESEMPENHO
+Armazenador portátil exibe filmes na TV
+ROBINSON N. DOS SANTOS
+COLABORAÇÃO PARA A FOLHA
+O silverscreen, da LaCie, é um pequeno disco rígido externo de 40 Gbytes, que pode ser ligado à TV para tocar música MP3, exibir filmes DivX/XviD e fotos JPEG.
+Seus pontos fortes são a facilidade de uso e a portabilidade (pesa 270 gramas). Mas o conforto sai caro: o preço sugerido é de R$ 1.842,67.
+Conectado ao PC ou ao Mac via porta USB _o desempenho é melhor com USB 2.0_, o silverscreen mostra quatro pastas: Movies, Pictures, Music e Firmware _que serve para transferir atualizações do software interno.
+Na ligação com a TV, é preciso usar um adaptador de energia e um cabo especial, cuja ponta tem os cabos de áudio e de vídeo (RCA e S-Vídeo). Um truque interessante é a capacidade de exibir legendas para os filmes DviX/XviD (basta copiar o arquivo de legenda SUB ou SRT para o disco).
+Para navegar pelas pastas e abrir os arquivos, é preciso usar o controle remoto fornecido _que, fino e com botões tipo bolha, oferece pouco conforto.
+Uma versão de 80 Gbytes deve ser lançada até o fim do ano. O aparelho é distribuído pela ControleNet (www.controle.net).

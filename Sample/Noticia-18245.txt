@@ -1,0 +1,13 @@
+Informações furtadas de cartões de crédito não deveriam estar armazenadas, diz empresa 21/6/2005
+Autor: 
+Origem do texto: DA REDAÇÃO
+Editoria: DINHEIRO Página: B3
+Edição: São Paulo Jun 21, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: SEGURANÇA
+Assuntos Principais: SISTEMA FINANCEIRO; MASTERCARD /EMPRESA/; VISA /EMPRESA/; CARDSYSTEMS /EMPRESA/; CARTÃO DE CRÉDITO; INFORMAÇÃO; ROUBO; FRAUDE; SEGURANÇA
+Informações furtadas de cartões de crédito não deveriam estar armazenadas, diz empresa
+O principal executivo da CardSystems Solutions, empresa que processa dados de transações com cartões de crédito, informou ontem que as informações que foram furtadas, expondo 40 milhões de cartões a fraudes, não deveriam estar sendo mantidas na empresa.
+Segundo John Perry, os dados estavam sendo guardados para pesquisa, que procurava determinar por que algumas transações eram registradas como não-autorizadas ou incompletas. "Nós não deveríamos estar fazendo isso", disse Perry, que afirmou que os dados sensíveis não estavam mais sendo guardados nos computadores da empresa.
+"A CardSystems fornece serviços e deveria passar as informações aos bancos, e não guardá-las", disse Joshua Peirez, vice-presidente da MasterCard. "Eles estavam claramente violando nossas regras", disse Jessica Antle, porta-voz da MasterCard. A Visa informou que a CardSystems não estava seguindo seus requisitos de segurança quando houve o vazamento das informações.
+(DA REDAÇÃO)

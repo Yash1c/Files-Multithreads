@@ -1,0 +1,25 @@
+'DNA-canguru' ajuda a configurar cérebro 16/6/2005
+Autor: REINALDO JOSÉ LOPES
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A18
+Edição: São Paulo Jun 16, 2005
+Legenda Foto: Uma célula nervosa (em verde) marcada com gene que produz um corante fluorescente
+Crédito Foto: Divulgação
+Vinheta/Chapéu: GENÉTICA
+Assuntos Principais: GENÉTICA; CÉREBRO; DNA; SALTO; NEURÔNIO; PESQUISA
+Elementos que saltam dentro do genoma fazem neurônios ficarem maduros e variariam de uma pessoa para outra
+'DNA-canguru' ajuda a configurar cérebro
+REINALDO JOSÉ LOPES
+DA REPORTAGEM LOCAL
+O cérebro humano pode estar sendo palco de uma revolução invisível durante seu desenvolvimento: pedaços de DNA que se comportam como verdadeiros cangurus, saltam de uma célula a outra, influenciando a formação dos neurônios, as ligações entre eles e até, em última instância, como funciona a mente de cada um.
+É um cenário intrigante, e não tem nada de ficção científica, a julgar pelo trabalho do biólogo brasileiro Alysson Muotri, 31, e seus colegas do Instituto Salk de Pesquisas Biológicas, na Califórnia. Na edição de hoje da revista britânica "Nature" (www.nature.com), uma das mais prestigiosas do mundo, eles mostram como esse DNA-canguru (que os cientistas chamam de retrotransposons) ajuda a conduzir a diferenciação das células do cérebro. Trocando em miúdos: eles influenciaram o trajeto que leva das células primitivas, ainda sem função definida, aos neurônios maduros e totalmente operacionais.
+Os pesquisadores também descobriram que esses pulos acontecem de forma distinta e única em cada célula nervosa _e até em cada indivíduo. "Talvez essa seja uma dica do que nos torna humanos. Talvez a atividade desses elementos faça nossos cérebros serem diferentes dos dos outros animais", especula Muotri.
+O biólogo diz que é possível haver um número ideal desses pulos durante a formação do cérebro. Se o processo ocorrer de forma descontrolada, problemas mentais poderiam surgir. Segundo ele, dados preliminares de pacientes com esquizofrenia parecem apontar nessa direção.
+Parasitas ou coordenadores?
+Faz décadas que os biólogos tentam se entender sobre a origem e função do DNA-canguru, sem muito sucesso. Há quem sugira que os retrotransposons sejam resquícios de antigos vírus que se infiltraram nos genes dos organismos mais complexos, enquanto outros apostam que sua gênese seja ainda mais primitiva. O fato é que esses elementos são peritos em enfiar cópias de si mesmos em novos lugares, "raptando" a maquinaria das células, que faz o serviço para eles.
+"Muita gente diz que eles são parasitas, mas, se isso for verdade, como a gente não se livrou deles ainda?", questiona Muotri. O grupo do Salk decidiu estudar os chamados L1s, um tipo de DNA-canguru que constitui nada menos que 20% do genoma humano. A maioria está inativa, mas cerca de cem ainda fazem das suas.
+"Estudando células-tronco neurais [as células-mães que vão dar origem a todos os tipos de componentes do cérebro], descobrimos que, ao induzi-las a se transformar em neurônio, aumentávamos a atividade dos L1s", conta Muotri. O curioso é que isso só valia para os neurônios mesmo, que fazem o trabalho "nobre" de transmissão de informações no cérebro: as outras células do órgão, responsáveis por "manutenção e abastecimento", digamos, não eram afetadas.
+De quebra, os saltos pareciam aumentar o funcionamento de um gene ligado à maturação das ligações entre neurônios. Ou seja: as células ficavam prontas para a ação mais rápido. "Isso é incrível, porque a mobilização do L1 sempre foi considerada negativa, mas nesse caso é positiva", afirma.
+Para confirmar que não estavam só vendo coisas, os pesquisadores repetiram o teste inserindo L1s humanos em camundongos transgênicos. O DNA-canguru era acompanhado de uma "cobertura" do gene da proteína fluorescente verde. Isso quer dizer que, toda vez que ele efetuasse um salto, a célula seria denunciada pela cor brilhante ao microscópio. A coisa funcionou, e eles viram os mesmos efeitos. Além do mais, diferentes neurônios eram afetados, mesmo se os roedores eram geneticamente idênticos entre si.
+"Por que temos esses pulos em neurônios? O cérebro é muito exigente e, durante o desenvolvimento, só aproveita células ultra-especializadas. A idéia é que até neurônios aparentemente iguais são diferentes entre si, e os L1s gerariam justamente parte dessa variabilidade", diz o biólogo.
+Em comentário na "Nature", Eric Ostertag e Haig Kazazian Jr., da Universidade da Pensilvânia, classificaram os achados de "surpreendentes", mas dizem que ainda é preciso resolver uma série de incógnitas sobre o mecanismo. "Considerando a raridade presumida desses eventos, os efeitos dos elementos móveis sobre os neurônios podem ser limitados", escreve a dupla. Além disso, eles consideram que ainda seria preciso achar um mecanismo que permitisse a passagem das alterações de uma geração a outra.

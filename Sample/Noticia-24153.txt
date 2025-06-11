@@ -1,0 +1,9 @@
+Navegador Netscape pode estragar IE, diz Microsoft 1/6/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jun 1, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: SOFTWARE
+Assuntos Principais: INTERNET; NAVEGADOR; NETSCAPE 8 /SOFTWARE/; INTERNET EXPLORER /SOFTWARE/; MICROSOFT /EMPRESA/; POLÊMICA
+Navegador Netscape pode estragar IE, diz Microsoft
+Segundo a empresa de Bill Gates, o Netscape 8 (www.netscape.com), cujo diferencial é combinar as estruturas do Internet Explorer e do Firefox, torna o IE incapaz de entender páginas escritas no formato XML. A America Online, dona da Netscape, admitiu o problema e disse que lançará nesta semana uma correção para o Netscape 8.

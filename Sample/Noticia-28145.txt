@@ -1,0 +1,32 @@
+Serviços para criação de blogs são grátis 18/5/2005
+Autor: JULIANA BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 18, 2005
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: NOVA MÍDIA
+Assuntos Principais: INTERNET; COMUNICAÇÃO; INTERNAUTA; SITE; BLOG; DIÁRIO VIRTUAL; BLOGUEIRO; SITE; CRIAÇÃO; CONSTRUÇÃO
+Aprenda a publicar seu próprio diário virtual; programas baixam textos e dispensam o uso dos navegadores
+Serviços para criação de blogs são grátis 
+COLABORAÇÃO PARA A FOLHA 
+Criar o seu próprio blog não é uma tarefa difícil. Existem vários portais que oferecem esse serviço em português e de forma gratuita (confira quadro ao lado).
+Para quem busca algo mais pessoal e discreto, é possível restringir o acesso da página a usuários cadastrados e desabilitar o link para publicação de comentários _o UOL Blog é um entre os que oferecem essas opções.
+Por outro lado, quem optar por escrever um diário coletivo pode configurar o serviço para que vários usuários sejam habilitados a publicar textos.
+De uma forma ou de outra, a configuração do blog não leva muito tempo. O passo-a-passo a seguir descreve os ajustes do Blogger.com (não confundir com www.blogger.com.br, do portal Globo.com, que é pago). A criação tem três etapas e todos os botões e configurações iniciais estão em português.
+Criação 
+Acesse o endereço do site (www.blogger.com) e clique sobre a seta laranja com o texto Crie o Blog Agora.
+Na primeira tela que aparecer, você deve informar seu endereço de e-mail corretamente, dizer qual será seu nome de usuário e sua senha e depois clicar sobre o link Continua. Essa senha é de uso pessoal.
+Se outra pessoa for publicar textos no seu blog, ela deverá criar uma outra conta no site.
+Na segunda etapa, é preciso escolher o título do blog e seu endereço. No caso do serviço oferecido pelo Blogger.com, prefira um nome curto e não use pontos ou traços. O nome escolhido será seguido pela extensão .blogspot.com, ou seja, o endereço do seu blog será nomedoblog.blogspot.com.
+Para finalizar essa parte do processo, é preciso copiar a seqüência de letras e números que aparece ao lado da frase Word Verification e, depois, clicar no link Continuar. Agora é hora de escolher como será a aparência do blog.
+Há doze opções, que podem ser personalizadas. Escolha Preview Template para ver uma versão de demonstração de cada modelo.
+Após decidir qual irá usar, clique sobre ele e, mais uma vez, clique no link Continuar. O sistema demorará alguns instantes enquanto registra e publica seu blog.
+Aguarde até que apareça uma página com a mensagem "O seu blog está pronto".
+Se você desejar colocar a primeira mensagem no ar, basta clicar no botão Iniciar postagem.
+Para ajustar outros detalhes, como quantos textos aparecerão na primeira página, clique sobre a opção Alterar Definições, que aparece logo após a primeira vez que você sai e volta para o site.
+Personalização 
+Dar um toque pessoal ao seu blog exige um pouco de paciência e de experiência em programação. Antes de escolher um site para cadastrar seu diário, confira se o serviço de publicação permite a edição do código e se ele tem uma seção de ajuda em português.
+Dependendo do serviço, é possível criar uma página nova em um programa editor de HTML (como o Front Page ou o Dreamweaver) e publicá-la como blog.
+Para tanto, é preciso recortar e colar partes do código da página original na nova página.
+No endereço blogger.globo. com/br/help.jsp, há detalhes de como fazer isso.
+(JB)

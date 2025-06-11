@@ -1,0 +1,30 @@
+Serviços levam as informações até você 6/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jul 6, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: SEM PARAR
+Assuntos Principais: INTERNET; RSS /REALLY SIMPLE SYNDICATION/; INFORMAÇÃO; NOTÍCIA
+Empresas oferecem conteúdo para RSS e para celulares; páginas pessoais enviam podcasts com temas variados
+Serviços levam as informações até você
+DA REPORTAGEM LOCAL
+Alguns dos principais sites de notícias brasileiros já oferecem alimentadores de RSS e tanto a procura pelo serviço quanto a sua oferta vêm aumentando.
+O site da Folha Online conta com 12 canais de feeds, como Ilustrada, Informática, Em cima da hora e a coluna Ooops! (saiba mais em www.folha.com.br/ 051851). Somados, eles computam 1 milhão de acessos diários.
+O UOL (rss.uol.com.br) oferece notícias em RSS sobre crianças, vestibular e games, entre outros. Também há arquivos temáticos chamados clippings, com assuntos como Al Qaeda, cotação do dólar, MPB e Linux. Em breve, o portal incorporará um leitor de RSS em sua barra de ferramentas.
+Blogs
+Os blogs e fotologs hospedados no UOL geram automaticamente páginas em RSS a cada vez que são atualizados. Também é possível acessá-los e atualizá-los pelo celular, com mensagens de texto SMS ou via WAP.
+Serviço semelhante é oferecido pelo portal Terra, por meio do qual o usuário pode tirar fotos com o celular e enviar diretamente para seu fotolog.
+O portal oferece conteúdo em RSS (www.terra.com.br/rss) e permite que o internauta limite os temas dos alertas esportivos.
+Ele pode optar por receber apenas notícias relacionadas a Fórmula 1, apenas sobre os campeonatos europeus ou apenas sobre um determinado time de futebol.
+O Terra ainda oferece envio de e-mails que informam sobre o que está acontecendo no momento, além de boletins com os assuntos mais importantes do dia.
+O portal UOL possui boletins temáticos, que incluem texto, imagens e até músicas em MP3, como no informativo da Rádio UOL.
+Sites como www.cocadaboa. com e ofuxico.uol.com.br também têm páginas em RSS.
+O portal Estadão disponibilizou 5,5 milhões de páginas em RSS em maio _número que, segundo a empresa, ultrapassou 6 milhões em junho (saiba mais em www.estadao.com.br/ext/rss/ index.htm). Elas incluem imagens e anúncios de classificados.
+Podcast
+Além de alertas de texto, alguns leitores de RSS também podem receber arquivos de áudio, como podcasts, cujo formato se assemelha a um programa de rádio, misturando música e informação.
+Diversos blogs brasileiros oferecem podcasts compatíveis com leitores de RSS, ou seja, podem ter seus arquivos de áudio entregues diretamente no programa leitor, fazendo com que sejam acompanhados com maior facilidade.
+Entre eles, está o podcast do Maestro Billy (maestrobilly. blog.uol.com.br), sobre música. Assuntos empresariais são tratados no podcast Empresário, eu? (www.empresarioeu.podcast brasil.com) e webdesign é o tema de www.usabilidoido.com.br.
+Novidades em tecnologia estão nos estrangeiros www.thisweek intech.com e live.curry.com e nos nacionais www.meiobit.com e www.brunotorres.net.
+A revista "Info" (info. abril.com.br/podcast) também dispõe de podcast, que pode ser enviado ao programa que faz a agregação de notícias em RSS.
+(MARIANA BARROS)

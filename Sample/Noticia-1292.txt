@@ -1,0 +1,20 @@
+Serviços adaptam arquivos de podcasts para uso em celular 17/8/2005
+Autor: Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Aug 17, 2005
+Legenda Foto: Coldplay, que usou Bluecasting
+Crédito Foto: Reprodução
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: CELULAR
+Assuntos Principais: TECNOLOGIA; TELEFONIA CELULAR; BLUECASTING; JAVACASTING; VÍDEO; ÁUDIO; ENVIO; TELEFONE CELULAR
+Programas ainda não estão disponíveis no Brasil
+Serviços adaptam arquivos de podcasts para uso em celular
+DA REPORTAGEM LOCAL
+Dois novos serviços, ainda não disponíveis no Brasil, prometem converter e enviar arquivos para que sejam reproduzidos em um telefone móvel compatível. Trata-se do Bluecasting e do Javacasting, que permitirão até mesmo ouvir podcasts pelo celular.
+Baseado em tecnologia Bluetooth, o Bluecasting estará, em breve, ao alcance dos chineses. Arquivos de vídeo, de áudio e ringtones poderão ser enviados diretamente ao portátil.
+O sistema tem despertado o interesse de anunciantes, que vêem no mecanismo uma maneira de transmitir peças publicitárias. Em um teste realizado no Reino Unido pela empresa Filter (www.bluecasting.com), para divulgar o novo álbum da banda Coldplay, "X&Y", o servidor de Bluecasting captou 87 mil aparelhos compatíveis, dos quais 13 mil optaram por receber o material. O número é proporcionalmente 15 vezes maior do que a média de penetração obtida com campanhas de marketing direto.
+Outra tecnologia, ainda em teste, que promete aumentar a gama de arquivos disponíveis via celular é a Javacasting, criada pelo desenvolvedor Tea Vui Huang (www.geocities.com/tvhuangsg/javacast). Com download disponível pelo site, o programa permite converter podcasts com extensões M4A, M4B e M4P para a linguagem Java.
+O site oferece ainda mais uma novidade. Compatível com o software iPodder (www.ipodder.org/directory/4/ipodderSoftware), o Mobilecast (www.geocities.com/tvhuangsg/mobcast) transforma podcasts em arquivos de áudio em formato AMR, para serem reproduzidos pelo celular (é sobretudo compatível com smartphones).
+Mercado
+O investimento em novas tecnologias para celular justifica-se pelo mercado que há por trás dos aparelhinhos.
+De acordo com um levantamento mundial realizado pelo IDC (www.idc.com), foram vendidos 188,7 milhões de celulares no último bimestre. O número é 16,3% superior ao registrado na mesma época do ano passado. As vendas estão divididas, principalmente, entre cinco fabricantes: Nokia, Motorola, Samsung, LG e Sony Ericsson (veja acima).

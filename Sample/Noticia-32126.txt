@@ -1,0 +1,22 @@
+Dificulte roubo de documentos do disco rígido 4/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo May 4, 2005
+Legenda Foto: EFS, recurso do Windows que criptografa arquivos do disco
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; INTERNET; SEGURANÇA; NAVEGAÇÃO; DADO; PRIVACIDADE; ARQUIVO; DISCO RÍGIDO
+Dificulte roubo de documentos do disco rígido
+DA REPORTAGEM LOCAL
+Não adianta proteger os dados enviados e recebidos via rede e ignorar a segurança dos documentos guardados no disco rígido do micro. Primeiro, certifique-se de que o PC está conectado à rede por meio de um firewall _programa que dificulta invasões. O Windows XP SP2 já traz um embutido e automático; se você usa outra versão, instale o Zone Alarm (www.download.com).
+Feito isso, considere a possibilidade de gravar com senha os seus arquivos mais importantes. Os programas do pacote Microsoft Office oferecem essa possibilidade. No Word 2003, por exemplo, basta clicar em Ferramentas, Opções e Segurança e digitar uma password no campo Senha de proteção. A senha não é inquebrável, mas consegue barrar espiões amadores.
+Também é possível colocar senha em fotos, músicas, vídeos e todos os demais tipos de arquivo. Para fazer isso, é preciso instalar o compactador WinZip (www.winzip.com) e ativar o recurso Encrypt Added Files.
+Essas duas estratégias são adequadas para quem deseja proteger poucos arquivos. Mas há uma forma simples de resguardar todas as áreas sensíveis do disco rígido. Basta usar o Encrypting File System (EFS) do Windows XP Professional.
+Abra o Windows Explorer e digite o endereço C:Documents and Settings. Observe as pastas exibidas. Uma delas deverá ter o seu nome. Clique nela com o botão direito e escolha Propriedades. Na janela exibida, aperte Avançados e marque o item Criptografar o conteúdo. Tenha paciência, pois o processo, que só precisa ser feito uma vez, pode levar várias horas e ocupar espaço temporário no disco rígido. Clique em Ignorar nas mensagens de erro que porventura surjam.
+Com o EFS configurado dessa maneira, os tipos de arquivo mais importantes (documentos, e-mails, cookies e histórico de navegação) serão automaticamente protegidos. Para que isso funcione, é claro, a sua conta do Windows precisa estar protegida com senha. Caso ela não esteja, clique em Iniciar, Configurações e Painel de controle e abra o item Contas de usuário. Selecione a conta e clique em Criar uma senha.
+Quando você manda arquivos por e-mail ou os grava num CD/ DVD, a criptografia é automaticamente desativada. O único indício da operação do EFS é que as pastas protegidas aparecem com a cor verde no Windows Explorer. A criptografia é mantida mesmo se os arquivos forem editados.
+No Macintosh, o sistema operacional Mac OS X tem um recurso parecido, que se chama File Vault (www.apple.com/macosx/features/filevault).
+O EFS não é perfeitamente seguro. Se você quer o máximo de proteção, opte pelo PGP Personal Desktop, que custa US$ 59 (www.pgpstore.com/product.html?productid=524508).
+Não perca as suas senhas de disco rígido. É recomendável anotá-las e manter o papel em local seguro. Os sistemas de criptografia podem causar problemas em caso de falha do disco rígido. Por isso, faça um backup em CD ou DVD antes de instalar ou ativar a criptografia.
+(BG)

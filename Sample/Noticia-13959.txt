@@ -1,0 +1,35 @@
+Soft reúne estação de novo tipo de rádio 6/7/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 6, 2005
+Legenda Foto: Tela do tocador iTunes 4.9, que acessa sistema de busca de estações alternativas de rádio digital
+Crédito Foto: Reprodução
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: MÚSICA
+Assuntos Principais: INTERNET; SITE; MÚSICA; MP-3; ITUNES /SOFTWARE/; APPLE /EMPRESA/
+Tocador iTunes, da Apple, ganha funções para encontrar e tocar programas de áudio digital no formato podcast
+Soft reúne estação de novo tipo de rádio
+JULIANO BARRETO
+COLABORAÇÃO PARA A FOLHA
+Mesmo depois de vender milhões de unidades, o tocador de música digital iPod, da Apple, ganhou força graças à moda do podcast _sites que funcionam como estações de rádio e distribuem arquivos para serem ouvidos em aparelhos toca-MP3.
+A Apple parece ter retribuído o favor dos entusiastas dessa nova modalidade de rádio com a nova versão do programa iTunes (grátis, em www.apple.com/itunes).
+O software agora traz funções para baixar e ouvir os podcasts e interage com um portal que lista milhares de estações.
+Criado inicialmente para o Macintosh, o iTunes também funciona em PCs. Mas exige sistema operacional Windows XP ou 2000, 128 Mbytes de memória RAM e o tocador de vídeos QuickTime 6 (também disponível no site da Apple).
+Como usar
+Para começar a usar o iTunes como sintonizador de podcasts, basta clicar sobre o item Podcasts no menu que fica à esquerda na tela do programa.
+No primeiro acesso a essa função, o site Podcast Directory se abre no navegador que vem embutido no software.
+Para encontrar estações, é possível usar o sistema de busca, que fica na lateral esquerda da página, ou navegar pelas categorias de programação, clicando nos links que ficam abaixo do buscador.
+Ao lado do resultado das pesquisas, aparecerá o botão Subscribe. Ao clicar sobre ele, a estação é adicionada à lista de execução.
+Automaticamente o iTunes começa a baixar a última edição do programa escolhido e, depois do download, é possível ouvir a lista clicando no botão Play, que fica na parte superior do iTunes.
+Ao lado do nome do podcast, há uma seta cinza. Clicando sobre ela, uma lista com os programas anteriores da estação aparece. Basta clicar no botão Get para baixá-los.
+De acordo com as configurações originais do iTunes, os arquivos dos programas de podcast ficam guardados na pasta Meus documentos, no subdiretório Minhas músicas.
+Depois de assinar as estações desejadas, o iTunes abrirá uma lista de reprodução com os programas todas as vezes em que o usuário clicar na opção Podcasts do menu do software.
+Para configurar a freqüência com que os programas de rádio serão atualizados, clique no botão Settings, que fica na parte inferior do iTunes. Na janela que se abre, escolha as opções da lista Check for new episodes, para definir quando o soft buscará novos programas das estações.
+Na segunda lista, When new episodes are available, você pode escolher se o tocador vai baixar só os programas mais recentes ou se vai baixar todos os disponíveis.
+Há também a lista Keep, que define se os programas baixados serão armazenados ou apagados.
+Programação
+O site da Apple afirma que mais de 3.000 estações de podcast já estão disponíveis para download.
+A quantidade, entretanto, não atrapalha a qualidade da programação oferecida.
+Entre as atrações do Podcast Directory, é possível encontrar desde notícias das redes ABC News e BBC até dicas de decoração dos apresentadores do programa "Queer Eye for the Straight Guy".
+Para conhecer outras opções, acesse a lista que fica na lateral direita da página _ depois das 20 estações mais assinadas, há um link para ver a lista completa com os cem podcasts mais ouvidos.

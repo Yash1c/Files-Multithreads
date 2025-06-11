@@ -1,0 +1,21 @@
+TV brasileira vai parar na internet 21/9/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F8
+Edição: São Paulo Sep 21, 2005
+Legenda Foto: Exemplos de trechos de vídeos digitais com programação da TV brasileira compartilhados via rede
+Crédito Foto: Reprodução
+Vinheta/Chapéu: REDES DE TROCA
+Assuntos Principais: INTERNET; TELEVISÃO; PIRATARIA; VÍDEO DIGITAL; BRASIL; PROGRAMA DE TV; TROCA; ARQUIVO; EXPORTAÇÃO; PC /PERSONAL COMPUTER/; COMPUTADOR; SOTWARE; PROGRAMA; DOWNLOAD; UPLOAD; ARMAZENAMENTO
+Aficionados copiam, colecionam e trocam gravações de programas
+TV brasileira vai parar na internet
+COLABORAÇÃO PARA A FOLHA
+Até recentemente, o conteúdo em vídeo presente nas redes de troca era quase exclusivamente produzido por usuários estrangeiros. Restava aos brasileiros apenas repassar os arquivos.
+Hoje, graças à popularização de sites de armazenamento, dos fóruns de discussão e das ferramentas para a captura de imagens, é cada vez mais fácil baixar os gols da última rodada do Campeonato Brasileiro, cenas picantes de novelas e programas da TV paga.
+Chamados de caps, esses arquivos são extraídos com ajuda de placas de captura de TV instaladas em PCs comuns. Esses equipamentos, que custam cerca de R$ 250, normalmente já vêm acompanhados de softs capazes de converter o sinal de TV.
+Durante o processo de exportação, outra prática comum é a de extrair imagens estáticas dos vídeos para publicar junto do link para download. Esses screenshots (capturas de tela) também são chamados de "caps" por algumas comunidades e têm como objetivo fazer uma apresentação do conteúdo do arquivo principal.
+Disseminação
+Depois da captura, o usuário com acesso à internet por meio de banda larga conta com várias opções para disseminar seus vídeos.
+Além de simplesmente compartilhar seu acervo em programas de troca como o KaZaA, é possível criar pontos de troca na rede BitTorrent ou mesmo publicar o arquivo em sites especiais de armazenamento. Por meio do processo de upload (envio de dados para um endereço), sites de uso gratuito armazenam os arquivos e permitem que qualquer usuário acesse e baixe o conteúdo publicado.
+Para disseminar os arquivos, os usuários divulgam o link para esse arquivo em fóruns de discussão e em comunidades do Orkut. Entre as opções mais populares para o armazenamento estão o RapidShare.de e o MegaUpload.com, que guardam, respectivamente, 50 Mbytes e 250 Mbytes. 
+(JB)

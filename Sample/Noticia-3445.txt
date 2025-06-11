@@ -1,0 +1,21 @@
+Estados Unidos já navegam via rede sem fio de longo alcance 10/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Aug 10, 2005
+Legenda Foto: Site WiMaxxed (wimaxxed.com), que acompanha a tecnologia WiMAX
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: TELECOMUNICAÇÕES; INTERNET; CONEXÃO; BELLSOUTH /EMPRESA/; WIMAX /TECNOLOGIA/
+Estados Unidos já navegam via rede sem fio de longo alcance
+DA REPORTAGEM LOCAL
+A internet de banda larga sem fio recebeu um grande impulso na semana passada, quando a gigante de telecomunicações BellSouth passou a vender acesso à rede por meio da tecnologia WiMAX. A WiMAX é parecida com a Wi-Fi (leia texto na pág. F3), com uma diferença: seu alcance é muito maior. Enquanto para navegar via Wi-Fi você precisa estar a poucos metros de um ponto de acesso (hotspot), o WiMAX promete cobertura total dentro de bairros e de cidades inteiras.
+De acordo com o portal News. com, a BellSouth (www.fastaccess.com) criou dois planos: o de 384 Kbps, que vai custar US$ 30 mensais, e o de 1,5 Mbps, com mensalidade de US$ 40. Em ambos os casos, é preciso comprar um modem especial, vendido por US$ 100.
+Uma fraqueza marcante está na velocidade de upload (envio de dados do PC para a internet), que é bem menor: apenas 256 Kbps na versão topo de linha e pífios 128 Kbps no plano básico. Inicialmente, a conexão WiMAX estará disponível na cidade norte-americana de Athens, na Geórgia.
+Vantagens
+A WiMAX tem sido fortemente promovida pela fabricante de chips Intel, que vê nessa tecnologia uma evolução do Wi-Fi. A empresa cogita, inclusive, embutir receptores WiMAX em notebooks e em placas-mãe de PCs de mesa. Foi isso que popularizou o Wi-Fi: depois do lançamento dos notebooks com tecnologia Centrino, os pontos de acesso sem fio se tornaram muito mais comuns, inclusive no Brasil (veja quadro acima).
+Mas qual a vantagem do WiMAX comparado, por exemplo, às redes de telefonia celular? Afinal, elas já existem, têm extensa área de cobertura e podem ser usadas para transmitir dados.
+A diferença é que o WiMAX usa um "pedaço" do espectro eletromagnético que não é licenciado, ou seja, qualquer empresa poderá instalar antenas WiMAX sem adquirir licenças do governo (coisa obrigatória nas redes celulares). Por isso, a nova tecnologia poderia gerar competição e preços mais baixos para o consumidor. Além disso, a rede WiMAX tende a ser mais rápida, pois os dados não têm de disputar espaço com as chamadas de voz.
+Existem vários tipos de WiMAX. O mais interessante é o 802.16e, que ainda está em desenvolvimento e poderá ser usado em movimento (dentro de veículos, por exemplo). Cada antena WiMAX fornece sinal para até 50 km, mas, para que a velocidade não caia, o ideal é que haja estações repetidoras a cada 5 km _leia mais em www.alcatel.com/publications/abstract.jhtml?repositoryItem= tcm:172-44851635.
+Mesmo com alcance inferior ao do WiMAX, a tecnologia Wi-Fi se alastra cada vez mais. A fabricante de aviões Boeing criou o serviço Connexion (www.connexionbyboeing.com), que custa de US$ 15 a US$ 30 e permite acessar a internet, nos vôos de seis companhias aéreas, via laptop. 
+(BG)

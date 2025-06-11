@@ -1,0 +1,18 @@
+Microsoft prepara programa de proteção 27/7/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 27, 2005
+Vinheta/Chapéu: SEGURANÇA
+Assuntos Principais: INTERNET; TECNOLOGIA; SEGURANÇA; COMPUTADOR; PC /PERSONAL COMPUTER/; MICROSOFT /EMPRESA/; WINDOWS /SISTEMA OPERACIONAL/; EMPRESA; AÇÃO; CONTROLE ACIONÁRIO; COMPRA; OPANKI.WORM /VÍRUS/; AOL /SITE/
+Soft chegará em maio
+Microsoft prepara programa de proteção
+COLABORAÇÃO PARA A FOLHA
+Já em contagem regressiva para o lançamento da nova versão do Windows no ano que vem, a Microsoft continua a buscar saídas para os constantes problemas de segurança em seus produtos.
+Na última semana, a empresa anunciou que comprou ações da companhia especializada em detecção de softs intrusos Finjan Software (www.finjan.com). A Microsoft também pode comprar outra especialista em segurança, a FrontBridge Technologies. Segundo o site de notícias eWeek (www.eweek.com), a meta seria usar os produtos da FrontBridge para reforçar a segurança dos programas de e-mail.
+Nos últimos dois anos, a empresa de Bill Gates já comprou outras duas empresas peritas em proteção, a GeCAD e Giant Company.
+O resultado combinado de todas as aquisições deve ser mostrado em maio do ano que vem, quando a Microsoft deverá lançar uma ferramenta de proteção chamada Windows OneCare.
+De acordo com o site da empresa (www.microsoft.com/windows/onecare/default.mspx), o soft funcionará como antivírus, firewall, anti-spyware e ferramenta de recuperação de sistema.
+Enganador
+Uma praga virtual batizada de Opanki.worm foi detectada na rede do mensageiro instantâneo da AOL, o AIM. O worm era distribuído como se fosse uma atualização do tocador de MP3 iTunes. Na verdade, era um programa que instalava barras com comerciais nos PC infectados.
+(JB)

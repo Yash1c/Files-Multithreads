@@ -1,0 +1,17 @@
+Epson tem sistema de 4 cartuchos de tinta 14/9/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Sep 14, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; EPSON CX3500 /IMPRESSORA/; MULTIFUNCIONALIDADE; RECURSO; TESTE; DESEMPENHO; RESOLUÇÃO; PREÇO
+Epson tem sistema de 4 cartuchos de tinta
+DA REPORTAGEM LOCAL
+Mecanicamente, a Epson CX3500 é sofisticada: além de usar quatro cartuchos de tinta (o dobro das concorrentes), tem um sistema de transporte silencioso, que praticamente não arranha o papel nem dá os trancos e estalos comuns em outras impressoras. O alinhamento dos cartuchos é manual, mas é relativamente fácil: é preciso fazer apenas quatro ajustes (na Canon, são 11 regulagens manuais).
+Ao instalar o software da máquina, surge uma oferta que aumenta a garantia para 15 meses se o usuário se cadastrar no site da Epson. Os cartuchos da Epson são mais delicados, podem entupir e ressecar e têm de ser gastos, de preferência, em até seis meses. Além disso, a Epson continua com o sistema de cabeçote integrado, mais sujeito a problemas.
+Por outro lado, a máquina tem muita autonomia: com seu cartucho preto T046120, que custa RS 39,90, foi possível imprimir 1.276 páginas. É uma relação custo-benefício ótima _no teste, cada página custou cerca de R$ 0,03.
+E a autonomia poderia ter sido ainda maior, pois o cartucho preto tinha 25% de tinta restante quando a máquina parou de imprimir _os cartuchos coloridos, que apenas no teste da CX3500 foram reaproveitados da primeira bateria de testes (o segundo jogo enviado pela Epson estava defeituoso), estranhamente acabaram e forçaram a interrupção.
+A CX3500 é delicada, até na aparência. Mas produz fotos brilhantes e de excelente qualidade, com bastante contraste, cores fortes e quantidades mínimas de ruído. No teste de PowerPoint, ela foi bem, imprimindo em 52 segundos, com ótima definição e solidez de cor. No modo copiadora, faltou contraste nas cópias em preto-e-branco, e isso não pode ser ajustado pelo painel.
+Para imprimir textos, a Epson é contra-indicada, pois é bem lenta: no modo Texto, que tem qualidade perfeita, mas vem ajustado de fábrica com pouco contraste, a impressora gerou apenas 3 ppm.
+No modo Rascunho, a Epson deixa de ser luxuosa e fica barulhenta, sem qualidade, mas muito rápida: chegou a 15 ppm. Com fotos, a máquina tem velocidade aceitável _leva de 9 a 10 minutos para imprimir uma imagem A4.
+Como copiadora, a Epson é boa, pois tem oito botões. Ela levou 42 segundos para copiar a página de teste preto-e-branco e 80 segundos na cópia colorida. Em suma, a Epson é ruim para imprimir texto, boa como copiadora e impressora de fotos, sua tinta preta é barata, mas requer cuidados. (BG)

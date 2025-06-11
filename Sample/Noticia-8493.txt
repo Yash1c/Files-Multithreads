@@ -1,0 +1,20 @@
+ENTENDA A TECNOLOGIA VOIP 18/9/2005
+Autor: 
+Editoria: DINHEIRO Página: B4
+Edição: São Paulo Sep 18, 2005
+Arte: QUADRO: ENTENDA A TECNOLOGIA VOIP
+Observações: SUB-RETRANCA
+Assuntos Principais: TELECOMUNICAÇÕES; TELEFONIA; TECNOLOGIA; VOIP /VOICE OVER INTERNET PROTOCOL/; TRANSMISSÃO; SKYPE /PROGRAMA/
+ENTENDA A TECNOLOGIA VOIP 
+O QUE É 
+. VoIP (voz sobre protocolo de internet, na sigla em inglês) é um modo de transformar voz (que é um sinal analógico) em dados (digitais), que podem ser transmitidos via internet 
+PARA QUE SERVE 
+. Com o VoIP, uma conexão de internet também pode ser usada para fazer ligações telefônicas 
+. Do seu computador ou de um telefone VoIP, o usuário pode ligar para outros computadores e telefones (convencionais ou VoIP) em qualquer lugar do mundo gratuitamente ou com tarifas reduzidas 
+. Empresas podem fazer ligações para filiais em outras cidades, Estados ou países gratuitamente se tiverem um sistema interno de telefonia VoIP 
+COMO USAR 
+. De computador para computador, é possível fazer ligações gratuitas usando programas como Skype, Google Talk, MSN Messenger e Yahoo Messenger 
+. Alguns programas, como o Skype e o UOL Fone, também permitem ligar para telefones convencionais com tarifas reduzidas 
+. Já existem empresas no Brasil que oferecem telefones VoIP para usuários residenciais que têm conexão de banda larga. Eles funcionam de modo muito semelhante ao de um telefone convencional, sem necessidade de ligar o computador 
+Fonte: Folha
+próximo...próxima ocorrência...

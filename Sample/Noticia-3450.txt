@@ -1,0 +1,12 @@
+Falha em site da Cisco prejudica 3 mi de usuários 10/8/2005
+Autor: JULIANA BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Aug 10, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; SEGURANÇA; CISCO /EMPRESA/; SITE
+Falha em site da Cisco prejudica 3 mi de usuários
+COLABORAÇÃO PARA A FOLHA
+Devido a descoberta de uma falha de segurança em seu site, a Cisco (www.cisco.com) precisou recadastrar cerca de 3 milhões de usuários. De acordo com a empresa, a medida foi uma precaução para evitar que golpistas conseguissem descobrir as senhas dos cadastrados no Cisco Connection Online.
+A suposta falha no sistema criou confusão. Alguns dos usuários que precisaram refazer seus cadastros escreveram ao site de notícias The Register (www.theregister.co.uk) afirmando que não conseguiam realizar o processo. Eles também disseram ter recebido desculpas da Cisco. 
+(JB)

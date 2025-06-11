@@ -1,0 +1,23 @@
+Serviço de telefonia via rede dispensa PC 13/7/2005
+Autor: ROBINSON N. DOS SANTOS
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Jul 13, 2005
+Legenda Foto: Adaptador de voz sobre IP da Linksys, que custa US$ 60 nos EUA
+Crédito Foto: Divulgação
+Vinheta/Chapéu: VOIP
+Assuntos Principais: TELECOMUNICAÇÃO; TELEFONIA; SKYPE; TVA /EMPRESA/; GVT/ EMPRESA/; USO; APARELHO; REJEIÇÃO; PC /PERSONAL COMPUTER/
+Sistema utiliza aparelho comum
+Serviço de telefonia via rede dispensa PC
+COLABORAÇÃO PARA A FOLHA
+De olho no fenômeno Skype, mais duas empresas, TVA e GVT, apostam em serviços de telefonia sobre IP. Ambas têm a internet como meio, mas com uma diferença: usam aparelhos comuns, que fazem e recebem chamadas de qualquer telefone, e livram o assinante de ter que ligar o PC.
+O TVA Voz (www.tvavoz.com.br) depende de uma conexão de banda larga, que pode ser a mesma do micro. No serviço, disponível apenas em São Paulo, os telefones têm prefixo 2424.
+O VoIP da GVT (www.gvt.com.br) é mais abrangente. O serviço WebFone Virtual permite ter uma linha em outro Estado, pagando habilitação de R$ 50 e assinatura de R$ 29,80.
+Uma vantagem da telefonia VoIP é a portabilidade. Com um adaptador configurado, basta que o assinante conecte o telefone a qualquer ponto de banda larga.
+O vice-presidente corporativo do provedor Inter.Net, Clóvis Lacerda, 39, trabalha nos EUA e há dois meses contratou duas linhas, uma de São Paulo, da GVT, e outra de Washington. "Mais do que preço, a vantagem é oferecer facilidade de contato a clientes e parceiros."
+A mobilidade também conta. Quando está na filial da empresa, em Recife (PE), Lacerda mantém as duas linhas ligadas. "Sempre trago meus adaptadores, que já estão configurados. Só preciso achar um telefone comum e uma porta no hub de banda larga."
+Há muitas possibilidades. Um paulistano que more em Brasília poderia contratar uma linha VoIP virtual, com prefixo 011, para fazer e atender ligações de sua família pagando tarifa local, como se estivesse em São Paulo.
+O sistema da TVA é pré-pago. A recarga mínima é de R$ 99. A ligação entre assinantes do TVA Voz é gratuita. Quem é assinante da banda larga Ajato não paga taxa de manutenção. Quem tem outro serviço de banda larga paga manutenção de R$ 35 mensais.
+No TVA Voz, o minuto de ligação local é R$ 0,19. Ligar para Nova York é mais barato: R$ 0,16 por minuto. Os preços não incluem impostos do Estado.
+O aparelho que faz a ponte entre a internet e o telefone ainda é caro. A TVA o vende por R$ 399 ou em seis vezes de R$ 83. No EUA, um aparelho semelhante, da Linksys, é vendido por US$ 60, mas sai de graça para quem contratar a operadora Vonage.
+(RNS)

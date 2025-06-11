@@ -1,0 +1,15 @@
+Cai tecnologia antigravação 15/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 15, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; TELEVISÃO; TV DIGITAL; EUA; GRAVAÇÃO; RESTRIÇÃO; PIRATARIA
+Cai tecnologia antigravação
+DA REPORTAGEM LOCAL
+Os EUA consideraram implantar um sistema para restringir a liberdade de gravar programas transmitidos pela TV digital. A idéia era tornar obrigatório que todos os televisores e gravadores digitais fabricados a partir de 1º de julho obedecessem à chamada broadcast flag _comando enviado pelas emissoras de TV, junto com o programa em si, para disciplinar a utilização do vídeo.
+As emissoras poderiam determinar, por exemplo, que determinado show não pudesse ser gravado ou que a gravação se tornasse inacessível após certo período. A imposição da broadcast flag foi derrubada por uma corte de apelações dos Estados Unidos, que atendeu aos protestos de ONGs de defesa do consumidor.
+A indústria do entretenimento teme que, sem o sistema anticópias, programas transmitidos digitalmente possam ser pirateados e distribuídos via internet.
+A decisão judicial fez a alegria dos usuários que vêem televisão em seus PCs. Temendo a broadcast flag, eles chegaram a organizar mutirões para montar micros com peças adquiridas antes da estréia do sistema anticópias (www.eff.org/broadcastflag/cookbook/buildin.php).
+A popularização do padrão CableCard deve incrementar as TVs digitais nos EUA. Essa tecnologia torna os televisores compatíveis com os sistemas de proteção usados pela TV a cabo. Os consumidores poderão descartar os aparelhos sintonizadores _set-top boxes_ e usar as funções de gravação embutidas em aparelhos como o TiVo (www.tivo.com), geralmente mais versáteis.
+(BG)

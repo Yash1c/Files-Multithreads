@@ -1,0 +1,15 @@
+Fique atento às extensões dos arquivos 27/7/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 27, 2005
+Seção: CANAL ABERTO
+Fique atento às extensões dos arquivos
+"Quando tento ouvir algumas músicas baixadas da internet surge a mensagem 'HTML ou HTML document? - Aplicativo'. Como devo proceder para ouvi-las?"
+(Nasim Elias)
+Resposta -
+ Embora o leitor não tenha especificado a forma como foi feito o download (cópia para o micro do internauta) ou tentativa de execução da música, é possível que ele tenha enfrentado uma situação bastante comum em sites que oferecem músicas e vídeos.
+Muitos deles utilizam uma programação de suas páginas que, em vez de criar um link direto para o arquivo de música ou de vídeo, executa um código que abre outra página do site, com as extensões HTM, ASP ou PHP.
+Assim, imagino que o leitor use o método mais convencional para salvar um arquivo qualquer por meio do navegador Internet Explorer. Esse método consiste em clicar no link com o botão direito do mouse e selecionar a opção "Salvar destino como".
+Em vez de iniciar a cópia do arquivo, o internauta estará copiando a página HTML ou qualquer outra capaz de executar o arquivo. Dessa forma, ao tentar executar o arquivo usando o Media Player ou outro tocador de mídia do micro, ocorrerá um erro.
+Para ter certeza de que o arquivo que está sendo baixado é um arquivo de música, verifique se a extensão do seu nome é MP3, WMA ou WAV quando for aberta a caixa de diálogo "Salvar como", do Windows. Tenha cuidado, pois ao baixar uma música o internauta acaba baixando um programa executável, com a extensão EXE e que pode ser uma fonte de vírus ou outros ataques.
+próximo...próxima ocorrência...

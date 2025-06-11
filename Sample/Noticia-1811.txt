@@ -1,0 +1,23 @@
+Teclado virtual projeta botões na mesa 21/9/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Sep 21, 2005
+Legenda Foto: Teclado virtual VKB, que usa raios laser e infravermelhos para projetar as teclas e capturar digitação
+Crédito Foto: Fernando Moraes/Folha Imagem
+Vinheta/Chapéu: HARDWARE
+Assuntos Principais: TECNOLOGIA; COMPUTADOR; PC /PERSONAL COMPUTER/; HARDWARE; VKB /TECLADO VIRTUAL/; TESTE; DESEMPENHO; RECURSO
+VKB é compacto e funciona em micros de mão e PCs com Windows; digitação é fácil, mas não admite acentos
+Teclado virtual projeta botões na mesa
+BRUNO GARATTONI
+DA REPORTAGEM LOCAL
+O teclado virtual VKB parece uma peça de ficção científica: ele projeta as teclas luminosamente na mesa. Na prática, o aparelho tem um sensor que filma a digitação, capturando perfeitamente os movimentos dos dedos.
+O efeito visual do aparelho, que chamou a atenção ao ser apresentado na feira CeBIT de 2002, é único. Se associado a um palmtop _o periférico funciona com o Windows, mas sua verdadeira vocação é o micro de mão, pois oferece conexão Bluetooth_ e usado num lugar público, o VKB certamente chama a atenção. Além de extremamente avançado, é meio bobo digitar na mesa.
+Por outro lado, o aparelho tem uma vantagem evidente em relação aos teclados portáteis tradicionais: é muito mais compacto (tem 3,4x2,4x9 cm, metade do tamanho de um maço de cigarros).
+Digitar nas teclas virtuais é mais fácil do que parece, pois elas são grandes, maiores que as de um teclado convencional. Por outro lado, não há acentos, o que é um problema (estranhamente, o aparelho permite digitar til). A velocidade, para quem digita bem, fica em torno de 30 palavras por minuto, bastante aceitável.
+O teclado tem uma bateria recarregável, ou seja, pode ser usado totalmente sem fios (a autonomia divulgada pelo fabricante é de duas horas, um nível baixo). Um ponto negativo é a conexão com o PC: o teclado funciona em qualquer software, mas exige porta serial, que está sendo descartada nos PCs modernos _seria melhor que usasse conexão USB.
+Outro problema é que, em sua versão com fios, o teclado VKB só veio com conectores multipinos _não pôde ser ligado ao Palm Tungsten E, por exemplo.
+Quando você toca uma tecla, o aparelho emite um barulhinho de aviso. O ruído é discreto e ajuda na digitação, mas pode ser desligado. O aparelho reconhece combinações de teclas, como a popular Ctrl+Alt+Del.
+As teclas luminosas são fáceis de enxergar, mesmo em ambientes claros, mas, para isso, é necessário ajustar seu brilho para o nível máximo (são três níveis).
+A disposição e o tamanho das teclas, por outro lado, não podem ser alterados. O VKB tem até um sensor que detecta inclinações e desliga automaticamente o aparelho se ele não estiver perfeitamente apoiado na mesa.
+No Brasil, o aparelho está sendo vendido, por R$ 1.415,41, pelo site www.linuxmall.com.br (veja uma lista de micros de mão compatíveis com o teclado VKB no endereço www.virtual-laser-keyboard.com).

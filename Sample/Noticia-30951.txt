@@ -1,0 +1,24 @@
+Varejistas aderem à automação comercial 8/5/2005
+Autor: MARIANA IWAKURA
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: FOLHA NEGÓCIOS Página: 25
+Edição: São Paulo May 8, 2005
+Legenda Foto: O galpão da Toyster, que tem sistema de reposição de estoque
+Crédito Foto: Rogério Cassimiro/Folha Imagem
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: GESTÃO
+Assuntos Principais: EMPRESA; AUTOMAÇÃO COMERCIAL; VAREJO; GERENCIAMENTO; LUCRO; AFRAC /ASSOCIAÇÃO DOS FABRICANTES E REVENDEDORES DE EQUIPAMENTOS PARA AUTOMAÇÃO COMERCIAL/; EMISSOR; CUPOM FISCAL
+Mercado, que faturou R$ 500 milhões em 2004, estima crescimento de 20% em 2005; maior controle é a meta
+Varejistas aderem à automação comercial
+MARIANA IWAKURA
+COLABORAÇÃO PARA A FOLHA
+É consenso: empresários de varejo querem gerenciar melhor seu negócio e aumentar a lucratividade. E, para obterem mais controle e organização, muitos têm procurado a automação comercial.
+Prova disso são os números desse mercado, que, em 2004, faturou R$ 500 milhões e que deve crescer 20% em 2005, segundo a Afrac (Associação dos Fabricantes e Revendedores de Equipamentos para Automação Comercial).
+O objetivo central dessa demanda, de acordo com especialistas ouvidos pela Folha, é melhorar a gestão. "A automação serve para todos os segmentos", afirma Wolney Betiol, presidente da Afrac, que enumera vantagens como "maior lucratividade e redução de perdas por estoque obsoleto, desvios, roubos e erros humanos".
+Automatizar um estabelecimento demanda equipamentos _como impressoras e registradoras_ e softwares _do controle de estoques à venda_ que substituem processos manuais.
+"Mais do que a tecnologia, o importante é utilizar as informações como ferramentas", ressalta Flávia Ponte, da GS1 Brasil. O software que gere uma lavanderia, por exemplo, pode armazenar informações sobre preferências dos clientes. "Se uma pessoa gosta de camisas dobradas, a lavanderia tem de utilizar isso para agradar. Essa é a grande sacada", diz.
+O supermercado Barão, de Campinas (SP), aproveita dados gerados pela automação integrada para fazer ajustes na gestão do negócio. "Utilizamos as informações para tomar decisões de compras e de promoções", explica o proprietário Gilberto Antoniolli.
+Outra opção é utilizar a automação na comunicação com clientes, como faz a Toyster, que fabrica brinquedos. Um software transmite dados pela internet e informa, diariamente, a quantidade de produtos disponível no estoque do cliente. "Nós maximizamos o giro", comenta o diretor Ricardo Kuma. "Quando a quantidade [de itens] nas lojas atinge um mínimo, vejo se temos, na fábrica, a quantidade para reposição. Se não temos, já programo para ser produzida no mesmo dia."
+Mais do que obrigação
+A automação tomou novo fôlego desde 1997, por causa de uma lei que introduziu a obrigatoriedade do emissor de cupom fiscal, equipamento que armazena informações sobre as vendas realizadas no estabelecimento para posterior controle do fisco.
+"Muitos adotaram [a automação] para atender à exigência fiscal, mas não perceberam ainda que ela pode ser uma poderosa ferramenta de gestão", observa Frederico Hackerott, diretor da RCS Auditoria e Consultoria.

@@ -1,0 +1,14 @@
+Faxina ajuda a liberar espaço no disco rígido 15/6/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 15, 2005
+Seção: CANAL ABERTO
+Faxina ajuda a liberar espaço no disco rígido
+"Gostaria de algumas dicas para liberar espaço no disco rígido. Uso o Windows XP e meu disco é de 40 Gbytes."
+(Renato Mendes)
+Resposta - Para começar, apague ou diminua o espaço dos arquivos temporários de internet. No Internet Explorer, clique no menu Ferramentas, em Opções da internet e em Excluir arquivos. Se quiser alterar o tamanho da pasta de arquivos temporários (cache), clique em Configurações e especifique o novo tamanho (10 Mbytes ou 15 Mbytes são suficientes).
+Se você usa o Mozilla Firefox, vá ao menu Ferramentas e selecione Opções e Privacidade. Clique em Cache e em Limpar. Se quiser, especifique um tamanho menor para a pasta de cache.
+Outra opção é o utilitário Limpeza de disco. Clique em Iniciar, em Todos os programas, em Acessórios, em Ferramentas de Sistema e, finalmente, em Limpeza de disco. Assim que os cálculos forem feitos, será exibido um sumário do que pode ser removido. Marque as opções desejadas e dê o comando para efetuar a limpeza.
+Também é aconselhável limpar os pontos de restauração antigos, gerados automaticamente pelo Windows XP como medida de segurança contra eventuais problemas após a instalação de um software ou de um driver. Os pontos são úteis, mas consomem muito espaço. Para eliminar os mais antigos, acesse Limpeza de Disco, selecione Mais opções e clique no botão Limpar, do painel Restauração do sistema. Executando esses procedimentos em minha máquina, enquanto escrevia esta coluna, consegui liberar cerca de 1,3 Gbyte de espaço.
+CORRESPONDÊNCIA
+E-mail - canalaberto@uol.com.br (necessário nome completo)

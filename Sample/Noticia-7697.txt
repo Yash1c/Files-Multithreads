@@ -1,0 +1,29 @@
+Buscadores entram na guerra dos mapas 27/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jul 27, 2005
+Legenda Foto: Tela do MSN Virtual Earth, lançado nesta semana; aproximação é inferior à do concorrente
+Crédito Foto: Reprodução
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: UM CLIQUE SOBRE A TERRA
+Assuntos Principais: INTERNET; GEOGRAFIA; MAPA; MAPEAMENTO DIGITAL; SITE; BUSCADOR; FERRAMENTA; SERVIÇO; IMAGEM; SATÉLITE; YAHOO! /SITE/; MSN /SITE/; GOOGLE EARTH /SITE/; VIRTUAL EARTH; /SITE/CONCORRÊNCIA
+Yahoo!, MSN e Google têm diferentes serviços de localização; sistema permite interatividade
+Buscadores entram na guerra dos mapas
+MARIANA BARROS
+DA REPORTAGEM LOCAL
+Toda distância é relativa, ainda mais quando se trata de internet. Com apenas um clique, é possível ir do Brasil à Rússia, do Alasca à Malásia. O tráfego virtual torna-se ainda mais fácil com os programas de mapeamento digital criados para o internauta comum.
+Yahoo!, MSN e Google já oferecem serviços gratuitos de localização espacial _o último lance da batalha entre os sites buscadores.
+Um guia de ruas está disponível em br.mapas.yahoo.com, onde também é possível localizar parques, restaurantes e outros estabelecimentos. Os locais e lojas são exibidos por categoria. Outra ferramenta informa o melhor trajeto entre dois pontos.
+Internacionais
+O estrangeiro maps.yahoo.com é restrito aos EUA e ao Canadá. Ele fornece mapas, orientações de trajetos, localiza estabelecimentos e permite enviar informações diretamente para o celular.
+Lançado nesta semana, o Virtual Earth (www.virtualearth.com), da Microsoft, oferece serviço de localização baseado em imagens de satélite. A aproximação dos gráficos, porém, deixa a desejar quando comparada à do Google Earth (leia na pág. F3).
+O site mappoint.msn.com, em inglês, também oferece mapas e orientações de trajeto no Brasil, além de opções de hotéis e de restaurantes. O canal Find a place permite procurar qualquer cidade brasileira _basta digitar o nome dela. Há ainda orientações de trajeto. O caminho sugerido para ir de São Paulo a Maceió é pegar as rodovias BR-381, BR-116 e BR-101. Links para serviços de Páginas Amarelas e de previsão do tempo estão disponíveis apenas para os EUA e o Canadá.
+Em maps.google.com, não é possível localizar ruas nem trajetos no Brasil. Em contrapartida, o internauta pode optar por visualizar mapas ou imagens de satélite das cidades brasileiras.
+Salas de cinema
+As informações sobre os EUA oferecidas pelo site são mais abrangentes. O internauta norte-americano consegue localizar diversos serviços de uma determinada região. É possível, por exemplo, encontrar salas de cinema em Manhattan, em Nova York. Basta selecionar o canal Local Search na barra de buscas, localizado na parte superior da página inicial, digitar movies no primeiro espaço e Manhattan, NY, no segundo. A imagem apontará as salas de cinema da região. Links e telefones aparecem na lateral esquerda.
+Adaptações
+Os internautas também podem desenvolver outras utilidades para os mapas do Google e Yahoo! (leia abaixo). Um sistema chamado API (sigla, em inglês, para Interface para Programação de Aplicações) permite que outros sites acessem as funcionalidades oferecidas pelo Google Maps e Yahoo! Maps _basta baixar os kits de programação, disponíveis em developer.yahoo.net/maps e www.google.com/apis/maps, respectivamente.
+Com essa ferramenta, é possível criar mapas baseados nos originais, com as mais diferentes funções. O especialista californiano Paul Rademacher criou um programa que localiza imóveis do site Craiglist (www.craigslist.org) nos mapas do Google. Os serviços podem ser vistos em www.housingmaps.com, que já atraiu mais de 500 mil internautas.
+Rademacher diz que apenas publicou uma nota no Craiglist pedindo voluntários para testar o funcionamento do seu sistema. 
+(MB)

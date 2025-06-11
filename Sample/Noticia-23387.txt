@@ -1,0 +1,18 @@
+Soft eleva proteção  de PC compartilhado 14/9/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Sep 14, 2005
+Legenda Foto: Shared Computer Toolkit, para gerenciar máquina multiusuário;
+Crédito Foto: Reprodução
+Assuntos Principais: COMPUTADOR; PC /PERSONAL COMPUTER/; SEGURANÇA; MICROSOFT /EMPRESA/; WINDOWS XP /SISTEMA OPERACIONAL/; SHARED COMPUTER TOOLKIT /SOFTWARE/; PROGRAMA; LANÇAMENTO; RECURSO
+Shared Computer Toolkit, para gerenciar máquina multiusuário
+Soft eleva proteção de PC compartilhado
+DA REPORTAGEM LOCAL
+A Microsoft lançou, sem nenhum alarde, uma ferramenta gratuita que melhora muito a segurança do Windows XP. É o programa Shared Computer Toolkit (www.microsoft.com/windowsxp/sharedaccess/default.mspx), que serve, como seu nome diz, para gerenciar as permissões dos usuários em PCs compartilhados.
+Ele permite impor uma série de restrições às contas do Windows XP. As opções estão agrupadas em cinco categorias, mas as mais relevantes são a Start Menu Restrictions (que esconde o Painel de controle do Windows), a General (para vetar a gravação de CDs e bloquear o registro e o prompt de comando, pontos vulneráveis do sistema) e a IE Restrictions (que "trava" a configuração do Internet Explorer).
+Também é possível esconder discos rígidos, vetar o acesso à rede ou ao comunicador Windows Messenger e determinar que o sistema faça logoff após um determinado tempo _algo útil para quem tem filhos, por exemplo.
+O programa é bem fácil de usar: você seleciona o usuário que será tolhido, clica em Lock this profile e seleciona as opções de restrição. A instalação do Shared Computer Toolkit exibiu, em duas máquinas com Windows XP SP2, uma mensagem de erro, mas isso não afetou o funcionamento do soft.
+Um recurso avançado é o Windows Disk Protection, que restaura automaticamente o sistema toda vez que o computador é reiniciado _algo muito bom para micros que ficam em locais públicos. Ele requer que o disco rígido seja reparticionado para ficar com 10% de espaço não-alocado. 
+(BG)
+próximo...próxima ocorrência...

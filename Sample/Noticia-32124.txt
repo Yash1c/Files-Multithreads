@@ -1,0 +1,17 @@
+Navegador armazena senhas com segurança 4/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo May 4, 2005
+Legenda Foto: Gerenciador do Firefox, que permite criação de senha mestra
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; INTERNET; SEGURANÇA; NAVEGAÇÃO; DADO; PRIVACIDADE; SENHA; ARMAZENAMENTO; FIREFOX /NAVEGADOR/
+Navegador armazena senhas com segurança
+DA REPORTAGEM LOCAL
+Em hipótese alguma grave no computador senhas altamente críticas, como a do banco e a do cartão de crédito. É perigoso.
+Mas há uma série de outras senhas, como aquelas de webmail ou de sites de notícias, que você pode armazenar no micro com relativa segurança. O navegador indicado para isso é o Firefox (www.mozilla.org/products/firefox). Ele se diferencia porque tem o recurso Master Password, uma senha mestra bastante útil. Em vez de memorizar as suas senhas uma por uma, você grava todas na memória do Firefox e decora apenas uma, a mestra, que abre todas as demais.
+Como configurar? Abra o Firefox e clique em Ferramentas e Opções. Aperte Privacidade, abra o item Nomes de usuário e aperte o botão Senha mestre. Agora é só escolher uma password.
+Gravar senhas individuais também é fácil. Quando você digitar uma senha, o programa automaticamente mostrará uma mensagem perguntando se deve gravar a password.
+Quem não quer deixar o Internet Explorer também pode contar com um recurso de senhas. Ele é mais simples, pois não tem o recurso Master Password. Clique em Ferramentas e Opções da Internet e abra a guia Conteúdo. Aperte o botão AutoCompletar e assinale o item Nomes de usuário e senhas. Essa tela também dá a opção de limpar as senhas que porventura já tenham sido armazenadas.
+(BG)

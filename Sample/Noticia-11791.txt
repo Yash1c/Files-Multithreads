@@ -1,0 +1,42 @@
+Basta micro estar on-line para ser vítima 13/7/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 13, 2005
+Legenda Foto: Tela do Microsoft AntiSpyware, que barra programas espiões; Site InternetSegura.org, que mostra dicas de prevenção na rede
+Crédito Foto: Fotos Reprodução
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: EXÉRCITO SEM ALMA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; INTERNET; SOFTWARE; PROGRAMA ESPIÃO; ZUMBI; HACKER; COMBATE; PROTEÇÃO; SEGURANÇA
+Saiba o que é preciso fazer para corrigir falhas de segurança e evitar instalar programas invasores
+Basta micro estar on-line para ser vítima
+COLABORAÇÃO PARA A FOLHA
+Mesmo sem baixar e-mails, usar softs suspeitos ou navegar em sites, uma máquina pode ser atacada e escravizada.
+Programas maliciosos fazem tentativas de invasão para endereços de internet (números de IP) aleatórios. Por isso, basta estar conectado à rede com um sistema desatualizado para ser uma vítima em potencial dos zumbis.
+Precauções comuns contra as pragas e os golpes, como instalar um programa antivírus, são úteis para evitar que sua máquina seja escravizada, mas precisam de reforços para serem efetivas.
+Os sintomas
+Saber se o seu micro está trabalhando para uma rede de zumbis não é uma tarefa simples.
+Ao contrário dos vírus, que esgotam recursos do sistema e mostram mensagens, os programas invasores prezam pela discrição.
+Eles se instalam em máquinas que têm acesso à rede por banda larga e nem sempre deixam o computador mais lento.
+Segundo o diretor de tecnologia da informação da F-Secure (www.f-secure.com.br), André Ferreira, "em máquinas com configurações atuais, o sistema não fica lento, só a velocidade de acesso é que diminui."
+Por isso, a melhor maneira de descobrir se um invasor está instalado é observar o tráfego de dados entre seu PC e a internet.
+Após fazer varredura completa com antivírus e removedores de spyware (veja detalhes abaixo), encerre todos os programas que se comunicam com a rede.
+A seguir, clique duas vezes sobre o ícone que mostra o tráfego da conexão. O ícone fica ao lado do relógio do Windows.
+Observe se, mesmo sem nenhum programa aberto, a troca de dados continua. Em caso afirmativo, é grande a probabilidade de infecção da máquina.
+Arrumando a casa
+O usuário que deseja eliminar o invasor deve ter em mente que um micro que usa apenas antivírus não é seguro o suficiente.
+O especialista em segurança da Symantec (www.symantec.com.br) Lúcio Costa compara a proteção do PC com a construção de um prédio. "O alicerce desse prédio é o sistema operacional. É preciso fazer todas as atualizações de segurança", explica.
+Quem usa Windows deve visitar o site windowsupdate.microsoft. com, baixar todas as correções e configurar o sistema para que as próximas atualizações sejam feitas automaticamente.
+Para tanto, clique no menu Iniciar e depois em Configurações e em Painel de Controle.
+Na janela que se abre, clique sobre o ícone Atualizações automáticas. Após a abertura de outra janela, marque a opção Automática (recomendado) e, na lista abaixo, escolha Todo dia. Por fim, defina o horário das atualizações.
+Antivírus e firewall
+Alguns pacotes de antivírus pagos unem firewall (filtragem de dados) e protetor contra programas espiões em um só conjunto.
+Existem, contudo, opções gratuitas de softs para cada uma dessas tarefas. Para eliminar vírus, o usuário conta com o avast! 4 Home Edition (www.avast.com) e com o AVG Free Edition (free.grisoft.com).
+Quem já tem o Windows XP com o SP2 (Service Pack 2) conta com um firewall no próprio sistema. Para habilitar a filtragem, você deve clicar no botão Iniciar e depois no link Conexões de rede.
+Na janela que se abrirá, clique com o botão direito do mouse sobre o ícone Conexão local. Depois selecione a opção Propriedades e, na tela exibida, clique na aba Avançado e depois no botão Opções. Na nova janela que aparecerá, marque o item com a legenda Ativado (recomendável).
+Há também firewalls gratuitos que funcionam em outras versões do Windows, como o Sygate Personal (www.sygate.com).
+Para fugir dos spywares _programas que se instalam sem autorização do usuário e roubam dados_, especialistas consultados recomendam desabilitar o acesso a sites com acessórios ActiveX.
+Quem usa Internet Explorer deve clicar no menu Ferramentas e depois em Opções de Internet. Na janela que se abre, é preciso clicar no botão Nível personalizado e depois desativar todos os itens que mencionem o ActiveX.
+Outra opção, mais radical e efetiva, é trocar de navegador. O gratuito Firefox (www.getfirefox.com) é um dos mais indicados.
+Há também programas específicos para encontrar e eliminar os spywares. Entre os gratuitos, os mais populares são o Ad-Aware Personal Edition (www.lavasoft usa.com) e o Microsoft AntiSpyware (www.microsoft.com/ athome/security/spyware/software/default.mspx).
+(JB)

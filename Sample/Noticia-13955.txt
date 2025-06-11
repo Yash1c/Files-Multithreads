@@ -1,0 +1,16 @@
+Microsoft e Google planejam integrar RSS 6/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REDAÇÃO
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jul 6, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; RSS /REALLY SIMPLE SYNDICATION/; INFORMAÇÃO; NOTÍCIA; WINDOWS /SISTEMA OPERACIONAL/
+Microsoft e Google planejam integrar RSS
+DA REDAÇÃO
+A próxima versão do Windows, da Microsoft _chamada Longhorn e que deverá ser apresentada em setembro e disponibilizada no ano que vem_, terá programa leitor de RSS incluído.
+O novo Windows trará uma atualização do navegador Internet Explorer (versão 7.0), no qual será exibido um ícone de RSS, que facilitará a inclusão dos sites em um agregador.
+Um dispositivo semelhante já é oferecido pelo navegador Firefox, que exibe um botão no canto inferior direito para ajudar o internauta a incluir as páginas de sua preferência no leitor de RSS.
+O Google também decidiu incorporar o RSS. Seu programa de e-mail, o Gmail, passou a oferecer, para alguns usuários e em caráter de teste, o Web Clips.
+Ele alerta sobre notícias publicadas em sites como Engadget (www.engadget.com) e em canais dos portais Yahoo! e Reuters.
+O nível de segurança do RSS preocupa alguns especialistas, segundo os quais os programas leitores poderiam se tornar canais de distribuição de spam, de códigos maliciosos e de ataques do tipo phishing. 
+(MB)

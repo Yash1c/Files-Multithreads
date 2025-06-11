@@ -1,0 +1,19 @@
+Transações on-line crescem 40,4% 20/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jul 20, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; INSTITUIÇÃO FINANCEIRA; BANCO; CLIENTE; ACESSO ON-LINE; OPERAÇÃO
+Transações on-line crescem 40,4%
+DA REPORTAGEM LOCAL
+Mais da metade dos brasileiros que são clientes de algum banco faz transações pela internet. Segundo dados da Federação Brasileira de Bancos (www.febraban.org.br), trata-se de 18,1 milhões de pessoas, que acessam on-line suas contas bancárias e efetuam, anualmente, 3,9 bilhões de transações (número relativo a 2004). As transações on-line de pessoas físicas cresceram 40,4% em relação a 2003.
+Esse montante indica que mais de uma em cada dez operações é feita pela rede, tanto por pessoas físicas quanto por pessoas jurídicas _que muitas vezes são pequenas empresas que passaram a operar pela internet.
+Os bancos se mostram abertos às tecnologias emergentes: dois em cada cinco já oferecem mobile banking e três em cada dez adotaram identificação biométrica, baseada no reconhecimento de características corporais para realizar autenticações.
+Linux e VoIP, tráfego de voz pela internet, estão presentes em 55% e 60% das instituições bancárias, respectivamente.
+Investimentos
+O mercado financeiro também está conectado à internet. Corretoras financeiras que efetuam investimentos na Bovespa realizam boa parte de suas atividades pela rede _mais de 40 delas trabalham on-line.
+"Elas são responsáveis pelo segundo maior volume financeiro que circula na internet", afirma João Batista Fraga, diretor de operações e serviços da Bovespa. O primeiro é atribuído aos bancos, embora a Febraban não disponha de dados sobre o volume em dinheiro correspondente às transações feitas pela internet.
+Segundo ele, a movimentação em junho deste ano foi de R$ 2,98 bilhões, número que vem crescendo a cada ano (leia quadro).
+Pode-se também acompanhar os investimentos pelo site da Bovespa, que permite ao usuário personalizar a página com informações sobre as empresas nas quais é acionista. As taxas de cotação estão disponíveis para consulta, assim como o valor das ações licitadas pelas empresas.
+(MB)

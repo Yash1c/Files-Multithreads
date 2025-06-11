@@ -1,0 +1,20 @@
+Decisão da Apple provoca polêmica 15/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jun 15, 2005
+Vinheta/Chapéu: MERCADO
+Assuntos Principais: TECNOLOGIA; MERCADO; APPLE /EMPRESA/; POWERPC /PROCESSADOR/; INTEL /EMPRESA/; MACINTOSH /COMPUTADOR/; MICROSOFT /EMPRESA/; POLÊMICA
+Sites debatem migração do Mac para chips Intel, revelada na semana passada
+Decisão da Apple provoca polêmica
+DA REPORTAGEM LOCAL
+A Apple anunciou, na semana passada, que abandonará os processadores PowerPC, fabricados pela IBM, e começará a usar chips Intel em seus computadores. A mudança, que só entrará em vigor no ano que vem, já causa muita discussão e polêmica na internet.
+Você consegue imaginar, por exemplo, o fim do monopólio do Windows no mercado de sistemas operacionais para PCs? Essa hipótese ousada é defendida pelo site www.pbs.org/cringely/pulpit/pulpit20050609.html, que aponta uma suposta fusão entre Apple e Intel como o início de um grande ataque à Microsoft.
+A Apple diz (www.apple.com/pr/library/2005/jun/06intel.html) que a empresa de Bill Gates não se incomodou com a aliança, já tendo inclusive se comprometido a manter o desenvolvimento de duas versões do pacote de programas Office _uma para os Macs com processador PowerPC e outra para a nova linha de máquinas com chips Intel.
+Essa garantia está baseada em outra: segundo a Apple, o sistema operacional Mac OS X continuará incompatível com os PCs, funcionando apenas em Macintosh.
+Mas qualquer sistema de proteção que a Apple venha a desenvolver poderá ser quebrado por hackers, que tentarão distribuir via internet cópias modificadas do OS X. Para o colunista John Dvorak (www.pcmag.com/article2/0,1759,1824704,00.asp), a Apple deveria liberar o uso de seu sistema em PCs. Na opinião do site especializado OS News (www.osnews.com/story.php?news_id=10768), o sistema Linux também será afetado pela mudança, pois perderá espaço.
+A transição para chips Intel pode prejudicar a Apple, pois quem está interessado em comprar um Macintosh vai esperar até 2006 para pegar os modelos com chip novo. Essa possibilidade é minuciosamente explorada pelo site www.macobserver.com/columns/devilsadvocate/2005/20050610.shtml, que também aponta dificuldades para os desenvolvedores de software e para os donos de Macintosh com processador PowerPC.
+Vale lembrar que a antecipação excessiva no anúncio de produtos enterrou a Osbourne, empresa que, nos anos 80, desenvolveu o primeiro laptop _leia mais em www.theregister.co.uk/2005/06/08/apple_osborne_effect.
+Questões de mercado à parte, qual a explicação técnica para a mudança da Apple? O site Ars Technica traz dois artigos (arstechnica.com/columns/mac/mac-20050608.ars e arstechnica.com/columns/mac/mac-20050607.ars) que atribuem a decisão à incapacidade da IBM no setor de chips para notebooks _enquanto a Intel ganha mercado com o Pentium M, a Apple não conseguiu levar os processadores Power PC 970 (G5) para sua linha de máquinas portáteis.
+A adaptação dos softwares ao chip Intel poderá encontrar dificuldades. De acordo com o site MacWorld (www.macworld.com/news/2005/06/07/game dev/index.php), o programa Rosetta, que será incluído no futuro Mac OS X e converterá automaticamente softwares que foram projetados para chips PowerPC, apresenta problemas de desempenho, pois não reconhece trechos de código escritos para tirar proveito da tecnologia Velocity Engine (Altivec), atualmente a principal arma da Apple no quesito performance.
+(BG)

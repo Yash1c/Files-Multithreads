@@ -1,0 +1,17 @@
+Microsoft promete e-mail instantâneo 15/6/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 15, 2005
+Vinheta/Chapéu: SEM FIOS
+Assuntos Principais: TECNOLOGIA; MICROSOFT /EMPRESA/; E-MAIL; COMPUTADOR PORTÁTIL; BLACKBERRY /TELEFONE CELULAR/
+Concorrente já possui o recurso
+Microsoft promete e-mail instantâneo
+DA REPORTAGEM LOCAL
+O sucesso do portátil BlackBerry _ misto de computador de mão e celular_ motivou a Microsoft e a Yahoo! a ampliarem seus serviços de e-mail para portáteis.
+O BlackBerry, da Research In Motion (www.rim.com), tornou-se a unidade móvel mais popular para acesso de e-mails no exterior, incomodando a concorrência. Ele dispõe de uma tecnologia chamada "push", que permite a recepção automática de e-mails por micros de mão e celulares, alertando o usuário sobre a chegada de mensagens. O "push e-mail" pode, ainda, permitir a sincronização de dados armazenados no portátil e no e-mail.
+Na semana passada, a Microsoft anunciou seu serviço de "push e-mail". Usuários do Outlook poderão receber as mensagens no celular. Os programas da empresa para portáteis _Microsoft Exchange Server 2003 e Windows Mobile 5.0_ terão disponíveis, no final do ano, upgrades gratuitos, que permitirão receber instantaneamente os e-mails enviados ao Outlook. O aplicativo também será compatível com alguns modelos de celular da Nokia.
+Outro serviço de e-mail para portáteis foi anunciado pelo Yahoo!. Mediante uma mensalidade de US$ 2,99, os usuários norte-americanos do Yahoo! Mail acessarão suas caixas postais com ajuda do celular (das marcas Samsung e Sanyo) ou do micro de mão Treo, da PalmOne. Com o serviço, será possível apagar mensagens pelo portátil e unificar as agendas do telefone e do e-mail. 
+No Reino Unido, as operadoras de celular mostraram-se interessadas em disponibilizar o "push e-mail" e outros serviços de correio eletrônico sem fio. Os acessos via celular seriam um motivo a mais para vender novos planos e aparelhos e popularizar o serviço, que, segundo estimativas, terá 45 milhões de usuários em 2008.
+Enquanto isso, as vendas do BlackBerry continuam crescendo, consagrando o aparelho como o queridinho dos executivos.
+(MB)

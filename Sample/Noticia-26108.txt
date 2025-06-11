@@ -1,0 +1,67 @@
+Momentos da história da internet 25/5/2005
+Autor: 
+Editoria: CADERNO ESPECIAL Página: Especial-2
+Edição: São Paulo May 25, 2005
+Arte: QUADRO: MOMENTOS DA HISTÓRIA DA INTERNET
+Observações: 10 ANOS DE INTERNET COMERCIAL NO BRASIL; SUB-RETRANCA
+Assuntos Principais: INTERNET COMERCIAL; BRASIL; HISTÓRICO; HISTÓRIA; CRONOLOGIA
+Momentos da história da internet
+62 - Governo dos EUA começa a desenvolver uma rede de comunicação para fins militares
+69 - É instalado o primeiro nó da Arpanet, projeto de rede do Pentágono, interligando quatro computadores de universidades americanas
+72 - O sinal @ passa a ser usado na comunicação via e-mail
+78 - É criada a primeira rede de comunicação BBS
+79 - Nasce a Usenet (Unix User- Network, que, em inglês, significa rede de usuários Unix). A rede permitia troca de mensagens em sistema operacional Unix
+82 - O protocolo TCP/IP se torna a linguagem oficial da internet
+88 - A Universidade Federal do Rio de Janeiro (UFRJ), o Laboratório Nacional de Computação Científica (LNCC), e a Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) se conectam à Bitnet, rede que permitia troca de mensagens
+89 - O pesquisador Tim Berners-Lee desenvolve um sistema de hipertexto para documentação de projetos
+- É criada a Rede Nacional de Pesquisa (RNP), destinada a reunir as universidades brasileiras em uma rede única
+- O IBASE coloca no ar a rede Alternex, primeiro serviço internacional de correio eletrônico e de provimento de acesso fora do meio acadêmico. É o nascimento da internet brasileira
+90 - Um consórcio entre entidades civis origina a associação para o Progresso das Comunicações (APC) para desenvolver sistemas de troca de informações e facilitar conexões internacionais
+91 - w.w.w. Surge a World Wide Web. O sistema mais usado para navegar era o Unix
+92 - A cobertura da ECO-92, realizada no Rio de Janeiro, é feita via internet
+93 - É criado o browser Mosaic, primeiro navegador com interface gráfica
+94 - A Embratel inicia serviço comercial de acesso à internet
+- É lançada a primeira versão do browser Netscape
+- Os estudantes norteamericanos David Filo and Jerry Yang lançam o site Yahoo!
+- Os Rolling Stones têm show transmitido pela web
+- Os banners publicitários estréiam na rede
+95 - O Ministério das Comunicações estabelece a norma 004/95, que impede que as empresas de telecomunicação forneçam acesso ao usuário final
+-  É criado Comitê Gestor da Internet, responsável pelo gerenciamento do domínio “.br”
+- O Jornal do Brasil é um dos primeiros jornais impressos a possuir uma versão on-line, juntamente com a Folha de S.Paulo, O Estado de S. Paulo e O Globo
+- A Microsoft lança o browser Internet Explorer 1.0. Tem início a “guerra dos browsers”
+- Estréia a novela da Globo “Explode Coração”, em que o casal de protagonistas se conhece pela internet
+- É lançado o primeiro programa de transmissão de voz pela internet, o Internet Phone
+- Sites de busca por varredura, como o Altavista e o Yahoo!, tornam-se populares
+- É realizada a primeira edição do prêmio iBest
+96 - Surge o Universo Online (UOL), o primeiro grande provedor de acesso discado, seguido de outros dois grandes provedores: o Brasil Online, do Grupo Abril (que seria incorporado pelo UOL), e o ZAZ, do grupo RBS (que seria adquirido pela Telefônica, originando o Terra). O UOL é pioneiro na criação de um site de notícias e um dos primeiros sites comerciais a oferecer bate-papo
+- Gilberto Gil lança a canção “Pela Internet”
+- A israelense Mirabilis anuncia a criação do primeiro comunicador instantâneo, o ICQ (I seek you, que, em inglês, significa “eu procuro você”)
+97 - 700 mil brasileiros fazem a declaração do imposto de renda pela internet, no ano da inauguração do serviço
+- Primeiros passos do comércio on-line brasileiro
+- São registrados os primeiros e-mails indesejados, os spams
+98 - O Tribunal Superior Eleitoral, em parceria com sites de notícias, divulga em tempo real os resultados da apuração das urnas, que reelegeriam FHC
+- Surge o ZipMail, serviço de e-mail gratuito via web
+- Os estudantes americanos Larry Page e Sergey Brin criam o Google, baseado em algorítmos
+- Sites bancários passam a realizar transações pela web
+- A Jovem Pan inaugura a transmissão de rádio on-line
+99 - Grupos estrangeiros, como AOL e Yahoo!, inauguram seus serviços no Brasil
+- O adolescente americano Shawn Fanning cria o Napster
+- Criados os sites Arremate e Mercado Livre, de compra e venda de mercadorias, e a loja virtual Submarino
+00 - Surgem os provedores de acesso gratuito, como o iG. A conexão em banda larga se populariza com os serviços de provedores de acesso rápido
+- O iMusica é a primeira loja brasileira de canções em MP3
+- A valorização excessiva de ações de empresas de tecnologia leva ao estouro da “bolha” da internet
+01 -  O uso de voz sobre IP (VoIP) começa a se disseminar
+- A conexão em banda larga via satélite chega ao Brasil por meio do UOLSAT
+02 - A gravadora Trama é pioneira ao lançar um álbum brasileiro pela internet: “Na Honestidade”, da banda Magazine
+- Os comunicadores instantâneos, como o MSN Messenger e Yahoo! Messenger, são cada vez mais usados
+- Os blogs ganham popularidade. Surgem os sites para publicação de fotos, chamados de fotologs
+03 - Surge a Mozilla Foundation, desenvolvedora do browser gratuito Firefox
+- É lançada a primeira versão do Skype, programa de comunicação de voz (VoIP) pela internet
+- A Apple lança a loja virtual de músicas iTunes
+- A Riaa (sigla, em inglês, para Associação da Indústria de Gravadoras Norteamericanas) começa a processar internautas que baixam canções em programas de compartilhamento de arquivos
+04 - Populariza-se o uso de webcams. Surgem os videoblogs, diários on-line com vídeos curtos
+- Google lança o site de comunidade virtual Orkut, cujos usuários brasileiros se tornam maioria em pouco tempo
+- A conexão sem fio à internet (wireless) se torna mais comum
+05 - O podcast permite enviar arquivos de áudio diretamente aos toca-MP3
+- O número de internautas em todo o mundo deve ultrapassar 1bilhão até o final do ano
+Fontes: consultor do Comitê Gestor da Internet no Brasil e diretor-presidente da Associação Brasileira dos Provedores de Acesso (Abranet), Antonio Tavares; “Folha explica: a internet”, de Maria Ercilia; “Internet: o que é, o que oferece, como conectar-se”, de Érico Guizzo; UOL e Computer Industry Almanac

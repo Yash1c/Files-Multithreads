@@ -1,0 +1,16 @@
+Instalação demanda hardware potente 17/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Aug 17, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; DVD; GRAVADOR; COMPUTADOR; RECURSO
+Instalação demanda hardware potente
+DA REPORTAGEM LOCAL
+Praticamente qualquer computador pode receber um gravador de DVD, mas o pleno aproveitamento dele impõe certas exigências ao hardware do micro.
+Primeiro, o disco rígido precisa ter bastante espaço livre, pelo menos 5 ou 10 Gbytes, para que os softwares de gravação consigam trabalhar. Se você não sabe quanto espaço há, abra o ícone Meu computador, clique com o botão direito do mouse no ícone do disco rígido e escolha Propriedades.
+Além disso, é vital que o disco seja de 7.200 RPM _como a gravação e a edição de DVDs envolve escrita e leitura de muitos dados, os discos mais antigos, de 5.400 RPM, nem sempre apresentam performance aceitável, principalmente quando já estão com 25% ou menos de espaço livre.
+Para descobrir a velocidade rotacional do seu disco rígido, instale o programa Sandra (www.download.com) e acione a opção System Summary. O modelo do disco aparecerá no item Physical Storage Devices. Aí, basta digitar o modelo, acompanhado do termo RPM, no Google (www.google.com) ou em qualquer outro buscador. Você também pode medir a velocidade em Kbytes/s e compará-la com a de outros modelos de disco (acione a opção File System Benchmark do Sandra).
+É recomendável que o disco rígido esteja formatado no sistema de arquivos NTFS, padrão do Windows XP. Para descobrir o formato do seu disco, use a opção Drives Information do Sandra. Se a conversão for necessária (alguns softwares travam com discos FAT32), clique em Iniciar, Programas, Acessórios e Prompt de comando. Na janela exibida, digite o comando convert c: /fs:ntfs, substituindo a letra c por aquela que corresponde, no micro, ao disco rígido. A transformação é segura, mas não tente fazê-la sem antes copiar os dados para outro disco rígido ou para um DVD.
+A gravação de DVDs também exige muito da memória RAM e do processador. É imprescindível ter pelo menos 256 Mbytes. Já o processador deve ser o mais rápido possível _os chips Pentium 4 e Athlon topo de linha são os mais indicados, pois têm a tecnologia SSE3, que acelera os softwares de conversão de vídeo compatíveis com ela.
+(BG)

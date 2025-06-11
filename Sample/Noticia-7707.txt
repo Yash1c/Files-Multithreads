@@ -1,0 +1,20 @@
+Atualização de imagens ocorrerá a cada 18 meses 27/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jul 27, 2005
+Observações: SUB-RETRANCA
+Vinheta/Chapéu: BASTIDORES
+Assuntos Principais: INTERNET; GEOGRAFIA; MAPA; MAPEAMENTO DIGITAL; SITE; BUSCADOR; FERRAMENTA; SERVIÇO; IMAGEM; SATÉLITE; GOOGLE EARTH /SITE/; ATUALIZAÇÃO; PERIODICIDADE
+Atualização de imagens ocorrerá a cada 18 meses
+DA REPORTAGEM LOCAL
+Em entrevista à Folha por e-mail, um porta-voz do Google afirmou que a base de dados usada pelo Google Earth terá renovações a cada 18 meses.
+Muitos mapas exibidos possuem falhas de atualização. A imagem da antiga Casa de Detenção de São Paulo, o Carandiru, exibe quatro pavilhões, quando apenas dois deles ainda permanecem de pé.
+O porta-voz disse ainda que não é possível transmitir imagens em tempo real e fez segredo sobre o valor do investimento no projeto, sobre como é feita a integração das imagens, sobre a agilidade do zoom e sobre quem são as empresas fornecedoras das imagens aéreas e de satélite.
+Uma delas é a Digital Globe (www.digitalglobe.com), que comercializa dados e imagens geoespaciais. Em entrevista à Folha, seu porta-voz, Chuck Herring, contou que existem dois tipos de registros: global e local. O global permite fazer imagens mais amplas e é utilizado para registrar países e continentes. Já o local é adequado para a visualização de cidades _especialidade da empresa.
+Segundo Herring, as fotos são feitas em quadros de 16,5x16,5 km. Isso explica porque, ao mover o mapa, as imagens vão se tornando nítidas em partes, como um mosaico.
+A distância da superfície é de cerca de três quilômetros, mas há ferramentas que ampliam o nível de detalhamento para capturar carros e pessoas. A Digital Globe levou três anos para registrar a maior parte da superfície terrestre: 150 milhões de quilômetros quadrados.
+Mundo da Lua
+Em comemoração do primeiro pouso feito na Lua, em 20 de julho de 1969, o Google disponibilizou, na semana passada, uma página na internet na qual aponta, sobre imagens fornecidas pela Nasa, os locais explorados pelas seis naves Apollo (moon.google.com).
+Ao aproximar-se das marcações, no entanto, o internauta tem uma surpresa: a superfície vira um grande queijo, amarelo e esburacado.
+(MB)

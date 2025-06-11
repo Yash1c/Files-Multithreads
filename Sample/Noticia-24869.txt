@@ -1,0 +1,35 @@
+O bunker virtual 29/5/2005
+Autor: ÉRICA FRAGA
+Origem do texto: DE LONDRES
+Editoria: MAIS! Página: 4-5
+Edição: São Paulo May 29, 2005
+Legenda Foto: Funcionários da Symantec trabalham na sede da empresa, um antigo abrigo nuclear, em Twyford (Inglaterra)
+Crédito Foto: Divulgação
+Observações: COM SUB-RETRANCAS
+Assuntos Principais: REINO UNIDO; INFORMÁTICA; SYMANTEC /EMPRESA/; INTERNET; SEGURANÇA; ABRIGO NUCLEAR; TECNOLOGIA; HACKER; FRAUDE
+O bunker virtual 
+A MAIOR FORNECEDORA MUNDIAL DE SEGURANÇA NA INTERNET OPERA A PARTIR DE UM ANTIGO ABRIGO NUCLEAR DA GUERRA FRIA COM A MISSÃO DE COMBATER OS CRESCENTES ATAQUES E ROUBOS DE INFORMAÇÕES NA REDE 
+ÉRICA FRAGA 
+DE LONDRES 
+O crime ocorre por via eletrônica, e o contra-ataque vem pelo mesmo caminho. Mas a estrutura de combate ao inimigo ganhou proteção concreta extrema. Nada menos do que um "bunker", herança da Guerra Fria, construído como abrigo nuclear pelo governo britânico, resguarda hoje um dos "centros de operação de segurança" da Symantec _a maior fornecedora de produtos e serviços de segurança na internet do mundo_, que a Folha visitou com exclusividade no último dia 17.
+Instalado em 2002 no pequeno povoado de Twyford (99 km a sudoeste de Londres), o centro é o único da empresa a ocupar um "bunker". Segundo Jeff Ogden, diretor da área de serviços de segurança (leia entrevista abaixo), a Symantec se deu conta de que as empresas não conseguiam mais lidar sozinhas com os riscos da internet. Podiam até ter os softwares de proteção adequados _a própria empresa produz a linha Norton_, mas não tinham, necessariamente, estrutura para monitorá-los.
+Daí surgiu a idéia dos chamados "centros de operações de segurança". Hoje a empresa possui cinco deles em diferentes localidades do mundo. Todos estão em pontos subterrâneos e isolados.
+Quando o centro de Twyford começou a ser construído, em 1988, os chamados "crackers" _criminosos virtuais_ não existiam. A preocupação do governo britânico eram os russos _e um possível ataque nuclear que pudessem iniciar.
+O "bunker" foi desenvolvido a partir de um reservatório já existente para abrigar 30 pessoas e garantir que elas tivessem por 60 dias energia, água, ventilação limpa e comida. Seus ocupantes seriam funcionários das empresas de infra-estrutura, que eram considerados importantes para a reconstrução posterior de serviços essenciais em caso de um ataque.
+Em 1990, o abrigo ficou pronto. A Guerra Fria, no entanto, já entrava, àquela altura, para a história, com o colapso da antiga União Soviética e a queda do Muro de Berlim, em 1989. Já em 1991, o "bunker" de Twyford foi desativado.
+Informação pessoal
+Desde então, foi utilizado por três empresas, incluindo a Symantec, mais recente ocupante. Não fosse pelos carros parados na área, o local, quase no fim de uma estradinha estreita e deserta, não despertaria suspeitas. É todo coberto por um gramado verde e pequenas flores amarelas e brancas. Abaixo disso, está a bem escondida e pesada porta de aço de entrada ao centro, que ainda tem muito de abrigo nuclear.
+A entrada é a antiga área de descontaminação. À sua direita, ficavam os chuveiros que ajudariam as pessoas a se livrarem de resíduos de um ataque nuclear. Os ventiladores que filtrariam o ar também estão lá. E há até uma calha por onde as pessoas poderiam escapar. Portas e paredes são extremamente espessas e há câmeras em todos os cantos.
+Segundo Ogden, roubos de informação pessoal e, em última instância, de identidades são a atividade criminosa que mais se expande na rede. Em termos globais, uma ameaça crescente na internet que tem o propósito específico de roubar informações de usuários é o chamado "phishing" (termo derivado do inglês "fishing", pescaria; ler glossário na pág.6).
+As mensagens de tentativas "phishing", que também podem acabar convencendo o usuário da internet a passar dados pessoais seus, saltaram de uma média de 1 milhão por dia para 4,5 milhões por dia ao longo do segundo semestre de 2004, de acordo com a empresa.
+A "carne fraca" muitas vezes leva o usuário da internet a cair na lábia dos criminosos. De acordo com Ogden, quem comete esse tipo de crime tenta explorar as "fraquezas humanas", mandando, por exemplo, mensagens cujos assuntos tratam de temas que interessam ao usuário ou buscando atraí-lo para sites pornográficos.
+O "bunker" também mantém os enormes tanques de geradores próprios, instalados para o abrigo. Isso garante que nunca faltará energia ao centro de operações de segurança. A grande alteração feita pela Symantec no "bunker" está localizada bem no meio do local: uma sala onde ficam os analistas sentados em fileiras, com telas de computadores na frente, à semelhança de uma mesa de operações do mercado financeiro.
+No alto da parede, uma televisão que mostra o movimento fora do "bunker" captado por uma câmera e outra que exibe noticiário. São as únicas visões que eles têm do mundo exterior.
+Cliente atacado
+Apesar de tudo isso, os analistas _um total de 25 pessoas trabalha no centro, revezando-se em turnos_ dizem que se acostumaram rápido à "vida de 'bunker'".
+"No dia-a-dia, não sinto diferença nenhuma entre trabalhar aqui e num escritório normal", afirma Alan Osborne, um dos gerentes de operações do centro.
+A diferença está mesmo na natureza do trabalho, que pode se tornar extremamente excitante e tenso. Na manhã em que a Folha visitou o centro, por exemplo, aconteceu uma "emergência". Um analista descobriu que o sistema de um cliente estava sendo atacado. Os "eventos" detectados são classificados por ordem de gravidade. Uma "emergência" ocupa o ponto máximo na escala de perigo e não costuma acontecer mais do que seis vezes ao ano.
+O diretor Ogden explica a necessidade de um centro tão protegido. "Aqui, nós mantemos informações de nossos clientes. Tiramos dados das redes deles e as trazemos para cá. O que não queremos é que alguém consiga ter acesso a essas informações", explica.
+"Você pode, por exemplo, com certa tecnologia, parar um carro fora de um prédio e captar alguma informação via tecnologias sem fio, se não houver proteção adequada. Aqui embaixo nada funciona, seu celular não funciona, ninguém de fora, porque as portas são grossas e feitas de aço, consegue roubar informação, via tecnologia sem fio, de dentro deste prédio."
+Os moradores de Twyford, no entanto, nem parecem ter se dado conta de que o "bunker" existe. Algo que, para a Symantec _que lida com informação confidencial de seus clientes e quer mesmo passar desapercebida_, é ótimo.
+Segundo Ogden, apenas uma vez o centro recebeu uma carta de um senhor idoso, morador da região, que caminha pela estradinha todos os dias e vê o movimento de carros, perguntando o que faziam. "Serviço de monitoramento" foi a resposta curta, que não recebeu tréplica.

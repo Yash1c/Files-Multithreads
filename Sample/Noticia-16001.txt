@@ -1,0 +1,20 @@
+Ferramenta gráfica se destaca 29/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 29, 2005
+Legenda Foto: Gimp, que possui função para eliminar imperfeições de fotos
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; COMPUTADOR; GOVERNO LULA; COMPUTADOR PARA TODOS /PROGRAMA SOCIAL/; INCLUSÃO DIGITAL; LINUX /SISTEMA OPERACIONAL/; FOTOGRAFIA DIGITAL; EDIÇÃO; GIMP 1.25 /SOFTWARE/; RECURSO; ATUALIZAÇÃO
+Ferramenta gráfica se destaca
+DA REPORTAGEM LOCAL
+A presença do software de edição fotográfica Gimp é uma das principais qualidades do PC popular. A versão instalada é a 1.25, que já está superada (no site www.gimp.org já é possível encontrar a 2.2, que traz uma interface gráfica remodelada), mas ainda é bastante útil.
+Quando você abrir o Gimp pela primeira vez _ele está meio escondido, no menu Mais Aplicações Gráficas_, terá de passar por um pequeno procedimento de instalação: basta clicar cinco vezes no botão Continuar.
+O Gimp, que também tem versão para Windows, brilha porque traz boa parte dos recursos encontrados no Adobe Photoshop. A ferramenta Cloning Stamp, por exemplo, pega uma amostra da imagem e a utiliza para pintar outras áreas, ou seja, é perfeita para eliminar manchas e imperfeições.
+Clique no ícone dela _é o último da quinta linha de ferramentas_, posicione o cursor do mouse sobre a área que servirá de amostra, mantenha a tecla Ctrl pressionada e clique uma vez.
+Solte Ctrl, vá até a imperfeição que você deseja eliminar (aquela espinha no rosto de uma pessoa, por exemplo) e clique com o mouse para pintar por cima. Há várias opções de pincel.
+Para salvar um arquivo no Gimp 1.25, você tem de clicar com o botão direito do mouse sobre ele (ou pressionar Ctrl+S). O programa não grava no formato PSD, que é o padrão do Photoshop.
+Rabiscos
+O Insigne Linux oferece três softwares de desenho. O Sodipodi, que é um programa mais sofisticado, o prosaico Kpaint, cuja simplicidade é adequada para crianças e lembra o Paint, do Windows, e o Draw, parte do pacote de escritório OpenOffice.org (leia texto ao lado). Dos três, o mais interessante é o Sodipodi, pois ele salva as ilustrações no formato SVG, aceito por todos os principais softs de desenho. 
+(BG)

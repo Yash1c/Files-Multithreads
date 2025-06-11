@@ -1,0 +1,28 @@
+Fique ligado no mundo a todo instante 6/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jul 6, 2005
+Arte: QUADRO: SAIBA COMO USAR UM LEITOR DE RSS
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: SEM PARAR
+Assuntos Principais: INTERNET; RSS /REALLY SIMPLE SYNDICATION/; INFORMAÇÃO; NOTÍCIA
+Leitores de RSS facilitam a busca por notícias de interesse do internauta; saiba como dosar o número de alertas
+Fique ligado no mundo a todo instante
+MARIANA BARROS
+DA REPORTAGEM LOCAL
+Se você já se perguntou para o que serve aquele botãozinho laranja, com a inscrição XML, que muitos sites exibem, saiba que ele pode se tornar um importante aliado na busca pelas notícias que lhe interessam.
+Ele é a porta de entrada para um sistema que envia alertas para o seu computador sobre as últimas novidades publicadas na rede. Trata-se do RSS, do inglês Really Simple Syndication, que significa, em versão livre, gerenciamento verdadeiramente simples _nesse caso, de notícias.
+É um tipo de programa, chamado agregador ou leitor de RSS, que recebe, como se fosse uma caixa de e-mails, avisos e arquivos de texto, de imagem, de áudio, de vídeo e em HTML.
+Esses arquivos são enviados pelos mais diversos sites cada vez que algo novo é publicado em um deles. Os sites que fornecem páginas com esse serviço, chamadas alimentadoras de RSS (ou feed, em inglês), são justamente aqueles que exibem o botão XML (conjunto de regras que torna o formato RSS compreensível para os programas) _mas fica a critério do usuário escolher de quais sites ele deseja receber alertas.
+Blogs
+"O programa me dispensou da chateação de visitar uma por uma, diariamente, as páginas de que gosto", conta o jornalista Sérgio Charlab. "Não preciso lembrar de ir aos sites. Tudo o que houver de novo nos meus endereços favoritos chegará até mim", diz. Ele também usa o leitor para saber se seu blog www.charlab.blogger.com.br) recebeu novos comentários dos internautas.
+Os blogueiros foram pioneiros no uso de leitor de RSS, cuja função inicial era a de informá-los sobre o que havia de novo nos diários dos colegas. A partir de 2000, esse tipo de programa começou a se popularizar e o formato passou a figurar em vários canais de notícia. Atualmente, sites de grandes empresas de mídia, nacionais e internacionais, já oferecem conteúdo para os leitores de RSS (leia na pág. F3), permitindo que os internautas transformem seus micros em miniagências de notícia.
+Para utilizar o RSS, o internauta deve, em primeiro lugar, fazer o download do programa leitor. Existem várias opções deles (leia nesta página), capazes de receber arquivos como fotos e podcasts (arquivos de áudio que se assemelham a um programa de rádio).  
+Precauções
+O volume de informação que chega por meio desses programas é bastante grande. Em testes feitos pela reportagem, apenas a atualização inicial de um deles (Feed Demon) recebeu mais de 3.400 notícias. Por isso, é preciso tomar alguns cuidados para não sucumbir à avalanche de alertas. É aconselhável restringir o número de canais, ou seja, de sites que alimentam o programa, mantendo apenas os mais relevantes.
+Se houver algum tema que lhe interesse mais, configure o programa para que os avisos sobre ele sejam destacados. Se você utilizar o FeedReader, pode optar por receber, por exemplo, as notícias que contenham a palavra "Corinthians" realçadas em vermelho (leia texto à direita.).
+Determine a freqüência das atualizações conforme a sua necessidade. Elas podem ser feitas manualmente, clicando no botão de atualização, ou terem sua periodicidade programada em Tools/Properties/Appearance.
+O FeedReader, assim como outros programas, oferece janelas que avisam sobre o recebimento de notícias. Se isso for incômodo, desative esse recurso por meio do menu Appearance.
+"Informação demais atrapalha", afirma o pesquisador de jornalismo on-line da Universidade Federal da Bahia, Elias Machado.
+"É preciso filtrá-las de acordo com os interesses e o tempo disponível de cada um", diz Machado. Para ele, os programas de RSS ajudam a mapear o que circula e ir direto ao que interessa.

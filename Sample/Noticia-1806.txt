@@ -1,0 +1,12 @@
+Como exportar configurações do Outlook 21/9/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Sep 21, 2005
+Seção: CANAL ABERTO
+Como exportar configurações do Outlook
+"Possuo dez contas de e-mail configuradas no Outlook. Como fazer para guardar suas configurações para serem 'importadas' em caso de formatação do computador, uma vez que é um tanto demorado fazê-las? Já consegui 'exportar' as pastas, mas não as configurações das contas."
+(Jose Ovídio de Souza)
+Resposta - Infelizmente, o programa de correio Outlook não possui um recurso como esse, embora em seu irmão menor, o Outlook Express, esse recurso esteja disponível. Ao que parece, a Microsoft, fabricante de ambos, esqueceu de implementá-lo na versão mais completa da família.
+Contudo você poderá realizar essa tarefa com softwares de outros fabricantes. São programas que fazem cópias de segurança (back- up) de todos os componentes do Outlook, como pastas de contatos, mensagens, regras e as definições de conta propriamente ditas.
+Um dos programas que executa essa tarefa de forma simples e funcional é o ABF Outlook Backup, disponível em www.abf-soft.com/outlook-backup.shtml. É um programa do tipo shareware, ou seja, que funciona gratuitamente por 30 dias. Após esse período, será preciso comprar a versão completa do programa. A versão mais simples custa US$ 29,95.
+Eu não consegui encontrar uma versão freeware desse tipo de programa, ou seja, que fosse totalmente gratuita. No entanto o leitor deve levar em conta que, como boa parte das atividades profissionais costuma estar baseada na troca de e-mails, investir em um programa desse tipo é extremamente recomendável.

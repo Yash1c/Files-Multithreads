@@ -1,0 +1,17 @@
+Máquina vem com games 2D 29/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 29, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; COMPUTADOR; GOVERNO LULA; COMPUTADOR PARA TODOS /PROGRAMA SOCIAL/; INCLUSÃO DIGITAL; LINUX /SISTEMA OPERACIONAL/; GAME; VIDEOGAME; JOGO; RESOLUÇÃO
+Máquina vem com games 2D
+DA REPORTAGEM LOCAL
+Jogos não são o forte do PC popular. A placa de vídeo é muito fraca para rodar games 3D sofisticados, e os games mais conhecidos geralmente só possuem versões para Windows. Tecnicamente, é possível rodar jogos do Windows no Linux, mas isso não é simples e requer um hardware muito mais potente que o do PC popular.
+A máquina já vem com o Wine, que é um emulador para rodar programas do Windows, mas ele é lento e difícil de configurar. Para rodar jogos, o emulador mais indicado é o Cedega (www.transgaming.com), que é vendido por assinatura _o pacote básico, de três meses, custa US$ 15.
+Quem gosta de games 2D, por outro lado, já tem com o que se distrair: a máquina vem com 29 deles, incluindo passatempos de cartas, como pôquer e paciência, e um clone do clássico Tetris.
+Na internet
+O simulador de vôo X-Plane (www.x-plane.com) está entre os games mais sofisticados da plataforma Linux, com comandos realistas e gráficos de qualidade, que lembram o clássico Flight Simulator, da Microsoft.
+O jogo pode ser testado gratuitamente, mas seu download é gigantesco (340 Mbytes), e a versão demo pára de funcionar após alguns minutos de vôo.
+O site www.happypenguin.org mostra uma extensa lista de games 2D e 3D para Linux (um dos mais atraentes é Super Mario Clone FX, um plágio da série criada pela Nintendo). Confira também o icculus.org/lgfaq/gamelist.php. 
+(BG)

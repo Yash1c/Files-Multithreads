@@ -1,0 +1,23 @@
+Brasileiros e franceses soletram 10% dos genes ativos da banana 21/7/2005
+Autor: REINALDO JOSÉ LOPES
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A16
+Edição: São Paulo Jul 21, 2005
+Vinheta/Chapéu: BIOTECNOLOGIA
+Assuntos Principais: BIOTECNOLOGIA; GEN; DNA; BANANA; MELHORAMENTO; PESQUISA
+Dados ajudarão melhoramento da planta
+Brasileiros e franceses soletram 10% dos genes ativos da banana
+REINALDO JOSÉ LOPES
+DA REPORTAGEM LOCAL
+Cerca de 10% dos genes ativos da banana foram "soletrados" por pesquisadores brasileiros e franceses, no primeiro passo para decifrar o DNA da planta. A informação deve ser de grande utilidade para os estudos de melhoramento genético da fruta, que anda sofrendo um verdadeiro bombardeio de pragas agressivas (principalmente fungos) no mundo.
+O trabalho, parceria entre a Embrapa (Empresa Brasileira de Pesquisa Agropecuária), a Universidade Católica de Brasília e o Cirad (Centro de Cooperação Internacional em Pesquisa Agronômica para o Desenvolvimento, na sigla em francês), lançou ontem o DATAMusa, um banco de dados com as descobertas já feitas nessa primeira fase do trabalho. O anúncio foi feito em Brasília pelo presidente da Embrapa, Silvio Crestana, e pelo ministro da Agricultura, Roberto Rodrigues.
+"É o segundo maior banco de dados do mundo sobre o genoma da banana, e mostra que o Brasil é um jogador de primeiro time nessa área", afirma o agrônomo Manoel Teixeira Souza Júnior, da Embrapa Recursos Genéticos e Biotecnologia, que ajudou a coordenar a pesquisa. Os 5.000 genes "soletrados" até agora, na verdade, não vieram diretamente do genoma da planta, mas do chamado transcriptoma _os genes realmente ativos, que chegam à forma de mRNA, a molécula-irmã do DNA. O grupo também identificou 113 promotores _trechos de DNA que regulam quando e como os genes são ativados.
+"Nesse conjunto, já achamos diversos homólogos [formas semelhantes] de genes já descritos que parecem ter relação com a resistência a nematóides [vermes parasitas], insetos e fungos", conta Souza Júnior, cujo grupo tem interesse especial em criar bananeiras mais resistentes a esse trio de inimigos. Também estão na lista genes envolvidos com tolerância ao calor, ao frio e à seca e outros que poderiam alterar o metabolismo da planta para que ela produza frutos mais nutritivos.
+Mestiça
+Por uma série de razões, tais dados são cruciais para ajudar bananais em todo o mundo. O agrônomo explica que as bananas que chegam à fruteira são, na verdade, híbridos estéreis de duas espécies diferentes, a Musa acuminata e a M. balbisiana, apelidadas de A e B. Para complicar ainda mais, elas normalmente têm três conjuntos de 11 cromossomos, as estruturas enoveladas que abrigam o DNA. "A banana-prata tem dois genomas A e um B, enquanto a banana-nanica tem três genomas A", conta Souza Júnior.
+Por isso, é praticamente impossível introduzir características de interesse, como resistência a pragas, por exemplo, nessas variedades, que são as mais populares comercialmente. Elas são basicamente clones umas das outras _razão pela qual pragas como a sigatoka negra, um fungo, têm causado tamanho estrago nas plantações. Estima-se que entre 30% e 40% da plantação seja perdida no Brasil por causa de doenças. A preocupação chegou a tal nível que, há poucos anos, alguns pesquisadores chegaram a falar no fim das variedades comerciais.
+Segundo o agrônomo da Embrapa, os relatos sobre a extinção da banana foram altamente exagerados. "Aquilo foi mais um grito de alerta, porque se temia que outra praga fúngica perigosa, o Fusarium raça 4, chegasse à América, o que tornaria comercialmente inviável o plantio da banana no continente", diz ele.
+Com a informação genômica, no entanto, os pesquisadores esperam ser capazes de introduzir diretamente os genes responsáveis pela resistência a doenças ou valor nutritivo, extraídos de variedades mais rústicas, diretamente no DNA das bananas comerciais. "Sem essa técnica, o único jeito de conseguir variabilidade é induzindo mutações [com radiação, por exemplo], e isso é tiro no escuro", diz Souza Júnior.
+Por outro lado, mesmo quando o cruzamento tradicional é possível, a modificação nas características originais é tão grande que a variedade se torna inviável comercialmente. "Não adianta ter uma produtividade ótima e grande resistência se o sabor não é bom", explica.
+Intragenia
+Por isso, a idéia é produzir variedades transgênicas, com modificações pontuais no DNA da planta que evitem esse problema. Aliás, o grupo deve trabalhar com o conceito de "intragenia" _é adicionado um gene da mesma espécie à planta, para diminuir a resistência aos transgênicos.

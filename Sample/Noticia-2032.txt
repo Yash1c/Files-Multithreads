@@ -1,0 +1,21 @@
+Preço alto restringe atração de SLi 21/9/2005
+Autor: THÉO AZEVEDO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F16
+Edição: São Paulo Sep 21, 2005
+Legenda Foto: Placas GeForce 7800, que podem ser ligadas em dupla no PC
+Crédito Foto: Divulgação
+Vinheta/Chapéu: TESTE
+Assuntos Principais: TECNOLOGIA; COMPUTADOR; SLI /TECNOLOGIA/; TESTE; DESEMPENHO; RECURSO; PREÇO
+Recurso que permite uso de duas placas GeForce 7800 GTX é para fanáticos
+Preço alto restringe atração de SLi
+THÉO AZEVEDO
+COLABORAÇÃO PARA A FOLHA
+A nova tecnologia SLi (Scalable Link Interface), criada pela fabricante de chips gráficos Nvidia para obter um melhor desempenho gráficos nos jogos eletrônicos é eficiente, mas não vale o seu preço. A Folha testou o recurso, que permite colocar duas placas de vídeo GeForce 7800 em funcionamento simultâneo, sem obter grandes diferenças em relação ao sistema convencional.
+Na avaliação, foram utilizadas duas GeForce 7800 GTX ligadas em SLi num computador Pentium 4 530 com 3 GHz e 1 Gbyte de RAM. No Brasil, cada uma das placas de vídeo custa cerca de R$ 2.900 (Prolink: tel. 0/xx/11/5094-0860), mais do que um computador de bons recursos, fazendo do dispositivo um acessório de luxo.
+Ao jogar o game de tiro Far Cry, lançado em 2004, com uma resolução de 1.600x1.200 pixels e filtros que melhoram a qualidade e os detalhes das texturas, a média de frames por segundo foi de 29,8 _o suficiente para curtir em toda sua plenitude o game conhecido pelo visual arrojado.
+Jogando-se o game com as mesmas especificações, mas apenas uma GeForce 7800 ativada, foi registrada uma média de 25,7 frames por segundo. A queda atrapalha um pouco o desempenho do jogo, mas a diferença entre as médias é pouco significativa.
+No teste com a versão demo do jogo de tiro F.E.A.R., que utiliza uma das tecnologias gráficas mais recentes e poderosas, os resultados foram mais animadores: em 1.600x1.200 pixels, qualidade máxima em todas as opções visuais, mas com os filtros desativados, a média ficou em 70 frames por segundo, o que é desempenho de sobra. Com os filtros ligados em máxima potência, a média caiu para 15 frames por segundo, o que praticamente inviabiliza a experiência com o game, pois ele fica extremamente lento.
+Por último, utilizando a ferramenta gratuita 3Dmark05, que mede resultados de testes de placas de vídeo atribuindo-lhes uma pontuação, a tecnologia SLi em qualidade plena conseguiu 7.441 pontos, contra 6.501 obtidos por apenas uma GeForce 7800 GTX.
+No balanço geral, o custo-benefício da tecnologia SLi é pouco atraente. Isso pode mudar com a nova geração de games.
+Hoje, se o jogador possuir apenas uma placa de vídeo GeForce 7800, já está bem servido, pois ela oferece suporte a tecnologias como pixel shader 3.0 e HDR (High Dynamic Range). Elas tornam os jogos mais bonitos e realistas, principalmente porque atuam nos efeitos de expressões faciais, luzes e sombras, características amplamente exploradas pelos games atuais.

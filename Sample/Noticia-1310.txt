@@ -1,0 +1,18 @@
+Novo drive imprime em CD e DVD 17/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F7
+Edição: São Paulo Aug 17, 2005
+Legenda Foto: Gravador LaCie d2, que usa canhão de laser para decorar discos
+Crédito Foto: Divulgação
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; DVD; LACIE D2 /GRAVADOR EXTERNO/; IMPRESSÃO
+Novo drive imprime em CD e DVD
+DA REPORTAGEM LOCAL
+O gravador externo LaCie d2 é o primeiro, no mercado brasileiro, com a tecnologia LightScribe, que permite imprimir textos e ilustrações na face superior de CDs e DVDs. Na prática, ela queima o revestimento presente nas mídias compatíveis (específicas para esse tipo de gravador e ainda quase impossíveis de encontrar em São Paulo) _ou seja, a rigor trata-se de uma gravação térmica. Por isso, o resultado é monocromático _texto e gráficos pretos.
+O recurso é bem fácil de usar. Depois de gravar os dados no CD ou DVD, você vira o disco e abre o software SureThing Labeler para pintar o outro lado da mídia. O processo é bem demorado. Enquanto o LaCie demorou oito minutos e 20 segundos para gravar um DVD com 4 Gbytes de dados, a decoração da outra face desse disco levou 29 minutos e 15 segundos. Além disso, o resultado fica devendo contraste.
+Embora seja lenta e monocromática, a tecnologia LightScribe é altamente útil e desejável _nos próximos meses, os fabricantes vão começar a incluí-la nos gravadores mais baratos.
+Como gravador, o LaCie é muito bom. Além de oferecer um conector USB 2.0 e dois FireWire, seu acabamento, em alumínio, é excelente. Por outro lado, a fonte de alimentação é externa e atrapalha um pouco o transporte do aparelho, que sozinho pesa 1,5 kg e mede 17,3x4,4x2,7 cm. O gravador aceita discos Dual Layer (DVD+R DL), mas apenas na velocidade de 2,4x, tecnicamente já superada _existem drives 8x.
+Os softwares fornecidos são da marca Roxio, e incluem os ótimos programas Easy CD/DVD Creator e Toast (para Mac). Um detalhe importante é que, na plataforma Macintosh, é preciso ter o sistema operacional 10.3.2 para instalar todos os softs. Além disso, os programas tomam muito espaço. No Windows, são mais de 860 Mbytes _sem contar, claro, o espaço livre necessário para operação (leia texto na pág. F6).
+O gravador custa R$ 999 (www.controle.net), mas também possui uma versão interna mais acessível, que sai por R$ 878,67. Segundo o distribuidor dos produtos, cada DVD Light- Scribe deverá custar R$ 18.
+(BG)

@@ -1,0 +1,15 @@
+USE MELHOR O INTERNET EXPLORER 1/6/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jun 1, 2005
+Arte: QUADRO: USE MELHOR O INTERNET EXPLORER
+Observações: SUB-RETRANCA
+Assuntos Principais: COMPUTADOR; INTERNET; SEGURANÇA; WINDOWS XP /SISTEMA OPERACIONAL/; DICA; CONFIGURAÇÃO; AUTOMATIZAÇÃO; INTERNET EXPLORER /SOFTWARE/; PROGRAMA; POP-UP; SPYWARE /SOFTWARE/
+USE MELHOR O INTERNET EXPLORER
+> TROQUE A HOME PAGE
+. Abra o navegador e clique em Ferramentas e Opções da Internet
+. Na janela exibida, digite o endereço desejado no campo Página inicial ou aperte o botão Usar em branco _nesse caso, o programa não acessará nenhuma página quando for aberto
+> LIVRE-SE DAS JANELAS POP-UP
+. Quando você visitar um site que traga janelas pop-up, elas serão eliminadas e o navegador mostrará um aviso. Clicando nele, você terá a opção de autorizar temporariamente ou permanentemente aquele site a abrir pop-ups (algo necessário no acesso a algumas páginas). Se a proteção contra janelas que pulam não estiver ativa, clique em Ferramentas, Bloqueador e Habilitar bloqueador
+> GERENCIE O RECURSO AUTOCOMPLETAR
+. Deseja que o Internet Explorer pare de exibir palavras, senhas e endereços de sites que foram digitados? Entre na janela Opções da Internet e abra a guia Conteúdo. Na tela exibida, aperte o botão AutoCompletar e observe as opções exibidas. Aperte os botões Limpar Formulários e Limpar Senhas e desmarque os itens Endereços da Web, Formulários e Nomes de usuário<BR>próximo...próxima ocorrência...

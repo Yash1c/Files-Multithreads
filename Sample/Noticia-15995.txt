@@ -1,0 +1,19 @@
+Explore os recursos de micro com Linux 29/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 29, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: PC POPULAR
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; COMPUTADOR; GOVERNO LULA; COMPUTADOR PARA TODOS /PROGRAMA SOCIAL/; INCLUSÃO DIGITAL; LINUX /SISTEMA OPERACIONAL/; RECURSO; SEGURANÇA; SENHA
+Conheça o sistema operacional e fique por dentro dos principais softs da máquina vendida com isenção fiscal
+Explore os recursos de micro com Linux
+BRUNO GARATTONI
+DA REPORTAGEM LOCAL
+O programa Computador para Todos, proposto pelo governo federal para facilitar a aquisição de PCs, começa a entrar em vigor. Até a conclusão desta edição, o financiamento e os planos de acesso à internet com subsídios, duas principais vantagens do PC popular, ainda não estavam disponíveis, mas ao menos um varejista já vende micros com redução de impostos (leia texto na pág. F3).
+Para conter o preço do PC, o governo optou pelo sistema operacional Linux, que é gratuito. Quem está acostumado ao Windows notará algumas diferenças (veja quadro), mas os principais comandos são bem simples.
+A principal diferença é que, no Linux, o usuário tem privilégios limitados, ou seja, precisa se tornar superusuário _root_, digitando uma senha, antes de instalar softwares ou alterar configurações do sistema (leia texto ao lado). Isso pode parecer inconveniente, mas é bom, pois reforça a segurança do micro.
+Ocorre que o Insigne (www.insignesoftware.com), que é a distribuição do Linux usada no PC popular, vem de fábrica com uma senha de root padronizada _um prato cheio para curiosos e pessoas mal-intencionadas. É vital trocar a senha de root.
+Para fazer isso, é preciso abrir o Terminal _janela do Linux que aceita a digitação manual de comandos (clique em Iniciar, Ferramentas do Sistema e Terminal). Feito isso, digite su e informe a senha de root quando ela for solicitada. Em seguida, digite passwd e especifique uma nova senha.
+Como qualquer outro micro, o PC popular também trava. Se algum software parar de responder, pressione simultaneamente as teclas Ctrl e Esc para abrir o gerenciador de processos do Linux. Na janela exibida, marque a opção Árvore para agrupar os processos. Selecione o programa que está travado e aperte o botão Matar para encerrá-lo à força.
+Se você nunca usou Linux, mas tem acesso a um PC, pode experimentar o sistema operacional livre sem afetar a instalação do Windows presente na máquina. Basta fazer o download do Insigne Live e gravá-lo num CD _trata-se de uma versão do Insigne Linux que roda direto do drive óptico, ou seja, basta iniciar o micro com o CD inserido para carregar o Linux. O programa está em oraculo.insignesoftware.com/current/LiveCD/1.0beta/iso.

@@ -1,0 +1,31 @@
+Antivírus ganha funções de filtragem 4/5/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 4, 2005
+Legenda Foto: Tela do programa de proteção AVG 7.0 Plus Firewall, que é gratuito até o próximo dia 15 de junho
+Crédito Foto: Reprodução
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: SEGURANÇA
+Assuntos Principais: TECNOLOGIA; GRISOFT /EMPRESA/; AVG /ANTIVÍRUS/; FIREWALL /SOFTWARE/
+Versão de testes do AVG tem assistente para configuração do firewall; conheça outras alternativas gratuitas
+Antivírus ganha funções de filtragem
+COLABORAÇÃO PARA A FOLHA
+Usar apenas um programa antivírus não garante a segurança de um PC na internet. É essencial contar com um firewall, software para a filtragem de dados.
+Para atender a essa necessidade, a Grisoft publicou uma versão gratuita do AVG que já vem com funções de filtro embutidas. Ela funcionará até o dia 15 de junho e está em www.grisoft.com/doc/AvgPlusFw/lng/us.
+Chamado de AVG 7.0 Anti-Virus Plus Firewall, o programa mantém a aparência e as configurações do popular antivírus e é fácil de ser configurado.
+Para aqueles que já usam o AVG Free Edition, é preciso remover o programa antigo do micro antes de instalar o novo. Para quem não tem um antivírus, o processo de instalação, que é em português, segue as etapas convencionais.
+Como usar
+Após copiar os arquivos para o disco rígido, o instalador do AVG pede para que o computador seja reiniciado. Clique em Sim e, depois que o Windows voltar, escolha a opção Verificação completa. Clique no botão Avançar para prosseguir.
+Na próxima janela _Serviços do Sistema_ mantenha as opções DNS Protocol Client, DHCP Protocol Client e Diagnósticos de rede ICMP. Os demais itens só devem ser selecionados por quem usa programas de compartilhamento de conexão ou de acesso remoto. O próximo passo é marcar os programas que estão autorizados a se conectar à rede.
+Para finalizar, clique sobre o botão Avançar e depois no botão Concluir.
+Agora todos os programas que solicitarem conexão com uma rede externa serão monitorados ou bloqueados pelo firewall.
+Ao instalar novos programas que pedem dados da internet, o AVG plus mostrará uma janela perguntando se você deseja permitir ou proibir o acesso desse soft. Esse é um defeito irritante do programa, que mostra uma lista reduzida no seu processo inicial de configuração e ignora softs como Windows Media Player, que já vem embutido no Windows e usa a rede para buscar nomes de músicas e artistas.
+A falha, entretanto, é fácil de solucionar. Basta clicar sobre o botão Permitir e, para evitar que essa solicitação volte a aparecer, marcar a resposta na caixa que traz o texto Salve como uma regra permanente.
+Para alterar outras configurações do AVG plus, basta clicar duas vezes sobre o ícone do soft, que fica ao lado do relógio do Windows, depois clicar duas vezes sobre o item Firewall do AVG e, por fim, apertar o botão Configurações e editar as listas de programas que podem ou não trocar dados na rede.
+Opções
+O Windows XP com as atualizações do SP2 (windowsupdate.microsoft.com) já tem um firewall embutido, que é de uso totalmente gratuito. Para habilitar seu uso, clique no botão Iniciar e depois no link Conexões de rede.
+Na janela que se abre, clique com o botão direito do mouse no ícone da sua conexão que usa o nome do provedor ou o termo Conexão local, no caso de conexão por banda larga.
+Selecione a opção Propriedades e, na tela exibida, clique na aba Avançado e depois no botão Opções. Na nova janela que se abre, marque o item com a legenda Ativado (recomendável).
+Há também firewalls gratuitos que funcionam separadamente, como o GoldTach (www.goldtach.com) e o Sygate Personal Firewall (www.sygate.com).
+(JB)

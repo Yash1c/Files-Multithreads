@@ -1,0 +1,18 @@
+Software de terceiros incrementa máquina 14/9/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F8
+Edição: São Paulo Sep 14, 2005
+Legenda Foto: SimpleOCR, que converte impresso em arquivo editável
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Vinheta/Chapéu: PROGRAMAS
+Assuntos Principais: TECNOLOGIA; IMPRESSORA; MULTIFUNCIONALIDADE; PROGRAMA; SOFTWARE; RECURSO; ACESSÓRIO; DOWNLOAD; SITE
+Software de terceiros incrementa máquina
+COLABORAÇÃO PARA A FOLHA
+As multifuncionais geralmente vêm acompanhadas de um conjunto de programas desenvolvidos pelas suas próprias fabricantes. Ocorre que, muitas vezes, esses softs são limitados e podem ser substituídos com vantagem por opções encontradas na internet.
+Quem usa o scanner para digitalizar textos por meio da tecnologia OCR (do inglês, reconhecimento óptico de caracteres) pode ter problemas com palavras acentuadas. Para contornar essa falha, é possível experimentar programas como o Cuneiform OCR (US$ 69, em www.ocrdownload.com) e o Readiris Pro (US$ 130, em www.irislink.com).
+Também é possível tentar softs gratuitos, como o Allchar (downloads.vnunet.com/download/32461.html) e o SimpleOCR (www.simpleocr.com). Todos para Windows.
+As ferramentas para economia de tinta feitas por terceiros também podem melhorar a performance das impressoras multifuncionais.
+Um exemplo é o InkSaver, que promete fazer os cartuchos durarem até quatro vezes mais. Vendido no Brasil por R$ 69 (www.anasoft.com.br), o programa pode ser testado gratuitamente em www.inksaver. com. Outro que promete diminuir o consumo é o Art Print Driver (US$ 38, com versão de testes em www.superdownloads.com.br). 
+(JB)

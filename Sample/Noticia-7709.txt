@@ -1,0 +1,29 @@
+Lista pessoal de páginas aperfeiçoa busca 27/7/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 27, 2005
+Vinheta/Chapéu: INTERNET
+Assuntos Principais: INTERNET; REDE VIRTUAL; COMUNIDADE VIRTUAL; SOCIAL BOOKMARKING; ENDEREÇO; SITE; SERVIÇO; RECURSO
+Serviços guardam favoritos on-line e criam rede de pesquisa com categorias e páginas selecionadas pelos usuários
+Lista pessoal de páginas aperfeiçoa busca
+JULIANO BARRETO
+COLABORAÇÃO PARA A FOLHA
+Serviços que unem o conceito das redes sociais a listas de endereços favoritos estão ajudando os internautas a encontrar páginas sem recorrer aos buscadores.
+Batizada de social bookmarking, a técnica permite que cada usuário crie um site pessoal com sua seleção de páginas e acesse essa lista de qualquer computador conectado à rede.
+Graças a essa mistura, é possível criar tags (etiquetas) que classificam os favoritos de acordo com um determinado assunto e organizam as buscas por temas.
+Dessa forma, seleções de páginas de várias pessoas são reunidas e é criada uma rede de favoritos.
+O StumbleUpon.com, pioneiro desse tipo de serviço, afirma contar com mais de 120 milhões de usuários e já existe uma série de portais que aperfeiçoaram a idéia das redes de favoritos.
+Fartura de opções
+Não faltam exemplos de sites que oferecem serviços de social bookmarking. Existem opções mais simples, como o Yahoo! My Web 2.0 (myweb2.search.yahoo.com), que importa automaticamente a lista de endereços favoritos do Internet Explorer, e opções mais sofisticadas, como o FeedMarker (www.feedmarker.com), que extrai notícias de sites selecionados que usam o padrão RSS (com atualização automática de conteúdo).
+Para quem está começando, o ideal é usar o Furl (www.furl.net). O serviço adiciona um botão (Furl It) ao Internet Explorer. Basta clicar sobre ele para que se abra uma janela para inclusão do site na lista de favoritos.
+Quando essa janela se abre, é possível guardar o endereço da página visitada, incluir comentários e uma avaliação sobre ele e colocá-lo em categorias.
+Antes de usar o Furl, é preciso configurar o bloqueador de pop-ups para aceitar janelas que tenham o endereço furl.net.
+Quem se interessa por assuntos relacionados a informática e a tecnologia deve experimentar o site del.icio.us, que tem vários canais específicos sobre esses temas em sua rede de favoritos.
+Já aqueles que se interessam por textos acadêmicos e descobertas científicas devem acessar o Connotea (www.connotea.org) e o CiteULike (www.citeulike.org).
+Todos os sites citados exigem cadastro, mas são gratuitos.
+Importando os favoritos
+O primeiro passo antes de mergulhar no mundo do social bookmarking é transportar os endereços da lista de favoritos do seu navegador para uma página da rede.
+Para tanto, quem usa o Internet Explorer deve clicar sobre o menu Arquivo e escolher a opção Importar e exportar. O assistente de importação se abrirá e, para começar, é preciso apertar o botão Avançar. O próximo passo é escolher a opção Exportar Favoritos e clicar novamente no botão Avançar. Nas próximas duas telas é preciso escolher quais pastas de favoritos serão exportadas (clique na primeira se quiser exportar todas) e qual será a localização do arquivo com os links. Para finalizar, clique no botão Concluir.
+Um arquivo com a extensão HTML será criado e basta indicá-lo no site de social bookmarking para que seus favoritos sejam colocados na rede.
+Quem usa o navegador Firefox deve acessar o menu Favoritos e clicar em Organizar. Uma nova janela vai se abrir e, dentro dela, é preciso clicar no menu Arquivo e depois em Exportar. Para finalizar, basta escolher a localização do arquivo com os links e clicar no botão Salvar.

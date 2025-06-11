@@ -1,0 +1,27 @@
+Descoberto primeiro vírus que ataca o novo Windows 10/8/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Aug 10, 2005
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: SEGURANÇA
+Assuntos Principais: INTERNET; SEGURANÇA; WINDOWS VISTA /SISTEMA OPERACIONAL/; VÍRUS; MICROSOFT /EMPRESA/
+Praga virtual já tem cinco variantes, mas não pode causar estragos
+Descoberto primeiro vírus que ataca o novo Windows
+JULIANO BARRETO
+COLABORAÇÃO PARA A FOLHA
+Antes mesmo de ser lançada oficialmente, a próxima versão do Windows já foi considerada vulnerável a ataques de vírus.
+A descoberta foi feita pela empresa de segurança F-Secure (www.f-secure.com), que encontrou uma ameaça chamada Danom em uma revista on-line escrita por programadores de vírus.
+Segundo a empresa, o Danom e suas cinco variações seriam capazes de infectar arquivos do sistema operacional Windows Vista explorando falhas de programação do Microsoft Command Shell, um programa para execução de comandos em modo texto.
+Dias depois da descoberta, entretanto, circulou na internet a notícia de que o MCS não será usado na versão final do Vista.
+O nome Danom foi inspirado no codinome Monad, usado nas versões de teste do MCS.
+Mesmo que o novo Windows use a ferramenta, as vulnerabilidades encontradas no sistema não representarão risco aos futuros usuários.
+De acordo com as análises de especialistas, o Danom é do tipo "proof-of-concept", ou seja, é inofensivo e só foi feito para provar que é possível explorar uma falha no novo sistema.
+A primeira versão de testes do Windows Vista foi distribuída no início de agosto para cerca de 10 mil programadores selecionados pela Microsoft.
+Ainda neste ano, a empresa pretende distribuir outras versões de teste para 400 mil pessoas.
+O lançamento da versão final do Windows Vista ainda não tem data definida, mas deverá ocorrer durante o segundo semestre do ano que vem.
+Navegador em apuros
+O Internet Explorer 7, outro lançamento importante da Microsoft, também apresentou problemas de segurança em sua versão de teste. Na semana passada, foi possível constatar a preocupação com esse assunto por meio do blog dos desenvolvedores do IE 7 (blogs.msdn.com/ie).
+No site, o chefe do departamento de segurança do navegador, Rob Franco, admitiu que várias ferramentas "invisíveis" serão adicionadas na versão Beta 2.
+A meta é proteger o navegador de ataques que usam ferramentas da própria Microsoft, como o ActiveX, evitando que o internauta precise fazer escolhas.
+Para tanto, serão adicionados mecanismos para evitar golpes pela rede (Phishing Filter) e reconhecimento de sites suspeitos (Threat modeling).

@@ -1,0 +1,13 @@
+Crie um protetor de telas usando fotos pessoais 25/5/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 25, 2005
+Seção: CANAL ABERTO
+Crie um protetor de telas usando fotos pessoais 
+"É possível criar um protetor de tela com fotos tiradas com uma câmera digital?"
+(Renato Masiero)
+Resposta - O Windows XP oferece essa função. Clique em qualquer área livre da tela com o botão direito do mouse, escolha a opção propriedades e clique na aba Proteção de Tela. Na lista de opções, selecione Apresentação de Slides Minhas figuras. Clique no botão configurações e selecione o tempo de ativação, disposição das fotos e outras características. Pressione o botão OK/Aplicar para fechar a caixa de diálogo.
+Você pode baixar da internet programas que fazem tal tarefa. Alguns oferecem a opção de criar um protetor de telas estático, que mostra uma figura de tempos em tempos, ou dinâmico, composto de animações que se atualizam periodicamente. Outros permitem incluir pequenos vídeos.
+De forma geral, um programa de criação de protetores de tela se encarrega de produzir os arquivos necessários para a criação do descanso de tela.
+No site freewarehome.com você encontrará diversos programas gratuitos. Alguns permitem a inclusão de suas fotos. Selecione no painel Desktop o item screensaver e depois teste alguns até achar um que lhe agrade. Entre os sharewares (com limitação de uso gratuito) você pode encontrar opções nos sites www.acez.com/saverbuilder.htm, www.screensaverstudio.com ou www.1stopwallpaper.com/webshots.html.
+Lembre-se sempre de, ao utilizar programas freeware ou shareware, ler as condições de uso para evitar o uso indevido do mesmo.

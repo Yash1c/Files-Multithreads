@@ -1,0 +1,45 @@
+Orkut não entende seu sucesso no Brasil 3/7/2005
+Autor: SÉRGIO DÁVILA
+Origem do texto: DA CALIFÓRNIA
+Editoria: DINHEIRO Página: B5
+Edição: São Paulo Jul 3, 2005
+Crédito Foto: Reprodução
+Arte: QUADRO: CONHEÇA O ORKUT
+Observações: COM SUB-RETRANCA; ENTREVISTA
+Vinheta/Chapéu: INTERNET
+Assuntos Principais: INTERNET; ORKUT /SITE/; COMUNIDADE VIRTUAL; ORKUT BUYUKKOKTEN; ENTREVISTA
+Criador do site de relacionamentos diz que país passou a ser foco do sistema e, por isso, há interface em português
+Orkut não entende seu sucesso no Brasil
+SÉRGIO DÁVILA
+DA CALIFÓRNIA
+"Orkut Buyukkokten adicionou você como amigo. Orkut é seu amigo? Sim ou não?" A mensagem estava na página que este repórter mantém num dos maiores e mais conhecidos sites de relacionamentos virtuais da internet, batizado propriamente de Orkut (www.orkut.com). Calcula-se que 6 milhões de pessoas tenham páginas com seus perfis ali; desse universo, a maioria (71,92%, segundo os últimos dados disponíveis) é brasileira. E quem é o criador do sucesso?
+Na vida virtual, segundo sua própria página, Orkut Buyukkokten tem 30 anos, é solteiro, gosta de massagem, não entende as mulheres e tem como meta na vida "tentar experimentar todas as coisas 'radicais' (definir 'radical' é sua função) e nunca olhar para trás ou se arrepender de nada". Na cama dele você vai encontrar "velas, óleo para massagem, urso de pelúcia e algemas".
+Na vida real, como comprovou a Folha em entrevista exclusiva com o "desenhista de interface com o usuário" (sua função) na sede do Google, na Califórnia, Orkut Buyukkokten nasceu na Turquia, onde estudou na renomada Universidade Bilkent, em Ancara, tem pós-doutorado em ciência da computação em Stanford e desenvolveu o embrião do site nos bancos da universidade californiana, até ser contratado pela empresa de seus ex-colegas Sergey Brin e Larry Page.
+Ele não tem idéia dos motivos que levaram sua criação a ser o sucesso que é especificamente no Brasil _a imprensa e os internautas norte-americanos em geral praticamente ignoram o Orkut, dando mais atenção a outros sites de relacionamento como Friendster ou thefacebook. Diz que não faz parte de seus planos vender as informações contidas nas páginas pessoais para empresas, dados e hábitos que valeriam ouro na publicidade virtual.
+"Sim, Orkut é meu amigo", foi a resposta dada pelo repórter ao pedido virtual, o que deixa o entrevistado com 567 "amigos", 791 "fãs" e 3.722 mensagens deixadas no seu "rascunho". Leia a conversa abaixo: 
+(SÉRGIO DÁVILA)
+*
+Folha - Primeiro, uma reclamação: por que o Orkut é lento?
+Orkut Buyukkokten - Os participantes crescem exponencialmente, muito, mas muito mais rápido do que esperávamos. Nós aumentamos a capacidade da rede a cada mês, mas a demanda é sempre maior. O que gera um problema aparentemente insolúvel: quando aumentamos a capacidade, e com isso a velocidade com que os comandos são realizados, as pessoas conseguem navegar mais e conseqüentemente convidar mais pessoas para fazerem parte do Orkut, o que deixará o sistema lento de novo, até que aumentemos de novo a capacidade... Mas chegará um momento em que nossa velocidade ao aumentar será igual à da demanda.
+Folha - E por que as mensagens de erro engraçadinhas, como "Bad, bad server. No donut for you!"? (fala adaptada de um dos episódios clássicos da série de TV "Seinfeld", intitulado "The Soup Nazi")? Você sabia que há até comunidade contra essas mensagens _e centenas contra você e seu invento?
+Orkut - Não sabia... (risos). É só uma maneira de deixar a informática mais palatável...
+Folha - Há milhares de comunidades brasileiras pornográficas e outro tanto com mensagens racistas ou discriminatórias, o que fere a "carta de intenções" de seu site. Recentemente, uma delas saiu do ar depois que a Justiça autorizou a polícia a investigar o autor. Como você controla isso?
+Orkut - Quanto à pornografia, talvez a explicação esteja no fato de os brasileiros serem mais liberais. Quanto ao racismo, é um horror, eu condeno. Mas como você põe um limite sem cair na censura? Este é um problema com o qual eu tenho de lidar...
+Folha - Qual sua teoria para a presença maciça de brasileiros?
+Orkut - Não tenho a menor idéia. Talvez seja cultural, tenha a ver com a personalidade de vocês, que são conhecidos como um povo amigável. Pode ser devido à própria característica do mecanismo de entrada no site (só pode se cadastrar quem receber um convite de um dos cadastrados). Eu tenho alguns amigos que têm alguns amigos brasileiros, e assim foi se espalhando, o que era mesmo a minha idéia desde o início.
+Folha - O que diz do rumor recente de que os técnicos do Google "diminuíam" a velocidade do usuário se ele declarasse ser do Brasil, como uma maneira de diminuir a presença?
+Orkut - Soube do rumor quando recebi a lista diária com as estatísticas e vi que países como Iraque tinham disparado em participação, enquanto o Brasil tinha caído drasticamente, o que não fazia nenhum sentido em termos de comportamento de usuário. Mas é pura lenda urbana, uma bobagem. Não temos como deixar a navegação de alguém mais lenta baseada no seu país de origem. Soube também que houve até festas em São Paulo quando os brasileiros ultrapassaram os 50%, confere?
+Folha - Confere.
+Orkut - Então. Hoje, o Brasil é o principal foco do Orkut. Tanto que lançamos a interface em português em abril. Eu recebo muitas mensagens de brasileiros em meu "scrapbook", pena que não entenda a língua. (puxa o repórter para perto de uma tela). O que está escrito aqui, por exemplo? (alguém o xinga de filho da p...)
+Folha - Um palavrão que envolve a reputação de sua mãe.
+Orkut - Ah...(desapontado) E aqui? (alguém pergunta se ele é parente do Buiú, personagem do programa "A Praça É Nossa").
+Folha - Melhor mudar de assunto: qual o seu orçamento?
+Orkut - Stanford é minha parceria nessa iniciativa, pois eu desenvolvi o programa na universidade, então eles me dão apoio em termos de servidores. Quanto a números, não posso revelar por uma questão de contrato.
+Folha - Você tem informações valiosas e hábitos pessoais de 6 milhões de pessoas. Pretende vendê-los à publicidade?
+Orkut - Não faz parte dos planos. Estamos oferecendo agora o serviço de e-mail do Google, mas é um anúncio interno.
+Folha - Não seria ferir a política de privacidade do site?
+Orkut - Não faríamos nada sem a expressa permissão do usuário, conforme está na própria política de privacidade.
+Folha - Você navega muito no seu próprio site?
+Orkut - Sim, visito algumas comunidades, leio alguns perfis de pessoas que não conheço...
+Folha - Mas é o olhar do dono ou o impulso do curioso?
+Orkut - Ambos (risos).

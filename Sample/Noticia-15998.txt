@@ -1,0 +1,22 @@
+Funções multimídia se espalham por vários softs 29/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 29, 2005
+Legenda Foto: Tela do Xine, que reproduz vídeos e aceita o popular formato DivX
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; COMPUTADOR; LINUX /SISTEMA OPERACIONAL/; SOFTWARE; PROGRAMA; VÍDEO DIGITAL; MÚSICA DIGITAL; MP3; FORMATO; COMPATIBILIDADE
+Funções multimídia se espalham por vários softs
+DA REPORTAGEM LOCAL
+No quesito multimídia, o Linux em geral não é tão versátil quanto o Windows e o Mac OS X, mas isso não significa que o PC popular esteja desprovido de softwares para gravar e ouvir som e vídeo. A diferença é que, enquanto o Windows Media Player centraliza todos os principais recursos, no Insigne Linux as funções estão espalhadas por vários softwares.
+Para ouvir músicas gravadas no formato MP3, a melhor opção seria o XMMS, que está no menu Som e Vídeo (ele é identificado, discretamente, como Reprodutor de Áudio). O programa é ágil e gasta pouca memória, mas veio sem decodificador de MP3.
+Para tocar músicas nesse formato, o micro popular usa o Xine, que é um reprodutor de vídeo mais lento e menos prático. Isso é um problema.
+Por outro lado, o computador traz o Audacity, um programa de gravação e edição de som que já vem com vários efeitos para eliminar ruídos (serve para digitalizar LPs ou fitas, por exemplo).
+Vídeo
+O Xine é um ótimo programa para ver vídeos no Linux, mas há um porém. Como padrão, o sistema tenta usar outro software, o Kabood, para abrir vídeos no formato DivX (AVI), o mais popular na internet. O problema é que o Kabood não consegue desempenhar a tarefa.
+Para corrigir o problema, clique com o botão direito do mouse num vídeo AVI e selecione Editar tipo de arquivo. Escolha o Xine, que deverá ser o terceiro da lista, e aperte duas vezes o botão Mover para cima.
+O Xine não conseguiu tocar um arquivo no formato Windows Media Video (WMV). Se isso for um problema para você, tente instalar o Mplayer (www.mplayerhq.hu/homepage/design7/news.html), que promete maior compatibilidade.
+Para ver vídeos em streaming _transmissão direta de sites, sem download prévio_, a melhor opção é o RealPlayer 9. Infelizmente, ele travou constantemente durante os testes realizados. Se você enfrentar esse problema, uma possível solução é atualizar o programa para a versão disponível em player.helixcommunity.org.
+O PC popular não possui gravador de CDs, mas já traz um soft de gravação instalado. Isso pode parecer supérfluo, mas é importante: evita que, ao adquirir um gravador, o usuário tenha de obter, por conta própria, um programa compatível com Linux. 
+(BG)

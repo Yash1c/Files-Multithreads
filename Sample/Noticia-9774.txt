@@ -1,0 +1,26 @@
+Novo Firefox corrige falhas de segurança 20/7/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jul 20, 2005
+Legenda Foto: Tela do Deer Park, navegador que experimenta novidades que serão usadas no próximo Firefox
+Crédito Foto: Reprodução
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: INTERNET
+Assuntos Principais: TECNOLOGIA; FIREFOX /NAVEGADOR/; DEER PARK /NAVEGADOR/; MOZILLA FOUNDATION /EMPRESA/; SEGURANÇA; FALHA; CORREÇÃO
+Soft de testes da Mozilla Foundation mostra novas funções que aumentam a velocidade de navegação em páginas
+Novo Firefox corrige falhas de segurança
+JULIANO BARRETO
+COLABORAÇÃO PARA A FOLHA
+A Mozilla Foundation colocou na internet novas versões de dois navegadores: o Firefox, que é usado por 8,71% dos internautas de todo o mundo, segundo a empresa de pesquisas NetApplications (www.netapplications.com), e o desconhecido Deer Park.
+Com a atualização do Firefox, a empresa mostrou preocupação com a segurança dos internautas. Com o Deer Park, demonstrou as novidades que usará em sua próxima geração de navegadores.
+A versão 1.0.5 do Firefox (grátis, em www.getfirefox.com) é pouco atraente. Apesar de ser recomendado a todos os usuários de versões antigas, o programa traz apenas correções de segurança e nenhuma novidade para navegação.
+A preocupação da Mozilla com segurança é justificável. Desde o lançamento da versão 1.0.4, em maio deste ano, o navegador apresentou 12 falhas, que deixavam os internautas vulneráveis. Em 2005, o Firefox já teve 56 brechas de segurança descobertas.
+A nova versão de testes do Deer Park (grátis, em www.mozilla.org/projects/deerpark/releases/alpha2.html), por outro lado, traz novidades empolgantes.
+A principal delas é a velocidade de navegação. Além de carregar páginas de forma mais rápida, o navegador conta com um recurso chamado Fast Back. Com ele, é possível retornar de forma instantânea a páginas já visitadas.
+Outra adição importante foi a possibilidade de organizar as abas de navegação (tabs) com o mouse. Agora basta arrastar e soltar as abas para definir sua ordem.
+No quesito segurança, o Deer Park também mostrou inovações. O navegador ganhou um sistema de atualização automática e teve seu bloqueador de janelas pop-up reforçado por um novo código.
+Outra novidade é que, apesar de já contar com uma barra de pesquisas embutida, o Firefox ganhou uma versão adaptada da barra de buscas do Google (grátis, em toolbar.google.com). Ao instalar o acessório, o usuário ganha não só um atalho para o engenho de buscas mas também um tradutor, um corretor ortográfico e outros acessórios de navegação.
+Entre essas ferramentas, estão o PageRank, que mostra qual a relevância das páginas encontradas calculando quantas vezes ela é citada em outros sites, e o Highlight Search Terms, que realça os termos procurados.
+Como ainda não tem versão em português, a barra do Google para Firefox pode se revelar menos atraente para os usuários brasileiros. O recurso de correção ortográfica só funciona para frases em inglês. A função de tradução só reconhece palavras em inglês e as converte para chinês, japonês, coreano, francês, italiano, alemão e espanhol.
+Mesmo com essa limitação, o tradutor merece destaque. Para traduzir uma palavra, basta deixar o ponteiro do mouse repousar sobre ela. Imediatamente uma legenda aparece com a tradução.

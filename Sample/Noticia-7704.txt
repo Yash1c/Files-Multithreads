@@ -1,0 +1,28 @@
+Earth faz viagens do espaço à rua de casa 27/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jul 27, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: UM CLIQUE SOBRE A TERRA
+Assuntos Principais: INTERNET; GEOGRAFIA; MAPA; MAPEAMENTO DIGITAL; SITE; BUSCADOR; FERRAMENTA; SERVIÇO; IMAGEM; SATÉLITE; GOOGLE EARTH /SITE/; RECURSO
+Programa do Google contém imagens de toda a superfície do planeta; zoom exibe detalhes
+Earth faz viagens do espaço à rua de casa
+DA REPORTAGEM LOCAL
+Um Orkut geográfico. Essa poderia ser a definição simplificada do Google Earth (www.earth.google.com), um banco de imagens aéreas que permite aos usuários do mundo todo compartilhar descobertas sobre o planeta.
+Não há um único canto do globo que não tenha sido registrado nas imagens de satélite e nas fotos aéreas, mas o nível de aproximação varia conforme a localidade. Podem-se ver de montanhas, representadas por borrões, a sombras de pessoas.
+Marcações
+O usuário pode fazer marcações nas imagens e identificar locais de seu interesse, com pequenas descrições. Para isso, basta clicar no ícone correspondente (semelhante a uma tachinha e localizado na barra inferior) e digitar as informações na janela que se abre. O mesmo ícone oferece opções para associar links àquele local e aplicar gráficos no mapa.
+Outros ícones da barra inferior permitem imprimir e enviar imagens por e-mail. Para salvá-las no programa, use a janela Places, na lateral esquerda, que mostra os locais preferidos do usuário.
+Na barra inferior ainda estão os controles de zoom, para aumentar ou diminuir a proximidade das imagens, e os comandos de navegação, com os quais o usuário pode se locomover em qualquer direção, mudar seu ângulo de visão e brincar de girar o globo virtual.
+A barra ainda mostra a posição dos pontos cardeais, a latitude, a longitude e a altura correspondente à distância dos olhos até a superfície. Há ainda um botão para exibir fronteiras.
+Buscas e vôos
+Um espaço para buscas está localizado no canto superior esquerdo da tela do programa.
+Nele, o usuário pode optar por três canais: Fly to, para encontrar cidades, Local search, para serviços, e Directions, para endereços.
+O primeiro tem algumas falhas. Ao digitar "São Paulo, Brazil", o usuário é encaminhado a uma cidade nordestina homônima da capital paulista.
+As informações prestadas pelos dois últimos também não funcionam para qualquer localidade. A exatidão restringe-se a algumas regiões, destacando-se os EUA, onde está concentrada uma infinidade de informações.
+Os gráficos, no entanto, são impecáveis. Se o usuário estiver visualizando o Rio de Janeiro e resolver voar para Paris, bastará digitar o nome do lugar no canal Fly to. Em seguida, ele verá o seu quadro de imagens afastar-se da superfície, percorrer o Atlântico e mergulhar na capital francesa. Embora os movimentos da simulação de vôo sejam bastante ágeis, é preciso esperar alguns segundos até que a imagem de destino seja carregada.
+Trocas de informações
+Além de marcações próprias, podem-se visualizar indicações de outros usuários, provenientes de uma rede de troca de mensagens (leia abaixo), e marcações já embutidas no programa.
+Nos dois casos, ative as categorias de seu interesse na janela Layers, na lateral esquerda. Estradas, estádios, vulcões, terremotos e construções tridimensionais são algumas opções. 
+(MB)

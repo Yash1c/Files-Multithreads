@@ -1,0 +1,9 @@
+Ataques via browser crescem e atingem 56% 22/6/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 22, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: SEGURANÇA
+Assuntos Principais: SEGURANÇA; ATAQUE; NAVEGADOR; FALHA
+Ataques via browser crescem e atingem 56%
+Esse é o resultado de uma pesquisa da Associação da Indústria de Tecnologia da Computação (CompTIA), que entrevistou 500 organizações. O número é superior à marca registrada no ano passado, de 37%. Esse tipo de ataque costuma ocorrer devido a falhas presentes nos navegadores e normalmente é iniciado após o internauta visitar sites que contenham códigos maliciosos.

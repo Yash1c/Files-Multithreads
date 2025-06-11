@@ -1,0 +1,22 @@
+Pacote de escritório requer ajuste 29/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 29, 2005
+Legenda Foto: Editor de texto Writer, que aceita arquivos do MIcrosoft Word
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; COMPUTADOR; GOVERNO LULA; COMPUTADOR PARA TODOS /PROGRAMA SOCIAL/; INCLUSÃO DIGITAL; LINUX /SISTEMA OPERACIONAL/; OPENOFFICE.ORG 1.1 /SOFTWARE/; PACOTE; RECURSO; ATUALIZAÇÃO
+Pacote de escritório requer ajuste
+DA REPORTAGEM LOCAL
+O pacote de escritório OpenOffice.org é uma das principais qualidades do PC popular. Bem completo, ele tem editor de textos, planilha eletrônica e gerador de apresentações _bem mais do que é fornecido com o Windows_, e é compatível com os formatos de arquivo adotados pelo Microsoft Office (DOC para textos do Word, XLS para planilhas do Excel e PPT para apresentações do PowerPoint).
+Apesar disso, o OpenOffice.org vem configurado para usar formatos próprios, o que não é conveniente. Abra o editor de textos e clique em Ferramentas e Opções. Abra o item Carregar/Salvar e entre na opção Geral. Para completar, escolha as opções desejadas no campo Formato de arquivo padrão.
+Os textos não precisam ser gravados no formato DOC. Se você produz documentos simples, sem muita formatação gráfica, pode optar pelo RTF, que tem ótima compatibilidade e gera arquivos menores.
+O editor de textos Writer vem com um corretor ortográfico em português _coisa que o WordPad, editor incluso no Windows, não possui. Para usá-lo, aperte o botão Verificação Ortográfica, que fica na barra de ferramentas vertical. Ele não é grande coisa, pois considera erradas palavras como "item" e "útil", mas pode ser treinado pelo usuário _aperte o botão Adicionar quando o corretor reclamar de um termo que, na verdade, está correto.
+Outro recurso ausente do WordPad, mas presente no Writer, é o contador de caracteres. Para usá-lo, clique em Arquivo/Propriedades e selecione Estatísticas.
+O OpenOffice.org traz a função autocompletar, que monitora as palavras digitadas e cria uma lista com a qual o software tenta adivinhar o que você deseja escrever (basta apertar Enter para aceitar a sugestão). Ela é útil, mas pode se tornar irritante.
+Se você quiser desligá-la, clique em Ferramentas e AutoCorreção/AutoFormatação, abra a guia Completar palavra e desmarque o item Ativar. A guia Opções, que fica na mesma janela, permite desativar uma série de modificações que são feitas pelo OpenOffice.org durante a digitação, como troca de palavras e criação automática de tabelas e listas.
+O pacote permite gravar os arquivos no formato PDF. Como o PDF pode ser aberto em qualquer computador, mas não pode ser editado, é ideal para a entrega de trabalhos escolares e profissionais. Para salvar um texto, apresentação ou planilha nesse formato, basta clicar em Arquivo/Exportar como PDF.
+Atualização
+A versão do OpenOffice.org fornecida com o PC popular é a 1.1, mas já existe uma atualização com novos recursos. Ela é gratuita e pode ser obtida em www.openoffice.org.br. 
+(BG)

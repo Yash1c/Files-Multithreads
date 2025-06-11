@@ -1,0 +1,25 @@
+Pioneiro pretendia abandonar a rede 25/5/2005
+Autor: FERNANDO BADÔ
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CADERNO ESPECIAL Página: Especial-4
+Edição: São Paulo May 25, 2005
+Observações: 10 ANOS DE INTERNET COMERCIAL NO BRASIL; ENTREVISTA
+Vinheta/Chapéu: PRIMÓRDIOS DA REDE
+Assuntos Principais: INTERNET COMERCIAL; BRASIL; ALEKSANDAR MANDIC; PROVEDOR; GRATUITO; MANDIC /EMPRESA/; IG /EMPRESA/
+Pioneiro pretendia abandonar a rede
+FERNANDO BADÔ 
+DA REPORTAGEM LOCAL
+Um dos pioneiros da internet brasileira, Aleksandar Mandic, 52, participou do lançamento dos serviços gratuitos de acesso à rede: "Ninguém entendia. Era um conceito". Com um repertório de frases de efeito, ele ofereceu seu ponto de vista sobre o surgimento da rede no país.
+*
+Folha - Onde aconteceu seu primeiro contato com a internet?
+Mandic - Aqui no Brasil, em 1992. Veja, faz mais de dez anos. Nós criamos um link UUCP com velocidade de 9.600 [bytes por segundo] para fazer o e-mail Mandic e o Mundo. E sem ambiente gráfico.
+Folha - Além de feia, era lenta.
+Mandic - Era a internet como ela nasceu. Quando uma criança nasce, ela não tem dente, não tem cabelo, mas não quer dizer que será banguela ou careca para sempre.
+Folha - Quando nasceu o provedor Mandic?
+Mandic - Em 1990. Era BBS [versão pré-histórica dos fóruns de hoje, com alguns outros serviços] e ambiente texto. Em 1992, lançamos o primeiro e-mail brasileiro e, em 25 de agosto de 1995, fomos o primeiro provedor a entrar no ar. Claro, sei que fomos o primeiro por uma questão de horas. No outro dia já havia 800 no ar.
+Folha - Quando você vendeu a Mandic?
+Mandic - Em 1999. Nesse ano, quando começou de fato a loucura da internet, eu vendi a empresa. Na verdade, a Impsat queria comprar a qualquer custo. Então eu saí e prometi nunca mais trabalhar com internet.
+Folha - Por quanto tempo você manteve a promessa?
+Mandic Dois meses depois eu ajudei a fundar o iG.
+Folha - Como surgiu o iG?
+Mandic - De um bate-papo com o Henrique Neves [presidente da Brasil Telecom na época] . Ele me perguntou se eu faria outro provedor. Respondi que sim, mas gratuito. Expliquei as razões, que, creio, era o que ele queria ouvir, e a partir daí nasceu o iG.

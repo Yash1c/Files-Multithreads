@@ -1,0 +1,12 @@
+Google faz pesquisa em diários 21/9/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Sep 21, 2005
+Assuntos Principais: INTERNET; GOOGLE /SITE/; EMPRESA; FERRAMENTA; BUSCADOR; PESQUISA; GOOGLE BLOG SEARCH /SITE/; BLOG; RECURSO; DESEMPENHO
+Google faz pesquisa em diários
+COLABORAÇÃO PARA A FOLHA
+Apesar de chegar atrasado na categoria de buscadores especializados em textos de diários virtuais, o recém-lançado Google Blog Search (www.google.com/blogsearch) não decepciona.
+Além da fartura de resultados, o serviço oferece opções de pesquisa avançada que mostram endereços de acordo com sua data de publicação, relevância e idioma, incluindo o português na lista. Outra função bastante útil permite escolher entre sites que trazem o termo buscado em seus títulos ou sites que trazem o termo buscado em algum texto.
+Em uma consulta pelo termo katrina (sem sinais), o Google Blog Search exibiu 743.696 resultados. Nas mesmas condições, o Technorati (www.technorati.com) mostrou 296.198 resultados e o Daypop (www.daypop.com) apenas 1.912 páginas. Em alguns casos, entretanto, a grande quantidade de resultados pode ser encarada como um defeito. Por também fazer pesquisas em sites que usam o padrão RSS, muitas vezes o serviço do Google apresenta links sem relevância. 
+(JB)

@@ -1,0 +1,28 @@
+Comunicador instantâneo traz risco de infecção em seu micro 17/8/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Aug 17, 2005
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: SEGURANÇA
+Assuntos Principais: INTERNET; COMUNICADOR INSTANTÂNEO; MSN MESSENGER /SOFTWARE/; ICQ /SOFTWARE/; VÍRUS
+Saiba como evitar ameaças dos mensageiros
+Comunicador instantâneo traz risco de infecção em seu micro
+COLABORAÇÃO PARA A FOLHA
+Programas de e-mail e navegadores são as principais portas de entrada para vírus e programas invasores, mas os mensageiros instantâneos também representam perigo para os usuários.
+Mensagens trocadas com programas de bate-papo populares, como o MSN Messenger e o ICQ, podem infectar um PC com vírus e com programas espiões.
+Outro problema crescente é o spim (spam over instant messenger), termo que classifica as mensagens indesejadas enviadas por meio dos comunicadores.
+De acordo com um estudo realizado pela empresa de segurança IM Logic (imlogic.com), o número de ameaças que afetam os programas de bate-papo e os softs para troca de arquivos subiu cerca de 2.700% nos últimos três meses.
+Para evitar esse tipo de problema, a palavra chave é prevenção.
+Desconfiar sempre
+De modo geral, é preciso duvidar de todos os arquivos e links que chegam por meio das mensagens _independentemente de quem seja o remetente deles.
+Uma prova disso foi a praga Chode-D, detectada na última semana pela empresa Akonix Systems (www.akonix.com).
+O Chode se espalha por programas mensageiros e é capaz de enviar cópias de si mesmo para endereços presentes em listas de contatos da máquina infectada.
+Por isso, evite receber arquivos enviados diretamente pelos comunicadores. Se for o caso, antes de abrir o arquivo recebido, use o programa antivírus para fazer uma checagem.
+As mensagens que são enviadas para vários usuários de uma só vez também merecem cuidados.
+Os golpistas do phishing, que usam páginas falsas para roubar dados de internautas, costumam enviar mensagens com links para ofertas em lojas virtuais, para downloads de acessórios gratuitos ou convites para sites.
+Sempre é preciso conferir o verdadeiro endereço do atalho.
+Para tanto, no MSN Messenger ou no ICQ, clique com o botão direito do mouse sobre o link e use a opção equivalente a "copiar atalho". Não acesse páginas com endereços que terminem com .jsp, .asp, .php ou endereços formados apenas por números.
+Mesmo que a página acessada pareça segura, lembre-se de jamais informar dados pessoais.
+Além disso, para usar um comunicador instantâneo de maneira segura, você deve ter pelo menos um antivírus, um filtro de dados (firewall) e uma ferramenta de detecção de programas espiões.
+(JB)

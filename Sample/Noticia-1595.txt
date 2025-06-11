@@ -1,0 +1,52 @@
+CONFIRA OS TIPOS DE COMUNICAÇÃO VOIP 21/9/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Sep 21, 2005
+Arte: QUADRO: CONFIRA OS TIPOS DE COMUNICAÇÃO VOIP
+Observações: SUB-RETRANCA
+Assuntos Principais: TELECOMUNICAÇÃO; TELEFONIA; TELEFONE; INTERNET; VOIP /TECNOLOGIA/; TARIFA; PREÇO; RECURSO; VANTAGEM; ACESSÓRIO
+CONFIRA OS TIPOS DE COMUNICAÇÃO VOIP
+> PC para PC 
+. Como usar
+Conexão de banda larga e fone com microfone. Use provedor de VoIP ou mensageiro
+. O que é preciso
+Basta fazer o download do programa
+. Meio utilizado
+Internet
+. Custo
+Nenhum
+. Incremente
+Usando handsets, aparelhos que imitam um telefone e são ligados ao PC
+> PC para telefone comum 
+. Como usar
+Conexão de banda larga, fone com microfone e contratar um provedor de VoIP
+. O que é preciso
+Faça o download do programa e adquira um dos planos ou créditos oferecidos pelo provedor
+. Meio utilizado
+Internet e rede de telefonia
+. Custo
+Varia conforme o plano e a localidade de destino
+. Incremente
+Serviços permitem adquirir linhas virtuais para receber ligações
+> Telefone IP para tel. comum 
+. Como usar
+Banda larga, um telefone IP habilitado ou adaptador e contratar um provedor de VoIP
+. O que é preciso
+Conecte o telefone IP ou adaptador (ligado a um telefone comum) na porta de rede do modem 
+. Meio utilizado
+Internet e rede de telefonia
+. Custo
+Varia conforme o plano e a localidade de destino
+. Incremente
+Alguns modelos de telefone IP também operam linhas fixas e de celular
+Telefone IP para telefone IP
+. Como usar
+Banda larga, um telefone IP habilitado ou adaptador e contratar um provedor de VoIP
+. O que é preciso
+Conecte o telefone IP ou adaptador (ligado a um telefone comum) na porta de rede do modem ou em um roteador. O primeiro também pode ser ligado à porta USB do PC
+. Meio utilizado
+Internet
+. Custo
+Nenhum
+. Incremente
+É o serviço mais simples dos provedores de VoIP, pois demanda aparelhos compatíveis, ou seja, do mesmo modelo ou usuários do mesmo provedor. Considere adquirir planos com mais opções

@@ -1,0 +1,25 @@
+AMD acusa Intel de concorrência desleal 13/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REDAÇÃO
+Editoria: INFORMÁTICA Página: F8
+Edição: São Paulo Jul 13, 2005
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: NEGÓCIOS
+Assuntos Principais: TECNOLOGIA; EUA; JUSTIÇA; INTEL /EMPRESA/; AMD /EMPRESA/; CONCORRÊNCIA; DENÚNCIA; IRREGULARIDADE; MONOPÓLIO; CHIP; PROCESSADOR
+Fabricante de chips leva disputa para a Justiça; ação, que corre nos EUA, denuncia práticas ilegais de monopólio
+AMD acusa Intel de concorrência desleal
+DA REDAÇÃO
+As duas principais fabricantes de microprocessadores do mundo, Intel e AMD (abreviação para Advanced Micro Devices), estão em pé-de-guerra desde o dia 28 de junho, quando a AMD entrou com uma ação na Justiça norte-americana contra a Intel, em Delaware.
+Ela acusa a concorrente, que detém 80% das vendas por volume unitário e 90% da receita do setor, de coagir companhias a realizar negociações exclusivas com ela, de modo a prejudicar a AMD.
+Em março, a Japan Fair Trade Comission (JFTC; www.jftc.or.jp/english/home_e.htm), comissão que analisa a legalidade de práticas comerciais exercidas, determinou que a Intel excluiu a concorrência aberta ao impedir que a AMD ampliasse sua penetração no mercado.
+A Intel ainda é investigada pela Comissão Européia (europa.eu.int/comm), por supostos abusos e violações antitruste, e pelo órgão norte-americano Federal Trade Commission (FTC, www.ftc. gov), responsável por regular práticas comerciais. A FTC abriu um processo contra a Intel em 1998, no qual a fabricante é acusada de usar seu domínio de mercado para resguardar segredos comerciais de alguns clientes.
+Publicidade
+A ação da AMD teve ampla divulgação por parte da empresa, que na semana passada publicou suas acusações contra a Intel em grandes anúncios publicitários em diversos jornais norte-americanos, como "The New York Times", "Wall Street Journal" e "Washington Post", e em sites de negócios. A AMD criou ainda um site (www.amd.com/breakfree) para tratar da questão e apresentar a ação de 48 páginas.
+Entre os exemplos de práticas ilegais citadas, estão acusações de que a Intel teria pago enormes quantias a alguns parceiros para garantir exclusividade. Isso teria acontecido com 38 empresas, entre as quais Sony, Dell, Toshiba, NEC e Acer. Outras acusações dão conta de que a Intel pagaria mesadas, subsídios e reembolsos para evitar que seus clientes firmassem negócios com a AMD.
+ Cocaína
+Em um trecho do processo, a AMD compara a Intel a um traficante de cocaína, que transforma clientes em viciados em incentivos comericiais.
+A empresa afirma que sua participação no mercado vêm diminuindo devido às "práticas ilegais da concorrente". Em 2001, ela tinha participação de 20,8% nas vendas mundiais, número que caiu para 15,8% em 2004, segundo a própria AMD. As disputas entre ambas já duram duas décadas, e a campanha da AMD revela, segundo seus executivos, a opção de mostrar disposição de luta.
+Empate
+Ambas as fabricantes já entraram na nova tecnologia de processadores, a dual-core. Os chips dual-core dispõem de duas partes com funcionamentos independentes e, por isso, podem realizar várias tarefas paralelamente.
+O site Tom's Hardware (www. tomshardware.com) confrontou dois modelos dual-core: o Athlon 64 X2 4800, da AMD, e o Pentium 840 EE, da Intel. O resultado, de 18 dias de testes, foi um empate. O chip da Intel mostrou-se superior nas tarefas múltiplas e o da AMD foi melhor nas tarefas simples.
+(MARIANA BARROS)

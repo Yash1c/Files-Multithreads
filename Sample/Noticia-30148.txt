@@ -1,0 +1,15 @@
+Configure a abertura de CDs no Windows 11/5/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 11, 2005
+Seção: CANAL ABERTO
+Configure a abertura de CDs no Windows
+"Uso o Windows 98. Gostaria de saber como ativar ou desativar a execução automática de CDs de música e de programas."
+(Renato Barbosa)
+Resposta - A execução automática de CDs se deve ao recurso chamado Autorun do sistema operacional, que faz com que o Windows identifique um CD-ROM quando este é inserido no drive e execute diferentes tarefas dependendo do seu conteúdo.
+Se ele for de música, automaticamente a primeira música será tocada; se for um CD-ROM de dados e existir o arquivo autorun.inf no diretório principal do CD, o Windows executará esse arquivo para dar início à instalação do software.
+Quando um CD-ROM de dados sem o arquivo autorun.inf é inserido no drive, o Windows não faz nada. Contudo, com o Autorun habilitado, toda vez que um CD-ROM for inserido no drive o Windows, tentará encontrar arquivo autorun.inf.
+Você pode ativar ou desativar esse recurso seguindo os próximos passos. Clique no menu Iniciar, Configurações, Painel de controle e Sistema.
+Abra a guia Gerenciador de dispositivos e clique duas vezes em CD-ROM. Selecione a guia Configurações e desative ou ative a opção Inserir notificação automaticamente. (Auto insert notification). Clique na opção DMA (se estiver disponível) para que o CD-ROM acesse os dados mais rapidamente. Caso tenha mais de um drive de CD-ROM instalado na máquina, faça os ajustes para cada um deles. Nesse caso, você pode deixar apenas um com o recurso ativado.
+CORRESPONDÊNCIA
+E-mail canalaberto@uol.com.br (necessário o nome completo)

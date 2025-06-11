@@ -1,0 +1,19 @@
+Softs parasitas são ameaça real 4/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F1
+Edição: São Paulo May 4, 2005
+Legenda Foto: Tela do programa Microsoft AntiSpyware, que funciona com os sistemas Windows 2000 e XP; Intermix, uma das empresas acusadas de atacar computadores
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; INTERNET; SEGURANÇA; NAVEGAÇÃO; DADO; SPYWARE /SOFTWARE/; PRIVACIDADE
+Softs parasitas são ameaça real
+DA REPORTAGEM LOCAL
+O spyware é um problema crescente para quem usa sistema Windows. Trata-se de uma classe de programas que podem violar a sua privacidade e normalmente vêm embutidos em outros softwares. Alguns spywares só bombardeiam o PC com anúncios, mas outros gravam a navegação.
+A situação é tão grave que, nos Estados Unidos, o procurador estadual Eliot Spitzer, famoso por ter investigado casos de irregularidades financeiras em Wall Street, elegeu o spyware como seu próximo alvo e está processando a empresa Intermix, que acusa de distribuir programas parasitas.
+Um ótimo programa para combater essa praga é o Microsoft AntiSpyware (www.microsoft.com/athome/security/spyware/software/default.mspx), que é compatível com Windows 2000 e XP. Ele oferece proteção em tempo real, ou seja, detecta problemas antes da instalação do spyware.
+Além disso, o AntiSpyware traz um recurso que apaga os rastros de utilização de mais de 20 programas. Para acioná-lo, clique em Advanced Tools e Tracks Eraser.
+Phishing
+Tome cuidado, também, com o phishing. É um golpe virtual que tenta induzir a vítima a digitar informações sensíveis, como senhas bancárias, ou a instalar arquivos com vírus. A melhor maneira de evitar o phishing é ter atenção. Não clique em links de e-mails de procedência desconhecida.
+Se você usa o Outlook Express, uma medida simples pode revelar e-mails que contêm os tipos mais simples de phishing. Abra um deles e passe o mouse sobre o link. Veja, na parte inferior da tela, o endereço exibido. Se esse endereço for diferente daquele escrito no corpo do e-mail, há indícios de trapaça.
+(BG)

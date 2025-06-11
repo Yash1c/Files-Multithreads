@@ -1,0 +1,17 @@
+Softwares incrementam o acessório 17/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Aug 17, 2005
+Legenda Foto: PowerProducer 2 (www.gocyberlink.com), para editar e criar DVDs
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; DVD; GRAVADOR; SOFTWARE; CÓPIA; FILMESoftwares incrementam o acessório
+DA REPORTAGEM LOCAL
+Todo gravador já vem com um pacote de softwares básicos, mas há programas úteis na internet.
+Copiar DVDs pode ser ilegal, mas existe uma situação em que é admissível _você alugou um filme na locadora, mas não teve tempo de vê-lo. Outro exemplo: você comprou um DVD e deseja fazer uma cópia dele para evitar danos ao disco original.
+Os dois melhores softwares para fazer isso são o ratDVD (www.ratdvd.dk), que promete salvar também as legendas e os menus dos filmes no disco rígido do micro, e o DVD Shrink (www.dvdshrink.org), que comprime o conteúdo do disco para que ele caiba num DVD caseiro.
+Um programa que não pode faltar é o editor de vídeo. O Windows XP já oferece um bem razoável, o Windows Movie Maker 2, mas há um problema: ele não salva arquivos no formato MPEG-2, usado nos DVDs tradicionais, nem oferece a opção de gravação direta. Infelizmente, a maioria dos softwares do tipo é paga e não custa barato _a partir de US$ 50_, então você provavelmente usará o editor fornecido com o gravador. Um soft muito bom, apesar de lento, é o CyberLink PowerProducer 2 (www.gocyberlink.com), que acompanha o drive da LG (leia texto na pág. F7). Esse programa permite, inclusive, gravar diretamente no DVD o sinal proveniente de um videocassete, filmadora ou placa sintonizadora de TV.
+Para fazer backups, a melhor opção é o Norton Ghost, que custa R$ 119 (www.symantec.com.br), pois ele distribui automaticamente os dados por quantos DVDs forem necessários. Perdeu o CD de softwares fornecido com o gravador? Antes de se desesperar, experimente o CDBurnerXP (www.cdburnerxp.se). Ele está muito aquém do Nero e do Easy CD/DVD Creator, mas é um quebra-galho gratuito.
+O site VideoHelp.com (www.videohelp.com) é um endereço imperdível para quem está aprendendo a usar um gravador de DVD. Sua seção How To traz vários guias que ensinam a converter para o formato MPEG-2 arquivos de vídeo baixados da internet, inclusive com links para o download dos softs necessários em cada situação.
+(BG)

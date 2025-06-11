@@ -1,0 +1,17 @@
+Usuário pode se tornar DJ virtual 3/8/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Aug 3, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: MÚSICA ELETRÔNICA; MÚSICA DIGITAL; TECNOLOGIA; DJ; PRODUÇÃO MUSICAL; ESTÚDIO; COMPUTADOR; PROGRAMA; SOFTWARE; PICKUP; SIMULADOR
+Usuário pode se tornar DJ virtual
+COLABORAÇÃO PARA A FOLHA
+Não foram só os instrumentos tradicionais que ganharam versões virtuais. As mesas usadas pelos DJs para mesclar músicas de dois discos diferentes (pickups) também podem ser simuladas por programas de computador.
+As opções de simuladores variam da simplicidade do gratuito AnalogX Scratch (www.analogx.com/contents/download/audio/scratch.htm) até a sofisticação do SAM Party DJ (US$ 69, com versão para testes em www.spacialaudio.com/downloads).
+Com o AnalogX Scratch, basta selecionar dois arquivos de áudio e usar o mouse para experimentar suas variações de velocidade e de volume enquanto eles são tocados ao mesmo tempo.
+Já o SAM Party DJ traz recursos mais avançados. Ele é capaz de contar as batidas da música, aplicar efeitos especiais para vozes e fazer transições graduais (fade in e fade out) entre uma música e outra. No site do produto, também há o SAM Broadcaster, que permite transmitir as mixagens por meio da internet com a técnica de streaming (download instantâneo dos arquivos).
+A linha de simuladores PCDJ (www.pcdj.com) também merece destaque pelo sue leque de recursos. Com versões para profissionais (FX), para amadores com experiência (Red) e para iniciantes (Blue), o programa oferece uma coleção de ajustes programados para discotecagem.
+Com a versão Red, é possível sincronizar batidas de músicas diferentes e editar trilhas ao arrastar e soltar trechos de áudio em MP3. Nas versões de teste disponíveis no site, o PCDJ só funciona por 30 minutos. As versões completas têm preços a partir de US$ 99.
+Para quem procura apenas um pouco de diversão, o ideal é usar programas como o Ots CD Scratch 1200 (grátis, em cd scratch.com). Ele tem menos recursos profissionais, mas permite brincar de fazer scratchs de uma maneira simples. 
+(JB)

@@ -1,0 +1,21 @@
+Saiba organizar suas mensagens eletrônicas 22/6/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jun 22, 2005
+Legenda Foto: Tela do Outlook, que pode responder e-mails automaticamente
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; VIAGEM; E-MAIL; CONFIGURAÇÃO; MENSAGEM; ORGANIZAÇÃO
+Saiba organizar suas mensagens eletrônicas
+COLABORAÇÃO PARA A FOLHA
+Antes de aproveitar as férias longe do PC, não deixe de configurar sua conta de e-mail para responder automaticamente às mensagens que chegam à sua caixa de entrada.
+Esse procedimento é bastante simples e poupa seu tempo na frente do computador durante uma viagem.
+Os usuários do programa Outlook Express devem seguir os seguintes passos. Use o Bloco de Notas para redigir a mensagem alertando para a sua ausência.
+Salve o arquivo no diretório da sua preferência e depois abra o Outlook Express.
+No menu Ferramentas, passe o mouse sobre a opção Regras para mensagens e depois clique em Email. Na janela que abre, marque os items Para todas as mensagens, na primeira caixa, e Respondê-la com mensagem, na segunda caixa. Por fim, clique no atalho mensagem, na terceira caixa, e escolha o arquivo no qual você redigiu o texto.
+Se o arquivo de texto não aparecer na tela, altere o tipo de arquivo mostrado na lista Arquivos do tipo. Dessa forma, todos que enviarem e-mails para você receberão uma resposta com o texto escolhido. As mensagens serão respondidas, mas continuarão a ser recebidas normalmente.
+Quem usa contas de webmail (recebe e envia mensagens por meio de uma página da internet) deve procurar as opções de resposta automática ou criar um filtro para responder mensagens.
+Os filtros também são úteis para apagar correio indesejado e organizar a caixa de entrada.
+Basta informar algum detalhe da mensagem (assunto, remetente etc.) e definir uma ação para ela. No Outlook, essa função está no menu Mensagem, Criar regra com base na mensagem.
+(JB)

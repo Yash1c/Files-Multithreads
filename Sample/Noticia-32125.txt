@@ -1,0 +1,21 @@
+Evite arquivos que vêm da rede 4/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo May 4, 2005
+Legenda Foto: Tela do Internet Explorer dedicada a gerenciamento de cookies
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; INTERNET; SEGURANÇA; NAVEGAÇÃO; DADO; PRIVACIDADE; COOKIE /ARQUIVO/
+Evite arquivos que vêm da rede
+DA REPORTAGEM LOCAL
+Os cookies são arquivos de texto enviados pelos sites para o PC durante a navegação na internet. Eles têm uma função tão simples quanto legítima: armazenar as senhas usadas para entrar em alguns endereços da rede, como serviços de webmail e páginas que requerem cadastro. Mas os cookies apresentam dois problemas.
+Primeiro, podem ser usados para monitorar a sua navegação na rede. Quase todas as faixas publicitárias (banners) contidas em sites plantam, silenciosamente, cookies inúteis no seu PC. Tudo o que eles fazem é associar um número de série ao micro.
+Ocorre que as maiores empresas de propaganda on-line distribuem cookies publicitários por centenas ou milhares de sites.
+Dessa forma, podem combinar os dados obtidos em cada um deles e juntá-los ao número que foi atribuído ao PC para montar um prontuário com os hábitos de navegação de cada internauta _cujo nome, ao menos nessa etapa, permanece desconhecido.
+A segunda deficiência dos cookies é que, como não possuem nenhum tipo de criptografia (codificação de dados), eles são presas fáceis para pessoas interessadas em roubar senhas.
+Então, o que fazer? Barrar todos os cookies não é prático, pois há sites que exigem a aceitação desses arquivos.
+Pode-se restringir a recepção de cookies àqueles enviados por sites confiáveis, mas essa configuração é meio complicada (os endereços dos servidores de cookies nem sempre coincidem exatamente com os endereços dos sites em si). Uma solução interessante é configurar o navegador Firefox para que ele aceite todos os cookies, mas apague-os todos sempre que o programa for encerrado. Para fazer isso, clique em Ferramentas, Opções e Privacidade. Selecione o item Cookies. No campo Validade, escolha a opção Até sair do Firefox. Isso evitará o monitoramento constante, via cookies, da sua navegação.
+Feita essa configuração, a autenticação automática em sites deixará de funcionar. Se você quiser que ela volte a operar, use o recurso de armazenamento e codificação de senhas do Firefox (leia texto nesta página).
+O navegador Internet Explorer também oferece recursos para lidar com os cookies. Para acessá-los, clique em Ferramentas e Opções da Internet e abra a guia Privacidade.
+(BG)

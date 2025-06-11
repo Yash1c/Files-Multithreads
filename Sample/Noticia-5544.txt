@@ -1,0 +1,24 @@
+Produção exige mais da máquina 3/8/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Aug 3, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: MÚSICA; PRODUÇÃO MUSICAL; TECNOLOGIA; ESTÚDIO; COMPUTADOR; PROGRAMA; SOFTWARE; REQUISITO; CONFIGURAÇÃO; CAPACIDADE; MEMÓRIA
+Produção exige mais da máquina
+COLABORAÇÃO PARA A FOLHA
+Afinadores digitais, editores de tablatura e programas de aprendizado funcionam bem em computadores convencionais que têm configurações modestas.
+Os requisitos mínimos para a maioria desses programas consistem em dispor de 128 Mbytes de memória RAM e de uma placa de som convencional, mas mesmo com menos memória é possível usá-los.
+Já os programas para edição e produção de músicas consomem muito mais recursos.
+Esse tipo de soft realiza tarefas mais complexas, como a sobreposição de faixas de áudio, a aplicação de filtros e de efeitos especiais e a montagem de músicas.
+Além disso, eles lidam com arquivos de som em formatos que não usam compactação.
+Um arquivo de áudio em MP3 com quatro minutos de duração ocupa, em média, 3,8 Mbytes. Já um arquivo WAV, um dos formatos usados por programas de edição e mixagem, teria cerca de 42 Mbytes mesmo tendo a mesma duração.
+O resultado dessa diferença é a necessidade de mais espaço livre em disco, um disco rígido com maior velocidade de leitura e mais memória disponível.
+As exigências mínimas para o funcionamento dos principais editores musicais mostram como esses programas são pesados.
+O Reason 3.0 pede que o micro tenha, no mínimo, um processador Pentium III de 600 MHz, 256 Mbytes de memória RAM e 2 Gbytes de espaço livre em disco.
+O Acid Pro pede processador de 1 GHz, 800 Mbytes de espaço livre e memória de 256 Mbytes.
+A versão gratuita do Pro-Tools, por ser antiga, é a que exige menos recursos. Suas configurações recomendáveis pedem apenas 192 Mbytes de memória RAM e processador equivalente a um Pentium III de 500 MHz.
+Há um porém nesses requisitos: a edição gratuita do Pro-Tools só funciona nas versões Me e 98 Second Edition do Windows.
+Vale lembrar que o espaço em disco que é indicado é gasto só para guardar os programas e seus acessórios. Para cada faixa editada, mais espaço será gasto.
+Quem pretende criar seu próprio estúdio, portanto, deve comprar um disco rígido com pelo menos 40 Gbytes e velocidade de 7.200 RPM, que custa de R$ 250 a R$ 350, e um pente de 256 Mbytes de memória RAM, que tem preço médio de R$ 100. 
+(JB)

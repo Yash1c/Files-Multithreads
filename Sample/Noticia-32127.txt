@@ -1,0 +1,30 @@
+Mac ganha sistema operacional atualizado 4/5/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo May 4, 2005
+Legenda Foto: Imagem de tela do sistema que pode ser o sucessor do Windows; Tela mostra buscador e programa de videochat do Mac OS X
+Crédito Foto: Reprodução; Divulgação
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: SOFTWARE
+Assuntos Principais: TECNOLOGIA; APPLE /EMPRESA/; MAC OS X 10.4 /COMPUTADOR/; TIGER /SISTEMA OPERACIONAL/; RECURSO
+Nova versão do Mac OS X traz buscador pessoal embutido; Microsoft desenvolve sucessor do Windows XP para 2006
+Mac ganha sistema operacional atualizado
+JULIANO BARRETO
+COLABORAÇÃO PARA A FOLHA
+O lançamento do Mac OS X 10.4 e algumas revelações sobre o sucessor do Windows mostraram, na semana passada, como a próxima geração de sistemas operacionais deverá ser.
+Chamado pelo codinome Tiger (R$ 450, em www.apple.com.br), o sistema da Apple traz como principal novidade o buscador de arquivos Spotlight. Com ele, o usuário pode encontrar músicas, mensagens de e-mail e outros tipos de arquivo enquanto digita a palavra-chave da pesquisa.
+A busca, porém, não se limita ao nome de arquivos. Quem procura pela expressão "photoshop", por exemplo, encontra, além do próprio programa, qualquer mensagem de e-mail ou texto que contenha a palavra escrita.
+Uma função de pesquisa pessoal rápida semelhante a essa deverá ser usada na próxima versão do Windows, segundo analistas de sites especializados, como o OS News (www.osnews.com) e o News.com (reviews.cnet.com).
+Outras novidades do Tiger são o Automator, assistente que realiza sozinho tarefas repetitivas, como renomear arquivos ou mover imagens para uma determinada pasta, e o Dashboard, uma coleção de utilitários como calculadora e calendário que funcionam de forma integrada.
+O programa para troca de mensagens iChat AV, já presente em outras versões do sistema, ganhou funções para fazer videoconferências e chamadas de voz.
+Além das funcionalidades embutidas no sistema, há acessórios para personalizar o Spotlight e o Dashboard no endereço www.apple.com/downloads/macosx.
+Sucessor do Windows
+Durante o evento WinHEC (Windows Hardware Engineering Conference), que ocorreu na última semana, em Seattle, nos EUA, uma versão de testes do próximo Windows foi entregue a programadores.
+Dias depois, imagens do sistema e relatos de testes foram divulgados em sites como o FlexBeta (www.flexbeta.net) e o Paul Thurrott's SuperSite (www.winsupersite.com).
+Chamado provisoriamente de Longhorn, o sistema supostamente traz uma aparência remodelada, novos ícones e um menu Iniciar com navegação diferente.
+Atualmente, os links para os programas aparecem em cascata. No Longhorn, eles devem aparecer em submenus, que são acionados quando o usuário digita as primeiras letras do nome do soft.
+Segundo testes publicados pelo site da revista "PC World" (www.pcworld.com), o navegador de arquivos Windows Explorer passará a exibir mais informações sobre os diretórios e documentos.
+O programa deverá mostrar detalhes sobre o espaço disponível em disco e comentários escritos pelo autor de textos. Ainda segundo a "PC World", o Explorer seria a base para um mecanismo de busca de arquivos capaz de usar diversos filtros.
+Outra mudança importante que foi divulgada é a escolha do sistema de armazenamento de arquivos WinFS, que aumentaria a velocidade de acesso aos dados.
+A Microsoft diz que o novo Windows chegará às lojas em 2006, mas não definiu uma data oficial para o lançamento.

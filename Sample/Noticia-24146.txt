@@ -1,0 +1,15 @@
+Controle ações automáticas do editor MS Word 1/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 1, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: COMPUTADOR; WINDOWS XP /SISTEMA OPERACIONAL/; DICA; CONFIGURAÇÃO; AUTOMATIZAÇÃO; MICROSOFT WORD /SOFTWARE/; PROGRAMA
+Controle ações automáticas do editor MS Word
+DA REPORTAGEM LOCAL
+A atual versão do Microsoft Word (2003) é menos intrometida que suas antecessoras, mas ainda faz uma série de intervenções automáticas nos textos, chegando a trocar palavras digitadas.
+É possível se livrar de quase todas as mudanças de uma só vez. Clique em Ferramentas e Opções de AutoCorreção, abra a guia AutoFormatação ao digitar e desmarque todos os itens. Abra a guia AutoCorreção e desative as opções Colocar nomes dos dias em maiúsculas e Substituir texto.
+O verificador automático de gramática e de ortografia do Word não é perfeito nem obrigatório. Livre-se dele clicando em Ferramentas, Opções, Ortografia e gramática e desativando os itens Verificar ortografia e Verificar gramática ao digitar.
+Como padrão, o Word grava arquivos no formato DOC, que é bastante ineficiente. Este texto, por exemplo, que ocupa 20 Kbytes na versão DOC, ficaria com apenas 5 Kbytes se fosse salvo no formato RTF, que é praticamente idêntico ao DOC. Para que o tipo padrão de gravação seja o RTF, clique em Ferramentas, Opções e Salvar e selecione a opção Formato Rich Text.
+A exemplo de outros softwares, o Word cria automaticamente menus "personalizados", ou seja, que mudam conforme as opções recentemente selecionadas pelo usuário. Para ter menus estáticos e permanentes, clique em Ferramentas e Personalizar, abra a guia Opções e assinale o item Sempre mostrar menus completos. 
+(BG)

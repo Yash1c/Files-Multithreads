@@ -1,0 +1,62 @@
+PROGRAMAS PARA CRIAÇÃO MUSICAL 3/8/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Aug 3, 2005
+Arte: QUADRO: PROGRAMAS PARA CRIAÇÃO MUSICAL
+Observações: SUB-RETRANCA
+Assuntos Principais: MÚSICA; PRODUÇÃO MUSICAL; TECNOLOGIA; ESTÚDIO; INSTRUMENTO MUSICAL; COMPUTADOR; PROGRAMA; EDUCAÇÃO; SOFTWARE; INTERNET; SITE
+PROGRAMAS PARA CRIAÇÃO MUSICAL
+Bateria/Percussão
+> Percussion Studio
+www.henrykellner.com/PercussionStudio
+. O que faz: simula sons de dezenas de instrumentos de percussão como pandeiro, cítara e outros
+. Preço: US$ 29 (com versão limitada para testes)*
+> Drumsite
+www.guitar.sk/drums/drums_main.htm
+. O que faz: usa trechos de gravações para simular sons de bateria
+. Preço: US$ 59 (com versão limitada para testes)*
+> FL Studio
+www.flstudio.com
+. O que faz: mixagem de trechos de batidas e encaixa ritmos
+. Preço: a partir de US$ 49 (com versão limitada para testes)*
+Guitarra/Violão
+> Guitar Pro
+www.guitar-pro.com
+. O que faz: edita tablaturas e mostra como executar as notas na guitarra ou no violão
+. Preço: US$ 59 (com versão de teste grátis para 30 dias)
+> Weblyrics
+www.weblyrics.com.br
+. O que faz: interpreta letras cifradas cria e mostra acordes. É totalmente em português
+. Preço: R$ 59,90 (com versão de teste grátis para 15 dias)
+> MiBAC Jazz
+www.mibac.com/Pages/jz.html
+. O que faz: ajuda a compor acordes e solos de guitarra, de contrabaixo e de outros instrumentos
+. Preço: US$ 99 (com versão limitada para testes)*
+ 
+Piano/Teclado
+> Pianito Microsite
+www.aldostools.com/pianito.html
+. O que faz: simula os sons de um teclado e imita dezenas de instrumentos musicais
+. Preço: US$ 14,95 (com versão limitada para testes)*
+> Piano Professor
+www.pianoprofessor.com
+. O que faz: dá lições para aprender a tocar piano
+. Preço: US$ 10 (com versão limitada para testes)*
+> PianoFX Studio
+www.tanseon.com/downloads.htm
+. O que faz: é um sintetizador de teclado que permite tocar e gravar músicas
+. Preço: US$ 19,95 (com versão limitada para testes)*
+Voz
+> AV Voice Changer Software
+www.audio4fun.com
+. O que faz: corrige e alterna o timbre de voz de gravações
+. Preço: a partir de US$ 29,95 (com versão de teste grátis para 14 dias)
+> Karaoke Trainer
+earpower.com/karaoke
+. O que faz: remove a voz de gravações e permite gravar outras vozes por cima
+. Preço: US$ 15 (com versão grátis, que funciona por dez vezes)
+> Voice-Warper
+www.cadkas.de/downengsound.php
+. O que faz: distorce gravações de voz e salva em arquivos WAV
+. Preço: US$ 13,99 (com versão limitada para testes)*
+*Versão demo disponível para download pode ser usada por tempo ilimitado, mas tem menos ferramentas do que a versão completa ou não salva os arquivos editados

@@ -1,0 +1,17 @@
+VoIP realiza comunicação a custo zero entre unidades de empresas 21/9/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Sep 21, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TELECOMUNICAÇÃO; TELEFONIA; INTERNET; SEGURANÇA; VOIP /TECNOLOGIA/; TELEFONE; SERVIÇO; EMPRESA; REDUÇÃO; GASTO; PREÇO; TARIFA; VANTAGEM; PESQUISA; ESTATÍSTICA; AUMENTO; ESTIMATIVA; PREVISÃO
+VoIP realiza comunicação a custo zero entre unidades de empresas
+DA REPORTAGEM LOCAL
+Apesar de os usuários residenciais disporem de grande número de ofertas de VoIP, são os corporativos que ainda dominam esse mercado.
+Ao adquirir linhas virtuais da mesma localidade, as empresas reduzem drasticamente o custo de comunicação entre as suas unidades. As tarifas pagas são de ligações locais e chegam a sair de graça quando feitas entre aparelhos de VoIP. Segundo o Gartner, cerca de 70% do tráfego de comunicação das empresas latino-americanas é interno, o que faz delas fortes candidatas a adotar telefones IP que eliminem tais gastos.
+Essa é uma das razões pelas quais o ritmo do aumento da adoção do serviço atinge previsões de 20% ao ano na região. De acordo com o IDC, a economia gerada para uma empresa que adota a tecnologia VoIP chega a 40%.
+O sistema é vantajoso também para companhias espalhadas por diferentes Estados ou países ou que se comunicam freqüentemente com localidades internacionais. De acordo com o Yankee Group, as necessidades de realizar chamadas interurbanas e internacionais são, somadas, responsáveis pela adoção de VoIP em 62% dos casos corporativos.
+Levantamento da revista "Info" dá conta de que o uso pelas empresas brasileiras é crescente. Em 2003, a VoIP estavam presentes em 29% delas, em 2004, em 56%, e neste ano, em 79%. Em termos de volume de tráfego, o sistema ainda é incipiente. Seria responsável por cerca de 15% do volume total.
+A solução mais utilizada é a que se integra ao PABX e permite que o funcionário disponha de seu ramal virtual onde quer que esteja, da mesa de trabalho a uma reunião no exterior. Pode-se até desviar as chamadas destinadas a determinado ramal para serem atendidas pelo celular. Mensagens de voz podem chegar por e-mail e a integração com a conexão Wi-Fi confere mobilidade aos funcionários de empresas cobertas por uma rede de conexão sem fio. Combinado aos celulares de terceira geração (3G), o acesso Wi-Fi deve ampliar ainda mais as possibilidades de uso de VoIP.
+O banco Itaú, a montadora General Motors, a farmacêutica Roche e a USP são alguns exemplos de empresas e instituições que adotaram a tecnologia. Outro caso de utilização é o da filial brasileira da Oracle, que, desde que implantou o sistema, passou a fazer de 1.500 a 2.000 conferências via VoIP por mês. Foram adquiridos 700 telefones IP e instalados 160 ramais. O investimento parece ter valido a pena: segundo a empresa, em dois anos a economia gerada pela redução da conta telefônica pagou o montante. 
+(MB)

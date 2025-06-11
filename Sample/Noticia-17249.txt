@@ -1,0 +1,23 @@
+Molécula barra invasão do mal de Chagas 24/6/2005
+Autor: REINALDO JOSÉ LOPES
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A15
+Edição: São Paulo Jun 24, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: MEDICINA
+Assuntos Principais: MEDICINA; MAL DE CHAGAS /DOENÇA/; PESQUISA; UNB /UNIVERSIDADE DE BRASÍLIA/; PARASITA; CÉLULA; MECANISMO; CONTROLE
+Estudo da UnB encontra substância que impede entrada de microrganismo em célula; terapia ainda está distante
+Molécula barra invasão do mal de Chagas
+REINALDO JOSÉ LOPES
+DA REPORTAGEM LOCAL
+Pesquisadores da UnB (Universidade de Brasília) podem ter encontrado uma maneira de fechar as portas do organismo humano na cara do parasita que causa a doença de Chagas. A "trava de segurança" impediria que o microrganismo invadisse as células de que precisa para sobreviver e, assim, que causasse a doença, que infecta 6 milhões de brasileiros.
+"A importância desse estudo é que encontramos um bom alvo para medicamentos", resume o biólogo Jaime Santana, 42, que coordenou o trabalho. A estratégia se mostrou promissora em diversos experimentos no tubo de ensaio _embora um possível medicamento, se vier, ainda esteja a vários anos de distância.
+A equipe da UnB já dava os primeiros passos nessa direção desde 1997, quando publicou um trabalho descrevendo uma enzima (proteína que acelera reações químicas) apelidada de POPTc 80. Pertencente ao Trypanosoma cruzi, como é conhecido o assassino de uma só célula que causa o mal de Chagas, seu papel pode ser comparado ao de um cortador de grama, só que em nível molecular (veja quadro à esquerda).
+Para o tripanossomo cair na circulação do sangue _depois de chegar à pele das pessoas picadas pelo inseto que o transmite, o barbeiro_, ele precisa atravessar a parede dos vasos sangüíneos. E, mais tarde, no seu caminho para as células que infecta, ele também precisa passar pela matriz extracelular, que envolve as células. Tanto na parede dos vasos quanto na matriz existe muito colágeno. "E é com essa enzima que ele 'corta' o colágeno para chegar às células", explica Santana.
+Faca sem ponta
+É lógico que uma pergunta ficava no ar: será que a criatura conseguiria chegar a seu alvo (normalmente células musculares e do revestimento de vários órgãos) sem essa "tesoura" química? Foi na tentativa de responder a isso que a equipe passou a investigar moléculas que funcionassem como inibidores da POPTc 80.
+Segundo Santana, o grupo partiu de um conjunto de inibidores que sabidamente eram capazes de deter enzimas do mesmo tipo que o "cortador" do parasita. Depois, lentamente, foram ajustando os inibidores mais promissores num processo conhecido como química combinatória. "Você tira ou coloca um hidrogênio ali, mexe um metil [grupo formado por um átomo de carbono e três de hidrogênio] e vai observando qual tem uma ação melhor", explica.
+O resultado desse processo, um peptídeo (pequeno fragmento de proteína) batizado com a sigla SV 141, foi submetido a uma série de provas de fogo in vitro. Uma delas consistiu em pegar a forma do parasita capaz de causar o mal de Chagas em humanos, matá-la, extrair do micróbio a enzima retalhadora e ver se a molécula sintética conseguia inibi-la.
+Funcionou. Os pesquisadores, então, partiram para um teste de segurança: ver se o SV 141 era específico o suficiente para atacar a molécula do T. cruzi mas deixar em paz o equivalente dela que existe em mamíferos (no caso, camundongos, cuja versão da proteína é praticamente indistingüível da existente em humanos).
+Mais uma vez, a coisa correu bem, e veio o teste final: ver o que acontecia quando o T. cruzi era bombardeado com o peptídeo diante do seu objeto do desejo, uma célula envolta em matriz. Como esperado, o parasita não conseguiu atingir seu alvo. "E, se isso acontecesse dentro do hospedeiro, ele acabaria morrendo ou seria devorado por macrófagos [células do sistema de defesa do organismo]", afirma Santana.
+Agora, os pesquisadores pretendem estudar em detalhe a estrutura molecular do peptídeo, para torná-lo adequado a funcionar dentro do corpo humano.

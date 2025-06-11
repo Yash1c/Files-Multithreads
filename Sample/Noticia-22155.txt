@@ -1,0 +1,25 @@
+Ajuste a máquina e o mobiliário 8/6/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 8, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: SAÚDE; CORPO; TRABALHO; EMPREGADO; UTILIZAÇÃO; COMPUTADOR; POSTURA; DORT /DISTÚRBIOS OSTEOMUSCULARES RELACIONADOS COM O TRABALHO/
+Ajuste a máquina e o mobiliário
+DA REPORTAGEM LOCAL
+Boa parte dos incômodos causados pelo uso do computador ocorre quando a máquina e os móveis não estão adaptados ao usuário. Antes de começar o trabalho, é preciso fazer ajustes.
+Verifique se o topo do monitor está na altura dos olhos, de maneira que o seu olhar esteja direcionado a cerca de 5º para baixo. A distância entre a tela e os olhos pode variar de 50 cm a 90 cm, conforme for mais confortável.
+Telas anti-reflexo são aconselháveis, pois evitam que o corpo fique envergado ao tentar "driblar" o reflexo. Pela mesma razão, prefira deixar a tela perpendicular à janela e jamais virada diretamente para uma fonte de luz.
+Outro problema é a mudança de luminosidade da tela causada pela lentidão do canhão de elétrons dos monitores comuns (com tubo de imagem). Ela exige maior esforço dos músculos dos olhos e pode provocar ardência nos olhos e dores de cabeça.
+Por isso, é aconselhável a freqüência de varredura seja superior a 70 Hz.
+Para saber qual é a freqüência do seu monitor, clique na área de trabalho com o botão direito e selecione Propriedades (se você usa Windows XP). Na tela que se abrir, escolha Configurações e aperte o botão Avançadas. Selecione Adaptador e clique em Listar todos os modos. A que aparecer é a que está em uso e, se necessário, pode ser modificada. Em alguns monitores, a mudança não é permitida; em outros, é feita no painel frontal.
+A altura da cadeira deve ser medida em relação aos pés do usuário, não em relação à mesa. Sente-se e apóie os pés inteiramente no chão. Ajuste o assento de maneira que os joelhos formem um ângulo de 90º.
+Se o ângulo formado for maior, as pernas ficarão balançando no ar, aumentando a pressão exercida pelas coxas sobre a borda do assento e prejudicando a circulação do sangue.
+Entre os modelos de cadeira, prefira os giratórios _para ganhar mobilidade_ que tenham cinco pontos de apoio no chão (para maior estabilidade). Assentos acolchoados, de raio amplo e com bordas arredondadas são os mais confortáveis.
+O apoio de braço só é aconselhável se for regulável na altura. Do contrário, acabará esbarrando no tampo da mesa, fazendo com que o usuário fique mais afastado do que deveria.
+A mesa também deve ter altura regulável. Nas mesas fixas, as pessoas de menor estatura têm de elevar o assento da cadeira a tal ponto que não conseguem apoiar os pés inteiros no chão. Acabam recorrendo a apoios para os pés, que restringem a área onde se pode pisar e, por isso, podem causar desconforto.
+A superfície do tampo deve ser suficiente para apoiar os braços inteiros, até os cotovelos, sobre a mesa. Os móveis que possuem prateleira deslizante para o teclado são desaconselháveis. Eles não oferecem espaço para apoiar os braços, que ficam "dependurados" no teclado e causam a dobra dos punhos.
+Para que a mão forme um ângulo de 180º com o braço, utilize apoios para punhos na base do mouse e na borda do teclado.
+Como têm maior precisão, os mouses ópticos são preferíveis aos modelos com bolinhas, pois economizam movimentos. O mouse deve ficar no mesmo nível do teclado.
+Se você consulta papéis enquanto usa o micro, procure deixá-los perto do monitor para evitar intensa solicitação dos ombros e da nuca. Pranchas com presilhas dispostas verticalmente podem ajudar nesta tarefa. Usar uma luminária é recomendável.
+(MB)

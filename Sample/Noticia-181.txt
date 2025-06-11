@@ -1,0 +1,23 @@
+Ressonância magnética diz se fruta é doce 20/8/2005
+Autor: REINALDO JOSÉ LOPES
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: Especial A-7
+Edição: São Paulo Aug 20, 2005
+Observações: CIÊNCIA 2; COM SUB-RETRANCA
+Vinheta/Chapéu: TECNOLOGIA
+Assuntos Principais: TECNOLOGIA; RESSONÂNCIA MAGNÉTICA; AGRICULTURA; EMBRAPA /EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA/; PESQUISA CIENTÍFICA; ESTUDO; AÇÚCAR
+Aparelho da Embrapa poderia criar 'linha de montagem' para certificar qualidade de vegetais, grãos e carnes
+Ressonância magnética diz se fruta é doce
+REINALDO JOSÉ LOPES
+DA REPORTAGEM LOCAL
+A mesma tecnologia que ajuda a enxergar detalhes do funcionamento do cérebro e de outros órgãos poderá revelar dados mais prosaicos, mas não menos importantes, em especial para o bolso: a quantidade de açúcar numa fruta ou a de óleo numa semente. Essas estão entre as capacidades de um protótipo criado por pesquisadores da Embrapa (Empresa Brasileira de Pesquisa Agropecuária).
+O aparelho, que pode decretar o fim do achismo na hora de avaliar a qualidade dos produtos agrícolas, tira partido da ressonância magnética nuclear (RMN), o mesmo fenômeno que serve de base para algumas das formas mais avançadas de tomografia. "Ele ajudaria a resolver um problema sério nas lavouras de exportação", afirmou à Folha o bioquímico Luiz Alberto Colnago, da Embrapa Instrumentação Agropecuária, em São Carlos (SP)
+"Para alguns produtos, como o melão, as pessoas acabam chutando muito. Mesmo um sujeito que trabalha todo dia com o produto não consegue afirmar com certeza se ele está realmente doce", afirma o pesquisador. Utilizar as propriedades da RMN para fazer avaliações desse gênero não é exatamente uma idéia nova, mas Colnago acredita dispor de um trunfo: ajustando os sistemas existentes, ele e seus colegas conseguiram criar uma forma de análise agrícola on-line.
+Linha de montagem
+Nada a ver com a internet, porém. "As pessoas sempre fazem essa confusão, mas no nosso caso on-line significa de forma contínua, numa esteira", explica Colnago. Seria o sistema ideal para certificar a qualidade de uma grande quantidade de produtos ao mesmo tempo.
+Tal como a ressonância magnética que é usada para investigar o funcionamento do cérebro, a do aparelho da Embrapa tira partido do fato de que o núcleo dos átomos funciona, para todos os efeitos, como um pequeno ímã (veja quadro abaixo). Ao aplicar um campo magnético poderoso sobre o material que se quer estudar, zilhões de pequenas agulhas de bússola respondem. Há diferenças sutis nessa reação, dependendo do tipo de núcleo atômico que compõe o objeto.
+"Na verdade, o que o nosso sistema mede é o tamanho das moléculas", e, portanto, a composição química da fruta, afirma Colnago. Tal medição é feita indiretamente: quanto menor a molécula, mais "agitada" ela é, e é esse processo que o aparelho de RMN consegue captar. Segundo o bioquímico, é possível calibrar o aparelho para que ele mire a quantidade de açúcar numa fruta, o teor de álcool num vinho ou o de gordura em sementes de amendoim ou carnes e embutidos.
+"Não creio que seja possível discriminar quantidades muito sutis de açúcar, por exemplo, mas certamente daria para separar as frutas em muito doce, medianamente doce e pouco doce."
+O protótipo todo pesa cerca de 25 kg, com um ímã do tamanho de um monitor de computador. Para torná-lo disponível para uso comercial, ainda é preciso acoplá-la à esteira, bem como automatizar a transmissão dos dados da ressonância para o computador que os analisa e dá o veredicto sobre o teor das substâncias.
+Uma vez que o design do aparelho permite a análise praticamente contínua, e não em "instantâneos", como a RMN convencional, Colnago vê aplicações além da agropecuária para o sistema.
+Com resolução de poucos milésimos de segundo, o aparelho consegue "enxergar" alterações sutis no fluxo de líquido dentro de um cano, por exemplo. Por isso, poderia se tornar um aliado na hora de avaliar possíveis impurezas num aparelho de hemodiálise (questão de vida ou morte para os doentes que o usam) ou nos tubos de uma refinaria de petróleo.

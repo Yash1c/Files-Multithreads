@@ -1,0 +1,22 @@
+Nascida na universidade, rede brasileira ganha as ruas 25/5/2005
+Autor: MARIANA BARROS
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: CADERNO ESPECIAL Página: Especial-2
+Edição: São Paulo May 25, 2005
+Observações: 10 ANOS DE INTERNET COMERCIAL NO BRASIL; COM SUB-RETRANCAS
+Vinheta/Chapéu: HISTÓRIA
+Assuntos Principais: INTERNET COMERCIAL; BRASIL; HISTÓRICO; HISTÓRIA
+Nascida na universidade, rede brasileira ganha as ruas 
+MARIANA BARROS 
+COLABORAÇÃO PARA A FOLHA
+ A internet é global, mas desde que chegou por aqui foi marcada pelo chamado "jeitinho brasileiro". A rede, que já teve caráter militar, na década de 60, e acadêmico, nas décadas de 70 e de 80, conquistou o mundo na década de 90, quando surgiu a internet comercial. Os brasileiros logo aproveitaram a novidade, que este mês comemora uma década.
+"A internet brasileira é rica em conteúdo nacional", diz Demi Getschko, consultor do Comitê Gestor da Internet no Brasil (www.cg.org.br). "Tivemos participação imediata dos órgãos de mídia, como provedores e fornecedores de conteúdo, o que levou ao crescimento do conteúdo em português e à popularização do registro .br", explica Getschko.
+As primeiras redes brasileiras se desenvolveram no meio acadêmico, mas não havia um protocolo que as unificasse, como veio a acontecer com a chegada do TCP/IP _conjunto de regras que permitiu a comunicação global. "Era preciso realizar truques para mandar e-mails. A feitiçaria era parte do negócio", lembra Alexandre Grojsgold, diretor de operações da Rede Nacional de Pesquisas (RNP, www.rnp.br).
+Foi o Instituto Brasileiro de Análises Sócio-Econômicas (Ibase, www.ibase.org.br) que abriu a rede ao cidadão comum. Em 1989, foi criada a Alternex, com correio eletrônico e grupos de discussão. "Duas ligações diárias de DDI transmitiam a informação compactada", diz Carlos Afonso, responsável pela iniciativa.
+A rede foi mais bem organizada em 1992, por conta da ECO-92, no Rio de Janeiro. Universidades e organizações montaram uma estrutura capaz de informar ao mundo o que ocorria no evento.
+Em 1995, surgiu a internet comercial. "No Brasil os pequenos provedores eram sufocados pela Embratel, que, apesar de não ter dado importância para a rede nos primeiros anos, tinha agora pretensões de monopolizar o serviço", conta Antonio Tavares, presidente da Associação Brasileira dos Provedores de Acesso (Abranet, www.abranet.org).
+Foi a portaria 004/95 do Ministério das Comunicações que permitiu a competição. Empresas de telefonia ficaram proibidas de fornecer o serviço ao usuário final, podendo fazê-lo apenas aos provedores. Foi criado também o Comitê Gestor da Internet no Brasil, que gerencia o registro .br.
+Estima-se que em 1995 já houvesse 20 provedores e 120 mil usuários. "Logo, a internet foi capa das revistas 'Time', 'Veja' e 'IstoÉ', tema de novela, de música do Gilberto Gil, enfim, uma esculhambação", brinca Alexandre Grojsgold, da RNP.
+Universidades como a USP tornaram-se referência. "Éramos a maior central de profissionais da web, todos com 19 anos", conta o professor do Laboratório de Sistemas Integráveis da USP (www.lsi. usp.br), Marcelo Zuffo. O computador de Zuffo se tornou, de improviso, o primeiro servidor da USP, em 1993. Apelidado de Jaguar, tinha oito processadores de 40 MHz. "Funciona até hoje", garante o professor, que ainda nos anos 80 foi chamado pela reitoria para explicar uma conta telefônica no valor de US$ 10 mil _gasta em discagens para conexão.
+Outro pioneiro foi o jornalista Sérgio Charlab, responsável por uma das primeiras versões on-line de um jornal brasileiro, o "Jornal do Brasil" (www.jb.com.br). "A diretoria me achava um professor Pardal", diz, referindo-se ao personagem inventor. Ele escaneava reportagens publicadas, colocava-as na internet e mostrava aos autores. "Quando o site oficial estreou, o meu já estava no ar há seis meses", conta Charlab. "Meu lema era como o slogan da Nike: 'Just do it' (em versão livre, 'simplesmente aja')", diz.
+Apesar do início quixotesco, a internet brasileira cresceu e conquistou o público _no final do ano passado, 31,9 milhões de brasileiros tinham acesso à rede, segundo o Ibope/NetRatings. "Houve investimentos e captação de profissionais de várias áreas", diz Alexandre Barreto, diretor do iBest, que premia anualmente os melhores sites nacionais.

@@ -1,0 +1,24 @@
+Sistema leva troca de músicas a carros 8/6/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F7
+Edição: São Paulo Jun 8, 2005
+Legenda Foto: Tela do Roadcasting.org, que mostra soft de transmissão
+Crédito Foto: Reprodução
+Vinheta/Chapéu: ENTRETENIMENTO
+Assuntos Principais: INFORMÁTICA; EUA; JOVEM; ESTUDANTE; ROADCASTING /PROGRAMA/; VEÍCULO; AUTOMÓVEL; DOWNLOAD; TRANSMISSÃO; ARQUIVO
+Estudantes dos EUA criam rede para veículos
+Sistema leva troca de músicas a carros
+COLABORAÇÃO PARA A FOLHA
+Estudantes norte-americanos estão desenvolvendo um sistema para transmitir arquivos digitais, inclusive músicas, entre carros que estejam circulando próximos uns dos outros. Eles tentam levar para a estrada a mania de criar shows de rádio caseiros para PCs ou toca-MP3, o podcasting.
+Apelidaram seu projeto de Roadcasting (roadcasting.org) e já realizaram testes usando tecnologia sem fio para que o sistema enviasse e recebesse arquivos de música digital por meio de streaming (download instantâneo) entre veículos.
+Pelo projeto, o motorista poderá ouvir em seu carro os mesmos arquivos digitais que estiverem sendo tocados no carro ao lado _desde que tenha no veículo um sistema para tocar arquivos MP3 compatível com o transmissor.
+Outras vantagens prometidas pelo sistema seriam a eliminação de intervalos comerciais e de comentários e interrupções feitas por apresentadores.
+No site oficial do projeto, os estudantes norte-americanos afirmam que uma grande fabricante de automóveis apoiou as pesquisas e que 2010 é o ano previsto para a tecnologia ser lançada comercialmente.
+Problemas de regulamentação para as transmissões, no entanto, podem impedir uma adoção ampla do Roadcasting.
+Nos EUA, a associação que representa a indústria fonográfica (www.riaa.com) trava uma luta nos tribunais para proibir a troca de arquivos de música digital pela internet. E o Roadcast pode entrar na dança, pois funciona de forma parecida com os programas de troca de arquivos, em que cada usuário é capaz de transmitir e receber dados sem intermediários.
+Em entrevista à revista "Wired" (www.wired.com), um dos criadores do Roadcasting afirmou que não acredita que sua tecnologia seja uma maneira de fazer pirataria sonora. "Não há razão para isso ser ilegal. Você está transmitindo as suas próprias músicas", disse Mathilde Pignol.
+Guia alternativo
+Inspirados pela onda do podcast, o professor David Gilbert e seus alunos criaram um guia sonoro alternativo para o Museu de Arte Moderna de Nova York.
+Em vez de análises teóricas das obras do guia oficial em áudio do museu, que é vendido por US$ 5, o programa de Gilbert faz piadas com os quadros, critica os artistas e pode ser baixado gratuitamente. Para conferir o resultado, acesse o site Art Mobs (mod.blogs.com/art_mobs). 
+(JB)

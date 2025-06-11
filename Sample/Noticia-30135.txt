@@ -1,0 +1,26 @@
+Automóvel corrige falhas dos motoristas 11/5/2005
+Autor: FERNANDO BADÔ
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo May 11, 2005
+Legenda Foto: Visão noturna do motorista sem (acima) e com o auxílio do sistema antiatropelamento da Honda
+Crédito Foto: Divulgação
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: CARRO DIGITAL
+Assuntos Principais: TECNOLOGIA; INDÚSTRIA AUTOMOBILÍSTICA; AUTOMÓVEL INTELIGENTE; RECURSO; SEGURANÇA; ACIDENTE
+Sistemas melhoram visão do motorista em condições adversas e previnem acidentes causados por distração
+Automóvel corrige falhas dos motoristas
+DA REPORTAGEM LOCAL
+Uma parte considerável das principais inovações para automóveis são ligadas à segurança. São tecnologias que visam diminuir riscos de acidentes.
+A Honda (www.honda.com) e a General Motors (www.gm.com) têm sistemas antiatropelamento. No da montadora japonesa, um pequeno monitor é instalado sobre o console do veículo. Ele mostra imagens captadas por duas pequenas câmeras, instaladas na parte da frente do carro, que captam radiações infravermelhas. Não é uma imagem de cinema, mas dá para ver o pedestre caminhando ao lado da rodovia.
+Também é calculado o risco de uma colisão. Se o resultado da análise for positivo, o motorista receberá um alerta.
+O sistema da GM é parecido. Um monitor LCD, colocado em frente ao volante, simula a vista do motorista, mas exibe o que ele não vê devido à escuridão.
+Como forma de prevenção contra colisões em traseiras dos automóveis que vão à frente, a Mercedes-Benz (www.mercedes-benz.com) tem o Pre-Safe, um sistema de radares que mantém o carro a uma distância segura.
+Segundo a montadora alemã, seus engenheiros demostraram que o risco de colisões é reduzido em até 75%.
+O sistema ainda detecta possíveis colisões até cinco segundos antes do tempo em que o motorista detectaria. Quando isso ocorre, sensores elétricos aumentam a tensão do cinto de segurança e colocam os bancos na posição vertical o máximo possível.
+Diminua a velocidade
+Desde março passado, motoristas australianos contam com um sistema de assistência desenvolvido pela Intelematics (www.intelematics.com.au).
+Entre as diversas funções _que incluem detectores de ladrões, conexão por voz que proporciona maior interatividade com o carro_, há um recurso para diminuir a distração ao volante.
+O assistente possui três câmeras que monitoram a pista, o próprio motorista e o ângulo de visão que ele tem. Ele identifica placas de trânsito e confere se o motorista está seguindo as regras, como a velocidade máxima permitida. Se não estiver, surge na tela o comando: "Diminua a velocidade".
+No futuro, há chance de o motorista ficar livre para dormir durante as viagens. Estradas com sensores que guiam o carro foram testadas com sucesso nos EUA e na Europa. Como resultado, carros no piloto automático passaram de 100 km/h e mantiveram distâncias de cerca de sete metros uns dos outros.
+(FERNANDO BADÔ)

@@ -1,0 +1,19 @@
+Grupo concebe átomo 'mágico' de silício 18/6/2005
+Autor: SALVADOR NOGUEIRA
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A6
+Edição: São Paulo Jun 18, 2005
+Vinheta/Chapéu: FÍSICA
+Assuntos Principais: FÍSICA; PESQUISA CIENTÍFICA; ESTUDO; ÁTOMO; SILÍCIO; ESTABILIDADE; JOEL FRIDMANN
+Estudo feito nos Estados Unidos irá ajudar a entender como as estrelas fabricam os elementos mais pesados do cosmos
+Grupo concebe átomo 'mágico' de silício
+SALVADOR NOGUEIRA
+DA REPORTAGEM LOCAL
+Um grupo de cientistas americanos anunciou sucesso na fabricação de um átomo "mágico" de silício. Não, ele não pode desaparecer ou ser serrado ao meio e depois reunido. Também não é um produto licenciado da franquia milionária "Harry Potter". Seu truque, na verdade, é apenas um: ele consegue ser estável, mesmo tendo duas vezes mais nêutrons do que prótons em seu núcleo.
+Como uma olhada rápida na tabela periódica dos elementos pode confirmar, o núcleo dos átomos costuma ser dividido irmamente entre prótons e nêutrons. A versão mais comum do oxigênio, por exemplo, contém oito prótons e oito nêutrons em seu interior. O carbono, seis e seis. E por aí vai. Quando há uma diferença entre a quantidade dessas duas peças elementares, ela não costuma passar de um ou dois, para mais ou para menos. Claro, quanto maior o átomo, maior a diferença possível. Mas, se, por alguma razão, ela fica grande demais, o átomo se torna instável, e logo "cospe" as peças indesejadas.
+Essa é a regra geral, que costuma ser razoavelmente bem explicada pela teoria da estrutura das camadas do núcleo atômico que deu à americana Maria Goeppert-Mayer (1906-1972) um dos poucos prêmios Nobel em Física concedidos a uma mulher, em 1963. Mas a teoria também sugere a existência de algumas configurações "mágicas", em que é possível entulhar muito mais nêutrons do que prótons e ainda assim obter um núcleo razoavelmente estável.
+Foi uma dessas configurações que o grupo encabeçado por Joel Fridmann, da Universidade Estadual da Flórida, atingiu. Para obter esse núcleo atômico "obeso", eles conceberam uma estratégia singular: dispararam núcleos de cálcio ricos em nêutrons num alvo de berílio. Dos choques, eles coletaram núcleos de enxofre, que voltaram a dirigir para um alvo de berílio. O resultado final foi um átomo de silício com 14 prótons e 28 nêutrons. Na natureza, os núcleos estáveis de silício têm 14, 15 ou 16 nêutrons, mas não mais.
+Se por um lado o experimento não surpreende tanto (números de prótons ou nêutrons equivalentes a 2, 8, 20, 28, 50 e 82 já eram considerados teoricamente "mágicos"), por outro a produção desses átomos de silício vai permitir estudos minuciosos de como os núcleos se configuram.
+"Para fornecer uma descrição satisfatória de todos os núcleos, o desafio continua sendo o de entender que mecanismos causam as mudanças na estrutura de camadas do núcleo conforme o número de prótons e nêutrons muda", argumenta Robert Janssens, do Laboratório Nacional de Argonne, EUA, que comentou o estudo de Fridmann na mesma edição da revista "Nature" (www.nature.com) em que foi publicado.
+Mas para que serve entender em minúcias configurações atômicas tão incomuns? Janssens responde. "A razão é porque a natureza não negocia só com núcleos estáveis: processos como as reações nucleares nas estrelas muitas vezes envolvem núcleos exóticos bem distantes das configurações estáveis, especialmente os processos de nucleossíntese [criação de núcleos] em explosões estelares que produzem núcleos mais pesados que o carbono e o oxigênio."
+Ou seja, para produzir, por exemplo, a prata e o ouro que se vêem na Terra hoje, as estrelas que os forjaram já tiveram um dia que lidar com uma quantidade apreciável de núcleos "mágicos". O famoso toque de Midas não parece estar tão fora de moda, afinal.

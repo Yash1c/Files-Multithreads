@@ -1,0 +1,25 @@
+Bug bloqueia zoom em câmera da Casio 27/7/2005
+Autor: ROBINSON N. DOS SANTOS
+Origem do texto: COLABORAÇAO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jul 27, 2005
+Legenda Foto: Visor e resolução são pontos fortes do modelo, cujas fotos podem ter tamanhos de até 30x40 cm
+Crédito Foto: Divulgação
+Vinheta/Chapéu: AVALIAÇÃO
+Assuntos Principais: FOTOGRAFIA DIGITAL; CASIO EXILIM EX-Z750 /CÂMERA DIGITAL/; LANÇAMENTO; TESTE; DESEMPENHO; RESOLUÇÃO; ARMAZENAMENTO; MEMÓRIA; RECURSO; POLÊMICA; DEFEITO
+Exilim EX-Z750 é fácil de operar, mas memória interna só consegue guardar duas fotos na resolução máxima
+Bug bloqueia zoom em câmera da Casio
+ROBINSON N. DOS SANTOS
+COLABORAÇAO PARA A FOLHA
+Com a Exilim EX-Z750, lançada neste mês pela Casio, o fotógrafo amador pode obter facilmente imagens profissionais. Mas a câmera apresentou um defeito _ ou bug, no jargão da informática _ que é motivo de preocupação em pelo menos dois fóruns sobre fotografia digital na internet.
+O bug ocorre quando algo bloqueia o avanço da lente telescópica. A tela mostra a mensagem "lens error" e a câmera se desliga. Depois disso, qualquer tentativa de aumentar o zoom ao máximo causará a mensagem e o desligamento do aparelho.
+A falha foi encontrada acidentalmente, quando, ao ligar a câmera, um dedo ficou na frente da lente. Para resolver o problema, foi só bloquear a lente de novo. A câmera se ajustou sozinha.
+A Eletrônicos Prince, que representa a Casio no país, reconhece o defeito, mas ressalta que "não é normal" que aconteça. A empresa recomenda que, na ocorrência do problema, a câmera seja enviada à assistência técnica, para atualização do software interno.
+O zoom da EX-Z750 não é tão potente (3x óptico), mas é compensado pela resolução de 7,2 Mpixels (3.072 x 2.304 pontos). Fotos desse tamanho podem ser impressas em papel A3 (30x40 cm) sem perder qualidade.
+A câmera não vem com cartão de memória. A memória interna tem 8,3 Mbytes, suficientes para duas fotos na resolução máxima. É aconselhável comprar pelo menos 256 Mbytes de memória (a EX-Z750 aceita cartões SD).
+A câmera permite vários ajustes manuais. A sensibilidade ISO varia de 50 a 400, o que permite boas fotos mesmo com pouca luz. A EX-Z750 também captura vídeo com áudio, com resolução VGA e formato MPEG-4.
+Mas o que ajuda o amador são os Best shots _ coleção de ajustes automáticos. Há Best shots para cenas noturnas, captura de texto, pôr-do-sol, fotos de cachoeira e de esportes. São 30, no total.
+Outro recurso curioso é o modo Multicontínuo, que tira 25 fotos em seqüência num só disparo.
+O fotógrafo pode gravar uma descrição em áudio para cada foto. A câmera também funciona como um gravador de voz. O som é gravado no formato WAV, com baixa qualidade.
+Operar a EX-Z750 é muito fácil. Os menus, em português, ajustam-se bem na tela de 2,5 polegadas (6,3 cm) de diâmetro. Ela também é rápida. Entre apertar o "on" e bater a primeira foto, só é preciso esperar alguns segundos.
+A câmera vem com bateria recarregável, base, cabo USB, fonte de alimentação e cabo para TV. Todos os cabos ligam-se à base, o que a torna um item a mais para levar em viagens. Seu preço (sugestão) é R$ 3.660. A Casio atende pelos telefones 0/xx/11/3112-9000 (em São Paulo) e 0800-702-2746 (em outras cidades).

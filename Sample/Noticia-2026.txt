@@ -1,0 +1,9 @@
+Máquina interpreta frases e cria expressões faciais 21/9/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F8
+Edição: São Paulo Sep 21, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: AMIGO FIEL 3
+Assuntos Principais: TECNOLOGIA; ROBÓTICA; KANSEI /ROBÔ/; INTERNET; PROTÓTIPO; SIMULADOR
+Máquina interpreta frases e cria expressões faciais
+O protótipo japonês Kansei tem um banco de dados com 430 mil palavras e um rosto de borracha controlado por motores. A máquina analisa as frases, obtidas na internet, e sorri ou chora de acordo com o resultado. Vídeo: dsc.discovery.com/news/briefs/20050829/roboemote.html.

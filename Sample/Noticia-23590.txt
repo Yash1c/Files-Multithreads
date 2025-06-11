@@ -1,0 +1,22 @@
+Empresa lança antivírus para celulares 14/9/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Sep 14, 2005
+Legenda Foto: Site da F-Secure, onde pode ser adquirido o soft de proteção
+Crédito Foto: Reprodução
+Vinheta/Chapéu: SEGURANÇA
+Assuntos Principais: TELEFONIA MÓVEL; INTERNET; TELEFONE CELULAR; BLUETOOTH /TECNOLOGIA/; SEGURANÇA; VÍRUS; F-SECURE /EMPRESA/; PROGRAMA; SOFTWARE; ANTIVÍRUS; LANÇAMENTO; COMPATIBILIDADE; MP3; CREATIVE /EMPRESA/; TOCADOR
+As pragas, comuns em smartphones, se espalham por Bluetooth; tocador de MP3 também foi contaminado
+Empresa lança antivírus para celulares
+MARIANA BARROS
+DA REPORTAGEM LOCAL
+Depois dos PCs, é hora de celulares se protegerem com programas antivírus.
+A empresa de segurança F-Secure (www.f-secure.com) desenvolveu um software capaz de anular a propagação de vírus, como o Cabir ou o Commwarrior, que se espalham via Bluetooth. Diferentemente da conexão infravermelha, a Bluetooth não requer que os aparelhos estejam alinhados e ainda é mais difundida do que a conexão do padrão Wi-Fi.
+Os telefones com Bluetooth seriam capazes de atingir raios entre dez e cem metros e estariam vulneráveis a ataques como realizar chamadas não autorizadas, permitir cópias de dados salvos no portátil e até servir como ponte de acesso a redes sem fio.
+Os ataques são mais comuns em smartphones, dos quais a maioria usa sistema operacional Symbian. Calcula-se que 10% deles sejam capazes de espalhar algum tipo de praga, o que já ocorreu em eventos de grande porte como a edição alemã do concerto musical Live8 e o encontro mundial da Associação Internacional de Federações de Atletismo, na Finlândia.
+A F-Secure registrou, em agosto, uma infecção em massa dentro de uma empresa, cujo nome não foi revelado. O ataque teria sido causado por uma variante do Commwarrior, atingindo mais de vinte celulares via Bluetooth e por mensagens de texto do tipo SMS.
+Segundo especialistas, os vírus de celular não se propagam automaticamente, como ocorre no PC, pois demandam algum grau de interação do usuário. Por outro lado, a crescente incorporação de novos recursos e o aumento do número de smartphones podem agravar tais epidemias.
+Em março deste ano, outra companhia de segurança, a Symantec (www.symantec.com), já havia criado um antivírus para celulares, que rodava em telefones da Nokia. Até o momento, o software da F-Secure, disponível em www.f-secure.com/estore/avmobile.shtml, é compatível com modelos da Nokia e da Siemens. A assinatura anual é de US$ 34,95 e pode ser adquirida on-line, desde que paga em moeda estrangeira.
+MP3
+Nem mesmo os toca-MP3 estão a salvo das pragas. Acidentalmente, a Creative (www.creative.com) liberou, no Japão, quase 4.000 unidades de seu tocador Zen Neeon, de 5 Gbytes, infectadas com o vírus Wullik.B. A praga, que já tem quase dois anos de existência, costuma se espalhar por e-mail ou por conexões de rede. Mas é necessário que o usuário abra o arquivo que contém o vírus para que a infecção ocorra. No caso do Neeon, o verme estava armazenado em um item do sistema de arquivos. Devido ao incidente, a Creative está fazendo um recall dos aparelhos e suspendeu sua distribuição.

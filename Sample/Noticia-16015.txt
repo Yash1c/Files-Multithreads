@@ -1,0 +1,22 @@
+Buscador local do MSN está em português 29/6/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jun 29, 2005
+Legenda Foto: Tela mostra lista de arquivos resultante de busca feita no micro
+Crédito Foto: Reprodução
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: PESQUISA
+Assuntos Principais: INTERNET; PESQUISA; MICROSOFT /EMPRESA/; WINDOWS DESKTOP SEARCH /SOFTWARE/; PROGRAMA; BUSCADOR; DISCO RÍGIDO; DOWNLOAD; DESEMPENHO; LÍNGUA PORTUGUESA; MSN MESSENGER /SOFTWARE/; COMUNICADOR PESSOAL; INSTALAÇÃO
+Serviço da Microsoft acaba de receber tradução; indexação permite procurar no disco rígido textos, e-mails e fotos
+Buscador local do MSN está em português
+MARIANA BARROS
+DA REPORTAGEM LOCAL
+A Microsoft deu mais um passo na guerra dos buscadores e lançou, na semana passada, a Barra do MSN Buscas equipada com Windows Desktop Search, em português (desktop.msn.com.br). O aplicativo já estava disponível nos EUA (em versão beta desde dezembro e em versão oficial desde maio). Compatível com Windows, ele é grátis e permite buscar por arquivos salvos no PC, como fotos, e-mails, anexos de mensagens do programa de correio Outlook e conversas do comunicador MSN Messenger.
+Ele funciona como um grande índice, no qual os arquivos do micro são, depois de uma primeira indexação, constantemente registrados. A ferramenta procura, dentro dessa listagem, os arquivos que possuam relação com a palavra-chave digitada. Os resultados são exibidos na parte esquerda da janela que se abre. O lado direito é reservado para a visualização dos arquivos, o que pode dispensar o usuário de abri-los.
+A barra pode ser flutuante ou exibida na margem inferior da tela. Um botão permite que a busca seja ampliada para a web ou restrita a certos tipos de arquivos, como músicas. Também é possível usar a barra como um atalho para abrir programas. O usuário pode criar os próprios atalhos ou utilizar comandos prontos (!Word, por exemplo, abre o Word).
+Instalação
+A instalação é simples e rápida, mas é preciso estar atento para selecionar corretamente as suas preferências sobre as áreas que serão indexadas, ou seja, que integrarão o índice de arquivos. Você pode optar pela inclusão de todo o disco rígido ou fazer restrições. Para alterá-las, clique com o botão direito do mouse no ícone da ferramenta (uma lupa) e escolha Opções do Desktop Search.
+Depois da instalação, que ocupa 19,64 Mbytes, é preciso indexar os arquivos, o que leva algum tempo (no teste, foram gastos cerca de 40 minutos para registrar cerca de 8.000 arquivos). A indexação é automática, mas deve ser feita com o PC ocioso. Se algum aplicativo for acionado, ela pára.
+Para indexar os e-mails, porém, é preciso manter o Outlook aberto. Mensagens de todas as pastas, inclusive as que ainda não foram lidas, passam a figurar no índice.
+A barra não está configurada para buscar por alguns programas, como os da Adobe. Para inclui-los, baixe filtros em addins.msn.com.br.

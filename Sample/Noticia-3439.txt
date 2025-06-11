@@ -1,0 +1,20 @@
+Projeto conecta moradores de SP 10/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Aug 10, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; CONEXÃO; REDE ELÉTRICA; TECNOLOGIA; PLC /POWER LINE CONNECTION/
+Projeto conecta moradores de SP
+DA REPORTAGEM LOCAL
+No Brasil, a transmissão de dados via rede elétrica já foi testada por várias empresas de energia, mas o projeto mais recente é da Eletropaulo. No final de julho, começou a ser entregue um conjunto habitacional com 268 apartamentos dotados da tecnologia PLC. A reportagem visitou o projeto, que foi construído para a CDHU _Companhia de Desenvolvimento Habitacional e Urbano, do governo estadual.
+Como os 268 apartamentos do local se destinam a ex-moradores de 31 cortiços (famílias que dificilmente possuem computador próprio), há uma sala de informática com 16 micros doados e antigos _segundo o responsável pelo local, são PCs com chip Pentium 166. Essas máquinas são lentas demais para aproveitar bem uma conexão de banda larga. Testado com um notebook, a PLC se mostrou instantânea: basta ligar um cabo de rede ao adaptador elétrico (leia texto na pág. F3), que funciona em qualquer tomada, para sair navegando na rede.
+A conexão é relativamente lenta _nos testes realizados, a velocidade de transferência de dados ficou entre 150 Kbps e 200 Kbps, equivalente a dos serviços de banda larga mais simples_, mas isso tem uma explicação: na construção da CDHU, o sistema PLC foi conectado a um link de apenas 256 Kbps (fornecido pelo serviço Vírtua, da Net), velocidade que é compartilhada entre todas as máquinas conectadas no conjunto habitacional. Apesar disso, dá para fazer downloads e até assistir a vídeos em streaming.
+A conexão caiu duas vezes durante meia hora de testes, mas esse problema deve ser colocado em perspectiva, pois a fiação do edifício estava sendo terminada durante a avaliação e a reconexão foi relativamente fácil _quando houve interrupções, bastou religar o modem PLC e esperar de 15 a 30 segundos para reestabelecer o tráfego de dados.
+Para avaliar a resistência da conexão a interferências, conectou-se um secador elétrico de 700 W à mesma tomada em que funcionava o modem PLC. A conexão se manteve inalterada.
+Baixa renda
+Mas por que a Eletropaulo instalou o PLC num imóvel em que a maioria dos moradores não tem condições de comprar um micro? Porque o interesse principal nessa tecnologia não é o provimento de acesso à rede: a rede PLC conectada ao conjunto habitacional tem o objetivo de testar a transmissão de dados entre os medidores de consumo de energia elétrica, água e gás. De acordo com a CDHU, a tarifação individual e remota possibilitada pela tecnologia reduziria em até 60% a despesa mensal de cada família com esses três serviços essenciais, e também poderia ser usada para telefonia digital (VoIP) e TV por assinatura.
+Além desse conjunto habitacional, que fica na Mooca (zona leste de São Paulo), existem vários outros projetos-piloto de PLC no Brasil. No Rio, por exemplo, a Light conectou uma escola (leia texto ao lado), e as companhias elétricas de Minas Gerais e Goiás já fizeram experiências do tipo _leia mais em www.eee.ufg.br/cepf/pff/2003/pf2003_11.pdf, que analisa a adoção da tecnologia elétrica e traz até pesquisas de qualidade de conexão com usuários de um dos projetos.
+Segundo a Aneel, agência que regula o mercado de energia elétrica no país, a PLC ajudaria muito na inclusão digital _assunto que é objeto de um processo de regulamentação que deverá estar completado em fevereiro de 2006.
+Um exemplo é o projeto Barreirinhas, que foi instalado na cidade de mesmo nome, no Maranhão, para conectar edifícios públicos e contou com consultoria da Eletropaulo e de empresas pertencentes à Aptel, entidade que reúne empresas de energia e comunicação interessadas na PLC. 
+(BG)

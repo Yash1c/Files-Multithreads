@@ -1,0 +1,16 @@
+Cabo permite ligar micros  via porta USB 3/8/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Aug 3, 2005
+Seção: CANAL ABERTO
+Cabo permite ligar micros via porta USB
+"Gostaria de saber se é possível conectar dois PCs por portas USB. No meu caso, os dois têm portas USB 2.0."
+(Thiago Mattar Araújo)
+Resposta - Sim, é possível realizar essa operação, normalmente feita para transferir arquivos de um computador para o outro.
+O leitor deve apenas tomar cuidado na hora de escolher o cabo USB a ser utilizado. A escolha de um cabo inapropriado pode danificar os micros.
+Para conectá-los usando a porta USB para a troca de arquivos, é necessário usar um dispositivo chamado ponte USB (USB bridge), que também recebe o nome de adaptador USB-USB.
+Esse cabo possui um terminal USB em cada ponta e, no meio, um pequeno módulo, responsável por fazer a equalização da voltagem dos micros. Se você usar um cabo USB sem esse dispositivo, correrá o risco de queimar a fonte de energia dos micros.
+Existem alguns produtos especializados nessa tarefa e que são compostos por um software e por um cabo.
+Um exemplo é o FastLynx 3.3 . No site sewelldirect.com/filetransfer, você encontrará diversas opções oferecidas pelo programa, que também dispõe de cabos seriais e paralelos.
+No site Tucows (www.tucows.com/preview/227506), é possível baixar uma versão de avaliação do programa _isto é, caso se consiga encontrar o cabo em alguma loja aqui no Brasil.
+Essa versão de avaliação tem todas as capacidades oferecidas pela versão paga, mas possui limitações quanto à taxa de velocidade de transmissão.

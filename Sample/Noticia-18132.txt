@@ -1,0 +1,19 @@
+Microsoft apresenta editor de imagens 22/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jun 22, 2005
+Arte: QUADRO: VEJA NOVIDADES DO COREL PAINTER
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: ARTES GRÁFICAS
+Assuntos Principais: ARTES GRÁFICAS; ACRYLIC /SOFTWARE/; MICROSOFT /EMPRESA/; PHOTOSHOP /SOFTWARE/; CONCORRÊNCIA; RECURSO
+Acrylic, que está em desenvolvimento e pode ser experimentado de graça, imita os recursos do Photoshop
+Microsoft apresenta editor de imagens
+DA REPORTAGEM LOCAL
+A Microsoft está oferecendo para testes o Acrylic, um programa de edição gráfica que imita o popular Adobe Photoshop. O Acrylic pode ser baixado gratuitamente (www.microsoft.com/products/expression), mas quem navega via conexão discada precisará de paciência _como o arquivo de instalação tem 77 Mbytes, sua transferência via modem de 56 Kbps leva mais de três horas.
+O programa, que requer um PC com 256 Mbytes de memória RAM, processador de 733 MHz e sistema operacional Windows XP SP2, tem uma interface gráfica bem similar à do Photoshop, com as ferramentas divididas em cinco janelas flutuantes que podem ser movimentadas livremente. A principal delas traz uma ferramenta para eliminação do efeito de "olhos vermelhos" em fotos tiradas com excesso de flash.
+O Acrylic também imita seu rival nos formatos de arquivo. Embora tenha um formato próprio, o programa da Microsoft abre e grava documentos do tipo PSD, padrão do software da Adobe (o Acrylic também aceita JPG, BMP, PNG, TIFF e GIF).
+Outra similaridade entre Acrylic e Photoshop está no sistema de camadas (layers), vital na execução de trabalhos complexos. Há uma boa coleção de filtros _são 48 ao todo_, e o software permite ajustar detalhadamente os níveis de luz e de cor da imagem.
+O Acrylic ainda está em desenvolvimento. Isso fica bem evidente na operação do software, que apresenta lacunas na interface (as janelas flutuantes não podem ser reduzidas) e travou algumas vezes durante os testes.
+De modo geral, o programa da Microsoft é bem inferior ao da Adobe e também perde para o Gimp (www.gimp.org), espécie de clone do Photoshop.
+(BG)

@@ -1,0 +1,52 @@
+PRINCIPAIS TECNOLOGIAS PARA NAVEGAR NA REDE 10/8/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Aug 10, 2005
+Arte: QUADRO: PRINCIPAIS TECNOLOGIAS PARA NAVEGAR NA REDE
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; CONEXÃO; TECNOLOGIA
+PRINCIPAIS TECNOLOGIAS PARA NAVEGAR NA REDE
+ADSL
+- Como funciona: transmite informações usando capacidade ociosa da linha telefônica, sem interferir nas chamadas de voz 
+- Pró: menos sujeito a congestionamentos de rede 
+- Contra: é preciso estar a no máximo 4 km de uma central da companhia telefônica para que o sistema funcione corretamente; velocidade de upload é menor que a de download 
+- Mensalidade*: a partir de R$ 39,90 
+- Velocidade: de 150 Kbps a 2 Mbps 
+- Exemplo: Speedy (www.speedy.com.br) 
+Rede celular
+- Como funciona: usa a tecnologia EV-DO para trafegar dados pela rede de telefonia celular CDMA
+- Pró: o modem é portátil
+- Contra: relativamente lento e caro; bateria do modem tem baixa autonomia
+- Velocidade: de 200 a 400 Kbps (a operadora Vivojá instalou uma conexão de 2,4 Mbps, mas sua cobertura é limitada)
+- Mensalidade**: a partir de R$ 69,90
+- Exemplo: Giro (www.giro.com.br)
+Cable modem
+- Como funciona: os dados passam pela rede que distribui os sinais de TV a cabo permite a mesma velocidade de upload e download (dependendo do plano de acesso escolhido pelo usuário)
+Contra: em alguns casos, é preciso adquirir também um plano de TV por assinatura para que a conexão de dados esteja disponível
+Mensalidade*: a partir de R$ 39,90
+Velocidade: de 150 a 2.100 Kbps
+Exemplos: Vírtua (www.virtua.com.br), Ajato (www.ajato.com.br)
+Satélite
+Como funciona: por meio de uma
+miniparabólica
+Pró: pode ser a única opção em áreas rurais ou locais ermos
+Contra: bem mais caro que os demais serviços; latência no envio de dados prejudica atividades interativas como games on-line
+Velocidade: de 200 a 600 Kbps
+Mensalidade*: a partir de R$ 359
+Exemplo: StarOne
+(www.starone.com.br)
+Wi-Fi
+Como funciona: serve para navegar sem fios usando um notebook em locais públicos
+Pró: versatilidade
+Contra: como a capacidade do link é compatilhada entre todos os usuários, a
+velocidade é menor; maioria das redes não usa codificação de dados, o que pode
+comprometer a segurança
+Exemplos: Speedy Wi-Fi
+(www.speedywifi.com.br), WiFiG (wifig.ig.com.br)<BR>
+Rádio
+Como funciona: uma antena é instalada no prédio e o link é compartilhado entre todos os moradores
+Pró: costuma ser mais barata, pois dispensa provedor de acesso e utilização de modem específico
+Contra: não pode haver obstáculos entre o prédio do usuário e a antena da companhia, e vários condôminos precisam aderir para que o sistema seja instalado
+Mensalidade: a partir de R$ 42
+Velocidade: 150 Kbps a 1 Mbps
+Exemplo: IP2 (www.ip2.com.br)

@@ -1,0 +1,19 @@
+O salto duplo twist carpado 16/8/2005
+Autor: TARSO PAULO RODRIGUES
+Origem do texto: ESPECIAL PARA A FOLHA
+Editoria: FOVEST Página: Especial-4
+Edição: São Paulo Aug 16, 2005
+Seção: VALE A PENA SABER
+Arte: GRÁFICO
+Observações: PÉ BIOGRÁFICO
+Vinheta/Chapéu: FÍSICA
+Assuntos Principais: EDUCAÇÃO; VESTIBULAR; FÍSICA /MATÉRIA/
+O salto duplo twist carpado
+TARSO PAULO RODRIGUES
+ESPECIAL PARA A FOLHA
+A interdisciplinaridade entre a física e os esportes tem sido recorrente nos exames. Uma das questões do vestibular Unicamp 2005 explorava os aspectos cinemáticos do salto em que a ginasta Daiane dos Santos foi consagrada.
+O belo salto duplo twist carpado foi analisado no Centro Olímpico de Curitiba, onde foram utilizados sensores e filmagens que permitiram reproduzir a trajetória do centro de gravidade de Daiane na direção vertical e cronometrar todo o evento.
+O resultado foi mostrado em um gráfico (figura) que relacionava a altura atingida pelo centro de gravidade da ginasta em função do tempo de duração do salto.
+O enunciado afirmava que a medida da distância horizontal atingida pela ginasta no salto foi de 1,3m e se considerou a aceleração gravitacional g=10m/s2. O exercício solicitava que os candidatos estimassem: a) a altura máxima atingida por Daiane; b) a velocidade média horizontal do salto; c) a velocidade vertical de saída do solo. Da observação do gráfico, podemos concluir que: a) a altura máxima atingida pelo centro de gravidade de Daiane é de aproximadamente 1,55m. O salto da atleta pode ser considerado como resultante de dois movimentos simultâneos: um movimento horizontal uniforme, onde não há aceleração, e um vertical, cuja aceleração é a da gravidade. Assim sendo, a componente horizontal da velocidade da atleta (Vx=S/ t) pode ser calculada por: VX=1,3m/1,1s=1,2m/s (resposta ao item b). Ainda com base no gráfico, o intervalo de tempo para que Daiane atingisse a altura máxima foi de cerca de 0,55s (vértice da parábola). Como o seu movimento vertical está sujeito à aceleração da gravidade, a sua velocidade vertical de saída (V0y=g . tsubida) é V0y=10.0,55=5,5m/s (resposta ao item c).
+A questão não só revela a importância da física no aprimoramento dos esportes mas também incentiva a observação da interdisciplinaridade entre eles.
+Tarso Paulo Rodrigues é professor e coordenador de física do Colégio Augusto Laranja, da Nova Escola e do CPV Vestibulares

@@ -1,0 +1,14 @@
+Toca-MP3 aprimora multimídia 14/9/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Sep 14, 2005
+Assuntos Principais: MÚSICA DIGITAL; MP3; TOCADOR; WINAMP 5.1 /SOFTWARE/; PROGRAMA; LANÇAMENTO; RECURSO; DESEMPENHO; FERRAMENTA
+Toca-MP3 aprimora multimídia
+COLABORAÇÃO PARA A FOLHA
+No final dos anos 90, o programa tocador de música digital Winamp era sinônimo de MP3. Graças à sua simplicidade de uso e leveza _tinha menos de 1 Mbyte e podia ser copiado em um disquete_, o soft se tornou popular.
+Nos últimos anos, com a chegada de concorrentes de peso como o Windows Media Player, da Microsoft, e o iTunes, da Apple, o Winamp perdeu popularidade entre os tocadores de MP3.
+Para tentar recuperar seu público, em sua nova versão, o Winamp 5.1 (grátis, em www.winamp.com/player/free.php) abriu mão da simplicidade e passou a oferecer acesso a vídeos e rádios da internet.
+Por meio de uma janela chamada Media Library, o usuário pode acessar canais de TV e de rádio pela internet e até baixar podcasts (blogs com áudio).
+Para encontrar as diferentes estações, há um buscador inteligente. Os resultados aparecem ao mesmo tempo em que o termo procurado é digitado. Entre o conteúdo, merece destaque a programação da rádio AOL.com, que traz conteúdo semelhante ao da emissora digital XM. 
+(JB)

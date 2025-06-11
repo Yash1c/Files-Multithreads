@@ -1,0 +1,27 @@
+Notebook compacto tem boa autonomia 22/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 22, 2005
+Legenda Foto: Latitude, que mede 28,5x20x2 cm e tem processador de 1,1 GHz e 512 Mbytes de memória RAM
+Crédito Foto: Divulgação
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: AVALIAÇÃO
+Assuntos Principais: TECNOLOGIA; LATITUDE X1 /NOTEBOOK/; DELL /EMPRESA/; RECURSO; DESEMPENHO; CARACTERÍSTICA
+Latitude X1 tem aproximadamente um terço do peso de um portátil convencional; baterias agüentam seis horas e meia
+Notebook compacto tem boa autonomia
+BRUNO GARATTONI
+DA REPORTAGEM LOCAL
+A reportagem testou em primeira mão o Dell Latitude X1, que acaba de ser lançado e é o menor notebook do mercado nacional. A diferença entre o X1 e um laptop convencional realmente impressiona: medindo 28,5x20x2 cm, ele tem mais ou menos o tamanho de uma revista, e pesa apenas 1,14 kg.
+É muito menos que os notebooks comuns, que têm em média 3 kg. Apesar disso, o X1 possui tela de 12 polegadas com resolução de 1.280x768 pontos e configuração respeitável: 512 Mbytes de memória RAM e antena Wi-Fi compatível com os padrões 802.11b (o mais usado) e 802.11g (ideal para transferir vídeos e arquivos grandes).
+O processador parece lento _é um Pentium M de apenas 1,1 GHz_, mas se mostrou perfeitamente adequado para tarefas simples, como navegação na rede e edição de textos, e não chegou a comprometer trabalhos mais exigentes, como edição de fotos.
+A autonomia do notebook impressiona. Ele vem com duas baterias, que atingiram 175 minutos e 225 minutos durante os testes realizados (com brilho da tela no nível máximo, conexão Wi-Fi ativa e disco rígido permanentemente ligado). A bateria de alta capacidade é maior que a padrão, mas a diferença é pequena _2 cm de profundidade a mais.
+Levando consigo as duas baterias carregadas, o usuário pode usar a máquina por seis horas e meia. Com a antena Wi-Fi desligada, a autonomia é ainda maior.
+O tamanho do carregador é outra surpresa agradável: ele lembra um carregador de celular, ou seja, é bem menor que os "tijolos" tipicamente fornecidos com notebooks. Segundo a Dell, a recarga de cada bateria leva apenas uma hora. Nos testes, a bateria de alta capacidade demorou 85 minutos para chegar a 80% de carga.
+Limitações
+A pequenez do X1 reduz sua versatilidade. A máquina não tem drive óptico nem entrada para placas PCMCIA e oferece apenas uma porta USB. Isso significa que, em muitos casos, o usuário será forçado a carregar um hub (multiplicador de portas) USB.
+O X1 é fornecido com um adaptador para drives ópticos, mas eles são vendidos à parte pela Dell. O portátil pode ser usado em apresentações, pois tem saída VGA para conexão a um projetor, e também possui antena Bluetooth para se comunicar com um telefone celular.
+O notebook aceita cartões de memória _dos tipos CompactFlash e Secure Digital_ e tem conector FireWire, o que facilita bastante o uso de câmeras e filmadoras digitais. Como o plugue FireWire é de quatro pinos, é preciso adquirir um cabo especial ou um adaptador em lojas de informática. Além disso, embora seja possível usar o X1 para editar vídeos, o disco rígido, que tem parcos 27,9 Gbytes, se mostra pequeno demais para isso _cada hora de vídeo gravada por uma filmadora digital (padrão DV) ocupa cerca de 13 Gbytes.
+Considerando que, hoje em dia, já existem tocadores musicais portáteis com 100 Gbytes, a Dell poderia ter instalado um disco rígido bem mais espaçoso no X1. O comprador pode optar por um disco de 60 Gbytes, que custa R$ 529. A placa de vídeo é fraca, pois não oferece desempenho suficiente para jogos modernos.
+O teclado é ótimo. Além de ser bastante sólido (não afunda durante a digitação, algo freqüente em máquinas de má qualidade), usa o layout ABNT-2 _com teclas especiais para til e cedilha, incomuns em notebooks. Já o trackpad _dispositivo que desempenha as funções do mouse_ veio de fábrica mal configurado, ou seja, exigindo muita pressão dos dedos e com movimentação extremamente lenta (era preciso atravessá-lo três vezes com o indicador para levar o cursor do mouse por toda a extensão horizontal da tela). Felizmente, o problema pôde ser corrigido via ajuste manual. O acabamento do X1 é bom e discreto, na cor grafite.
+Na configuração testada, o Latitude X1 custa R$ 8.048 (www.dell.com.br), ou seja, aproximadamente 50% a mais que um notebook tradicional, que traz chip mais potente e mais recursos. Apesar disso, a portabilidade e a autonomia são diferenciais que tornam a máquina da Dell extremamente atraente.

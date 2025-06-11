@@ -1,0 +1,14 @@
+Divida o disco e proteja seus documentos 22/6/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 22, 2005
+Seção: CANAL ABERTO
+Divida o disco e proteja seus documentos
+"É mais seguro dividir o disco rígido em uma parte para o sistema operacional e outra para backup (cópia de segurança)?"
+(Mauredi Branco Linhares)
+Resposta - Dividir um disco rígido é recomendável. Se você tiver criado as letras de drive C e D, use a primeira para instalar o sistema operacional e programas, e a segunda para armazenar os dados gerados pelos softwares. Assim, se houver algum problema com o sistema operacional e for preciso reformatar o disco, você preservará os dados do drive D.
+Outra dica: a pasta Meus Documentos é criada automaticamente no drive onde o sistema operacional estiver instalado. Se ele for formatado, dê adeus ao conteúdo. Para mudar a pasta de lugar (no Windows XP), clique no menu Iniciar e, com o botão direito do mouse, clique em Meus Documentos e selecione Propriedades. Aparecerá uma caixa de diálogo.
+Na guia Destino, veja o endereço atual da pasta e anote-o. Clique em Mover e uma segunda caixa de diálogo se abrirá. Clique em Meu computador e selecione o drive e a pasta onde os documentos serão armazenados.
+Para criar uma nova pasta, selecione a letra do drive e clique em Criar nova pasta. O programa perguntará se você deseja mover todos os arquivos de Meus documentos para a nova pasta. Se responder Sim, eles serão movidos. Caso contrário, apenas os novos serão gravados lá. Mesmo que você não tenha outra letra de drive, é indicado mudar o local da pasta Meus documentos, pois, se você tiver algum problema com sua senha de acesso ao Windows, perderá o acesso a esses documentos.
+CORRESPONDÊNCIA
+E-mail - canalaberto@uol.com.br (necessário nome completo)

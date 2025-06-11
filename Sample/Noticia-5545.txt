@@ -1,0 +1,26 @@
+Programa especial cria ritmo eletrônico 3/8/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Aug 3, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: SOM NA CAIXA
+Assuntos Principais: MÚSICA ELETRÔNICA; MÚSICA DIGITAL; TECNOLOGIA; DJ; PRODUÇÃO MUSICAL; ESTÚDIO; COMPUTADOR; PROGRAMA; SOFTWARE; SAMPLE; SEQÜENCIADOR; FORMATO
+Artistas amadores usam a internet como veículo para espalhar suas criações digitais e reinventar estilos
+Programa especial cria ritmo eletrônico
+COLABORAÇÃO PARA A FOLHA
+Entre as diversas tendências de música eletrônica, uma coisa é certa: todas dependem de trechos de áudio (samples) programados em seqüência por um computador. Para ordenar essa torrente de batidas, refrões e efeitos sonoros, são usados programas chamados musical sequencers _em português, seqüenciadores.
+Inicialmente, essa programação era feita com pequenos aparelhos acoplados aos instrumentos, mas softwares específicos para a função tornaram a criação de músicas muito mais ágil.
+Com a evolução dos formatos de música digital, a facilidade para criar ganhou qualidade e impulsionou a produção de DJs em todos os cantos do mundo.
+O que era restrito ao som de arquivos Midi (sigla em inglês para interface digital de instrumento musical), hoje é feito por arquivos mais sofisticados, que reproduzem o som original dos instrumentos com mais perfeição.
+Devido a coleções de arquivos de áudio, os programas que usam as repetições, chamadas loops, podem recorrer a instrumentos de percussão exóticos, a modelos antigos de teclados e a uma infinidade de recursos de mixagem.
+Um dos softwares mais populares dessa área é o FL-Studio (US$ 99, com versão limitada para testes em www.flstudio.com).
+Com ele, é possível ordenar seqüências de batidas e de clipes de áudio, usando efeitos como timbres especiais e sintetizadores digitais _simuladores de instrumentos musicais eletrônicos que usam variações de ondas de energia para modificar o som de notas emitidas por outros instrumentos tradicionais.
+O FL-Studio é indicado para iniciantes, mas sua aparência carregada de botões e menus pode ser confusa para esse tipo de público. Para tirar dúvidas e aprender os conceitos básicos do software, no entanto, é possível consultar o site em português FL Studio Brasil (www.flstudio.pop.com.br) e a comunidade de usuários FruitLoopers (www.fruityloopers.co.uk), que usa o inglês como idioma oficial.
+O seqüenciador Acid (US$ 49,95), produzido pela mesma empresa do editor Sound Forge, também é bastante cultuado entre os criadores de música eletrônica. Com versão de testes disponível para download direto no endereço download.acidplanet.com/acidxpress.exe, o soft tem até uma comunidade de usuários que trocam suas composições pela rede (leia texto nesta página).
+Entre suas principais virtudes estão a facilidade para sincronizar faixas de áudio diferentes e para exibir o resultado das mixagens em tempo real. Há também programas que unem as funções de seqüenciador e de editor como o Cakewalk Sonar (US$ 959, com versão limitada para testes por 30 dias em www.cakewalk.com/products/sonar/default.asp), o GarageBand, da Apple, e o PropellerHeads Reason (US$ 499), que está disponível para testes por 30 dias no endereço www.propellerheads.se/download.
+Bases e batidas
+Para aproveitar o potencial dos programas de composição é preciso dispor de um bom número de referências sonoras.
+Em portais como Loopasonic (www.loopasonic.com), Loops.net (www.loops.net) e SampleNet (www.samplenet.co.uk) é possível encontrar arquivos que cumprem essa função.
+Entre as categorias disponíveis, é possível encontrar sons de bateria, de contrabaixo, de guitarras e trechos de diálogos e de canto. Boa parte desse acervo de sons é gratuita. 
+(JB)

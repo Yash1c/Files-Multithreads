@@ -1,0 +1,13 @@
+Rede de trocas é acessada com apenas um clique 20/7/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jul 20, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; OPERA /NAVEGADOR/; VERSÃO; TESTE; BITTORRENT /REDE DE TROCAS/
+Rede de trocas é acessada com apenas um clique
+COLABORAÇÃO PARA A FOLHA
+O navegador Opera ganhou uma versão de testes capaz de baixar arquivos da rede de trocas BitTorrent.
+A facilidade para baixar os arquivos é o principal atrativo da nova função.
+Com um navegador comum, é preciso baixar o arquivo Torrent de um site e depois abri-lo com um programa específico para iniciar o download. No Opera, basta clicar no link dos arquivos Torrent para que o download seja iniciado. O Opera Technical Preview 1 está disponível para download gratuito em www.opera.com/bittorrent, mas o programa exibe faixas de propaganda. A versão sem anúncios custa US$ 39.
+(JB)

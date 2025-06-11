@@ -1,0 +1,24 @@
+Aproveite melhor a conexão à internet 29/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jun 29, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: PC POPULAR
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; COMPUTADOR; GOVERNO LULA; COMPUTADOR PARA TODOS /PROGRAMA SOCIAL/; INCLUSÃO DIGITAL; LINUX /SISTEMA OPERACIONAL/; INTERNET; E-MAIL; ACESSO; PLANO; FIREFOX /SOFTWARE/; EVOLUTION /SOFTWARE/; RECURSO
+Grave páginas para consultá-las estando off-line e acione programas para fazer downloads, usar e-mails e bater papo
+Aproveite melhor a conexão à internet
+DA REPORTAGEM LOCAL
+O PC popular tem placa de rede e funciona com serviços de banda larga, mas é razoável supor que a maior parte de seus usuários navegará na internet por meio da conexão discada, que deverá contar com um plano de acesso subsidiado (leia texto nesta página).
+Como ele estipula um número limitado de horas de conexão por mês, é importante aproveitar ao máximo o tempo on-line.
+Dois recursos do Firefox (programa de navegação na internet) são especialmente úteis. Para gravar uma página no disco rígido do PC, clique em Arquivo e Salvar como. O navegador permite salvar a página completa, com figuras, ou apenas seu texto.
+O Firefox já vem com gerenciador de downloads, mas o Web Downloader, também incluso no PC popular, tem recursos mais sofisticados, como o agendamento da transferência de arquivos.
+Guardar o endereço de um site na lista de favoritos ajuda a agilizar consultas. Basta clicar, no Firefox, em Favoritos/Adicionar página. Para colocar um endereço na barra de atalhos do navegador, arraste o ícone do site para a Barra dos Favoritos, logo abaixo do campo Endereço.
+E-mail
+O programa de e-mail Evolution é bem mais completo do que o Outlook Express. Além das funções básicas de envio e recebimento de mensagens (veja quadro), oferece agenda de compromissos e tem o sofisticado recurso de pastas virtuais (vFolders), que ajuda na organização de e-mails.
+Para usá-lo, clique em Ferramentas e Editor de pastas virtuais. Na janela exibida, aperte Adicionar e defina o critério que o Evolution adotará para colocar mensagens na pasta lógica _e-mails que contenham determinadas palavras ou tenham sido enviados por certo remetente, por exemplo. Você pode criar quantos critérios e pastas lógicas quiser.
+O sistema não muda as mensagens de lugar: elas continuam todas na caixa de entrada e só são dispostas em grupos quando você consulta uma pasta virtual. Isso é uma grande vantagem, pois permite que o Evolution reagrupe e-mails de acordo com vários critérios sem bagunçar o armazenamento físico das mensagens.
+O Evolution só tem um problema. Numa máquina de 128 Mbytes, como o PC popular, ele é um pouco lento. Se isso for incômodo, opte pelo Kmail, que também já vem instalado e é mais ágil.
+O Insigne Linux traz o popular Skype, que faz ligações telefônicas gratuitas entre PCs, e o GnomeMeeting, para videoconferências.
+Há várias opções de comunicador pessoal. O mais relevante é o aMSN, que promete compatibilidade com o MSN Messenger. O aMSN fica no menu Iniciar/Internet, que também leva aos comunicadores Gaim e Licq, respectivamente compatíveis com AOL Instant Messenger e ICQ. 
+(BG)

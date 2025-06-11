@@ -1,0 +1,23 @@
+Sistema Linux complica operação de máquina 18/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo May 18, 2005
+Legenda Foto: Computador básico da marca Positivo; chip é rápido, mas configuração de software é imperfeita
+Crédito Foto: Jefferson Coppola/Folha Imagem
+Observações: SUB-RETRANCA
+Assuntos Principais: INFORMÁTICA; TECNOLOGIA; GOVERNO LULA; PC CONECTADO; COMPUTADOR POPULAR; POSITIVO /MARCA/; TESTE
+Sistema Linux complica operação de máquina 
+DA REPORTAGEM LOCAL 
+A reportagem testou um PC da marca Positivo (www.positivo.com.br) com processador AMD Sempron 2200+, 128 Mbytes de RAM, disco de 30 Gbytes, leitor de CD-ROM e sistema operacional Linux. Essa máquina é igual ao PC Conectado que a empresa pretende lançar, exceto pelo chip, que será um Celeron, e pelo disco rígido, que terá 40 Gbytes.
+O Linux adotado é uma versão desenvolvida pela empresa Insigne, que diz já ter instalado seu sistema em 100 mil máquinas.
+Nos testes, o micro apresentou alguns problemas de configuração. Primeiro, surgiu uma dificuldade ao conectar um chaveiro USB. O ícone dele na área de trabalho (memory key) simplesmente não abriu.
+O monitor veio ajustado para operar com taxa de atualização de apenas 60 Hz, que causa efeito de cintilação (flicker). Além disso, estava configurado para se desligar após meros 60 segundos de ociosidade do PC, o que pode comprometer a durabilidade do tubo de imagem.
+A máquina vem com um discador do provedor Brasil Telecom, que pode ser usado para navegar gratuitamente via dial-up, e um software PPPoE (para conexão a serviços de banda larga).
+O suporte técnico, fornecido pela Insigne, é válido por 12 meses, mas há um problema. O telefone usa o código de área 14, ou seja, é preciso fazer um interurbano para pedir ajuda.
+Quando você tenta modificar determinadas configurações do sistema, o Linux pede a senha de superusuário (root). O problema é que não aparece explicação do que vem a ser isso. Depois de alguma procura, foi possível descobrir que essa senha viera digitada de fábrica _algo, em termos de segurança, ruim_ e estava no cartão Quick Restore, que traz informações sobre a reinstalação do sistema operacional.
+A coleção de programas é notável, mas também encerra complicações desnecessárias. Embora o pacote de escritório OpenOffice.org seja compatível com os formatos de arquivo da Microsoft (DOC, XLS e PPT), vem configurado de fábrica para usar formatos próprios e incompatíveis.
+O computador também já vem com o ótimo navegador Firefox, um excelente programa de e-mail (Evolution, que copia o Outlook 2000) e o comunicador pessoal Gaim, que promete compatibilidade com o popular MSN Messenger. Também há softwares para gravar e editar áudio, um soft de gravação de CDs _note que o computador não traz gravador, apenas um leitor de CD-ROM_ e os tocadores Xine e RealPlayer.
+O painel de controle pode causar estranhamento. Ao alterar a resolução de tela, por exemplo, surge uma mensagem dizendo que "você precisa sair e reiniciar o servidor do X", sem explicações.
+A potencial dificuldade na instalação de periféricos torna o PC Positivo pouco indicado para uso doméstico. Em empresas, por outro lado, a segurança proporcionada pelo Linux é um atrativo considerável.
+(BG)

@@ -1,0 +1,17 @@
+Ultraportátil mede 21x16x5 cm 22/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 22, 2005
+Legenda Foto: Libretto, que mede 21x16 cm e possui tela de 7,2 polegadas
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; LIBRETTO U100 /NOTEBOOK ULTRAPORTÁTIL/; TOSHIBA /EMPRESA/; RECURSO; CARACTERÍRSTICA
+Ultraportátil mede 21x16x5 cm
+DA REPORTAGEM LOCAL
+Nos Estados Unidos, a Toshiba acaba de apresentar a nova versão do notebook ultracompacto Libretto, que deve chegar ao mercado em julho. O U100, que custará aproximadamente US$ 2.000, possui uma tela pequena _ela tem resolução de 1.280x768 pontos, mas mede apenas 7,2 polegadas_ e realmente é muito portátil: mede 21x16x5 cm e pesa menos de 1 kg.
+O notebook é tão compacto que digitar em seu teclado exige certa adaptação, pois as teclas são pequenas e bastante próximas.
+A tela do Libretto é iluminada por diodos (LEDs), não por uma lâmpada fluorescente como nos notebooks convencionais. Em tese, isso reduz o consumo de energia. Testes realizados pela revista "PC World" com um protótipo atingiram 210 minutos de autonomia, uma marca respeitável.
+O processador é um Pentium M de 1,2 GHz, e a máquina vem com 512 Mbytes de memória RAM, disco rígido de 60 Gbytes e antena Wi-Fi para acessar redes sem fio.
+O site Hardware Analysis (www.hardwareanalysis.com/content/article/1803) aponta uma questão preocupante. Nos testes que realizou com o Libretto, percebeu que o sistema antivibrações do aparelho é ocasionalmente disparado pela mera digitação no teclado. O disco rígido é desligado, como forma de proteção, e a máquina fica lenta. De acordo com o site, o mecanismo pode ser desativado manualmente, resolvendo o problema.
+(BG)

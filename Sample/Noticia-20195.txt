@@ -1,0 +1,14 @@
+BBC prepara software para coibir pirataria 15/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jun 15, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; TELEVISÃO; INTERNET; BBC /CANAL DE TV/; PIRATARIA; SOFTWARE
+BBC prepara software para coibir pirataria
+DA REPORTAGEM LOCAL
+A emissora inglesa BBC, conhecida mundialmente pela qualidade de seus programas, tem planos ambiciosos para a internet. Em setembro, pretende começar a distribuir suas produções por meio de um software próprio, o Interactive Media Player, ou iMP (www.bbc.co.uk/imp).
+O software, que inicialmente será testado por 5.000 pessoas, só funcionará no Reino Unido _internautas de outras regiões não conseguirão, diz a BBC, baixar vídeos com ele. Essa restrição será imposta para não prejudicar a comercialização das produções da BBC para outras emissoras.
+A entrada da BBC na internet pode ter sido apressada pela pirataria de vídeos on-line. Segundo a empresa Envisional, os britânicos são os internautas que mais baixam programas de TV pirateados. Em março, a emissora foi prejudicada quando "Doctor Who", uma de suas principais estréias, caiu na internet antes mesmo da exibição.
+O download ilegal de programas da TV é feito por softwares de troca de arquivos, como o BitTorrent, mas a BBC reconhece o potencial benéfico dessa tecnologia: o iMP transmitirá vídeos no esquema peer-to-peer, ou seja, os internautas ingleses poderão compartilhar entre si os arquivos legalizados da mesma forma que hoje fazem com conteúdo pirateado.
+(BG)

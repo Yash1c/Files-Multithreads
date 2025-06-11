@@ -1,0 +1,18 @@
+Programa monta fotos panorâmicas 11/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo May 11, 2005
+Vinheta/Chapéu: IMAGEM DIGITAL
+Assuntos Principais: FOTOGRAFIA; FOTO PANORÂMICA; MONTAGEM; AUTOSTITCH /SOFTWARE/; RECURSO
+De simples operação, AutoStitch analisa as fotografias escolhidas e consegue fundir arquivos sozinho
+Programa monta fotos panorâmicas
+DA REPORTAGEM LOCAL
+Boa parte das câmeras digitais é fornecida com softwares para criação de fotos panorâmicas, mas esses programas são difíceis de usar. O usuário precisa especificar, manualmente, pontos de junção entre cada uma das imagens que serão unidas no resultado final. Mas o AutoStitch, que foi desenvolvido pela University of British Columbia (www.cs.ubc.ca/~mbrown/autostitch/autostitch.html), é diferente.
+Ele possui um sistema inteligente que analisa o conteúdo das fotos e faz a montagem sozinho. Para que a montagem dê certo, as fotos devem ter áreas em comum, ou seja, sobreposição. Também é importante, porém não indispensável, que elas tenham sido tiradas sem alterações na posição vertical da câmera. A resolução final é reduzida, ou seja, a imagem perde detalhes.
+Considerando as análises que o programa precisa fazer, ele é aceitavelmente rápido. Num micro com chip de 1,5 GHz e 256 Mbytes de memória, o AutoStitch levou menos de um minuto para processar 11 fotos JPG de alta resolução, totalizando 6,96 Mbytes.
+Além disso, o programa não enfrenta problemas se as fotos tiverem resoluções diferentes _no teste, havia dez imagens de 5 Mpixels e uma de 3 Mpixels.
+Embora seja facílimo de usar, o AutoStitch encerra tecnologia sofisticada. Clicando em Edit e Options, surge uma tela de configurações que permite ajustar seis aspectos da fusão de imagens.
+Janela indiscreta
+O serviço de álbuns virtuais Flickr (www.flickr.com) deu origem a um site interessante: o Visual Dictionary (steeev.f2o.org/flickr/search.php?mode=pc). Você digita palavras-chave e o site mostra fotos de usuários do Flickr que são relacionadas àquele assunto.
+(BG)

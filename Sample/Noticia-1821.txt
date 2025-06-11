@@ -1,0 +1,17 @@
+Soft adapta iTunes a tocador portátil 21/9/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F8
+Edição: São Paulo Sep 21, 2005
+Assuntos Principais: MÚSICA DIGITAL; MP3; APPLE /EMPRESA/; IPOD NANO /TOCADOR PORTÁTIL/; ITUNES 5.0 /SOFTWARE/; PROGRAMA; BADAPPLE /SOFTWARE/; LANÇAMENTO; SINCRONIZAÇÃO; MICHAEL ROBERTSON; STEVE JOBS; POLÊMICA; DESEMPENHO; TESTE
+Soft adapta iTunes a tocador portátil
+DA REPORTAGEM LOCAL
+Ao lançar o toca-MP3 portátil iPod Nano, a Apple atualizou também seu software musical, o iTunes (www.apple.com/itunes), para a versão 5.0. A novidade mais evidente é estética, pois o painel do programa ficou um pouco mais limpo. Por outro lado, quem o instalar é obrigado a levar também o tocador QuickTime. Ele merece estar num PC bem equipado, mas sua instalação não deveria ser compulsória.
+O iTunes 5 só funciona com tocadores portáteis da Apple, mas isso pode mudar. Com o software BadApple (www.badfruit.com), supostamente torna-se possível sincronizar o programa com qualquer aparelho. Na prática, não é bem assim: testes realizados com um tocador de baixa capacidade, 256 Mbytes, fracassaram.
+Se você quiser tentar, comece selecionando poucas músicas no painel do iTunes e certifique-se de que a memória do toca-MP3 esteja vazia. Para usar o plug-in, basta clicar em Music Store e Sync to MP3 Player e selecionar a letra correspondente ao tocador.
+O BadApple chama a atenção porque foi criado por Michael Robertson, inventor do site MP3.com _antes da abertura da bem-sucedida loja virtual iTunes, o MP3.com era um dos principais sites de download legal de músicas. Segundo Robertson, o programa foi criado porque Steve Jobs, presidente da Apple, se negou a tornar o sistema anticópias FairPlay, que é usado pelo iTunes e pelo iPod, compatível com o sistema operacional Linux _que Robertson atualmente desenvolve com sua companhia Linspire (www.linspire.com).
+Um detalhe interessante do iTunes 5 é a compatibilidade com Outlook e Outlook Express. Isso permite carregar na memória de um iPod o catálogo de e-mails e os compromissos armazenados no micro (apenas com o Outlook).
+A atualização do programa gerou problemas a alguns usuários, que publicaram relatos num fórum da própria Apple _segundo eles, o software pode ficar lento, travar ou perder configurações se for realizado o upgrade da versão 4.x. Nos testes realizados pela reportagem, não houve nenhum problema do tipo.
+A ferramenta de busca do iTunes promete melhorias, pois agora tem um item chamado Videos. Infelizmente, ele só dá acesso a videoclipes comprados na loja virtual da Apple, que não funciona no Brasil (nos testes, o soft não achou nem tocou arquivos guardados no disco rígido). Nesse quesito, o Windows Media Player 10 ainda é superior ao iTunes.
+O soft está mais rápido. Num PC de 1,5 GHz e 256 Mbytes de memória, que dava pequenos "trancos" em buscas com o iTunes 4.x, os resultados passaram a surgir instantaneamente. 
+(BG)

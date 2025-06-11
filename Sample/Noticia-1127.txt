@@ -1,0 +1,9 @@
+Vírus pode infectar máquinas com Windows 17/8/2005
+Autor: 
+Editoria: MUNDO Página: A18
+Edição: São Paulo Aug 17, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: INFORMÁTICA
+Assuntos Principais: INFORMÁTICA; TECNOLOGIA; WINDOWS /SOFTWARE/; VÍRUS; INFECÇÃO
+Vírus pode infectar máquinas com Windows
+Um fabricante de antivírus disse ontem ter descoberto uma variante ("Zotob") que pode infectar os computadores que usam Windows mais rapidamente do que vírus anteriores. O novo vírus também permite aos hackers ganhar acesso remoto aos sistemas afetados. Segundo a Trend Micro, centenas de sistemas foram detectados nos EUA e na Alemanha.

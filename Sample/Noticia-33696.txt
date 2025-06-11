@@ -1,0 +1,22 @@
+Ministério da Ciência defende uso de sistema 28/4/2005
+Autor: HUMBERTO MEDINA
+Origem do texto: DA SUCURSAL DE BRASÍLIA
+Editoria: DINHEIRO Página: B12
+Edição: São Paulo Apr 28, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INFORMÁTICA; GOVERNO LULA; DIREITO AUTORAL; SOFTWARE LIVRE; LICENÇA; GRATUIDADE; POLÊMICA; MICROSOFT /EMPRESA/; GASTO; LUIZ FERNANDO FURLAN; MINISTÉRIO DA CIÊNCIA E TECNOLOGIA; PESQUISA; DOCUMENTO
+Ministério da Ciência defende uso de sistema 
+HUMBERTO MEDINA 
+DA SUCURSAL DE BRASÍLIA 
+O Ministério da Ciência e Tecnologia divulgou ontem pesquisa sobre o uso do software livre e aproveitou para reforçar a posição de defesa do uso preferencial desse tipo de programa na administração federal.
+A pesquisa, intitulada "O Impacto do Software Livre e de Código Aberto na Indústria de Software do Brasil", conclui que o desenvolvimento desses programas ameaça especialmente os fabricantes de "pacotes" (plataformas e sistemas operacionais), como é o caso da Microsoft, que produz o sistema operacional Windows.
+A pesquisa cita o caso do sistema operacional da Microsoft, visto como monopólio. "A emergência do Linux [sistema operacional mais popular em software livre] como plataforma alternativa ao Unix e, principalmente, ao Windows nada mais é do que a quebra de monopólios que durante anos vêm impondo restrições de rentabilidade e de oportunidades a praticamente todas as atividades econômicas", diz o texto.
+O trabalho, feito pela Softex (Associação para Promoção da Excelência do Software Brasileiro) e pela Unicamp (Universidade de Campinas), também traça um perfil dos usuários e dos "desenvolvedores" (pessoas ou empresas que produzem os programas) de software livre no Brasil.
+De acordo com a pesquisa, há pelo menos 364 empresas desenvolvendo softwares livres no Brasil e 154 usando-os. A maior parte das empresas usuárias é de médio e grande porte. O uso de software livre está centrado nas regiões Sudeste e Sul, principalmente em São Paulo e no Rio Grande do Sul.
+A pesquisa conclui que o principal objetivo do usuário é a redução de custos. O software livre não exige pagamento de licença para uso e pode ser copiado, modificado e distribuído livremente.
+Na segunda, em seminário realizado em São Paulo, o ministro Luiz Fernando Furlan (Desenvolvimento) criticou a opção do governo de privilegiar o software livre na administração federal.
+Ontem, durante a apresentação da pesquisa no auditório do Ministério da Ciência e Tecnologia, uma das pessoas presentes na audiência distribuiu cópias do artigo "Furlan e Bill Gates x Zé Dirceu", do jornalista Elio Gaspari, publicado ontem na Folha e no "Globo". No artigo, a posição do ministro em relação ao uso de software livre é criticada.
+Uma das fontes do desentendimento é o decreto, em análise pela Casa Civil, que irá tornar obrigatória a opção pelo software livre nas licitações de informática do governo federal. Pelo texto em estudo, só uma autorização expressa do ministro de cada área poderá permitir a compra de software proprietário pelo governo.
+Outra fonte de desentendimento é o programa PC Conectado _de incentivo à produção e comercialização de computadores. O governo ainda não decidiu que tipo de sistema operacional virá com o computador: livre (Linux), proprietário (versão popular do Windows) ou algo intermediário, que permita as duas opções.
+ 
+A íntegra da pesquisa "O Impacto do Software Livre e de Código Aberto na Indústria de Software do Brasil" está no endereço eletrônico www.softex.br

@@ -1,0 +1,25 @@
+Criatura de genoma mínimo domina Terra 19/8/2005
+Autor: SALVADOR NOGUEIRA
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A18
+Edição: São Paulo Aug 19, 2005
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: GENÔMICA
+Assuntos Principais: BIOLOGIA; GENE; GENOMA MÍNIMO; CÓDIGO GENÉTICO; DNA; ESTRUTURA; BACTÉRIA; SOBREVIVÊNCIA
+Pesquisadores identificam bactéria que tem em seu código genético só o estritamente necessário para sobreviver
+Criatura de genoma mínimo domina Terra
+SALVADOR NOGUEIRA
+DA REPORTAGEM LOCAL
+Esta é a incrível história de como a mais humilde das bactérias acabou por conquistar o planeta Terra. O enredo, digno de filme ganhador de Oscar, acaba de ser revelado por um grupo de cientistas liderado por Stephen Giovannoni, da Universidade Estadual do Oregon, nos Estados Unidos.
+A protagonista da aventura é a bactéria marinha Pelagibacter ubique. Para que se tenha idéia da simplicidade, o genoma dela é o menor entre as criaturas vivas que conseguem sobreviver sem parasitar outros organismos. São apenas 1,3 milhão de "letras genéticas" inscritas em sua seqüência de DNA. O genoma humano, em comparação, tem uns 3 bilhões.
+É a prova cabal de que um texto qualquer não precisa ser grande para que seja bom. Se for suficientemente conciso, pode conter toda a informação relevante e ainda assim preencher pouco espaço. Foi basicamente com essa diretriz, "menos é mais", que a natureza moldou o genoma dessa criatura. Dispensou praticamente todas as "letras" supérfluas no DNA da bichinha (o chamado DNA-lixo, que no caso dos seres humanos responde por 98% do genoma), mantendo apenas os trechos que realmente codificavam genes úteis à sobrevivência.
+Também é uma evidência forte de que esse tal de DNA-lixo, tão misterioso em criaturas "superiores" por estar presente em tamanha quantidade, talvez seja mesmo, em certa medida, exatamente o que o nome diz: lixo. Afinal de contas, pelo menos a Pelagibacter ubique conseguiu se virar muito bem até agora sem ele.
+Humildade franciscana
+No linguajar popular, a bactéria de fato calçou as sandálias da humildade. Abdicou de todas as estratégias mais usuais para a evolução, como incorporar genes de suas colegas bactérias, ou duplicar os próprios genes para criar redundância, ou ainda desenvolver múltiplas formas de acionar seus genes para se adaptar a mudanças no ambiente.
+"Enfim, não sobrou nada. Foi a redução de escala biológica mais devastadora de que se tem notícia", comenta Marcelo Nóbrega, biólogo molecular brasileiro que trabalha na Universidade de Chicago (EUA), mas não esteve diretamente envolvido com o estudo.
+Com efeito, os "cortes" no genoma foram tão radicais que, em média, apenas três "letras genéticas" separam um gene do outro no DNA da Pelagibacter ubique.
+"A bactéria sobrevive em água do mar, mas não em outros meios de cultura, vive a 'pão e água', não tem qualquer capacidade de adotar meios de vida metabólicos alternativos, não tem mobilidade como outras bactérias. Ou seja, a natureza subjugou esta família de bactérias à mais franciscana das formas de vida", diz Nóbrega.
+Prêmio pela simplicidade
+O resultado quer fazer crer que a pobre Pelagibacter ubique esteja na contramão da seleção natural. "Pareceria que esse experimento cruel da natureza condenaria rapidamente essa família ao fracasso e à extinção", diz Nóbrega. "Aí vem o Craig Venter [pesquisador que foi um dos responsáveis pela decifração do genoma humano e agora está com os olhos voltados para a pesquisa da biodiversidade genética de outras criaturas] no seu iate seqüenciando DNA de bactérias em água coletada em diversos mares e oceanos. E descobre o quê? Que essa família de bactérias geneticamente deserdadas se transformou na mais abundante fonte de vida dos oceanos!"
+Pois é. Contrariando o que os humanos costumam chamar de bom senso, a humildade extrema da P. ubique a converteu na rainha absoluta dos mares, criatura presente em maior número sobre a Terra. Como é possível? Para Nóbrega, a explicação fica mais clara conforme tiramos o homem de sua posição de paradigma de sucesso evolutivo. Não é a complexidade a rota mais eficiente para cumprir o pré-requisito básico da manutenção da vida _a reprodução. Em vez disso, até agora, a simplicidade parece ter sido um caminho no mínimo tão bem-sucedido quanto a complicação.
+Mais que isso, o estudo, publicado na última edição da revista "Science" (www.sciencemag. org), também joga luz sobre qual é o "mínimo necessário" para que uma criatura possa sobreviver sozinha _uma pergunta essencial para coisas tão diferentes quanto o entendimento do surgimento da vida e a possível fabricação artificial de formas de vida, com códigos genéticos "projetados".

@@ -1,0 +1,18 @@
+Um anarquista talentoso 11/9/2005
+Autor: PEDRO DORIA
+Editoria: REVISTA DA FOLHA Página: 19
+Edição: São Paulo Sep 11, 2005
+Seção: F.LOG
+Arte: ILUSTRAÇÃO: GALISMARTE
+Um anarquista talentoso
+A filosofia de ESR inclui o direito de o cidadão formar milícias, derrubar governos e, se for necessário, assassinar presidentes
+por Pedro Doria
+Aos 47 anos, Eric Steven Raymond tem tudo para ser um dos grandes heróis da internet. Tanta gente o conhece que, para referir-se a ele, basta listar as iniciais ESR. É um profundo conhecedor da infra-estrutura da rede, mestre hacker no melhor sentido. Sabe tudo de tecnologia e tem um pé em filosofias libertárias e orientais: é faixa preta de taekwondo. Mas, de alguma forma, é um herói impossível. Na rede, onde gente técnica tende ao pacifismo, Raymond tem entre suas causas mais caras a defesa do porte de armas.
+Hacker não é cracker: hacker é quem escreve código de programas na unha, como se fosse poesia, um talento especial. Mais: hacker, na definição deles mesmos, não faz programas por dinheiro e sim para distribuir à comunidade e mostrar do que é capaz. O sustento é ganho adaptando o que escreveu ao uso de clientes graúdos com necessidades específicas -Raymond é do tipo que ganha bastante bem desse jeito. Os vândalos são os cracker.
+Porque ESR escreve programas desde 1976, na época em que quase todo mundo na internet era hacker, ele é respeitado. E como alguns dos programas para os quais contribuiu, caso do primeiro editor de textos e do primeiro e-mail, foram de uso constante de todo mundo na rede dos primórdios, ele é respeitadíssimo. A lista de jargão hacker, pequeno dicionário que todo mundo do ramo tem sempre à mão, é de sua autoria.
+Sua filosofia política é bastante específica e clara: acredita na total liberdade e responsabilidade do indivíduo. Isso inclui, tal qual está previsto na Constituição norte-americana, o direito de formar uma milícia e derrubar um governo que não responde mais aos anseios populares. A revolução é um direito inalienável do povo, portanto. E isso inclui o assassinato de presidentes, se for necessário. Desde que cada um sempre se responsabilize por suas decisões.
+Tudo é melhor posto em suas próprias palavras, conforme uma entrevista para uma revista eletrônica hacker: "Quem pode mandar gente à minha casa e me matar se fiz algo de que não gostam? Uma grande empresa? Não. Um governo? Sim. Usar a força é o que governos fazem. Se um policial ou soldado pode usar a força contra mim, minha primeira preocupação é terminar com seu poder".
+É seguindo esse raciocínio que ESR se pôs favorável à intervenção no Iraque, despertando a ira de seus pares na regência técnica da rede. Afinal, se o maior dos males é um governo que comete excessos, nenhum contra-argumento invalida a necessidade de derrubá-lo. E, como no limite, esse é um dever de cada cidadão, o direito de estar armado e resistir ao Estado deve ser garantido.
+Eric Raymond não é um homem de esquerda, mas é um libertário, quase anarquista. É verdade que o direito ao porte de armas e formação de milícias, na Constituição dos EUA, está lá porque foi posto no século 18 por gente que tinha acabado de fazer isso: revolução, por milícias, contra a metrópole inglesa. Mas também é verdade que armas nas mãos de cidadãos, em geral, terminam matando inocentes.
+Pode-se acusar o argumento de cínico: arma não serve para revolução quase nunca. No entanto, é um argumento honesto quando envolto pela crença honesta numa filosofia antigoverno. No momento em que o Brasil se prepara para votar na questão da proibição de armas, não custa lembrar que, do lado de quem as defende, nem todo mundo é bandido. (Embora, na rede, todo mundo ache ESR um louco talentoso, mas louco.)
+E-mail: pdoria@folhasp.com.br

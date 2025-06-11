@@ -1,0 +1,31 @@
+Sintonizador externo é fácil de instalar 11/5/2005
+Autor: JOSÉ ALBERTO CULMINATO
+Origem do texto: ESPECIAL PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 11, 2005
+Observações: COM SUB-RETRANCA; PÉ BIOGRÁFICO
+Vinheta/Chapéu: TESTE USP ENTRETENIMENTO
+Assuntos Principais: TECNOLOGIA; PINNACLE PCTV USB2 /SINTONIZADOR DE TV/; TESTE; RECURSO; DESEMPENHO
+Sintonizador externo é fácil de instalar
+Pinnacle PCTV capta programas da TV e também pode ser ligado a videocassete ou filmadora; acessório requer plugue USB 2.0
+JOSÉ ALBERTO CULMINATO
+ESPECIAL PARA A FOLHA
+O Pinnacle PCTV USB2 é um sintonizador de TV externo que se conecta à porta USB 2.0 do computador, permitindo ao usuário a captura de vídeo _por uma de suas três entradas (antena ou TV a cabo, S-Video e RCA)_ e de áudio, pela entrada áudio-in.
+O dispositivo, que tem como principal função exibir canais de televisão no computador, também pode digitalizar filmes de um videocassete ou de uma filmadora, permitindo o armazenamento desses vídeos em CDs ou DVDs.
+Por ser um dispositivo USB, ele dispensa fonte de alimentação, o que o torna bastante portátil. O Pinnacle PCTV USB2 é acompanhado por um controle remoto que apresenta as principais funções necessárias para a utilização do sintonizador.
+Instalação e manual
+O processo de instalação do aparelho, que funciona em computadores com sistema operacional Windows, é muito simples e rápido. O guia de instalação em português apresenta com exatidão os passos necessários.
+O manual completo pode ser encontrado no CD de instalação em formato PDF, porém somente na língua inglesa.
+A embalagem do produto traz explicações que tentam definir as funções presentes no dispositivo. Em alguns casos, as instruções não são claras o suficiente para o usuário leigo. O Pinnacle PCTV USB2 funciona apenas na porta USB 2.0, ou seja, não pode ser utilizado com conectores mais antigos, como USB 1.1 ou 1.0.
+Software
+O software que acompanha o dispositivo, o PCTV Vision, é bastante simples e intuitivo. Basta pressionar a função Rec no controle remoto, por exemplo, para iniciar uma gravação. Esse software permite gravar vídeos nos formatos MPG e AVI com qualidade de DVD.
+No caso de arquivos do tipo MPG, o dispositivo é capaz de capturar as imagens utilizando os padrões de compressão MPEG-1 e MPEG-2.
+O compressor MPEG-2 é fornecido gratuitamente somente quando o produto é adquirido nos países da América Latina. Para os demais, é necessário fazer ativação on-line e pagar uma taxa adicional.
+Embora seja bastante intuitivo, o software apresenta alguns problemas. Um deles _o de maior importância_ está na mudança do padrão PAL-M para o NTSC e vice-versa. Ao conectar um aparelho de DVD (padrão NTSC) à porta S-Video do PCTV USB2, como primeiro resultado foram obtidas imagens em preto-e-branco.
+Não foi encontrada com facilidade a opção para fazer a mudança entre os sistemas disponibilizados, PAL-M e NTSC.
+Foi necessário um telefonema para o suporte técnico da Pinnacle em São Paulo para resolver o problema. O controle remoto também apresentou problemas. Ele deixou de operar em algumas situações. Nesses casos, foi necessário reiniciar o programa para reativá-lo.
+Conclusão
+Como o PCTV USB2 não é um equipamento para utilização profissional, seu desempenho na captura de imagens de televisão e de um aparelho de DVD, sua facilidade de instalação, seu suporte técnico e o software de suporte podem ser considerados bastante satisfatórios, apesar dos pequenos problemas encontrados durante os testes.
+Existem no mercado brasileiro diversos tipos de sintonizador de televisão para PC que apresentam boa qualidade de imagem e que se comparam ao PCTV USB2, da Pinnacle. O que diferencia esse produto dos demais é a sua portabilidade e seu fácil manuseio.
+Para aqueles usuários que pretendem utilizar funções mais avançadas, como digitalizar filmes de um videocassete ou de uma filmadora ou capturar imagens de um aparelho reprodutor de DVDs, o PCTV USB2 apresenta uma relação custo-benefício razoavelmente boa.
+José Alberto Cuminato é doutor em matemática aplicada e computação científica pela Universidade de Oxford e docente do ICMC-USP

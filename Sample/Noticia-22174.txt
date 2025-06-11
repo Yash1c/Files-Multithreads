@@ -1,0 +1,20 @@
+Mini PC imita computador barato da Apple 8/6/2005
+Autor: 
+Origem do texto: DA REDAÇÃO
+Editoria: INFORMÁTICA Página: F7
+Edição: São Paulo Jun 8, 2005
+Legenda Foto: Mini PC, computador ultracompacto desenvolvido para competir com o Mac mini, da Apple; Placa aceleradora de vídeo ATI CrossFire, que pode ser ligada em paralelo e promete alto desempenho (acima); teclado à prova d'água desenvolvido pela empresa asiática Zippy Tech (à esq.)
+Crédito Foto: Fotos Divulgação; Richard Chung/Reuters
+Vinheta/Chapéu: COMPUTEX
+Assuntos Principais: INFORMÁTICA; TAIWAN; COMPUTEX /FEIRA/; NOVIDADE; ATRAÇÃO
+Conheça as atrações da segunda maior feira de informática do mundo, realizada em Taiwan na semana passada
+Mini PC imita computador barato da Apple
+DA REDAÇÃO
+A Computex (www.compu tex.biz), que foi realizada na semana passada, em Taiwan, e é a segunda maior feira de informática do mundo _só perde para a alemã CeBIT_, teve como estrela uma imitação do computador compacto Mac mini. O Mini PC, que mede 15x5x15 cm e foi criado pela empresa asiática Aopen (www.aopen.com) a pedido da Intel, é praticamente idêntico, visualmente, à máquina da Apple.
+Suas diferenças estão no hardware, que inclui o chip Pentium M _ele foi originalmente desenvolvido para uso em notebooks, mas começa a ser adotado em micros compactos porque consome menos energia, ou seja, evita a possibilidade de superaquecimento em gabinetes pequenos_ e também traz antenas Bluetooth e Wi-Fi como equipamentos de série (peças opcionais no Mac mini).
+O preço e a data de lançamento do Mini PC, que vem com gravador de DVDs e usa o sistema Windows XP, não foram divulgados, mas a idéia da fabricante é que ele custe mais ou menos o mesmo que o Mac mini _vendido, nos EUA, por US$ 500 (sem monitor, teclado e mouse).
+A Intel exibiu um protótipo de PC para automóveis que possui antena WiMAX _padrão de rede que é apresentado como sucessor do atual Wi-Fi, pois promete cobertura homogênea dentro de bairros e de cidades inteiras.
+Por falar em redes sem fio, os notebooks X20 e X25, da Samsung (www.samsung.com), ganharam antenas com a tecnologia Mimo, que proporciona mais velocidade e maior alcance e é compatível com os pontos de acesso Wi-Fi tradicionais.
+O mercado de placas de vídeo recebeu um lançamento que agitou a feira. A ATI (www.ati.com) escolheu a Computex para mostrar a sua tecnologia CrossFire, que permite conectar duas placas a um PC para conseguir até 100% a mais de desempenho em jogos 3D. A nVidia (www.nvidia.com), maior rival da ATI, já possui uma tecnologia do tipo.
+A vantagem da CrossFire é que, segundo seus criadores, ela funciona com todos os games.
+A Prolink (www.prolink.com) mostrou placas do tipo MXM, que são destacáveis e permitem que o usuário faça upgrades para manter seu laptop à altura dos games mais modernos.

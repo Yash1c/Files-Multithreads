@@ -1,0 +1,28 @@
+Sistema de busca organiza novo Mac OS X 11/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo May 11, 2005
+Legenda Foto: Spotlight, que vasculha documentos guardados no Macintosh; AutoMate 6, que leva ao Windows recurso de sistema da Apple
+Crédito Foto: Fotos Reprodução;
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: AVALIAÇÃO
+Assuntos Principais: TECNOLOGIA; MAC OS X /SISTEMA OPERACIONAL/; APPLE /EMPRESA/; RECURSO
+Spotlight é ágil e abrangente, e programa de e-mail fica melhor; regravação de CDs e DVDs mantém deficiência
+Sistema de busca organiza novo Mac OS X
+BRUNO GARATTONI
+DA REPORTAGEM LOCAL
+Já chegou ao Brasil a nova versão do sistema operacional Mac OS X, usado nos computadores da Apple. O OS X 10.4, também conhecido como Tiger, traz como principal novidade o recurso Spot light, um buscador pessoal.
+Quando o sistema é instalado, o Spotlight analisa o conteúdo do disco rígido e cria um índice. Isso só precisa ser feito uma vez e levou, em testes com um PowerBook G4 de 1,5 GHz e 512 Mbytes de RAM, aproximadamente 15 minutos.
+Quando você, mais tarde, cria ou modifica arquivos, isso é imediatamente detectado pelo Spotlight, que automaticamente atualiza seu índice de dados.
+Além disso, o Spotlight, que fica na área de trabalho, é muito abrangente. Ele cataloga nomes de programas e pastas, indexa todo o conteúdo de documentos de texto, e-mails e PDFs e também engloba agendas de contatos e compromissos, lista de sites favoritos (bookmarks), arquivos MP3, vídeos e fotos. Isso torna as pesquisas muito precisas.
+O programa mantém a privacidade em computadores compartilhados _as pesquisas feitas por cada pessoa só vasculham os dados dela mesma. Nos testes, o Spotlight exibiu resultados realmente instantâneos _bastou começar a digitar uma pesquisa para que eles surgissem.
+Controle paterno
+Quem tem filhos pode se beneficiar do Parental Controls, recurso para limitar as permissões dos usuários. Pode-se, entre outras coisas, restringir a comunicação via e-mail e comunicador pessoal apenas a determinados interlocutores (parentes, por exemplo). As modificações ficam protegidas por senha.
+O programa de correio Mail recebeu uma melhoria que já existia no Outlook 2003, da Microsoft: o sistema de pastas lógicas, que facilita muito a organização de mensagens. Você pode deixá-las bagunçadas que o programa consegue agrupá-las sozinho, de acordo com diversos critérios. O Mail tem uma novidade que o Outlook não possui. Ao receber um e-mail com fotos, cria automaticamente uma apresentação de slides.
+O OS X 10.4 continua deficiente na gravação de CDs. Ele ganhou o recurso Burn Folders, quase igual ao sistema de gravação presente no Windows XP, mas há um problema. Se você grava um CD ou DVD RW (reutilizável) e depois quer adicionar arquivos a ele _multisessão_, é obrigado a apagar a mídia toda ou seguir um procedimento complicado.
+Instalação
+Segundo a Apple, a configuração mínima para instalar o sistema é processador G3 e 256 Mbytes de memória. É altamente recomendável que o Macintosh seja compatível com a tecnologia Quartz Extreme, que usa a placa de vídeo para processar os efeitos especiais da interface gráfica. Para que isso ocorra, a placa deve ser pelo menos uma GeForce2 MX ou Radeon.
+No PowerBook, a atualização do sistema operacional, que requer 2,7 Gbytes de espaço livre no disco rígido (ou 1,5 Gbyte se o enorme pacote de drivers para impressoras for descartado), levou cerca de 30 minutos.
+O Mac OS X 10.4 não é uma revolução, ou seja, mesmo quem gosta de computadores pode continuar com o Windows XP sem ficar atrasado _as principais novidades da Apple podem ser acrescentadas ao PC.
+Mas a operação do OS X é muito mais fácil, pois os recursos estão todos embutidos numa interface gráfica estética e mecanicamente superior à do Windows XP. Também conta a favor a relativa imunidade, ao menos por enquanto, do sistema da Apple a vírus e spyware. A versão completa do sistema operacional custa R$ 450 (www.apple.com/br).

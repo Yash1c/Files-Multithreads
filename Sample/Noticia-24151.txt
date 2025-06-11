@@ -1,0 +1,16 @@
+Gerencie confirmações de e-mail 1/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jun 1, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: COMPUTADOR; INTERNET; SEGURANÇA; WINDOWS XP /SISTEMA OPERACIONAL/; DICA; CONFIGURAÇÃO; AUTOMATIZAÇÃO; E-MAIL; MENSAGEM; OUTLOOK EXPRESS /SOFTWARE/; PROGRAMA
+Gerencie confirmações de e-mail
+DA REPORTAGEM LOCAL
+Se você usa o Outlook Express, provavelmente já terá recebido e-mail cujo remetente solicitou confirmação de leitura. Embora tenha utilidade, esse recurso pode irritar o destinatário, que é obrigado a confirmar manualmente a leitura de cada mensagem.
+É possível configurar o OE para que ele faça e envie essa confirmação automaticamente ou ignore a solicitação. Clique em Ferramentas, Opções e Confirmações. Para completar, selecione a opção desejada no campo Retornando confirmações de leitura.
+O OE tem um comportamento estranho na formatação de mensagens. Se você estiver respondendo a um e-mail no formato HTML, as opções de formatação de fonte são exibidas. Se o e-mail estiver no formato texto, elas não aparecem. Para que as opções sejam sempre exibidas, clique em Ferramentas/Opções e Envio e desmarque o item Responder às mensagens no formato em que elas forem enviadas.
+Para melhorar a segurança do micro, o OE desabilita o acesso a determinados tipos de arquivo. Isso significa que, se você receber uma mensagem com um arquivo EXE ou URL, por exemplo, não conseguirá abri-lo.
+Se você sabe o que está fazendo e deseja que o programa pare de bancar a babá, abra a guia Segurança e desmarque o item Não permitir que sejam salvos nem abertos anexos.
+Como padrão, o software não mostra imagens externas _fotos que parecem fazer parte de um e-mail, mas, na verdade, estão armazenadas na internet e não contidas na mensagem em si. Isso melhora a privacidade (impede que alguém saiba quando você leu o e-mail), mas, como deixa alguns e-mails ilegíveis, também é potencialmente incômodo. Para que as imagens sejam mostradas automaticamente, clique na guia Segurança e desmarque o item Bloquear imagens e outros conteúdos externos. 
+(BG)

@@ -1,0 +1,17 @@
+Suécia e Japão têm acesso ultra-rápido 10/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Aug 10, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; CONEXÃO; BANDA LARGA
+Suécia e Japão têm acesso ultra-rápido
+DA REPORTAGEM LOCAL
+No Brasil, os serviços de banda larga que prometem maior velocidade são o Speedy, que tem um plano de 2 Mbps, e o Ajato, de 2,1 Mbps. Eles até podem ser instalado em residências, mas seus preços tornam isso quase inviável: as mensalidades custam R$ 1.277,90 e R$ 549,90, respectivamente.
+A Telefônica oferece um plano de 1 Mbps com preço mais razoável _R$ 178,90, valor um pouco menor que o cobrado pela Net pela versão topo de linha do Vírtua, que atinge 1,2 Mbps e custa R$ 209,90 mensais.
+Essas conexões são rápidas, mas nem se comparam às disponíveis em alguns países. Na Suécia, por exemplo, a companhia de telecomunicações Bredbandsbolaget (www.bredband.com) lançou um serviço de 100 Mbps que custa US$ 80 mensais (cerca de R$ 184).
+Parece muita velocidade, e é mesmo. Mas o provedor Yahoo! promete oferecer, no Japão (bbpromo.yahoo.co.jp), uma conexão incrivelmente potente: 1 Gbps, ou aproximadamente 1.000 Mbps. Em Hong Kong, a empresa HKBN (www.hkbn.net) montou um serviço com essa capacidade. Ele custa o equivalente a US$ 215 mensais (cerca de R$ 495).
+As conexões ultravelozes são possíveis porque usam redes de fibra óptica, com mais capacidade do que as linhas de telefonia e TV a cabo. Em áreas urbanas desenvolvidas e com alta concentração de usuários, é economicamente viável levar a fibra até cada casa.
+Universidades
+A internet já foi reduto exclusivo de universidades e instituições de pesquisa. Por isso, o meio acadêmico tem as conexões mais velozes. Na semana passada, a Embratel venceu uma licitação para instalar uma rede com velocidade superior a 2,5 Gbps (máximo teórico de 10 Gbps). O projeto vai interligar dez pontos de rede, presentes em universidades de São Paulo, Belo Horizonte, Rio de Janeiro, Fortaleza, Recife, Salvador e Distrito Federal. 
+(BG)

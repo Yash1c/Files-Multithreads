@@ -1,0 +1,22 @@
+Descoberta facilita cultivo Célula-tronco adulta age como embrionária 9/5/2005
+Autor: 
+Origem do texto: DA REDAÇÃO
+Editoria: CIÊNCIA Página: A11
+Edição: São Paulo May 9, 2005
+Vinheta/Chapéu: BIOLOGIA
+Assuntos Principais: BILOGIA; BIOTECNOLOGIA; GENÉTICA; BIOÉTICA; DESCOBERTA; CULTIVO; GENE; CÉLULA-TRONCO ADULTA; EXPANSÃO; USO; TERAPIA; TECIDO; PELE; QUEIMADURA
+Descoberta facilita cultivo Célula-tronco adulta age como embrionária 
+DA REDAÇÃO 
+A descoberta de que uma certa proteína causa estranhos tumores reversíveis em camundongos pode facilitar o cultivo de células-tronco adultas em laboratório, expandindo seu uso em terapias, dizem cientistas dos EUA.
+Embora ainda não realize o grande sonho dos pesquisadores _descobrir células-tronco adultas que tenham o mesmo poder de se transformar em qualquer tipo de tecido que as células embrionárias, evitando a controvérsia ética em torno da questão_, o trabalho dos cientistas do Instituto Whitehead, em Cambridge (Estado de Massachusetts), permite a multiplicação dessas células adultas em grande quantidade. Isso pode facilitar terapias que usem células-tronco para reconstituir tecidos danificados.
+"Isso poderia ser benéfico para vítimas de queimadura", diz o biólogo alemão Rudolf Jaenisch, pesquisador do Whitehead e professor do MIT (Instituto de Tecnologia de Massachusetts).
+Em um estudo publicado na última edição do periódico científico "Cell" (www.cell.com), o grupo de Jaenisch, liderado por seus alunos Konrad Hochedlinger e Yasuhiro Yamada, descobriu que as células-tronco adultas da pele respondem a uma proteína conhecida como Oct-4.
+Células-tronco têm a capacidade de se diferenciar em diversos tipos de tecido. Células-tronco de embriões são pluripotentes, ou seja, podem virar virtualmente qualquer outro tipo de célula. Suas contrapartes presentes em tecidos adultos perdem essa capacidade, podendo originar apenas alguns tipos de célula. Ainda assim, têm um grande potencial de uso em terapias.
+A Oct-4, até agora, era conhecida por agir somente nos primeiros estágios do desenvolvimento do embrião. Ela funciona como um vigia, deixando as células embrionárias em seu estado indiferenciado _e mantendo, assim, a imaturidade do embrião. Quando o gene que traz a receita para a fabricação da Oct-4 é desligado, as células embrionárias começam a se diferenciar em coração, fígado, ossos e neurônios, por exemplo.
+Hochedlinger e Yamada estavam curiosos para saber o que acontecia quando esse gene é religado em tecidos adultos. A aposta dos cientistas era que o Oct-4 fosse um potente gene causador de tumor, já que ele tem a capacidade de afetar o ciclo celular _e o câncer nada mais é do que uma anomalia nesse ciclo.
+Tumor instantâneo 
+A dupla produziu camundongos geneticamente modificados para ter o gene Oct-4 ligado em suas células sempre que ingeriam uma determinada substância.
+O tal remédio era misturado à água dos pobres roedores. Os cientistas viram que, após períodos extremamente curtos _de três a cinco dias_, os animais desenvolviam tumores. Então, eles interromperam a administração do remédio, fazendo com que o Oct-4 fosse automaticamente desligado. Espantosamente, os cânceres sumiram nos animais.   Linguagem arcaica 
+Um exame nos animais doentes revelou que as células que se multiplicavam de forma enlouquecida em presença da proteína Oct-4 eram justamente células-tronco. De alguma forma, mesmo depois de adultas, elas retêm a capacidade de compreender a "linguagem química" falada pelo embrião, e provocam o tumor justamente por se replicar indefinidamente sem produzir tecido maduro.
+Mas o que é um problema sério num organismo pode ser uma bênção para cientistas que precisem cultivar células-tronco adultas em laboratório. Uma das dificuldades desse cultivo é a "vontade" inerente das células adultas de amadurecer. A Oct-4 pode ser usada para evitar que isso ocorra.
+"Você pode remover a pele de uma pessoa, isolar as células-tronco da pele e submetê-las a um ambiente que ative a Oct-4", disse Hochedlinger. "Isso faria com que as células se multiplicassem e se mantivessem células-tronco. Como o processo é reversível, depois de ter uma massa crítica dessas células, você pode reinseri-las na pessoa, onde elas produziriam tecido saudável."

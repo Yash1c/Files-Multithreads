@@ -1,0 +1,25 @@
+Ligação via VoIP utiliza telefone comum 21/9/2005
+Autor: 
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Sep 21, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: MUITO ALÉM DO SKYPE
+Assuntos Principais: TELECOMUNICAÇÃO; TELEFONIA; INTERNET; TELEFONE; VOIP /TECNOLOGIA/; PC /PERSONAL COMPUTER/; COMPUTADOR; TELEFONE; ACESSÓRIO; CONEXÃO; SERVIÇO; EMPRESA; SITE; RECURSO
+Nem só com o PC é possível falar via internet; acessório permite adaptar aparelhos convencionais
+Ligação via VoIP utiliza telefone comum
+DA REPORTAGEM LOCAL
+Há diversas maneiras de se comunicar via VoIP. Algumas até dispensam o uso do computador, embora não seja possível abrir mão de uma conexão de banda larga, pela qual a voz trafegará.
+Há, basicamente, dois tipos de serviço de VoIP: o baseado no PC, que estabelece uma comunicação de voz entre computadores e que, em alguns casos, também estabelece uma comunicação entre o PC e telefones comuns ou celulares, e o que adapta o telefone convencional para o tráfego de VoIP _ dentro desta categoria há também diferenças.
+No primeiro caso, encontram-se serviços como UOL Fone e Erme Phone. Para usá-los, é necessário criar um e-mail com o respectivo domínio, baixar o software, dispor de fones com microfone e comprar créditos para as ligações. Seu funcionamento é semelhante ao da versão mais popular do Skype, permitindo uma comunicação por voz inteiramente feita pela rede de banda larga.
+Há ainda outras funcionalidades interessantes integradas a esses serviços. O Erme Fone, por exemplo, vem com leitor de RSS, aglutinador de contas de e-mail e integra-se ao celular, enviando e-mails e alertas em mensagens de texto e desviando chamadas para serem atendidas no portátil.
+Se o usuário desejar, pode ainda adquirir uma linha virtual _mas aí o serviço já passa a integrar uma outra categoria de VoIP: a que dispensa o PC e utiliza um telefone convencional adaptado.
+Telefone IP
+Os serviços desse grupo dividem-se em dois tipos: um dedicado somente a realizar ligações e outro capaz de realizar e também de receber telefonemas. Em ambos os casos, o usuário precisa adquirir um equipamento que possibilite utilizar um cabo de banda larga no lugar do cabo telefônico.
+Pode ser um telefone IP _aparelho que se assemelha a um telefone comum e que já vem capacitado para trafegar VoIP_ ou um adaptador, que é ligado ao modem e ao telefone convencional, adaptando-o para que seja ligado a um cabo de banda larga.
+Entre os serviços que permitem apenas receber ligações, está o da operadora Taho, pelo qual o usuário contrata uma linha virtualmente localizada na cidade em que desejar. Assim, é vantajoso adquirir uma linha virtual do local para onde se costuma ligar com freqüência: não importa onde você esteja realmente, pois virtualmente sempre estará na cidade escolhida e, conseqüentemente, pagando por ligações locais. As ligações entre telefones da mesma operadora têm custo zero.
+A desvantagem desse tipo de serviço é que o usuário precisa manter sua linha telefônica para receber ligações. Assim, o adaptador que se liga ao telefone convencional contém uma saída para o cabo de banda larga e outra para o telefônico.
+Substituição
+Se o seu intuito é substituir a linha telefônica, recorra a serviços como o da Hip Telecom e o da Primeira Escolha (leia abaixo), que fazem e recebem ligações pelo cabo de banda larga.
+Seus adaptadores têm um roteador que prioriza o tráfego de voz sobre o de dados. Assim, se você baixar um arquivo ao mesmo tempo em que conversa, o aparelho reduzirá a taxa de download para que a comunicação via voz não seja prejudicada, evitando atrasos de som que impossibilitariam a conversa. Por outro lado, eles comportam apenas dois aparelhos telefônicos, o que deixa a telefonia comum em vantagem. 
+(MB)

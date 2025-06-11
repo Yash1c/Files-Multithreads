@@ -1,0 +1,25 @@
+Emissora on-line busca o DNA da música 21/9/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F8
+Edição: São Paulo Sep 21, 2005
+Legenda Foto: Tela do site Pandora.com, que usa critérios técnicos para criar listas de músicas automaticamente
+Crédito Foto: Reprodução
+Vinheta/Chapéu: SOM DIGITAL
+Assuntos Principais: INTERNET; MÚSICA DIGITAL; MP3; RÁDIO ON-LINE; BUSCADOR; ANÁLISE; PANDORA /SITE/; PREFERÊNCIA; OUVINTE; PERSONALIZAÇÃO; MUSIC GENOME PROJECT /EMPRESA/; PROJETO; DESEMPENHO; TOCADOR
+Mecanismo analisa 400 características de cada canção e sugere composições parecidas para agradar ao usuário
+Emissora on-line busca o DNA da música
+COLABORAÇÃO PARA A FOLHA
+Qual a razão de uma pessoa gostar de uma banda de rock dos anos 60 e ao mesmo tempo também apreciar o som da música eletrônica? Para tentar encontrar essa resposta, sites e programas especiais estão se aproveitando das facilidades da música digital para classificar preferências musicais e criar acervos capazes de atender a todos os gostos.
+A aparente simplicidade do site www.pandora.com esconde um engenhoso sistema que pretende definir o genoma da música e criar automaticamente estações personalizadas de rádio on-line.
+Para criar uma lista, o site pede apenas que o nome de um artista ou de uma música seja digitado em uma janela.
+A partir daí, é feita uma análise das principais características musicais do grupo ou do cantor escolhido e, na seqüência, uma emissora personalizada já começa a tocar. Geralmente a primeira música executada é do próprio artista que serviu como referência.
+Da segunda canção em diante, começam as surpresas. Na tentativa de ouvir uma estação com o estilo dos Beatles, o site fugiu das alternativas mais óbvias e montou uma lista que incluía bandas como Marmalade e The Shaggs.
+De acordo com a equipe do Music Genome Project, que desenvolveu o Pandora.com, cada uma das 10 mil músicas armazenadas no banco de dados tem cerca de 400 "genes", que carregam detalhes como o ritmo dos instrumentos, as influências nas letras, as tonalidades e a harmonia dos vocais. Para catalogar todos esses detalhes, foram gastos cinco anos de trabalho de uma equipe formada por músicos e técnicos.
+Para experimentar o Pandora.com, não é preciso pagar e nem realizar cadastro. Há, entretanto, um limite de dez horas de programação na modalidade gratuita. Para ouvir mais tempo, é preciso pagar uma taxa de US$ 36.
+Outros requisitos para acessar o site são uma conexão de banda larga com a internet e um navegador que suporte animações em Flash (www.macromedia.com/go/getflashplayer).
+Listas espertas
+Os programas para tocar MP3 também apresentam opções para criar listas de músicas usando critérios variados.
+Com o popular tocador da Apple, o iTunes (leia texto ao lado), é possível ordenar músicas de acordo com estilo, ano de lançamento e outros detalhes.
+Os softwares gratuitos Winamp (www.winamp.com) e JetAudio (www.jetaudio.com) também oferecem recursos que permitem a criação e a organização de repertórios. 
+(JB)

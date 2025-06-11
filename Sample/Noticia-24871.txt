@@ -1,0 +1,14 @@
+No continente, Brasil é 3º país que mais gera ataques 29/5/2005
+Autor: ÉRICA FRAGA
+Origem do texto: DE LONDRES
+Editoria: MAIS! Página: 5
+Edição: São Paulo May 29, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: REINO UNIDO; INFORMÁTICA; SYMANTEC /EMPRESA/; INTERNET; SEGURANÇA; ABRIGO NUCLEAR; TECNOLOGIA; HACKER; FRAUDE; AMÉRICA LATINA; BRASIL
+No continente, Brasil é 3º país que mais gera ataques 
+DE LONDRES 
+O Brasil é um dos países que começa a estar na linha de frente da batalha virtual, atuando, na verdade, nas duas pontas: é muito atacado e também origina muitos ataques on-line. Se por um lado as cidades de São Paulo e Rio de Janeiro estão, por exemplo, entre as maiores vítimas dos chamados robôs no continente, por outro, o Brasil é o terceiro país que mais gera ataques por variados códigos na região _7% do total_, só perdendo para os EUA e o Peru. O país passou, entre o primeiro e o segundo semestres de 2004, da 23ª para a 12ª posição no ranking global de nações que mais geram ataques com códigos maliciosos na internet.
+Para Ricardo Costa, especialista em segurança da Symantec no Brasil, a explicação para o alto número de ataques originados no país pode ser o fato de que é alvo de muitos. Ou seja, um computador que foi "infectado" pode gerar, automaticamente, outros ataques.
+Alta concentração populacional, nível maior de informatização e acesso melhor aos serviços de alta velocidade ajudam a justificar porque internautas de SP e do RJ recebem muitas tentativas de crimes virtuais. A impunidade também pode contribuir para esse cenário.
+O setor bancário é um dos alvos principais de criminosos virtuais no Brasil. Não por acaso, a América Latina se diferencia das outras regiões como área onde cavalos-de-tróia que visam a roubar senhas estão entre os dez códigos maliciosos mais detectados. 
+(EF)

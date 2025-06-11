@@ -1,0 +1,24 @@
+Navegador portátil também toca música e vídeo 1/6/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jun 1, 2005
+Legenda Foto: Nokia 770, que exibe sites com animação em flash e arquivos PDF
+Crédito Foto: Divulgação
+Observações: SUB-RETRANCA
+Vinheta/Chapéu: COMPUTADOR DE MÃO
+Assuntos Principais: TECNOLOGIA; COMPUTADOR; NOKIA /EMPRESA/; NOKIA 770 /PALMTOP/; LANÇAMENTO; DESEMPENHO; RECURSO
+Navegador portátil também toca música e vídeo
+COLABORAÇÃO PARA A FOLHA
+A Nokia, líder mundial do mercado de celulares, deixou de lado seu principal produto e anunciou um micro de mão que acessa a internet por meio de conexão sem fio e tem uma lista de habilidades comparável à de qualquer PC.
+Em entrevista à agência Reuters, o vice-presidente da divisão de aparelhos multimídia da Nokia, Janne Jormalainen, afirmou que a empresa está "lançando uma categoria de produto completamente nova com o Nokia 770."
+Pesando 230 g e com tela sensível ao toque, o 770 tem sistema operacional baseado no Linux. O formato retangular da tela permite que os sites sejam vistos com a formatação original.
+Ele possui um navegador com suporte a animações em Flash e a documentos em PDF e é capaz de sintonizar transmissões de áudio em streaming (rádios on-line, por exemplo).
+A conexão do 770 com a internet é sem fio (Bluetooth ou Wi-Fi), mas também há um cabo USB para transferir arquivos de um micro para o aparelho.
+Ainda entre as opções para a internet, há um programa de correio eletrônico, um leitor de notícias e um sistema de busca.
+O 770 também pode tocar arquivos de áudio e de vídeo digital nos formatos mais populares, como MP3 e o MPEG-4.
+Fotos digitais nos formatos JPEG, GIF, BMP, TIFF e PNG são visualizadas com um programa que já vem instalado.
+Tantas opções afetam a autonomia do navegador portátil: suas baterias são capazes de funcionar de forma ininterrupta por cerca de três horas.
+Apesar de ainda nem ter chegado ao mercado _o que deve acontecer no final deste ano_ , o 770 já promete atualizações.
+Segundo a Nokia, o aparelho ganhará funções para realizar ligações por meio do padrão VoIP (de telefonemas via internet). 
+(JB)

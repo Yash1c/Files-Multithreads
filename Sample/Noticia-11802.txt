@@ -1,0 +1,18 @@
+Supermáquina simula ataques reais 13/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REDAÇÃO
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jul 13, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: EUA; TECNOLOGIA; CIÊNCIA; CIENTISTA; COMBATE; ATENTADO TERRORISTA; TERRORISMO; BASE; ESTRATÉGIA; DEPARTAMENTO DE SEGURANÇA NACIONAL
+Supermáquina simula ataques reais
+DA REDAÇÃO
+No Laboratório Nacional de Los Alamos (www.lanl.gov), nos EUA, cientistas têm uma estranha tarefa: tramar ataques terroristas. Para a sorte de todos, trata-se de ataques virtuais, que servem de base para estratégias do Departamento de Segurança Nacional.
+Em reportagem publicada dias antes do ataque a Londres, o jornal americano "Washington Post" revelou que supercomputadores têm sido empregados para criar cidades americanas virtuais, com milhões de pessoas que trabalham, vão a shoppings e a jogos de futebol e dispõem de abastecimentos de gás, óleo e água, de sistemas de transportes e até mesmo de uma internet virtual.
+As simulações ocorrem em um tempo cem vezes mais rápido do que o real e incluem o fechamento de locais de trabalho e de aeroportos e o isolamento de determinados bairros. É possível ainda estabelecer zonas de quarentena e até mesmo calcular tendências comportamentais da população.
+Vítima virtual
+As máquinas usam informações reais sobre a rotina de várias cidades americanas. Sabem, por exemplo, que em Portland, a maior cidade do Estado de Oregon, cada um de seus 1,6 milhão de habitantes executa, em média, cinco tarefas diárias e gasta cerca de 30 minutos em deslocamentos pela cidade para realizar cada uma delas.
+Portland foi alvo de uma simulação de ataque biológico. No teste virtual, os cientistas liberaram o vírus da varíola em uma universidade do centro da cidade. Dez dias depois, período correspondente à incubação, os hospitais registraram os primeiros casos.
+O computador reportou a epidemia: no primeiro dia, havia 1.281 infectados e nenhuma morte. No septuagésimo dia, o ataque já fizera 12.499 mortos. Com esses números nas mãos, os cientistas começaram a calcular as possíveis variações resultantes do fechamento das escolas ou de vacinações em massa.
+Concluíram que, mais importante do que o tipo de intervenção, é a rapidez com que é feita, e que fechar escolas não é uma medida eficiente, pois os pais acabam levando as crianças para shoppings e parques.
+(MB)

@@ -1,0 +1,15 @@
+Windows Me e XP substituem o uso do WinZip 4/5/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo May 4, 2005
+Seção: CANAL ABERTO
+Windows Me e XP substituem o uso do WinZip
+"Lendo a Folha do dia 13/4, fiquei sabendo que o Windows Me já possui um programa de descompactação. Não o encontrei, por isso peço ajuda."
+(Luiz Antônio Azzini)
+Resposta - As versões Me e XP do Windows possuem um recurso chamado Pastas Compactadas, que nada mais é do que uma interface diferente para ver um arquivo compactado no formato ZIP. Ativado, o recurso mostra todos os arquivos zipados como se fossem pastas do Windows.
+Ao clicar sobre esse arquivo/ pasta, a opção Meu Computador mostrará o seu conteúdo e você poderá arrastar novos arquivos para lá ou extrair arquivos que estão dentro da pasta compactada.
+Para ativar esse recurso, clique no menu Iniciar e selecione Configurações e Painel de controle. Clique no ícone Adicionar/Remover Programas. Na janela que se abre, clique sobre a guia Instalação do Windows. No painel central, procure o item Ferramentas de Sistema e dê um duplo clique sobre ele. Marque o item Pastas compactadas e pressione OK.
+A partir desse instante, os arquivos no formato ZIP passam a ser vistos como uma pasta do Windows. Se você clicar sobre o antigo arquivo ZIP, em vez do Winzip ser aberto, o conteúdo é exibido em forma de pasta.
+Agora é possível criar pastas vazias que poderão ser usadas como um armazém de arquivos compactados. Use o menu Arquivo do Meu computador, selecione o item Novo e escolha Pasta Compactada. Informe um nome para a pasta e pressione o botão OK. Agora você poderá arrastar arquivos para lá.
+CORRESPONDÊNCIA
+E-mail canalaberto@uol.com.br (necessário o nome completo)

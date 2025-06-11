@@ -1,0 +1,19 @@
+Cibercriminosos têm motivação comercial 13/7/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jul 13, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; INTERNET; SOFTWARE; PROGRAMA ESPIÃO; ZUMBI; HACKER; E-MAIL /CORREIO ELETRÔNCIO/; SOLUÇÃO
+Cibercriminosos têm motivação comercial
+COLABORAÇÃO PARA A FOLHA
+Entre o idealismo de protestar tirando um site do ar e a certeza de lucro ao enviar milhares de e-mails não solicitados, os criminosos da internet não têm dúvida ao escolher a segunda opção.
+De acordo pesquisas de empresas de monitoramento de e-mails, cerca de 80% do spam é enviado por máquinas escravizadas.
+Usar redes de computadores infectados poupa dinheiro e evita que a localização dos cibercriminosos seja descoberta.
+Com um computador comum, um hacker pode enviar ordens para milhares de máquinas conectadas à internet.
+Um exemplo dessa relação do spam com as redes de zumbis foi o caso do provedor de acesso rápido à internet ComCast (www. comcast.com).
+No mês de outubro do ano passado, a Message Labs publicou um relatório que mostrava que apenas 12% dos e-mails enviados pelos usuários do provedor eram realmente legítimos.
+Os outros 88%, dos mais de 800 milhões de mensagens enviadas diariamente, eram spam e foram solicitados por meio de redes de computadores infectados.
+Para procurar soluções para esse tipo de problema, autoridades de 15 países trabalham na Operation Spam Zombies (www.ftc. gov/bcp/conline/edcams/spam/zombie/index.htm), que tem como meta informar provedores e serviços de hospedagem do mundo todo sobre a relação entre as redes de zumbis e o spam.
+A conscientização de usuários e de empresas por meio de campanhas e informativos é a principal arma da organização.
+(JB)

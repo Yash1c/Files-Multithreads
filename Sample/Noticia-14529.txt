@@ -1,0 +1,21 @@
+Método produz etanol a baixo custo 3/7/2005
+Autor: MAURÍCIO SIMIONATO
+Origem do texto: DA AGÊNCIA FOLHA, EM CAMPINAS
+Editoria: DINHEIRO Página: B8
+Edição: São Paulo Jul 3, 2005
+Legenda Foto: Caminhões com cana aguardam para descarregar na região de Ribeirão Preto (SP); novo sistema triplica produção e reduz custos
+Crédito Foto: Joel Silva/Folha Imagem
+Observações: SUB-RETRANCA
+Assuntos Principais: COMBUSTÍVEL; ÁLCOOL; INVESTIMENTO; PRODUÇÃO; AUMENTO; FEA /FACULDADE DE ENGENHARIA DE ALIMENTOS/; PESQUISA
+Método produz etanol a baixo custo
+MAURÍCIO SIMIONATO
+DA AGÊNCIA FOLHA, EM CAMPINAS
+Pesquisadores da FEA (Faculdade de Engenharia de Alimentos) da Unicamp (Universidade Estadual de Campinas) desenvolveram um sistema inédito que permite triplicar a produção de álcool e reduzir custos do processo industrial nas usinas.
+O álcool, ou etanol _que pode ser usado como combustível nos postos e como produto das indústrias farmacêutica e de bebidas_, é produzido a partir de melaço da cana-de-açúcar. "O sistema beneficia a indústria, com a redução de custos como gastos com energia e transportes, e poderá diminuir o preço do etanol na bomba, pois sua produtividade será maior", disse um dos pesquisadores envolvidos, o professor da FEA Francisco Maugeri Filho.
+Os pesquisadores desenvolveram também um software que permite a tomada de dados e o controle geral do processo.
+O novo método já teve os direitos de propriedade intelectual solicitados pela universidade. O próximo passo da Unicamp é negociar com grupos de usineiros, que já demonstraram interesse em implantar o processo. Até o final deste ano os pesquisadores esperam implementar o projeto-piloto para depois passar para a escala industrial.
+No novo sistema, os pesquisadores aproveitaram o método de fermentação contínua _usado em algumas destilarias_ e somaram a esse processo a extração a vácuo do etanol, segundo o professor da Unicamp. A extração a vácuo diminui a toxidade do etanol pelos microorganismos que promovem a fermentação.
+Segundo o professor, quando alcança 9º ou 10º GL (graus por litro), o álcool começa a inibir completamente a atuação do microorganismo, que "morre" por causa da alta toxicidade gerada pelo próprio álcool. É justamente por causa dessa "morte" do microorganismo que os fermentadores usados nos processos atuais têm sua produção limitada.
+"Ao retirarmos o álcool antes de 'intoxicar' os microorganismos, a atividade biológica do microorganismo se mantém e ele [microorganismo] continua a se reproduzir. Com a extração do etanol durante o processo, podemos trabalhar com maior concentração de açúcar", disse o pesquisador.
+Com isso, a alimentação de açúcar, que antes só poderia chegar ao máximo de 18% (ou 180 gramas por litro) no caldo de fermentação, passa a ficar mais concentrada, podendo chegar a 54%.
+"Para entender o princípio do nosso método a vácuo, é preciso lembrar que o etanol é mais volátil, evapora mais rapidamente do que os outros componentes. Ao entrar em ambiente de baixa pressão (vácuo), o etanol evapora e passa para o condensador."

@@ -1,0 +1,33 @@
+PC Conectado tem configuração simplória 18/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo May 18, 2005
+Crédito Foto: Editoria de Arte/Folha Imagem
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: MERCADO
+Assuntos Principais: INFORMÁTICA; TECNOLOGIA; GOVERNO LULA; ANÚNCIO; PC CONECTADO; COMPUTADOR POPULAR; PROBLEMA; LINUX /SOFTWARE/; POLÊMICA
+Computador apresenta pouca memória RAM e não oferece gravador de CDs, item de série até em micros baratos
+PC Conectado tem configuração simplória 
+BRUNO GARATTONI 
+DA REPORTAGEM LOCAL 
+Na quinta-feira passada, o governo federal anunciou as características definitivas do PC Conectado, um computador popular que será fabricado por várias empresas e vendido com financiamento mais barato. A máquina, que deverá custar no máximo R$ 1.400, poderá ser parcelada em até 24 prestações de R$ 70.
+No quesito componentes, o PC Conectado sofre dos mesmos problemas encontrados nos micros básicos já no mercado. Seu processador é bom e o disco rígido também, mas a memória RAM é insuficiente.
+O ideal seria que o micro tivesse 256 Mbytes, upgrade que acresceria cerca de R$ 50 ao preço. Também faz falta um gravador de CDs, que atualmente é equipamento de série mesmo em micros baratos (veja quadro).
+Linux 
+A principal característica do PC Conectado é o sistema operacional Linux. Embora ele seja mais seguro que o Windows e tenha feito progressos nos últimos anos, ainda é fraco em compatibilidade.
+A grande maioria dos periféricos _scanner, impressora, webcam etc._ à venda no país não traz drivers (programas adaptadores) aceitos pelo Linux.
+Isso não significa que eles não possam ser instalados, mas obriga o usuário a caçar, por conta própria, drivers adequados, que nem sempre estão disponíveis e cuja instalação não é necessariamente trivial. Em alguns casos, o hardware pode ser reconhecido automaticamente pelo Linux, mas funcionar com menos recursos do que se estivesse com drivers originais de fábrica.
+Outro problema está na configuração do Linux, que às vezes é necessária _o PC Conectado da marca Positivo, por exemplo, veio de fábrica precisando de alguns ajustes manuais (leia texto abaixo)_ e é mais difícil que a do Windows, pois o painel de controle do Linux é menos completo, ao menos na versão que veio instalada no PC Positivo.
+Por outro lado, a coleção de 26 programas é mais variada que a do Windows. "Esse pacote contempla as atividades básicas do internauta", diz o escritor de informática e colunista da Folha José Antonio Ramalho. Ele destaca positivamente a compatibilidade do pacote de escritório OpenOffice.org, incluso no PC Conectado, com o Microsoft Office.
+Discussão 
+O projeto PC Conectado e sua opção pelo Linux causam polêmica no mercado de informática brasileiro. A Dell, por exemplo, admite participar do projeto, mas não quer lançar uma máquina com Linux. "Para o usuário leigo, o software livre [Linux] é uma aposta. Pode haver dificuldade no uso do produto", justifica o diretor Fernando Loureiro.
+Ele critica o governo por não ter anunciado quando e como o projeto será regulamentado e entrará em vigor. "Isso cria uma expectativa no mercado que pode ser frustrada."
+A HP, que também diz estar avaliando o assunto PC Conectado antes de entrar no projeto, ressalta a falta de suporte técnico para o sistema Linux no Brasil. "Você não tem muitos especialistas em software aberto", afirma o diretor Hugo Valério. A Itautec não vai participar do projeto.
+Até a Positivo, que já tem uma configuração com Linux, parece preferir o Windows. "Eu não acredito que usuários domésticos vão adotar micros com Linux. A grande maioria vai piratear, possivelmente, o software da Microsoft", considera Helio Rotenberg, diretor da empresa.
+Vendas
+Entre os varejistas, há otimismo com relação ao PC Conectado. Para o Extra, que diz ser o maior vendedor de micros do país, o computador popular financiado deverá combater o chamado "mercado cinza", formado por pequenos montadores que, em alguns casos, usam peças contrabandeadas e softwares piratas.
+"Para nós, a iniciativa é muito boa, pois acaba combatendo esse mercado, que é informal e não paga impostos", diz a gestora de categoria Rita Bellizia.
+O governo considerou, ao definir as especificações do PC Conectado, permitir também uma versão com o Windows XP Starter Edition.
+O problema é que, embora traga todos os principais recursos do XP normal, o Starter Edition impõe uma limitação crucial: o usuário só pode manter três softwares abertos ao mesmo tempo.
+É muito pouco, mesmo para usos leves: não é possível, por exemplo, ouvir música enquanto se navega na internet com um comunicador pessoal e um editor de textos abertos. Algumas empresas já vendem máquinas com o Starter Edition (veja quadro), mas sem a isenção fiscal, de 9,5%, que beneficia o PC Conectado.

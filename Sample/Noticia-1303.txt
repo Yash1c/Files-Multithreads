@@ -1,0 +1,17 @@
+VEJA COMO INSTALAR UM GRAVADOR DE DVD 17/8/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F6
+Edição: São Paulo Aug 17, 2005
+Arte: QUADRO: VEJA COMO INSTALAR UM GRAVADOR DE DVD
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; DVD; GRAVADOR; INSTALAÇÃO
+VEJA COMO INSTALAR UM GRAVADOR DE DVD
+. Ferramentas: chave de fenda Philips e alicate de bico fino
+. Tempo necessário: 10 a 15 minutos
+1º - Desligue fisicamente o PC da tomada. Usando a chave de fenda, remova os quatro parafusos que prendem a tampa do gabinete. Não mexa nos demais parafusos, pois eles seguram a fonte de alimentação
+2º - Encoste a mão na fonte (ela é a caixinha metálica que fica na parte traseira) para descarregar a eletricidade estática do seu corpo. Repita esse procedimento ao longo da instalação e evite encostar na placa-mãe
+3º - Solte os parafusos que prendem o drive atualmente instalado no PC
+4º - Desconecte o cabo de força (colorido) e o cabo de dados (branco e achatado)
+5º - Observe a posição do jumper _pecinha plástica que fica na traseira do gravador. Caso necessário, remova o jumper usando o alicate e reposicione a peça para que o DVD fique na mesma configuração do drive antigo _Master ou Slave
+6º - Remova o drive antigo e insira o DVD. Aperte bem os parafusos de fixação para evitar vibrações. Reconecte os cabos de força e dados. Ligue o micro e instale os softwares fornecidos com o gravador
+próximo...próxima ocorrência...

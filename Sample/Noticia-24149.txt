@@ -1,0 +1,18 @@
+Softs parasitas desconfiguram Explorer 1/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Jun 1, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: IRRITAÇÕES
+Assuntos Principais: COMPUTADOR; INTERNET; SEGURANÇA; WINDOWS XP /SISTEMA OPERACIONAL/; DICA; CONFIGURAÇÃO; AUTOMATIZAÇÃO; INTERNET EXPLORER /SOFTWARE/; PROGRAMA; POP-UP; SPYWARE /SOFTWARE/
+Use acessório para detectar e remover o spyware, que muda página inicial do navegador e exibe fotos indesejadas
+Softs parasitas desconfiguram Explorer
+DA REPORTAGEM LOCAL
+Em sua última versão, o navegador Internet Explorer trouxe ao Windows XP um recurso para combater uma das maiores fontes de irritação dos usuários: os pop-ups, anúncios que pulam na tela. Ele funciona praticamente sozinho, mas isso não significa que não restem configurações manuais a serem feitas no programa.
+Entre as inconveniências do IE estão o sistema de autopreenchimento de formulários e de endereços de sites e a escolha da home page _página aberta quando o navegador é carregado_, que o usuário pode não saber configurar (veja quadro ao lado).
+Por falar em home page, o IE é alvo preferencial de spyware _programas parasitas que são instalados sem que o usuário perceba (ou queira). Eles podem mudar a página inicial e abrir janelas com conteúdo pornográfico.
+Uma boa opção para se defender é instalar o acessório Microsoft AntiSpyware (www.microsoft.com/athome/security/spyware/software/default.mspx), que traz um recurso para restaurar instalações do IE atacadas por parasitas.
+O AntiSpyware tem escaneamento em tempo real, ou seja, fica carregado o tempo todo para monitorar e barrar o spyware antes mesmo que ele seja instalado, mas esse recurso mostra muitas janelas de aviso. Se você quiser desativá-lo, clique com o botão direito no ícone do programa, ao lado do relógio do Windows, e selecione Disable Real-time Protection. Esse ajuste causa ligeira diminuição no nível de proteção do micro.
+A maioria dos internautas ainda navega com conexões discadas (dial-up). Como seu uso é cobrado por minuto, vale a pena fazer um ajuste para evitar que o IE tente, sozinho, fazer ligações para o seu provedor de acesso _coisa que pode ocorrer quando determinados softwares que precisam acessar a rede são instalados no PC. Abra o IE e clique em Ferramentas, Opções da Internet e Conexões e selecione a opção Nunca discar uma conexão. 
+(BG)

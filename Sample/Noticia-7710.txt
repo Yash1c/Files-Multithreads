@@ -1,0 +1,22 @@
+Pai do Orkut promete melhorar o site 27/7/2005
+Autor: PATRÍCIA BURGOS
+Origem do texto: DE BARCELONA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jul 27, 2005
+Legenda Foto: Orkut Buyukkokten, pai do site de relacionamentos do Google
+Crédito Foto: Mauel Socias/Divulgação
+Vinheta/Chapéu: ENTREVISTA
+Assuntos Principais: INTERNET; COMUNIDADE VIRTUAL; ORKUT /SITE/; ORKUT BUYUKKOKTEN; MUDANÇA; ATUALIZAÇÃO; PREVISÃO; MELHORIA; BARCELONA /ESPANHA/; POLÊMICA
+Pai do Orkut promete melhorar o site
+PATRÍCIA BURGOS
+DE BARCELONA
+A mensagem "Bad, bad server. No donut for you", que aparece na tela dos usuários do Orkut quando o servidor não funciona direito, tem seus dias contados. Pelo menos, é a promessa do criador do site, o engenheiro de programas Orkut Buyukkokten, 30, que esteve em Barcelona falando sobre a página de relacionamentos desenvolvida por ele para o Google. Apesar de ainda não ter uma data concreta, ele acredita que a versão definitiva deva ficar pronta nos próximos 12 meses. O serviço está no ar, em testes, desde janeiro de 2004.
+Segundo ele, há dois problemas para que ainda não seja possível definir quando o site ganhará status de acabado. O primeiro é que o Orkut não foi concebido para tantos membros. "Quando eu escrevi o sistema, não o fiz para suportar tantos usuários e, quando o lançamos, as pessoas começaram a se inscrever realmente rápido. Em poucos meses, já tínhamos 1 milhão de usuários", diz Buyukkokten. O engenheiro de programas do Google explica que, para encontrar uma solução, não basta apenas colocar mais máquinas e fazer a página mais rápida: "Você tem de mudar a infra-estrutura dos códigos".
+Segundo Buyukkokten, o serviço está melhorando, mas ainda não consegue satisfazer a demanda. "Se tornarmos o site duas vezes mais rápido, os membros da comunidade começarão a usá-lo três vezes mais", reclama. E quem usa muito a página ainda se depara com erros. Durante a estada de uma semana de Buyukkokten em Barcelona _onde fez palestras em um curso no centro Ernest Lluch_, por exemplo, a comunidade esteve várias horas fora do ar.
+Além dos problemas técnicos, o site sofre com comentários que circulam na rede, de que os serviços passarão a ser cobrados ou de que Google venderá informações pessoais dos usuários. Buyukkokten afirma não haver intenção de cobrar pelo acesso à página ou de vender informações. Sobre o mau uso que alguns membros fazem da comunidade, diz: "As pessoas são pessoas mesmo no ciberespaço".
+Apesar das críticas, o criador está satisfeito com a criatura. "É impressionante ver como o site mudou a vida das pessoas."
+Ele conta que será padrinho do filho que um amigo nova-iorquino teve com uma garota da Estônia. Eles se conheceram pelo site e depois se casaram.
+O pai do Orkut também se diz satisfeito e impressionado com a presença brasileira _dos mais de 8 milhões de usuários do Orkut, 73,84% são do Brasil. E o número pode ser bem maior, já que brasileiros que moram no exterior colocam em seus perfis o país em que vivem, e outros optam por se identificar como originários de lugares exóticos.
+A forte presença brasileira surpreendeu a equipe do site. "Nós perguntávamos por que o Brasil", diz Buyukkokten. "Depois descobri que há muitos usuários de internet no Brasil, aprendi sobre sua cultura, e meio que faz sentido. O povo é amistoso, gosta de fazer amigos e de sair." Ele lembra que, quando o número de usuários brasileiros passou o de americanos, ficou sabendo de uma festa realizada em São Paulo para celebrar o feito. "Achei muito simpático." Por isso, apesar de o site ter usuários em mais de 200 países, sua primeira tradução foi para o português, lançada em abril passado.
+Mas o serviço ainda não está totalmente traduzido. A principal mensagem de erro, "Bad, bad server. No donut for you", continua em inglês. Na primeira página, há uma falha na tradução. A frase para lembrar ao usuário sua senha de acesso, originalmente "remember me", virou "lembrar-se de mim".
+Buyukkokten diz que os brasileiros são prioridade máxima para o serviço. "Nós estamos interessados em melhorar a experiência on-line dos brasileiros", afirma o engenheiro do Google _a empresa, por sinal, na semana passada comprou a brasileira Akwan, dona do site de busca Todobr, que pretende usar como base para sua expansão na América Latina.

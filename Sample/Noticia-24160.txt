@@ -1,0 +1,16 @@
+Páginas falsas confundem fãs de game e filme 1/6/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 1, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; SEGURANÇA; FRAUDE; SITE; FALSIFICAÇÃO; YAHOO! /EMPRESA/; STAR WARS /FILME/; VIDEOGAME; XBOX 360 /CONSOLE/; SPYWARE /SOFTWARE/
+Páginas falsas confundem fãs de game e filme
+COLABORAÇÃO PARA A FOLHA
+Dois golpes envolvendo páginas falsas chamaram a atenção na semana passada.
+O primeiro envolveu duas marcas famosas, "Star Wars" e Yahoo!. O outro se aproveitou de um dos lançamentos da E3, o Xbox 360.
+O endereço yahoopremium.bravehost.com/STAR_GAMES foi espalhado pela rede como se fosse uma página do portal Yahoo! que dava prêmios a quem acertasse perguntas sobre "Star Wars".
+Na verdade, a página continha um soft espião que copiava a senha de acesso do Yahoo! que os internautas digitavam para acessá-la.
+Apesar do oportunismo, a ameaça foi detectada rapidamente e não causou muitos danos. Segundo a empresa de segurança Imlogic (www.imlogic.com), a fraude era de risco médio.
+O golpe da página do Xbox 360 era mais nocivo. Segundo a empresa Finjan Software (www.finjan.com), uma falha de programação no site original do videogame permitia o roubo de senhas de e-mail e de números de cartão de crédito. 
+(JB)

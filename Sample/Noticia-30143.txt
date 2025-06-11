@@ -1,0 +1,31 @@
+Conheça softs grátis para ouvir podcasts 11/5/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo May 11, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; MÚSICA; PODCAST /RÁDIO DIGITAL/; SOFTWARE; IPODDER /SINTONIZADOR/
+Conheça softs grátis para ouvir podcasts
+COLABORAÇÃO PARA A FOLHA
+Apesar de sua ligação evidente com os toca-MP3 portáteis, os programas gravados no formato podcast também podem ser ouvidos em micros comuns.
+Para tanto, é preciso instalar uma espécie de sintonizador. Esse software reunirá uma lista de sites que têm programação em áudio, vai checar se existem arquivos novos e depois vai baixá-los para uma pasta de sua preferência.
+Mecanismos do padrão RSS, os mesmos usados para busca automática de notícias, são usados para acompanhar as novidades publicadas na rede.
+O sintonizador de podcast mais popular é o iPodder (grátis em ipodder.sourceforge.net). Ele foi o pioneiro nessa categoria, tem versões para Windows, Linux e Macintosh e já foi baixado mais de 250 mil vezes.
+Usá-lo é bastante simples. Na tela inicial (Subscriptions), o iPodder mostra algumas sugestões de podcasts para baixar e uma lista com outros canais divididos por assunto (Podcast directory). Navegue nessa lista e adicione os programas que despertarem seu interesse. Para fazer isso, basta clicar sobre o nome deles e depois apertar o botão Add, localizado na parte superior do programa.
+Na janela que aparecer, aperte Save. Após escolher as estações, volte para a primeira janela e clique no ícone verde (Check for new podcasts). Os programas novos começarão a ser baixados.
+Se você deseja acompanhar o progresso das cópias, basta clicar na aba Downloads. Os arquivos com um círculo azul ao seu lado ainda estão sendo copiados.
+Eles só estarão disponíveis para execução quando um ícone verde aparecer. Quando isso acontecer, basta clicar com o botão direito sobre o nome do arquivo baixado e escolher Play episode in media player. Seu player de áudio padrão começará a tocar o arquivo automaticamente.
+Quem usa o Windows Media Player ou o iTunes conta com uma opção mais rápida de abrir os seus podcasts. É o Primetime Podcast Receiver (grátis, em www.primetimepodcast.com).
+Ele funciona em conjunto com as listas de execução (playlists) do WMP e do iTunes, o que facilita a transferência para um toca-MP3 portátil, e tem uso simplificado.
+Basta adicionar endereços de podcasts usando as sugestões da janela Main, ou adicionando caminhos manualmente (clique no botão com o sinal de adição).
+Depois é só clicar no botão da lupa (Scan) e esperar que os programas sejam baixados.
+Depois do download, clique na aba Media, escolha o programa que quer ouvir e aperte o botão Play do tocador que aparece do lado esquerdo da tela do próprio Primetime.
+Com esse software, é possível listar podcasts de acordo com seus países de origem. Basta clicar sobre a aba Directory e depois sobre a lista de endereços. Entre os itens que aparecem, escolha Podcast Directory.com (by country).
+Depois é só navegar pelas opções. Nos testes realizados pela reportagem, foram encontrados dois sites brasileiros.
+Quem é usuário do serviço de RSS Bloglines (www.bloglines.com) pode copiar sua lista de endereços de podcasts diretamente do site para o programa.
+No portal Download.com (www.download.com) existem outras opções de sintonizadores de podcast, como o Nimiq e o Podfeeder. Os dois são gratuitos.
+Caminho fácil
+Quem não tem paciência para baixar e instalar os programas citados pode experimentar os serviços do site PotKast (www.potkast.com). Ele traz uma animação que imita o toca-MP3 iPod e sintoniza vários podcasts.
+Passe o mouse sobre o círculo cinza para movimentar a lista. Para selecionar uma estação, clique sobre o círculo branco.
+É recomendável ter uma conexão rápida com a internet para que o site funcione bem.
+(JB)

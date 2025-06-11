@@ -1,0 +1,9 @@
+Netscape corrige falha que afetava Internet Explorer 22/6/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 22, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: SOFTWARE
+Assuntos Principais: INTERNET; NETSCAPE /NAVEGADOR/; CORREÇÃO; FALHA; ATUALIZAÇÃO; INTERNET EXPLORER /NAVEGADOR/
+Netscape corrige falha que afetava Internet Explorer
+A Netscape (www.netscape.com) lançou uma atualização da versão 8 de seu navegador para corrigir uma interferência no Internet Explorer. O Netscape 8 tornava o Explorer incapaz de ler paginas no formato XML. Usuários de ambos os navegadores devem reinstalar o Netscape para corrigir o problema. Segundo a Netscape, o problema era causado por deficiências do IE.

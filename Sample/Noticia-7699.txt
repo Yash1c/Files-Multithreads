@@ -1,0 +1,22 @@
+Rede traz representações temáticas 27/7/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jul 27, 2005
+Legenda Foto: Estudo norte-americano de paleogeografia mostra como eram os continentes no período Proterozóico, há 600 milhões de anos
+Crédito Foto: Reprodução
+Observações: SUB-RETRANCA
+Assuntos Principais: INTERNET; GEOGRAFIA; MAPA; MAPEAMENTO DIGITAL; SITE; SERVIÇO; IMAGEM; SATÉLITE; PESQUISA CIENTÍFICA; ESTUDO
+Rede traz representações temáticas
+DA REPORTAGEM LOCAL
+Diversos sites e programas geradores de mapas têm o objetivo de fornecer informações para estudos e finalidades específicas.
+No site da Divisão de Processamento de Imagens do Instituto Nacional de Pesquisas Espaciais (www.dpi.inpe.br), é possível fazer o download do Spring, programa desenvolvido por cientistas brasileiros que faz a leitura e o processamento de imagens, cruza os dados, como temperaturas médias e índices pluviométricos, e permite ao usuário montar mapas digitalmente.
+Já a página do programa CBERS (sigla para China-Brazil Earth Resources Satellite, www.dgi.inpe.br/CDSR) oferece imagens feitas por satélite. Um mecanismo executa buscas por município, órbita e coordenadas geográficas.
+Amantes da geografia discutem o assunto no site geobloggers.blogspot.com. Ferramentas para construir mapas digitais estão em www.maptools.org.
+Quem gosta de história pode acessar um estudo de paleogeografia, com imagens dos primórdios da Terra, em jan.ucc.nau.edu/~rcb7/mollglobe.html. Os mapas representam as diferentes disposições dos continentes nos últimos 600 milhões de anos.
+Navegação
+Cartas náuticas podem ser baixadas no site da Diretoria de Hidrografia e Navegação da Marinha (www.dhn.mar.mil.br/bhm/publicacao).
+Programas que orientam navegadores podem ser adquiridos em sites como www.navsoft.com.br e www.radiomar.com.br.
+É possível gravar diários de bordo, saber o que está sob a água, localizar marinas e faróis, receber previsões meteorológicas e até controlar o piloto automático da embarcação. Há versões para notebook, PC e computador de mão.
+Um programa que cria mapas baseados em dados obtidos por GPS (sigla para Sistema de Posicionamento Global) está em www.gpsvisualizer.com. 
+(MB)

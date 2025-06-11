@@ -1,0 +1,17 @@
+A REVOLTA DA TECNOLOGIA 11/9/2005
+Autor: 
+Editoria: VEÍCULOS Página: 1
+Edição: São Paulo Sep 11, 2005
+Arte: QUADRO: A REVOLTA DA TECNOLOGIA; ILUSTRAÇÃO
+Observações: SUB-RETRANCA
+Assuntos Principais: AUTOMÓVEL; TECNOLOGIA; MODELO; RECURSO; PROBLEMA; FUNCIONAMENTO; FALHA
+A REVOLTA DA TECNOLOGIA 
+SOTWARE MATADOR DE BATERIAS 
+. Mito: baterias que recarregam automaticamente "morrem" sem razão aparente 
+. Realidade: às vezes, as baterias "morrem" em carros com muitos opcionais. Sistemas diferentes no mesmo automóvel, usando diferentes softwares, verificam a rede do veículo para descobrir quais sistemas estão ativos. Imediatamente, eles acionam os processadores, mas operam em ciclos diferentes. "Como resultado, ninguém dorme, e o carro usa energia mais tempo que o necessário", diz um engenheiro de uma fabricante de Detroit  
+TRAVAS 'DEIXE-ME SOZINHO' 
+. Mito: alguns carros maldosos não deixam o motorista entrar, mesmo que ele esteja com a chave 
+. Realidade: em alguns veículos, um sensor detecta a presença da chave na ignição e desabilita as travas eletrônicas para que a chave não fique trancada. Se o software não funciona direito e detecta uma chave quando ninguém está presente, ele ainda bloqueia as trancas mesmo que se tente abrilas pelo controle remoto. Mas a maiorias dos carros permite abrir as portas manualmente, o que pode pôr em funcionamento alarmes que cortam a injeção de combustível  
+TOCA-CDS 'CUSPIDOR' 
+. Mito: o toca-CDs arremessa o disco em direção aos passageiros 
+. Realidade: os aparelhos podem ejetar, não "cuspir" o CD. Em alguns carros de luxo, baterias com baixo nível de energia entram num "modo de segurança" que leva a disqueteira a repetir a primeira música do primeiro CD

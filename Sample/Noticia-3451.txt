@@ -1,0 +1,9 @@
+Acessório de navegador causa problema 10/8/2005
+Autor: 
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Aug 10, 2005
+Seção: PANORÂMICA
+Vinheta/Chapéu: INTERNET
+Assuntos Principais: INTERNET; SEGURANÇA
+Acessório de navegador causa problema
+O plug-in gratuito Greasemonkey (greasemonkey.mozdev.org), que permite personalizar páginas exibidas no Firefox, continha uma falha que permitia que invasores roubassem dados pessoais dos internautas. Uma versão com correções já foi publicada e é indicada a todos os usuários.

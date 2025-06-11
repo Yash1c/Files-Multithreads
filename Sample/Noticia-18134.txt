@@ -1,0 +1,18 @@
+Serviço fiscaliza troca de músicas 22/6/2005
+Autor: 
+Origem do texto: DA REDAÇÃO
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo Jun 22, 2005
+Legenda Foto: Fanning, criador do Napster, que agora preserva os artistas
+Crédito Foto: Paul Sakuma - 12.fev.01/Associated Press
+Observações: SUB-RETRANCA
+Vinheta/Chapéu: SOM ON-LINE
+Assuntos Principais: MÚSICA DIGITAL; SNOCAP /SOFTWARE/; BANCO DE DADOS; REDE PONTO A PONTO; ARQUIVO; TROCA; RESTRIÇÃO; PIRATARIA
+Serviço fiscaliza troca de músicas
+Snocap rastreia canções pelas redes P2P
+DA REDAÇÃO
+Depois de fundar a primeira e uma das maiores redes de compartilhamento de músicas digitais, o Napster, Shawn Fanning acaba de anunciar outro serviço pioneiro, o Snocap (www.snocap.com).
+É um banco de dados em que são registradas as regras de reprodução que protegem cada canção, de maneira a controlar sua circulação nas redes ponto a ponto (P2P), usadas por programas de troca de arquivos. São diversos os graus de restrição, que permitem até o bloqueio completo.
+As redes P2P poderão usar o Snocap para identificar canções que tenham distribuição ilegal e substitui-las por versões aprovadas por seus autores. O serviço deve agradar também aos músicos e selos independentes, que terão nas licenças uma forma de cobrar por seu trabalho.
+No celular
+Usuários de celulares da Ericsson poderão baixar músicas do Naspter (que há alguns anos se converteu em loja virtual) em seus aparelhos. O serviço, que estará disponível na Europa daqui a um ano, permitirá acessar a biblioteca de músicas pelo telefone ou pelo PC. A Motorola também planeja lançar uma parceria semelhante com a loja iTunes Music Store, da Apple.

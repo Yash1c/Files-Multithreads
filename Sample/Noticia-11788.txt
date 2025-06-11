@@ -1,0 +1,16 @@
+Praga virtual se espalha com ajuda de spam 13/7/2005
+Autor: JULIANO BARRETO
+Origem do texto: COLABORAÇÃO PARA A FOLHA
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jul 13, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TECNOLOGIA; PC /PERSONAL COMPUTER/; INTERNET; SOFTWARE; PROGRAMA ESPIÃO; E-MAIL /CORREIO ELETRÔNICO/; SPAM; VÍRUS
+Praga virtual se espalha com ajuda de spam
+COLABORAÇÃO PARA A FOLHA
+Na última semana, em menos de 24 horas, um programa espião, do tipo Cavalo de Tróia, gerou 54 mil mensagens indesejadas.
+O alerta foi feito pela empresa de segurança Message Labs (www.messagelabs.com).
+Segundo os especialistas da companhia, que monitora o tráfego de mensagens de correio eletrônico, os usuários receberam e-mails que traziam arquivos executáveis anexos e o assunto "Spam Report".
+Esses arquivos instalavam um programa que enviava spam e vírus para outros computadores. Para enganar os destinatários, os golpistas usaram endereços que começavam com o termo "admin", usado geralmente pelos administradores de redes locais. A rede de zumbis criada pelo programa espião também teria enviado cópias de uma das versões da praga virtual Bagle para milhares de máquinas.
+Ocorrências como essa não são raras. No mês passado, a empresa especializada em segurança Sophos (www.sophos.com) detectou um vírus que funcionava de forma muito semelhante à dos ataques da última semana e que foi batizado como Bobax.A.
+A praga era capaz de enviar cópias de si mesma para outras máquinas e transformá-las em zumbis. Segundo a Sophos, o vírus Bobax.A é uma modificação da praga virtual Sasser.
+(JB)

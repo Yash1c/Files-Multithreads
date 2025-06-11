@@ -1,0 +1,20 @@
+Ligações via micro ganham acessórios 22/6/2005
+Autor: 
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 22, 2005
+Legenda Foto: Tela do vSkype, que permite ver os participantes da conversa
+Crédito Foto: Reprodução
+Vinheta/Chapéu: TELEFONIA IP
+Assuntos Principais: TECNOLOGIA; TELEFONIA; VOIP /VOZ SOBRE PROTOCOLO DE INTERNET/; SKYPE /SOFTWARE/; YAHOO! /EMPRESA/; TVA /EMPRESA/
+Vídeo é uma das opções
+Ligações via micro ganham acessórios
+DA REPORTAGEM LOCAL
+Os serviços de voz sobre IP, que permitem fazer ligações usando o micro, ganharam novas aplicações. O Skype (www.skype.com), mais popular serviço de VoIP da rede, lançou o Skype Voicemail, que permite aos usuários receber mensagens de voz quando estiverem desconectados, como numa caixa postal. É possível mandar mensagens gravadas mesmo para quem não é assinante do programa. A taxa trimestral fica em torno de US$ 7.
+Outra novidade é a versão de testes do programa vSkype (www.vskype.com), pelo qual o internauta pode ver a pessoa com quem está conversando, por meio de imagens transmitidas por webcams. Pode-se ainda compartilhar fotos e documentos e reunir grupos de até 200 participantes. As próximas versões do aplicativo, segundo a empresa, deverão conter lousa eletrônica e ferramentas de gravação.
+O Yahoo! também parece estar se preparando para entrar no mercado de VoIP. A empresa acaba de adquirir a DialPad Communications, que desenvolve softwares para conversas via computador, e deve anunciar novidades dentro de um mês.
+VoIP por assinatura
+Quem assina o serviço de TV a cabo da TVA ou o serviço de internet por banda larga Ajato terá também a opção de assinar o serviço de voz sobre IP da empresa, o TVA Voz (www.tvavoz.com.br).
+Um adaptador converte o telefone comum em um terminal IP. Para isso, é preciso ter um modem ligado a uma conexão de banda larga (de qualquer provedor) e plugá-lo no adaptador. Do adaptador, saem dois cabos: um para ser ligado ao computador e outro para ser ligado ao aparelho de telefone convencional. Segundo a empresa, o próprio usuário pode fazer a instalação.
+O custo de ligação para outros telefones cadastrados pelo serviço é zero. Para os telefones comuns, desprovidos do sistema VoIP, há uma tabela de tarifas. O custo de uma ligação local para telefone fixo em São Paulo é de R$ 0,17 por minuto e para celular é de R$ 0,58.
+Além das tarifas, o usuário deve pagar uma mensalidade de R$ 35. Assinantes do Ajato estão dispensados dessa cobrança e assinantes da TVA têm desconto.

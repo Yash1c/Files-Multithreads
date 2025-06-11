@@ -1,0 +1,12 @@
+Capture e grave telas e menus de programas 29/6/2005
+Autor: JOSÉ ANTONIO RAMALHO
+Editoria: INFORMÁTICA Página: F4
+Edição: São Paulo Jun 29, 2005
+Seção: CANAL ABERTO
+Capture e grave telas e menus de programas
+"Onde posso encontrar um programa capaz de capturar telas, menus e submenus de outros programas para serem publicados em apostilas?"
+(Anastase Potaris)
+Resposta - Nos sites de download, na categoria Utilitários, você encontrará diversos programas que realizam essa tarefa. Muitos deles capturam não só a tela ou partes dela mas também as saídas de impressora. Se você estiver criando uma apostila, esse recurso é interessante, pois permite capturar amostras de relatórios que seriam impressos pelo programa.
+Um dos programas mais versáteis para essa tarefa é o Snag-it. Atualmente, ele se encontra na versão 7.2, sob regime de avaliação, e funciona irrestritamente por 30 dias. Depois disso, é preciso comprar a licença do produto, que custa US$ 39,95. Ele é, sem dúvida, o mais completo programa de captura do mercado. Mas, se você não quiser ou não puder gastar essa quantia, pode obter na rede uma versão mais antiga desse programa. A versão 4, por exemplo, funciona por tempo ilimitado. Ela possui alguns recursos a menos, porém é igualmente funcional para as tarefas solicitadas, como a captura de menus.
+Como alternativa, você pode experimentar o Solid Capture, no site www.solidcapture.com. Ele funciona por 30 dias e seu custo de registro é de US$ 29,95.
+Dois programas freeware que também podem ser úteis são o Captura 1.0, que pode ser obtido no site www.hernansoft.com, e o Capscreen 1.0, disponível no site www.vbmaster.cjb.net. Embora menos poderosos que o Snag-it, também podem servir.

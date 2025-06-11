@@ -1,0 +1,12 @@
+Sucessor do Windows promete função de blog 11/5/2005
+Autor: 
+Origem do texto: DA REDAÇÃO
+Editoria: INFORMÁTICA Página: F5
+Edição: São Paulo May 11, 2005
+Assuntos Principais: TECNOLOGIA; WINDOWS XP /SISTEMA OPERACIONAL/; LONGHORN /SISTEMA OPERACIONAL/; BLOG
+Sucessor do Windows promete função de blog
+DA REDAÇÃO
+O Longhorn, sistema operacional que sucederá, em 2006, o Windows XP, foi alvo de especulações que coincidiram com o lançamento do OS X 10.4.
+Segundo o site www.microsoft-watch.com, a empresa de Bill Gates convocou dez pesquisadores para trabalhar no programa. O detalhe é que esse grupo, que antes desenvolvia tecnologias de interação social, como weblogs (diários virtuais), agora vai aperfeiçoar a interface gráfica do Longhorn. Para alguns analistas, isso significa que o sistema trará embutidas ferramentas para criar e editar blogs.
+De acordo com o www.vnunet.com/news/1162710, a tecnologia Palladium, que foi rebatizada de NGSCB (Next Generation Secure Computing Base) e serve, entre outras coisas, para dificultar que vírus, arquivos e softwares pirateados sejam executados no computador, não estará presente no Longhorn. O sistema trará apenas uma tecnologia simplificada, que se chama Secure Startup e só oferece proteção em casos de roubo de laptops.
+Outra suposta novidade do Longhorn está no disco rígido. A Samsung criou, em parceria com a Microsoft, discos que possuem memória flash (similar à usada em máquinas fotográficas digitais). Como a memória flash não tem partes móveis, sua adoção economiza energia _algo importante para notebooks.

@@ -1,0 +1,21 @@
+AMD lança chip duplo, mas só para servidores 4/5/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo May 4, 2005
+Legenda Foto: Versão dual core do processador Opteron, que opera a 64 bits
+Crédito Foto: Divulgação
+Assuntos Principais: TECNOLOGIA; AMD /EMPRESA/; ATHLON 64X2 /PROCESSADOR/; RECURSO
+AMD lança chip duplo, mas só para servidores
+DA REPORTAGEM LOCAL
+A fabricante de processadores AMD lançou, na semana passada, seu primeiro processador do tipo dual core.
+Os chips dual core têm dois núcleos de processamento, o que pode torná-los mais rápidos em situações de multitarefa _quando há muitos softwares ativos ao mesmo tempo. A AMD lançou uma versão dual core do Opteron, processador que se destina a servidores e estações de trabalho.
+O Athlon 64 X2, que é o produto dois-em-um para micros comuns, tem a chegada esperada para junho.
+A Intel já possui dois chips dual core para PCs comuns, o Pentium D e o Pentium Extreme Edition. Os modelos da AMD prometem uma vantagem: a comunicação direta entre os dois núcleos de processamento.
+No Pentium, ela não existe, ou seja, os dados precisam passar pelo barramento frontal _principal via de comunicação entre o chip e o resto do micro_, o que interfere na performance.
+Tanto os chips da AMD quanto os da Intel têm freqüência de comutação (taxa de clock) inferior a de seus antecessores. A redução é necessária por vários motivos, entre eles evitar superaquecimentos.
+O Pentium dual core chega a 3,2 GHz, contra 3,8 GHz da versão single core. A AMD admite que também existe queda no Athlon 64 X2, tanto que deverá lançar pelo menos mais um chip single core de alta performance, o Athlon FX-57, de 2,8 GHz.
+A IBM, que fornece os chips usados no Power Mac G5, da Apple, já fabrica processadores dual core, mas eles não se destinam a computadores pessoais.
+Novo Windows
+Também na semana passada, a Microsoft lançou o sistema operacional Windows de 64 bits. Os novos processadores são compatíveis com ele, pois trabalham a 32 e 64 bits. O problema é que, embora os chips de 64 bits não sejam novidade _o Athlon 64 chegou ao mercado há dois anos_, ainda existem muito poucos programas adaptados para tirar total proveito deles. Outra barreira é que a eventual conversão dos programas atuais, de 32 bits, enfrenta a concorrência da tecnologia dual core nas atenções dos produtores de software.
+(BG)

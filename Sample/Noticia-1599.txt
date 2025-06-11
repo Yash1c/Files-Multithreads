@@ -1,0 +1,15 @@
+TVA e Yahoo! dispõem de planos 21/9/2005
+Autor: MARIANA BARROS
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Sep 21, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: TELECOMUNICAÇÃO; TELEFONIA; INTERNET; VOIP /TECNOLOGIA/; TELEFONE; ACESSÓRIO; CONEXÃO; SERVIÇO; TVA /EMPRESA/; YAHOO! /SITE/; PLANO; RECURSO; INSTALAÇÃO
+TVA e Yahoo! dispõem de planos
+DA REPORTAGEM LOCAL
+O Yahoo! e a operadora de TV por assinatura TVA também oferecem pacotes para ligar via VoIP. Com parcerias formadas com as operadoras Hip Telecom e Primeira Escolha, respectivamente, eles oferecem créditos pré-pagos e dispõem de recursos como conferências, identificador e bloqueio de chamadas e caixa postal.
+Nos testes realizados pela reportagem, foram feitas ligações interurbanas, internacionais e para celulares. A qualidade da voz é boa, embora o som chegue com um atraso mínimo _imperceptível, a não que você esteja cara a cara com o outro usuário. As ligações demoram mais para serem completadas, mas não houve ecos nem interferências.
+Faça você mesmo
+As empresas afirmam que o próprio usuário pode fazer a instalação (a visita de um técnico é cobrada à parte). As instruções dos manuais permitem que a tarefa seja executada por leigos.
+Com o PC desligado, desplugue o cabo de banda larga do modem e ligue-o na porta WAN do adaptador. Na saída do modem, antes ocupada pelo cabo de banda larga, ligue o cabo de rede (RJ-45), fornecido no kit da operadora. A outra extremidade desse cabo deve ser ligada na porta LAN do adaptador. Conecte o cabo telefônico (RJ-11), também incluso no kit, à porta Phone 1 do adaptador e a um telefone comum. Ligue os cabos de alimentação do modem e do adaptador e aguarde a conclusão do download dos arquivos de configuração. 
+(MB)

@@ -1,0 +1,25 @@
+Pesquisa descobre neurônio 'Halle Berry' 23/6/2005
+Autor: REINALDO JOSÉ LOPES
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: CIÊNCIA Página: A16
+Edição: São Paulo Jun 23, 2005
+Legenda Foto: A atriz americana Halle Berry vestida como Mulher-Gato, em filme homônimo lançado em 2004
+Crédito Foto: Divulgação
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: NEUROCIÊNCIA
+Assuntos Principais: NEUROCIÊNCIA; NEURÔNIO; MEMÓRIA; FISIONOMIA; PESQUISA; ESTUDO;  CALTECH /INSTITUTO DE TECNOLOGIA DA CALIFÓRNIA/; EUA
+Célula do cérebro parece responder a só uma pessoa ou um lugar; achado muda compreensão da memória
+Pesquisa descobre neurônio 'Halle Berry'
+REINALDO JOSÉ LOPES
+DA REPORTAGEM LOCAL
+Os neurocientistas costumavam debochar da idéia de que células individuais do cérebro poderiam servir para lembrar uma única pessoa _haveria um "neurônio da vovó", por exemplo. Parece que a piada se voltou contra eles: um estudo publicado hoje sugere que células nervosas isoladas "se lembram" especificamente de pessoas ou lugares individuais.
+De brincadeira, alguém poderia dizer que os cientistas trapacearam. As pessoas que têm um neurônio dedicado a elas são, digamos, bem mais interessantes que a vovozinha, ao menos do ponto de vista masculino: as beldades americanas Halle Berry (a última Mulher-Gato do cinema) e Jennifer Aniston (da série de TV "Friends"). Mas o fenômeno também valeu para o ex-presidente dos Estados Unidos, Bill Clinton, e para lugares icônicos, como a Torre de Pisa, na Itália.
+O trabalho, coordenado por Christoph Koch, do Caltech (Instituto de Tecnologia da Califórnia) e publicado na edição de hoje da revista científica "Nature" (www.nature.com), parece ser o golpe de morte na idéia de que são necessárias imensas redes de células nervosas para armazenar informações sobre um único rosto ou lugar. "A visão tradicional dizia que os neurônios individuais eram meros interruptores ou relês. O que nós estamos descobrindo é que cada um deles é capaz de funcionar como um computador sofisticado", disse Koch em comunicado oficial.
+Eletrodos na cabeça
+As descobertas só se tornaram possíveis graças à ajuda de oito pacientes com epilepsia grave (três homens e cinco mulheres) que precisaram receber eletrodos no cérebro. A idéia era encontrar a fonte dos ataques epilépticos no órgão, mas nada impedia que as engenhocas medissem também a atividade de neurônios individuais. No caso, a equipe estava só seguindo uma linha de pesquisa que já tinha dado frutos antes.
+"Num estudo anterior, eles tinham mostrado que certos neurônios respondiam a algumas classes de objetos [pessoas, lugares etc.]", contou à Folha Charles Connor, do Departamento de Neurociência da Universidade Johns Hopkins (EUA), que comentou o estudo para a "Nature".
+Os eletrodos foram parar no lobo medial temporal, área do cérebro repleta de estruturas ligadas ao armazenamento e consolidação da memória, como o hipocampo. Os pacientes eram monitorados enquanto observavam uma série de fotografias de pessoas, lugares e animais. Para manter os doentes concentrados, os cientistas pediam que eles apertassem um botão toda vez que a imagem fosse de uma pessoa.
+Quando os dados da atividade neuronal foram analisados, o grupo percebeu que uma determinada célula só se assanhava diante das imagens de um único lugar ou pessoa. Um neurônio do hipocampo posterior esquerdo de um dos pacientes aumentava sua atividade diante de fotos de Jennifer Aniston, mas ficava quietinho quando a atriz aparecia abraçada com o ex-marido, Brad Pitt.
+Já outra pessoa tinha uma célula nervosa tão interessada em Halle Berry que respondia inclusive a caricaturas da atriz e ao seu nome escrito, mas não a outras atrizes fantasiadas de Mulher-Gato.
+Por mais impressionantes que os achados sejam, ainda é cedo para concluir que a fórmula "uma memória, um neurônio" seja literalmente válida. "Esses resultados não significam que um dado objeto seja representado por uma única célula. Se fosse assim, a memória ficaria vulnerável a falhas catastróficas específicas [se a célula morresse], e é claro que não há evidências disso. Ninguém perde de repente a capacidade de conceitualizar Jennifer Aniston", brinca Connor. Deve haver algum tipo de redundância, embora ela provavelmente aconteça num nível muito menor do que todo mundo andava imaginando.
+Um dos exemplos dessa redundância seria o fato de que um dos neurônios estudados dava pulos de interesse tanto diante de Aniston quanto da atriz Lisa Kudrow, sua colega em "Friends". Seja como for, estudar neurônios isolados nunca pareceu tão promissor.

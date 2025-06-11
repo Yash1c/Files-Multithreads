@@ -1,0 +1,27 @@
+Sistema reaproveita rede elétrica existente 10/8/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F3
+Edição: São Paulo Aug 10, 2005
+Legenda Foto: Adaptador PLC da marca WiPlug, vendido por R$ 417 (www.wiplug.com.br)
+Crédito Foto: Divulgação
+Observações: COM SUB-RETRANCA
+Vinheta/Chapéu: NOS CAMINHOS DA LUZ
+Assuntos Principais: INTERNET; CONEXÃO; REDE ELÉTRICA; TECNOLOGIA; PLC /POWER LINE CONNECTION/
+Diferença de freqüência entre a corrente de energia e o sinal de dados viabiliza compartilhamento do fio
+Sistema reaproveita rede elétrica existente
+BRUNO GARATTONI
+DA REPORTAGEM LOCAL
+Tecnologicamente, o sistema PLC é uma proeza. Ele reaproveita uma rede que já existe, a de energia elétrica, para transmitir dados digitalmente, ou seja, poderia tornar dispensáveis todas as ligações de telefone, internet e TV a cabo que atualmente você tem na sua casa. Em vez de assinar três ou até quatro serviços, você pagaria apenas uma conta no fim do mês, e provavelmente gastaria menos. Além disso, o PLC poderia tornar mais viável levar infra-estrutura de telecomunicações a regiões com poucos recursos.
+O funcionamento básico do sistema é relativamente simples: o modem PLC pega os dados que saem da placa de rede do computador e os usa para modular (grosso modo, moldar) a corrente elétrica. Quando os dados chegam na outra ponta da rede PLC, são demodulados, ou seja, retransformados numa seqüência de pacotes digitais.
+Os modems telefônicos funcionam de maneira similar. O próprio termo modem, aliás, é resultado da união das palavras modulador e demodulador.
+Mas, no PLC, como é possível trafegar dados pela rede elétrica sem interferir com o fluxo de energia? O "truque" usado é similar ao empregado na tecnologia ADSL, que permite transmitir dados pela linha telefônica sem afetar seu uso para chamadas de voz _o sinal padrão e o sinal de dados têm freqüências diferentes.
+Convivência de sinais
+Quer dizer: enquanto a energia elétrica oscila a 60 Hz, o PLC opera com freqüências que ficam numa faixa muito mais alta, entre 4 e 29 MHz. O chip que controla o modem PLC verifica o nível de ruído na linha elétrica e distribui, automaticamente, o fluxo de dados pelas freqüências menos sujeitas a interferência.
+Para aumentar a velocidade de transmissão, o sinal digital ocupa várias freqüências ao mesmo tempo, ou seja, os dados são fracionados e vários pedaços são enviados (ou recebidos) simultaneamente pela rede.
+Para que o PLC funcione, a rede elétrica precisa estar habilitada, ou seja, a companhia de luz precisa instalar adaptadores, conhecidos como Master PLCs, a no máximo 1,5 km de cada ponto de distribuição de energia. Para navegar na internet, não basta que cada usuário instale um modem PLC.
+Por outro lado, é possível usar adaptadores PLC por conta própria para montar uma rede interna dentro de uma casa ou de um escritório _leia texto abaixo.
+No Brasil, ao menos, a tecnologia não é encarada como alternativa 100% auto-suficiente às redes de telecomunicações tradicionais: nos principais projetos já desenvolvidos no país (leia texto na pág. F2), o sistema PLC foi acoplado a outras tecnologias de transmissão, como cable modem, satélite e fibra óptica.
+Isso significa que, ao chegar a determinado ponto da rede elétrica, o sinal digital é convertido para encaminhamento por outra via de dados.
+Vale lembrar, também, o seguinte. Seja qual for o sistema de conexão instalado na sua casa, ele não compreende todo o percurso que os dados têm de trilhar entre você e a internet. Eles ainda percorrem várias outras sub-redes, pertencentes a provedores de acesso e telecomunicações e aos próprios donos dos sites e computadores acessados. Esse percurso, que influi decisivamente na velocidade real da navegação, independe do tipo de banda larga instalado na sua residência. 
+(BG)

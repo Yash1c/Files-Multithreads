@@ -1,0 +1,22 @@
+Ajustes vencem a teimosia do Windows 1/6/2005
+Autor: BRUNO GARATTONI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Jun 1, 2005
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: IRRITAÇÕES
+Assuntos Principais: COMPUTADOR; WINDOWS XP /SISTEMA OPERACIONAL/; DICA; CONFIGURAÇÃO; AUTOMATIZAÇÃO; MENSAGEM; SOFTWARE; PROGRAMA
+Configurações eliminam incômodos repetitivos, como janelas de tamanho errado ou conflito entre programas
+Ajustes vencem a teimosia do Windows
+BRUNO GARATTONI
+DA REPORTAGEM LOCAL
+A operação do Windows XP traz situações em que o computador se comporta com teimosia. Quem nunca se flagrou "lutando" contra o sistema operacional, que se recusa a exibir pastas e arquivos do jeito desejado, exibe mensagens de erro desnecessárias ou tenta se conectar à internet em momentos impróprios? Com alguns ajustes, o Windows pode ser domado, ou seja, configurado para funcionar da maneira que você deseja.
+Um exemplo é o tamanho das janelas exibidas na tela. O que fazer, por exemplo, quando um programa se recusa a abrir ocupando toda a área útil do monitor? Maximizá-lo manualmente, clicando na diagonal superior direita da janela, todas as vezes em que você acionar aquele software? Existe uma solução melhor, porque definitiva.
+Clique com o botão direito do mouse no atalho do programa rebelde e selecione a opção Propriedades. Na janela exibida, basta escolher a opção Maximizado no campo Executar.
+Outro caso de teimosia vencível está no Relatório de erros. Quando um software trava, o Windows pede ao usuário permissão para mandar um minidossiê técnico ao fabricante daquele software. Mas, para quem já está nervoso com o travamento, o pedido pode ser a gota d'água _mesmo se você quiser ignorá-lo, é forçado a clicar numa mensagem de erro.
+É possível eliminar permanentemente esse pedido. Clique com o botão direito no ícone Meu computador e escolha Propriedades. Abra a guia Avançado, aperte o botão Relatório de erros e selecione a opção Desativar. Aproveite para desmarcar o item Notificar-me quando ocorrerem erros críticos, que é dispensável.
+Esse ajuste não impede que os softwares travem, mas pelo menos evita que o Windows atrapalhe ainda mais o seu trabalho com mensagens a respeito.
+A instalação de vários programas capazes de abrir um determinado tipo de arquivo _músicas no formato MP3 ou textos no formato DOC, por exemplo_ pode causar problemas. Os softwares brigam entre si para decidir qual deles será acionado quando o usuário abrir arquivos daquele tipo, mas nem sempre o vencedor da disputa é o programa que você efetivamente deseja usar. A questão pode ser resolvida com uma configuração manual (veja essa e outras dicas no quadro ao lado).
+Também é possível determinar quais serão o navegador, o software de correio e o tocador multimídia adotados como padrão pelo Windows. Para fazer isso, clique em Iniciar, Configurações e Painel de controle, abra o item Adicionar ou remover programas e aperte o botão Definir acesso.
+Quando você tem vários programas abertos e um deles exibe uma mensagem, ela automaticamente se sobrepõe, na tela, aos demais, o que pode ser enervante. Por exemplo: o navegador pode interromper, sem necessidade, a digitação de um texto.
+A Microsoft fornece um acessório para evitar que os programas "roubem" o foco do sistema operacional. É o Tweak UI (www.microsoft.com/windowsxp/downloads/powertoys/xppowertoys.mspx). Depois de instalar esse soft, abra-o e clique duas vezes em General. Selecione Focus e marque o item Prevent applications from stealing focus.

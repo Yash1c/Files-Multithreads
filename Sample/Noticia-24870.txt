@@ -1,0 +1,31 @@
+PERDA DE IDENTIDADE É A MAIOR AMEAÇA 29/5/2005
+Autor: ÉRICA FRAGA
+Origem do texto: DE LONDRES
+Editoria: MAIS! Página: 4-5
+Edição: São Paulo May 29, 2005
+Observações: SUB-RETRANCA; ENTREVISTA
+Assuntos Principais: REINO UNIDO; INFORMÁTICA; SYMANTEC /EMPRESA/; INTERNET; SEGURANÇA; ABRIGO NUCLEAR; TECNOLOGIA; HACKER; FRAUDE; JEFF OGDEN
+PERDA DE IDENTIDADE É A MAIOR AMEAÇA 
+DE LONDRES 
+Para o diretor da área de serviços de segurança da Symantec, Jeff Ogden, a tendência é que o número de crimes pela internet cresça. "A velocidade do ataque está fazendo a capacidade de defesa cada vez mais e mais difícil. E há muita exploração das 'fraquezas' humanas", ele diz. "Há uma população enorme de pessoas lá fora que serão pegas."
+A mesma tecnologia que protege empresas de ataques externos pode servir para diminuir a privacidade dos usuários. Sua empresa, afirma Ogden, é capaz de vigiar e controlar o uso da internet por funcionários de seus clientes. Leia a seguir, trechos da entrevista. 
+(EF)
+* 
+Folha - Qual é o potencial de perigo da internet hoje?
+Jeff Ogden - No passado, um vírus surgia e levaria meses e meses, até mais de um ano, para ter impacto sobre a rede de um cliente. Hoje, eles levam minutos ou segundos, por causa da forma como a internet é conectada. Alguns anos atrás, chegamos a uma situação em que todos os sistemas velhos construídos não tinham mais a capacidade de responder mais rapidamente do que o vírus que os estava atacando.
+Folha - A tecnologia sempre vem atrás das novas ameaças?
+Ogden - Em geral, sim. Nós reagimos à medida que novas ameaças vão surgindo. Mas, às vezes, analisando tendências e dados históricos, conseguimos ver algo que está por vir e nos antecipar.
+Folha - Além de proteger as empresas de perigos externos, vocês podem monitorar também determinadas atividades dos funcionários? Ver se estão, por exemplo, acessando conteúdo na internet que a empresa proíba?
+Ogden - Sim. Depende de qual é a política da empresa, se a empresa quer verificar o que fazem seus empregados ou não. Se a empresa quiser, por exemplo, saber se tem alguém saindo do "firewall" (mecanismo instalado numa rede para protegê-la) e fazendo algo na internet, podemos informá-la desse tipo de coisa.
+Folha - Vocês podem, a pedido da empresa, monitorar e-mails?
+Ogden - Não temos permissão, por conta de leis de privacidade de informações vigentes na Europa e outras partes do mundo, para olhar o conteúdo de e-mails. O que podemos fazer é dar essa informação de volta para o cliente, e ele a usa da forma como quiser. Outra coisa que podemos fazer é impedir que você envie e-mails com determinadas frases ou palavras.
+Recentemente, tivemos um caso do principal executivo de uma empresa que tinha feito um rascunho de uma apresentação e, como ele não sabia os números do retorno financeiro que tinha de colocar na mesma, escreveu vários x no lugar. Essa apresentação não saiu pelo sistema de e-mail porque tinha xxx, que é um site pornográfico restrito. Por causa dos termos que ele usou na apresentação, aquela informação foi bloqueada e não pôde sair.
+Folha - O que tem mudado em termos de tendências de ameaça na internet?
+Ogden - Estamos vendo tipos diferentes de ameaças que estão indo e vindo. O spam continua sendo uma ameaça, embora, vagarosamente, estejamos conseguindo controlá-lo. Seis meses atrás, "botnets" eram um grande assunto. Mas o número de máquinas infectadas começa a cair.
+Folha - Qual é o grande risco hoje?
+Ogden - Acho que a grande coisa que estamos vendo é que a motivação vem mudando. A grande tendência que vemos são formas de roubo de identidade pessoal e o fato de que você está tentando roubar informação pessoal do computador das pessoas. "Phishing", por exemplo, é uma grande área nova.
+Uma das coisas interessantes é que, na verdade, perder os detalhes do seu cartão de crédito é menos importante, hoje em dia, do que perder sua identidade. Porque, se você perdeu seu cartão de crédito e tem um limite de, digamos, 3.000 libras [R$ 13,3 mil], pode ser que perca as 3.000 libras, mas o banco vai impedir que você perca mais que isso, pois atingiu seu limite. Perder sua identidade, por outro lado, pode trazer prejuízo ilimitado. Se você pode roubar identidades, pode roubar dinheiro.
+Folha - As ameaças que existem hoje tendem a continuar ocorrendo?
+Ogden - Esse tipo de tecnologia continuará a ser usado, mirando organizações particulares e fraudes específicas. A velocidade do ataque está fazendo a capacidade de defesa cada vez mais e mais difícil. E há muita exploração das "fraquezas" humanas. Portanto, engenharia social e roubo de identidade também tendem a continuar crescendo. Há uma população enorme de pessoas lá fora que serão pegas.
+Folha - É impossível derrotar o "mal" da internet, então?
+Ogden - Acho que os ataques por códigos maliciosos na internet continuarão existindo; portanto, os crimes na rede também. É como o crime nas ruas de uma grande cidade.

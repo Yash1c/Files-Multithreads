@@ -1,0 +1,16 @@
++ webglossário 29/5/2005
+Autor: 
+Editoria: MAIS! Página: 6
+Edição: São Paulo May 29, 2005
+Observações: SUB-RETRANCA
+Assuntos Principais: INFORMÁTICA; INTERNET; TERRORISMO; FRAUDE; CRIME; SEGURANÇA; TECNOLOGIA; REGULAMENTAÇÃO
++ webglossário 
+Spam - E-mail indesejado, muitas vezes com conteúdo publicitário, enviado sem a solicitação do destinatário 
+  
+Botnet - Rede de bots: programas com código malicioso que executam operações sem intervenção do usuário 
+  
+Phishing - Fraude virtual destinada a roubar dados confidenciais, como senhas bancárias, falsificando as páginas de acesso 
+  
+Códigos maliciosos - Programas disseminados pela internet que se instalam no computador do usuário sem a sua autorização e cujas funções podem ser espionar indevidamente, roubar dados confidenciais e/ou prejudicar o desempenho do micro 
+  
+Cavalo-de-tróia - Programa nocivo utilizado por hackers para invadir computadores. Ao contrário dos vírus, não se dissemina automaticamente, mas vem geralmente em um arquivo anexado por e-mail

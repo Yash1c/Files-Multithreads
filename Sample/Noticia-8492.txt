@@ -1,0 +1,30 @@
+Após resistir, teles aderem às chamadas via internet 18/9/2005
+Autor: SANDRA BALBI
+Origem do texto: DA REPORTAGEM LOCAL
+Editoria: DINHEIRO Página: B4
+Edição: São Paulo Sep 18, 2005
+Arte: QUADRO: O BALANÇO FINANCEIRO DAS TELES
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: NOVA ECONOMIA
+Assuntos Principais: TELECOMUNICAÇÕES; TELEFONIA; TECNOLOGIA; VOIP /VOICE OVER INTERNET PROTOCOL/; TRANSMISSÃO; SKYPE /PROGRAMA/
+Empresas vão oferecer a tecnologia aos clientes residenciais
+Após resistir, teles aderem às chamadas via internet
+SANDRA BALBI
+DA REPORTAGEM LOCAL
+Depois de torcer o nariz e tentar ignorar, no primeiro momento, a tecnologia de transmissão de voz via internet, ou VoIP (Voicer over Internet Protocol), as operadoras de telefonia fixa brasileiras buscam, agora, recuperar o tempo perdido. Elas se preparam para oferecer a nova tecnologia aos clientes residenciais e conquistar posições num mercado que vem sendo ocupado por pequenas operadoras, provedores de internet e empresas de TV a cabo.
+As ligações telefônicas via internet são a última fronteira da tecnologia da comunicação e tornaram o Skype _comprado na última segunda-feira pelo eBay, por US$ 2,6 bilhões_ o programa mais usado para ligações via computador.
+As quatro grandes concessionárias dos serviços de telecomunicações _Telefônica, Telemar, Brasil Telecom e Embratel_ reconhecem que a nova tecnologia VoIP é um caminho sem volta. E pelo menos duas delas _Telefônica e Brasil Telecom_ têm prontos novos produtos que permitirão ao cidadão comum falar de casa com o resto do mundo, via internet. E a um custo muito inferior ao das ligações interurbanas e internacionais.
+"Já temos um produto pronto para o mercado residencial, testado desde o final de maio. Estamos aguardando o momento adequado para disponibilizá-lo", diz Ricardo Couto, diretor de marketing da Brasil Telecom.
+Já a Telefônica informou que está desenvolvendo tecnologia para atender o usuário residencial, mas com a mesma qualidade da telefonia fixa. A solução estudada pela operadora é oferecer acesso à rede de voz por protocolo de internet privada da companhia. Segundo a empresa, essa é uma tecnologia que poderá estar disponível no ano que vem.
+O usuário não vai perceber a mudança: ele levantará o fone do gancho, discará os oito dígitos e sua ligação cairá na rede IP da Telefônica. Atualmente, a empresa já usa essa rede para completar as ligações internacionais feitas por seus clientes.
+A condição para as operadoras entrarem nesse segmento, entretanto, é expandir suas redes de internet rápida, por banda larga, por onde deverão trafegar as ligações telefônicas de longa e média distância (DDD e DDI). "Nossa estratégia para o VoIP residencial é totalmente atrelada à expansão do nosso serviço de banda larga", diz Couto.
+O Turbo, serviço de banda larga da Brasil Telecom, tem hoje 800 mil clientes, segundo ele. "O VoIP virá complementar nossa estrutura de banda larga", acrescenta. Já o Speedy, da Telefônica, completou em julho 1 milhão de assinantes. A meta da empresa é fechar o ano com 1,25 milhão de assinantes na banda larga.
+"Todas as operadoras estão correndo para conseguir o máximo de adesão de clientes de internet banda larga", diz Valder Nogueira, analista de telecomunicações do Santander Banespa. Segundo ele, hoje só 8% das linhas das companhias telefônicas possuem conexão em banda larga. "A penetração no mercado residencial é muito baixa; esse é o calcanhar do VoIP", diz Nogueira.
+Estagnação
+Depois de viverem um surto de crescimento pós-privatização, quando tiveram de cumprir metas de universalização dos serviços de telefonia fixa, há três anos as operadoras vêm enfrentando um decréscimo de sua base de usuários e uma estagnação dos serviços tradicionais de transmissão de voz, segundo Petrônio Nogueira, sócio da área de Communications, Media e High Tecnology da Accenture.
+Elas perderam receitas com a redução de 90% dos preços das tarifas de interurbano, desde a privatização, em 1998, até hoje. Além disso, "houve uma transferência do volume do tráfego de voz da telefonia fixa para a móvel e para outros meios via banda larga, como o messenger. Mais recentemente, perderam tráfego para as operadoras virtuais que oferecem o VoIP", diz Nogueira.
+Os balanços dos primeiros semestres das quatro grandes operadoras mostram que suas receitas cresceram desde 1999 até 2002. A partir de 2003, todas tiveram queda de receita (veja quadro).
+Para fazer frente à estagnação e à queda do faturamento, as operadoras de telefonia fixa passaram a ampliar sua base de serviços, provendo os clientes com a transmissão de dados e vídeo, além de voz, diz Nogueira.
+Nos últimos dois anos, essas empresas começaram a oferecer aos clientes corporativos pacotes de serviços que incluem a transmissão de voz com a tecnologia VoIP. A Telemar, por exemplo, oferece desde o início deste ano algumas soluções de telefonia IP (Internet Protocolo) aos seus clientes corporativos. A companhia compra equipamentos de PABX com tecnologia IP e os aluga a grandes empresas.
+"Com isso, o cliente economiza no cabeamento para fazer ligações ramal a ramal e reduz suas despesas nas chamadas de longa distância", diz Franz Braga, gerente de marketing corporativo da Telemar. Dentro de 60 dias, ela vai disponibilizar o telefone IP aos clientes corporativos que sejam assinantes do Velox, seu serviço de banda larga.
+Já a Embratel leva a nova tecnologia aos clientes corporativos desde 2001. Atualmente, ela oferece soluções "triple play" _pacotes multiserviços. Exemplo disso é a rede que está implantando para o Boticário, que cobrirá 2.300 franqueados da empresa. "Serão fornecidos serviços de transmissão de dados, voz e imagem", diz Maurício Vergani, diretor da área corporativa da Embratel.

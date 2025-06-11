@@ -1,0 +1,27 @@
+Acesso pela rede elétrica é rápido e barato 10/8/2005
+Autor: IURI DANTAS
+Origem do texto: DE WASHINGTON
+Editoria: INFORMÁTICA Página: F2
+Edição: São Paulo Aug 10, 2005
+Legenda Foto: Sala de informática de conjunto habitacional com tecnologia PLC, em São Paulo; funcionário de escola no Rio mostra adaptadores especiais
+Crédito Foto: Matuiti Mayezo/Folha Imagem; Ana Carolina Fernandes/Folha Imagem
+Observações: COM SUB-RETRANCAS
+Vinheta/Chapéu: NOS CAMINHOS DA LUZ
+Assuntos Principais: INTERNET; CONEXÃO; REDE ELÉTRICA; TECNOLOGIA; PLC /POWER LINE CONNECTION/
+Empresas dos EUA discutem entrada no mercado brasileiro para oferecer internet de alta velocidade
+Acesso pela rede elétrica é rápido e barato
+IURI DANTAS
+DE WASHINGTON
+Os moradores da cidade de São Paulo podem vir a ter mais uma modalidade de acesso rápido à internet. Desde o início do ano, a Eletropaulo está negociando com empresas norte-americanas a oferta de conexão utilizando a rede elétrica. Essa tecnologia, que se chama PLC (leia texto na pág. F3), já é usada nos Estados Unidos, embora sem a enorme adesão vista nos outros serviços, especialmente cable modem e ADSL.
+Segundo a Folha apurou, algumas empresas estão prontas para iniciar o negócio, mas ainda há questões técnicas a resolver com a Eletropaulo.
+A modalidade de acesso que utiliza energia elétrica costuma ser de 5% a 10% mais barata que os demais serviços de conexão.
+O modelo pode servir como alternativa econômica para programas de acesso implementados pelo governo. Duas empresas procuradas pela Folha, na semana passada, não quiseram confirmar negociações com o Palácio dos Bandeirantes ou com o Planalto, mas não descartaram futuras parcerias com o poder público.
+As empresas envolvidas com a tecnologia dizem que a velocidade de acesso aumenta dos atuais 3 Mbps a 5 Mbps, da banda larga convencional, para uma variação de 2 Mbps a 6 Mbps. O sistema consome pouca energia, ou seja, não provoca aumento significativo no gasto de força elétrica.
+Funcionamento
+Existem dois tipos de adaptador: um na origem do serviço de internet, que une na rede de baixa voltagem os sinais elétricos e de dados. Na outra ponta, um roteador transforma o sinal recebido pela rede elétrica novamente em dados, que podem ser repassados aos consumidores via tomada ou por acesso sem fio.
+Como a tecnologia é razoavelmente nova, a estratégia das grandes empresas nos EUA tem sido convencer prefeitos a permitir experiências em larga escala. Em Cincinatti, no Estado de Ohio, e na capital Washington há iniciativas desse tipo.
+De posse dos resultados físicos e do retorno dado pelos clientes, as empresas buscam novos mercados. No Brasil, ajuda o fato de as empresas de energia ainda passarem por uma recuperação depois do apagão de 2001. Oferecendo o serviço de banda larga, elas receberiam uma porcentagem dos valores das assinaturas.
+Base econômica
+Em linhas gerais, a transmissão de dados pelos fios de cobre da energia elétrica é uma tecnologia antiga, deixada de lado com o início da bolha das empresas pontocom no final da década passada.
+Com previsões exorbitantes de lucro e retorno infinito dos investimentos, grandes empresas direcionaram grandes volumes de recurso para a implantação de redes de fibra óptica ligando os EUA à Europa, América do Sul e Ásia.
+Quando a bolha especulativa explodiu, a imensa infra-estrutura continuou disponível, com uma diferença de preço considerável. Logo, tornava-se lógico incentivar o uso de banda larga por consumidores domésticos e empresariais, ao mesmo tempo em que se vendia para Índia, China e outros países do sudeste asiático a possibilidade de acesso muito mais barato. Daí a atual integração tecnológica desses países com empresas norte-americanas.
